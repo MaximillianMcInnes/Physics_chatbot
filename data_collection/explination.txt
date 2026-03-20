@@ -1,0 +1,22 @@
+In this i have broken my code in to different sections i will explain the steps and my thinking here:
+
+1. Ok we need all the text from savemyexams, i don't have premuim account so this might be difficult. Initally i beleive they have an IP based way of blocking IP's but this was wrong i believe it has something to do with tocken caching, This is great there might be some IP problems for too many requrests as they might block web scrappers but if that is an issue we can add some network changes and swap IPs.
+Each fetch will be a unique request so we will be in the clear.
+2. We will also fetch some PMT notes etc.
+3. any others sources i will think of later.
+4. 
+
+
+hyperlinks.py
+This will simply just fetch all the notes to the aqa physics spec so that we can then scrape the raw text in the next file
+this gives a raw vesion of all the hyperlinks and a filtereed one that we wil use
+
+
+fetch_text.py
+all right this basically grab all the relivent text saves the topic tittle as well as grabbing the link which is needed as it will be used by the bot to referance further resources in the future.
+this will also sort them numerically as they come up in the spec this is will not be neededs as we will stick them all within the spec anyways which i will also add
+
+
+
+Grabtext.py
+in this file i have just added some other sooruces such as the spec and the textbook which is also referanced which will also add some 3estra info i have just added the raw pdf which allows for no funny web searches
