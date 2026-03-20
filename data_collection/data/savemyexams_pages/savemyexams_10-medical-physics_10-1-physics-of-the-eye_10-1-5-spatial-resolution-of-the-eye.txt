@@ -1,0 +1,51 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-1-physics-of-the-eye/10-1-5-spatial-resolution-of-the-eye
+HEADING: Spatial Resolution of the Eye ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Spatial Resolution of the Eye Resolution is related to the amount of detail that can be seen in an image The greater the resolution, then the greater the detail A digital camera with a higher resolution can take more detailed photos A person with "better" eyesight can see things with more resolution Low and High-Resolution Images taken with a Digital Camera A low-resolution image will appear blurry whereas a high-resolution image will be clear and contain lots of details Spatial Resolution Spatial Resolution is needed for the eye to be able to see something in detail It is a measure of the eye's ability to form separate images of objects that are close together Through an eye that has poor spatial resolution, two objects close together can look like one big object Two Objects Viewed By an Eye with High and an Eye with Low Spatial Resolution Two objects viewed with a low spatial resolution are seen as one big object but when viewed with a high spatial resolution they are seen as two separate objects The better the spatial resolution the more detail that is seen in an image An image of a wall viewed with a higher spatial resolution has more bricks visible than one viewed with a lower spatial resolution A Brick Wall Viewed with a High and Low Spatial Resolution High spatial resolution means more detail can be seen in an image as the eye can form separate images of each object making up the image The Role of Rods and Cones in Spatial Resolution Small details in an image are best seen: By the rods and cones on the fovea in the centre of vision (and not on the periphery ) in high-intensity light levels By the rods and cones in the peripherals of vision in low-intensity light levels For two details in an image or two objects to be distinguished then: The two sources of light must fall on the retina So that there is at least one unbleached rod and one unbleached cone between them In addition, the rod or cone between the light rays must not share an optic nerve with any of the rods or cones detecting the light If this is not the case then the brain cannot resolve the two rays of light and sees the objects / details as one Worked Example A person looks at two objects placed at different distances apart. A grid of squares represents the image of the objects on the retina. Each white square represents a cone, and each red square represents a stimulated cone detecting light. The cone's representation of the objects in different orientations is shown in pictures 1 and 2 below. Describe the arrangement of the objects that would be seen in each picture. Answer: Picture 1: The two red squares are too close together / not separated by a cone The two objects must be interpreted as one big object by the brain So, the objects are placed close together Picture 2: The two red squares are further apart / separated by a cone The two objects are interpreted as two separate objects by the brain So, the objects are placed far enough apart
+Spatial Resolution of the Eye Resolution is related to the amount of detail that can be seen in an image The greater the resolution, then the greater the detail A digital camera with a higher resolution can take more detailed photos A person with "better" eyesight can see things with more resolution Low and High-Resolution Images taken with a Digital Camera A low-resolution image will appear blurry whereas a high-resolution image will be clear and contain lots of details Spatial Resolution Spatial Resolution is needed for the eye to be able to see something in detail It is a measure of the eye's ability to form separate images of objects that are close together Through an eye that has poor spatial resolution, two objects close together can look like one big object Two Objects Viewed By an Eye with High and an Eye with Low Spatial Resolution Two objects viewed with a low spatial resolution are seen as one big object but when viewed with a high spatial resolution they are seen as two separate objects The better the spatial resolution the more detail that is seen in an image An image of a wall viewed with a higher spatial resolution has more bricks visible than one viewed with a lower spatial resolution A Brick Wall Viewed with a High and Low Spatial Resolution High spatial resolution means more detail can be seen in an image as the eye can form separate images of each object making up the image The Role of Rods and Cones in Spatial Resolution Small details in an image are best seen: By the rods and cones on the fovea in the centre of vision (and not on the periphery ) in high-intensity light levels By the rods and cones in the peripherals of vision in low-intensity light levels For two details in an image or two objects to be distinguished then: The two sources of light must fall on the retina So that there is at least one unbleached rod and one unbleached cone between them In addition, the rod or cone between the light rays must not share an optic nerve with any of the rods or cones detecting the light If this is not the case then the brain cannot resolve the two rays of light and sees the objects / details as one
+Resolution is related to the amount of detail that can be seen in an image The greater the resolution, then the greater the detail
+Resolution is related to the amount of detail that can be seen in an image
+The greater the resolution, then the greater the detail
+A digital camera with a higher resolution can take more detailed photos
+A person with "better" eyesight can see things with more resolution
+Low and High-Resolution Images taken with a Digital Camera
+A low-resolution image will appear blurry whereas a high-resolution image will be clear and contain lots of details
+Spatial Resolution
+Spatial Resolution is needed for the eye to be able to see something in detail
+It is a measure of the eye's ability to form separate images of objects that are close together Through an eye that has poor spatial resolution, two objects close together can look like one big object
+It is a measure of the eye's ability to form separate images of objects that are close together
+Through an eye that has poor spatial resolution, two objects close together can look like one big object
+Two Objects Viewed By an Eye with High and an Eye with Low Spatial Resolution
+Two objects viewed with a low spatial resolution are seen as one big object but when viewed with a high spatial resolution they are seen as two separate objects
+The better the spatial resolution the more detail that is seen in an image An image of a wall viewed with a higher spatial resolution has more bricks visible than one viewed with a lower spatial resolution
+The better the spatial resolution the more detail that is seen in an image
+An image of a wall viewed with a higher spatial resolution has more bricks visible than one viewed with a lower spatial resolution
+A Brick Wall Viewed with a High and Low Spatial Resolution
+High spatial resolution means more detail can be seen in an image as the eye can form separate images of each object making up the image
+The Role of Rods and Cones in Spatial Resolution
+Small details in an image are best seen: By the rods and cones on the fovea in the centre of vision (and not on the periphery ) in high-intensity light levels By the rods and cones in the peripherals of vision in low-intensity light levels
+Small details in an image are best seen:
+By the rods and cones on the fovea in the centre of vision (and not on the periphery ) in high-intensity light levels
+By the rods and cones in the peripherals of vision in low-intensity light levels
+For two details in an image or two objects to be distinguished then: The two sources of light must fall on the retina So that there is at least one unbleached rod and one unbleached cone between them
+For two details in an image or two objects to be distinguished then:
+The two sources of light must fall on the retina
+So that there is at least one unbleached rod and one unbleached cone between them
+In addition, the rod or cone between the light rays must not share an optic nerve with any of the rods or cones detecting the light
+If this is not the case then the brain cannot resolve the two rays of light and sees the objects / details as one
+Worked Example A person looks at two objects placed at different distances apart. A grid of squares represents the image of the objects on the retina. Each white square represents a cone, and each red square represents a stimulated cone detecting light. The cone's representation of the objects in different orientations is shown in pictures 1 and 2 below. Describe the arrangement of the objects that would be seen in each picture. Answer: Picture 1: The two red squares are too close together / not separated by a cone The two objects must be interpreted as one big object by the brain So, the objects are placed close together Picture 2: The two red squares are further apart / separated by a cone The two objects are interpreted as two separate objects by the brain So, the objects are placed far enough apart
+Worked Example
+A person looks at two objects placed at different distances apart. A grid of squares represents the image of the objects on the retina. Each white square represents a cone, and each red square represents a stimulated cone detecting light.
+The cone's representation of the objects in different orientations is shown in pictures 1 and 2 below.
+Describe the arrangement of the objects that would be seen in each picture.
+Answer:
+Picture 1:
+The two red squares are too close together / not separated by a cone
+The two objects must be interpreted as one big object by the brain
+So, the objects are placed close together
+Picture 2:
+The two red squares are further apart / separated by a cone
+The two objects are interpreted as two separate objects by the brain
+So, the objects are placed far enough apart

@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-6-radionuclide-imaging-and-therapy/10-6-2-the-molybdenum-technetium-generator
+HEADING: The Molybdenum-Technetium Generator ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Molybdenum-Technetium Generator A molybdenum–technetium generator is a device that produces technetium from molybdenum Technetium-99m (Tc-99) has a half-life of 6.0 hours This allows it to be used as a tracer with low irradiation of the patient, thanks to the short half-life The short half-life, however, means it must be produced in the hospital when needed, as it cannot maintain the required levels of radioactivity for long periods of time Molybdenum-99 (Mo-99) has a half-life of 66 hours (2.8 days) It is produced in nuclear reactors, and due to its slightly longer half-life, it can be transported to hospitals every week Once Mo-99 arrives at a hospital, it can be placed in a molybdenum-technetium generator to produce Tc-99m In the generator, Mo-99 decays over the course of a few days, producing Tc-99m for up to a week Tc-99m is extracted from the generator every few days by passing a saline solution over the radioactive materials Tc-99m enters the solution, which can then be extracted and injected into patients ready for scanning Worked Example A medic suggests that the molybdenum-technetium generator should be kept at the nuclear power station and Tc-99m should just be shipped into the hospital. It is a 12 hour journey for a truck from the nearest nuclear power station. Calculate the percentage of Tc-99m lost in the process of supplying the hospital with 1 kg of Tc-99m. The half-life of Tc-99m is 6.0 hours. Answer: Step 1: Determine the number of half-lives that pass during the journey The journey is 12 hours long Two half-lives pass over the course of the journey Step 2: Determine the initial mass of Tc-99m Mass has halved twice to reach 1 kg Initial mass was 4 kg Step 3: Determine the percentage of Tc-99m lost 3 kg of Tc-99m was lost This is 75% of the initial mass Examiner Tips and Tricks You don't need to know the ins-and-outs of the molybdenum-technetium generator, but expect to come across questions regarding the half-lives of each radioisotope and why the generator is required.
+The Molybdenum-Technetium Generator A molybdenum–technetium generator is a device that produces technetium from molybdenum Technetium-99m (Tc-99) has a half-life of 6.0 hours This allows it to be used as a tracer with low irradiation of the patient, thanks to the short half-life The short half-life, however, means it must be produced in the hospital when needed, as it cannot maintain the required levels of radioactivity for long periods of time Molybdenum-99 (Mo-99) has a half-life of 66 hours (2.8 days) It is produced in nuclear reactors, and due to its slightly longer half-life, it can be transported to hospitals every week Once Mo-99 arrives at a hospital, it can be placed in a molybdenum-technetium generator to produce Tc-99m In the generator, Mo-99 decays over the course of a few days, producing Tc-99m for up to a week Tc-99m is extracted from the generator every few days by passing a saline solution over the radioactive materials Tc-99m enters the solution, which can then be extracted and injected into patients ready for scanning
+A molybdenum–technetium generator is a device that produces technetium from molybdenum
+Technetium-99m (Tc-99) has a half-life of 6.0 hours This allows it to be used as a tracer with low irradiation of the patient, thanks to the short half-life The short half-life, however, means it must be produced in the hospital when needed, as it cannot maintain the required levels of radioactivity for long periods of time
+Technetium-99m (Tc-99) has a half-life of 6.0 hours
+This allows it to be used as a tracer with low irradiation of the patient, thanks to the short half-life
+The short half-life, however, means it must be produced in the hospital when needed, as it cannot maintain the required levels of radioactivity for long periods of time
+Molybdenum-99 (Mo-99) has a half-life of 66 hours (2.8 days) It is produced in nuclear reactors, and due to its slightly longer half-life, it can be transported to hospitals every week
+Molybdenum-99 (Mo-99) has a half-life of 66 hours (2.8 days)
+It is produced in nuclear reactors, and due to its slightly longer half-life, it can be transported to hospitals every week
+Once Mo-99 arrives at a hospital, it can be placed in a molybdenum-technetium generator to produce Tc-99m
+In the generator, Mo-99 decays over the course of a few days, producing Tc-99m for up to a week Tc-99m is extracted from the generator every few days by passing a saline solution over the radioactive materials Tc-99m enters the solution, which can then be extracted and injected into patients ready for scanning
+In the generator, Mo-99 decays over the course of a few days, producing Tc-99m for up to a week
+Tc-99m is extracted from the generator every few days by passing a saline solution over the radioactive materials
+Tc-99m enters the solution, which can then be extracted and injected into patients ready for scanning
+Worked Example A medic suggests that the molybdenum-technetium generator should be kept at the nuclear power station and Tc-99m should just be shipped into the hospital. It is a 12 hour journey for a truck from the nearest nuclear power station. Calculate the percentage of Tc-99m lost in the process of supplying the hospital with 1 kg of Tc-99m. The half-life of Tc-99m is 6.0 hours. Answer: Step 1: Determine the number of half-lives that pass during the journey The journey is 12 hours long Two half-lives pass over the course of the journey Step 2: Determine the initial mass of Tc-99m Mass has halved twice to reach 1 kg Initial mass was 4 kg Step 3: Determine the percentage of Tc-99m lost 3 kg of Tc-99m was lost This is 75% of the initial mass
+Worked Example
+A medic suggests that the molybdenum-technetium generator should be kept at the nuclear power station and Tc-99m should just be shipped into the hospital.
+It is a 12 hour journey for a truck from the nearest nuclear power station.
+Calculate the percentage of Tc-99m lost in the process of supplying the hospital with 1 kg of Tc-99m.
+The half-life of Tc-99m is 6.0 hours.
+Answer:
+Step 1: Determine the number of half-lives that pass during the journey
+The journey is 12 hours long
+Two half-lives pass over the course of the journey
+Step 2: Determine the initial mass of Tc-99m
+Mass has halved twice to reach 1 kg
+Initial mass was 4 kg
+Step 3: Determine the percentage of Tc-99m lost
+3 kg of Tc-99m was lost
+This is 75% of the initial mass
+Examiner Tips and Tricks You don't need to know the ins-and-outs of the molybdenum-technetium generator, but expect to come across questions regarding the half-lives of each radioisotope and why the generator is required.
+Examiner Tips and Tricks
+You don't need to know the ins-and-outs of the molybdenum-technetium generator, but expect to come across questions regarding the half-lives of each radioisotope and why the generator is required.

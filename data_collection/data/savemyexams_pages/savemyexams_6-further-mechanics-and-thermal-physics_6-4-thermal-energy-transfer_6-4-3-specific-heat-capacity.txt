@@ -1,0 +1,98 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-4-thermal-energy-transfer/6-4-3-specific-heat-capacity
+HEADING: Specific Heat Capacity ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Specific Heat Capacity When a substance is heated, its temperature rises causing the particles within it to gain kinetic energy The amount of energy required to raise the temperature of a substance is given by its specific heat capacity The specific heat capacity of a substance is defined as: The amount of thermal energy required to raise the temperature of 1 kg of a substance by 1 °C (or 1 K) without a change of state This quantity determines the amount of energy needed to change the temperature of a substance Specific heat capacity has the symbol c and is measured in units of Joules per kilogram per Kelvin (J kg –1 K –1 ) or Joules per kilogram per Celsius (J kg –1 °C –1 ) Different substances have different specific heat capacities Specific heat capacity is mainly used for liquids and solids From the definition of specific heat capacity, it follows that: The heavier the material, the more thermal energy required to raise its temperature The larger the change in temperature, the higher the thermal energy required to achieve this change Calculating Specific Heat Capacity The amount of thermal energy Q needed to raise the temperature by Δθ for a mass m with specific heat capacity c is equal to: Δ Q = mc Δθ Where: Δ Q = change in thermal energy (J) m = mass of the substance you are heating up (kg) c = specific heat capacity of the substance (J kg –1 K –1 or J kg –1 °C –1 ) Δθ = change in temperature (K or °C) Low v high specific heat capacity If a substance has a low specific heat capacity, it heats up and cools down quickly If a substance has a high specific heat capacity, it heats up and cools down slowly The specific heat capacity of different substances determines how useful they would be for a specific purpose eg. choosing the best material for kitchen appliances Table of values of specific heat capacity for various substances Good electrical conductors, such as copper and lead, are excellent conductors of heat due to their low specific heat capacity Worked Example A kettle is rated at 1.7 kW. A mass of 650 g of a liquid at 25 °C is poured into a kettle. When the kettle is switched on, it takes 3.5 minutes to start boiling. The liquid boils at 100 °C. Calculate the specific heat capacity of the liquid. Answer: Step 1: Calculate the Energy from the power and time Energy = Power × Time Power = 1.7 kW = 1.7 × 10 3 W Time = 3.5 minutes = 3.5 × 60 = 210 s Energy = 1.7 × 10 3 × 210 = 3.57 × 10 5 J Step 2: Thermal energy equation Δ Q = mc Δ θ Step 3: Rearrange for specific heat capacity Step 4: Substitute in values m = 650 g = 650 × 10 –3 kg Δ θ = 100 – 25 = 75 o C J kg −1 °C −1 Examiner Tips and Tricks The difference in temperature Δθ will be exactly the same whether the temperature is given in Celsius or kelvin. Therefore, there is no need to convert between the two since the difference in temperature will be the same for both units. This topic builds on what you learned in GCSE , so you may be asked about experiments designed to determine a material's specific heat capacity. You will be expected to be able to identify random and systematic errors in this experiment – refer back to the AQA GCSE physics revision note on the specific heat capacity required practical if you need to remind yourself of this. Continuous Flow The specific heat capacity of a fluid can be found using a continuous-flow calorimeter A fluid flows continuously over a heating element where energy is transferred to the fluid It is assumed that the heat transferred from the apparatus to the surroundings is constant For this experiment, the flow rate and the potential difference are changed to ensure the change in temperature of the fluid is kept constant A continuous-flow calorimeter A fluid flows through an electrical heating wire. The rise in temperature of the fluid is measured using the electric thermometers and is calculated by: Δθ = T 2 – T 1 To find the mass of the fluid, the flow rate (mass leaving the right hand side per second) is recorded and multiplied by the time taken t to give the mass of the fluid that flows in as m 1 The current I and potential difference V are also recorded The flow rate is then altered to give a mass m 2 and the potential difference of the power supply is changed so the temperature difference, Δθ stays the same The specific heat capacity is found by assuming the thermal losses to the surroundings are constant for both flow rates For the first flow rate, the electrical energy supplied to the fluid in time t 1 is: I 1 V 1 t 1 = Q 1 = m 1 c Δθ + E lost Where E lost is the thermal energy lost to the surroundings and I 1 V 1 represents the electrical power of the heater The second flow rate is: I 2 V 2 t 2 = Q 2 = m 2 c Δθ + E lost Since E lost is assumed to be the same, subtracting the first flow rate equation from the second gives the equation: I 2 V 2 t 2 – I 1 V 1 t 1 = Q 2 – Q 1 = ( m 2 – m 1 ) c Δθ Rearranging this for the specific heat capacity of the fluid, c gives the final equation: Worked Example Calculate the specific heat capacity of a liquid using the following data measured in two experiments using the continuous flow method: Time of each experiment, t 1 = t 2 = 40 s T 1 in both experiments = 15 ºC T 2 in both experiments = 4 ºC p.d across the heater in experiment 1, V 1 = 14.0 V p.d across the heater in experiment 2, V 2 = 9.0 V Current through heater in both experiments = 3.0 A Mass of water flowing in experiment 1, m 1 = 136.0 g Mass of water flowing in experiment 2, m 2 = 73.0 g Answer: Step 1: Calculate the change in temperature, Δ θ Δθ = 4 – 15 = −11ºC Step 2: Calculate Q 2 Q 2 = I 2 V 2 t 2 = 3.0 × 9.0 × 40 = 1080 J Step 3: Calculate Q 1 Q 1 = I 1 V 1 t 1 = 3.0 × 14.0 × 40 = 1680 J Step 4: Substitute values into the specific heat capacity equation J kg −1 °C −1
+Specific Heat Capacity When a substance is heated, its temperature rises causing the particles within it to gain kinetic energy The amount of energy required to raise the temperature of a substance is given by its specific heat capacity The specific heat capacity of a substance is defined as: The amount of thermal energy required to raise the temperature of 1 kg of a substance by 1 °C (or 1 K) without a change of state This quantity determines the amount of energy needed to change the temperature of a substance Specific heat capacity has the symbol c and is measured in units of Joules per kilogram per Kelvin (J kg –1 K –1 ) or Joules per kilogram per Celsius (J kg –1 °C –1 ) Different substances have different specific heat capacities Specific heat capacity is mainly used for liquids and solids From the definition of specific heat capacity, it follows that: The heavier the material, the more thermal energy required to raise its temperature The larger the change in temperature, the higher the thermal energy required to achieve this change Calculating Specific Heat Capacity The amount of thermal energy Q needed to raise the temperature by Δθ for a mass m with specific heat capacity c is equal to: Δ Q = mc Δθ Where: Δ Q = change in thermal energy (J) m = mass of the substance you are heating up (kg) c = specific heat capacity of the substance (J kg –1 K –1 or J kg –1 °C –1 ) Δθ = change in temperature (K or °C) Low v high specific heat capacity If a substance has a low specific heat capacity, it heats up and cools down quickly If a substance has a high specific heat capacity, it heats up and cools down slowly The specific heat capacity of different substances determines how useful they would be for a specific purpose eg. choosing the best material for kitchen appliances Table of values of specific heat capacity for various substances Good electrical conductors, such as copper and lead, are excellent conductors of heat due to their low specific heat capacity
+When a substance is heated, its temperature rises causing the particles within it to gain kinetic energy The amount of energy required to raise the temperature of a substance is given by its specific heat capacity
+When a substance is heated, its temperature rises causing the particles within it to gain kinetic energy
+The amount of energy required to raise the temperature of a substance is given by its specific heat capacity
+The specific heat capacity of a substance is defined as: The amount of thermal energy required to raise the temperature of 1 kg of a substance by 1 °C (or 1 K) without a change of state
+The specific heat capacity of a substance is defined as:
+The amount of thermal energy required to raise the temperature of 1 kg of a substance by 1 °C (or 1 K) without a change of state
+This quantity determines the amount of energy needed to change the temperature of a substance
+Specific heat capacity has the symbol c and is measured in units of Joules per kilogram per Kelvin (J kg –1 K –1 ) or Joules per kilogram per Celsius (J kg –1 °C –1 ) Different substances have different specific heat capacities Specific heat capacity is mainly used for liquids and solids
+Specific heat capacity has the symbol c and is measured in units of Joules per kilogram per Kelvin (J kg –1 K –1 ) or Joules per kilogram per Celsius (J kg –1 °C –1 )
+Kelvin
+Different substances have different specific heat capacities
+Specific heat capacity is mainly used for liquids and solids
+From the definition of specific heat capacity, it follows that: The heavier the material, the more thermal energy required to raise its temperature The larger the change in temperature, the higher the thermal energy required to achieve this change
+From the definition of specific heat capacity, it follows that:
+The heavier the material, the more thermal energy required to raise its temperature
+The larger the change in temperature, the higher the thermal energy required to achieve this change
+Calculating Specific Heat Capacity
+The amount of thermal energy Q needed to raise the temperature by Δθ for a mass m with specific heat capacity c is equal to:
+Δ Q = mc Δθ
+Where: Δ Q = change in thermal energy (J) m = mass of the substance you are heating up (kg) c = specific heat capacity of the substance (J kg –1 K –1 or J kg –1 °C –1 ) Δθ = change in temperature (K or °C)
+Where:
+Δ Q = change in thermal energy (J)
+m = mass of the substance you are heating up (kg)
+c = specific heat capacity of the substance (J kg –1 K –1 or J kg –1 °C –1 )
+Δθ = change in temperature (K or °C)
+Low v high specific heat capacity
+If a substance has a low specific heat capacity, it heats up and cools down quickly
+If a substance has a high specific heat capacity, it heats up and cools down slowly
+The specific heat capacity of different substances determines how useful they would be for a specific purpose eg. choosing the best material for kitchen appliances
+Table of values of specific heat capacity for various substances
+Good electrical conductors, such as copper and lead, are excellent conductors of heat due to their low specific heat capacity
+Worked Example A kettle is rated at 1.7 kW. A mass of 650 g of a liquid at 25 °C is poured into a kettle. When the kettle is switched on, it takes 3.5 minutes to start boiling. The liquid boils at 100 °C. Calculate the specific heat capacity of the liquid. Answer: Step 1: Calculate the Energy from the power and time Energy = Power × Time Power = 1.7 kW = 1.7 × 10 3 W Time = 3.5 minutes = 3.5 × 60 = 210 s Energy = 1.7 × 10 3 × 210 = 3.57 × 10 5 J Step 2: Thermal energy equation Δ Q = mc Δ θ Step 3: Rearrange for specific heat capacity Step 4: Substitute in values m = 650 g = 650 × 10 –3 kg Δ θ = 100 – 25 = 75 o C J kg −1 °C −1
+Worked Example
+A kettle is rated at 1.7 kW. A mass of 650 g of a liquid at 25 °C is poured into a kettle. When the kettle is switched on, it takes 3.5 minutes to start boiling. The liquid boils at 100 °C.
+Calculate the specific heat capacity of the liquid.
+Answer:
+Step 1: Calculate the Energy from the power and time
+Energy = Power × Time
+Power = 1.7 kW = 1.7 × 10 3 W
+Time = 3.5 minutes = 3.5 × 60 = 210 s
+Energy = 1.7 × 10 3 × 210 = 3.57 × 10 5 J
+Step 2: Thermal energy equation
+Δ Q = mc Δ θ
+Step 3: Rearrange for specific heat capacity
+Step 4: Substitute in values
+m = 650 g = 650 × 10 –3 kg
+Δ θ = 100 – 25 = 75 o C
+J kg −1 °C −1
+Examiner Tips and Tricks The difference in temperature Δθ will be exactly the same whether the temperature is given in Celsius or kelvin. Therefore, there is no need to convert between the two since the difference in temperature will be the same for both units. This topic builds on what you learned in GCSE , so you may be asked about experiments designed to determine a material's specific heat capacity. You will be expected to be able to identify random and systematic errors in this experiment – refer back to the AQA GCSE physics revision note on the specific heat capacity required practical if you need to remind yourself of this.
+Examiner Tips and Tricks
+The difference in temperature Δθ will be exactly the same whether the temperature is given in Celsius or kelvin. Therefore, there is no need to convert between the two since the difference in temperature will be the same for both units.
+This topic builds on what you learned in GCSE , so you may be asked about experiments designed to determine a material's specific heat capacity. You will be expected to be able to identify random and systematic errors in this experiment – refer back to the AQA GCSE physics revision note on the specific heat capacity required practical if you need to remind yourself of this.
+Continuous Flow The specific heat capacity of a fluid can be found using a continuous-flow calorimeter A fluid flows continuously over a heating element where energy is transferred to the fluid It is assumed that the heat transferred from the apparatus to the surroundings is constant For this experiment, the flow rate and the potential difference are changed to ensure the change in temperature of the fluid is kept constant A continuous-flow calorimeter A fluid flows through an electrical heating wire. The rise in temperature of the fluid is measured using the electric thermometers and is calculated by: Δθ = T 2 – T 1 To find the mass of the fluid, the flow rate (mass leaving the right hand side per second) is recorded and multiplied by the time taken t to give the mass of the fluid that flows in as m 1 The current I and potential difference V are also recorded The flow rate is then altered to give a mass m 2 and the potential difference of the power supply is changed so the temperature difference, Δθ stays the same The specific heat capacity is found by assuming the thermal losses to the surroundings are constant for both flow rates For the first flow rate, the electrical energy supplied to the fluid in time t 1 is: I 1 V 1 t 1 = Q 1 = m 1 c Δθ + E lost Where E lost is the thermal energy lost to the surroundings and I 1 V 1 represents the electrical power of the heater The second flow rate is: I 2 V 2 t 2 = Q 2 = m 2 c Δθ + E lost Since E lost is assumed to be the same, subtracting the first flow rate equation from the second gives the equation: I 2 V 2 t 2 – I 1 V 1 t 1 = Q 2 – Q 1 = ( m 2 – m 1 ) c Δθ Rearranging this for the specific heat capacity of the fluid, c gives the final equation:
+Continuous Flow
+The specific heat capacity of a fluid can be found using a continuous-flow calorimeter
+A fluid flows continuously over a heating element where energy is transferred to the fluid It is assumed that the heat transferred from the apparatus to the surroundings is constant
+A fluid flows continuously over a heating element where energy is transferred to the fluid
+It is assumed that the heat transferred from the apparatus to the surroundings is constant
+For this experiment, the flow rate and the potential difference are changed to ensure the change in temperature of the fluid is kept constant
+A continuous-flow calorimeter
+A fluid flows through an electrical heating wire. The rise in temperature of the fluid is measured using the electric thermometers and is calculated by:
+Δθ = T 2 – T 1
+To find the mass of the fluid, the flow rate (mass leaving the right hand side per second) is recorded and multiplied by the time taken t to give the mass of the fluid that flows in as m 1
+The current I and potential difference V are also recorded
+The flow rate is then altered to give a mass m 2 and the potential difference of the power supply is changed so the temperature difference, Δθ stays the same
+The specific heat capacity is found by assuming the thermal losses to the surroundings are constant for both flow rates
+For the first flow rate, the electrical energy supplied to the fluid in time t 1 is:
+I 1 V 1 t 1 = Q 1 = m 1 c Δθ + E lost
+Where E lost is the thermal energy lost to the surroundings and I 1 V 1 represents the electrical power of the heater
+The second flow rate is:
+I 2 V 2 t 2 = Q 2 = m 2 c Δθ + E lost
+Since E lost is assumed to be the same, subtracting the first flow rate equation from the second gives the equation:
+I 2 V 2 t 2 – I 1 V 1 t 1 = Q 2 – Q 1 = ( m 2 – m 1 ) c Δθ
+Rearranging this for the specific heat capacity of the fluid, c gives the final equation:
+Worked Example Calculate the specific heat capacity of a liquid using the following data measured in two experiments using the continuous flow method: Time of each experiment, t 1 = t 2 = 40 s T 1 in both experiments = 15 ºC T 2 in both experiments = 4 ºC p.d across the heater in experiment 1, V 1 = 14.0 V p.d across the heater in experiment 2, V 2 = 9.0 V Current through heater in both experiments = 3.0 A Mass of water flowing in experiment 1, m 1 = 136.0 g Mass of water flowing in experiment 2, m 2 = 73.0 g Answer: Step 1: Calculate the change in temperature, Δ θ Δθ = 4 – 15 = −11ºC Step 2: Calculate Q 2 Q 2 = I 2 V 2 t 2 = 3.0 × 9.0 × 40 = 1080 J Step 3: Calculate Q 1 Q 1 = I 1 V 1 t 1 = 3.0 × 14.0 × 40 = 1680 J Step 4: Substitute values into the specific heat capacity equation J kg −1 °C −1
+Calculate the specific heat capacity of a liquid using the following data measured in two experiments using the continuous flow method:
+Time of each experiment, t 1 = t 2 = 40 s
+T 1 in both experiments = 15 ºC
+T 2 in both experiments = 4 ºC
+p.d across the heater in experiment 1, V 1 = 14.0 V
+p.d across the heater in experiment 2, V 2 = 9.0 V
+Current through heater in both experiments = 3.0 A
+Mass of water flowing in experiment 1, m 1 = 136.0 g
+Mass of water flowing in experiment 2, m 2 = 73.0 g
+Step 1: Calculate the change in temperature, Δ θ
+Δθ = 4 – 15 = −11ºC
+Step 2: Calculate Q 2
+Q 2 = I 2 V 2 t 2 = 3.0 × 9.0 × 40 = 1080 J
+Step 3: Calculate Q 1
+Q 1 = I 1 V 1 t 1 = 3.0 × 14.0 × 40 = 1680 J
+Step 4: Substitute values into the specific heat capacity equation

@@ -1,0 +1,64 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-6-capacitance/7-6-1-capacitance
+HEADING: Capacitance ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Capacitance Capacitors are electrical devices used to store energy in electronic circuits, commonly for a backup release of energy if the power fails They are in the form of two conductive metal plates connected to a voltage supply (parallel plate capacitor) There is commonly a dielectric in between the plates, this is to ensure charge does not freely flow between the plates The capacitor circuit symbol is: The capacitor circuit symbol is two parallel lines Capacitors are marked with a value of their capacitance. This is defined as: The charge stored per unit potential difference (between the plates) The greater the capacitance , the greater the energy stored in the capacitor The capacitance of a capacitor is defined by the equation: Where: C = capacitance (F) Q = charge (C) V = potential difference (V) A capacitor used in small circuits Capacitance is measured in the unit Farad (F) In practice, 1 F is a very large unit Often it will be quoted in the order of micro Farads (μF), nanofarads (nF) or picofarads (pF) If the capacitor is made of parallel plates, Q is the charge on the plates and V is the potential difference across the capacitor The charge Q is not the charge of the capacitor itself, it is the charge stored on the plates This capacitance equation shows that an object’s capacitance is the ratio of the charge stored by the capacitor to the potential difference between the plates Worked Example A parallel plate capacitor has a capacitance of 1 nF and is connected to a voltage supply of 0.3 kV. Calculate the charge on the plates. Answer: Step 1: Write down the known quantities Capacitance, C = 1 nF = 1 × 10 -9 F Potential difference, V = 0.3 kV = 0.3 × 10 3 V Step 2: Write out the equation for capacitance Step 3: Rearrange for charge Q Q = CV Step 4: Substitute in values Q = (1 × 10 -9 ) × (0.3 × 10 3 ) = 3 × 10 -7 C = 300 nC Examiner Tips and Tricks The ‘charge stored’ by a capacitor refers to the magnitude of the charge stored on each plate in a parallel plate capacitor or on the surface of a spherical conductor. The capacitor itself does not store charge. The letter ‘C’ is used both as the symbol for capacitance as well as the unit of charge (coulombs). Take care not to confuse the two! Polar Molecule in an Electric Field A dielectric is made up of many polar molecules These are molecules that have a 'positive' and 'negative' end (poles) When no charge is applied to the capacitor: There is no electric field between the parallel plates and the molecules are aligned in random directions When there is a charge applied : One of the parallel plates becomes positively charged and the other negatively charged hence an electric field is generated between the plates (from positive to negative) The negative ends of the polar molecules are attracted to the positive plate and vice versa This means all the molecules rotate and align themselves parallel to the electric field Polar molecules align themselves when an electric field is between two parallel plates
+Capacitance Capacitors are electrical devices used to store energy in electronic circuits, commonly for a backup release of energy if the power fails They are in the form of two conductive metal plates connected to a voltage supply (parallel plate capacitor) There is commonly a dielectric in between the plates, this is to ensure charge does not freely flow between the plates The capacitor circuit symbol is: The capacitor circuit symbol is two parallel lines Capacitors are marked with a value of their capacitance. This is defined as: The charge stored per unit potential difference (between the plates) The greater the capacitance , the greater the energy stored in the capacitor The capacitance of a capacitor is defined by the equation: Where: C = capacitance (F) Q = charge (C) V = potential difference (V) A capacitor used in small circuits Capacitance is measured in the unit Farad (F) In practice, 1 F is a very large unit Often it will be quoted in the order of micro Farads (μF), nanofarads (nF) or picofarads (pF) If the capacitor is made of parallel plates, Q is the charge on the plates and V is the potential difference across the capacitor The charge Q is not the charge of the capacitor itself, it is the charge stored on the plates This capacitance equation shows that an object’s capacitance is the ratio of the charge stored by the capacitor to the potential difference between the plates
+Capacitors are electrical devices used to store energy in electronic circuits, commonly for a backup release of energy if the power fails
+They are in the form of two conductive metal plates connected to a voltage supply (parallel plate capacitor) There is commonly a dielectric in between the plates, this is to ensure charge does not freely flow between the plates
+They are in the form of two conductive metal plates connected to a voltage supply (parallel plate capacitor)
+There is commonly a dielectric in between the plates, this is to ensure charge does not freely flow between the plates
+dielectric
+The capacitor circuit symbol is:
+The capacitor circuit symbol is two parallel lines
+Capacitors are marked with a value of their capacitance. This is defined as: The charge stored per unit potential difference (between the plates)
+Capacitors are marked with a value of their capacitance. This is defined as:
+The charge stored per unit potential difference (between the plates)
+The greater the capacitance , the greater the energy stored in the capacitor
+The capacitance of a capacitor is defined by the equation:
+Where: C = capacitance (F) Q = charge (C) V = potential difference (V)
+Where:
+C = capacitance (F)
+Q = charge (C)
+V = potential difference (V)
+potential difference
+A capacitor used in small circuits
+Capacitance is measured in the unit Farad (F) In practice, 1 F is a very large unit Often it will be quoted in the order of micro Farads (μF), nanofarads (nF) or picofarads (pF)
+Capacitance is measured in the unit Farad (F)
+In practice, 1 F is a very large unit
+Often it will be quoted in the order of micro Farads (μF), nanofarads (nF) or picofarads (pF)
+If the capacitor is made of parallel plates, Q is the charge on the plates and V is the potential difference across the capacitor The charge Q is not the charge of the capacitor itself, it is the charge stored on the plates
+If the capacitor is made of parallel plates, Q is the charge on the plates and V is the potential difference across the capacitor
+The charge Q is not the charge of the capacitor itself, it is the charge stored on the plates
+This capacitance equation shows that an object’s capacitance is the ratio of the charge stored by the capacitor to the potential difference between the plates
+Worked Example A parallel plate capacitor has a capacitance of 1 nF and is connected to a voltage supply of 0.3 kV. Calculate the charge on the plates. Answer: Step 1: Write down the known quantities Capacitance, C = 1 nF = 1 × 10 -9 F Potential difference, V = 0.3 kV = 0.3 × 10 3 V Step 2: Write out the equation for capacitance Step 3: Rearrange for charge Q Q = CV Step 4: Substitute in values Q = (1 × 10 -9 ) × (0.3 × 10 3 ) = 3 × 10 -7 C = 300 nC
+Worked Example
+A parallel plate capacitor has a capacitance of 1 nF and is connected to a voltage supply of 0.3 kV. Calculate the charge on the plates.
+Answer:
+Step 1: Write down the known quantities
+Capacitance, C = 1 nF = 1 × 10 -9 F Potential difference, V = 0.3 kV = 0.3 × 10 3 V
+Capacitance, C = 1 nF = 1 × 10 -9 F
+Potential difference, V = 0.3 kV = 0.3 × 10 3 V
+Step 2: Write out the equation for capacitance
+Step 3: Rearrange for charge Q
+Q = CV
+Step 4: Substitute in values
+Q = (1 × 10 -9 ) × (0.3 × 10 3 ) = 3 × 10 -7 C = 300 nC
+Examiner Tips and Tricks The ‘charge stored’ by a capacitor refers to the magnitude of the charge stored on each plate in a parallel plate capacitor or on the surface of a spherical conductor. The capacitor itself does not store charge. The letter ‘C’ is used both as the symbol for capacitance as well as the unit of charge (coulombs). Take care not to confuse the two!
+Examiner Tips and Tricks
+The ‘charge stored’ by a capacitor refers to the magnitude of the charge stored on each plate in a parallel plate capacitor or on the surface of a spherical conductor. The capacitor itself does not store charge. The letter ‘C’ is used both as the symbol for capacitance as well as the unit of charge (coulombs). Take care not to confuse the two!
+Polar Molecule in an Electric Field A dielectric is made up of many polar molecules These are molecules that have a 'positive' and 'negative' end (poles) When no charge is applied to the capacitor: There is no electric field between the parallel plates and the molecules are aligned in random directions When there is a charge applied : One of the parallel plates becomes positively charged and the other negatively charged hence an electric field is generated between the plates (from positive to negative) The negative ends of the polar molecules are attracted to the positive plate and vice versa This means all the molecules rotate and align themselves parallel to the electric field Polar molecules align themselves when an electric field is between two parallel plates
+Polar Molecule in an Electric Field
+A dielectric is made up of many polar molecules These are molecules that have a 'positive' and 'negative' end (poles)
+A dielectric is made up of many polar molecules
+These are molecules that have a 'positive' and 'negative' end (poles)
+When no charge is applied to the capacitor: There is no electric field between the parallel plates and the molecules are aligned in random directions
+When no charge is applied to the capacitor:
+There is no electric field between the parallel plates and the molecules are aligned in random directions
+When there is a charge applied : One of the parallel plates becomes positively charged and the other negatively charged hence an electric field is generated between the plates (from positive to negative) The negative ends of the polar molecules are attracted to the positive plate and vice versa This means all the molecules rotate and align themselves parallel to the electric field
+When there is a charge applied :
+One of the parallel plates becomes positively charged and the other negatively charged hence an electric field is generated between the plates (from positive to negative)
+The negative ends of the polar molecules are attracted to the positive plate and vice versa
+This means all the molecules rotate and align themselves parallel to the electric field
+Polar molecules align themselves when an electric field is between two parallel plates

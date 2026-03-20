@@ -1,0 +1,61 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-6-work-energy-and-power/4-6-1-work-and-power
+HEADING: Work & Power ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Work & Power The work done by a force is equivalent to a transfer of energy The unit of work done is newton metres The work done by a resultant force on a system is equal to the change in energy in that system Mechanical work is defined as The amount of energy transferred when an external force causes an object to move over a certain distance If a constant force is applied parallel to the direction of the object's displacement, the work done can be calculated using the equation: Where: W = work done (J) F = average force applied (N) s = displacement (m) In the diagram below, the man’s pushing force on the block is doing work as it is transferring energy to the block Work is done when a force is used to move an object over a distance When pushing a block, work is done against friction and energy is transferred from the man to the block Some of the energy is dissipated to the surroundings by heating and as sound Sometimes the direction of motion of an object is not parallel to the direction of the force If the force is at an angle θ to the object's displacement, the work done is calculated by: Where is the angle, in degrees, between the direction of the force and the motion of the object When (the force is in the direction of motion) then and the equation becomes For horizontal motion, is used For vertical motion, is used Always consider the horizontal and vertical components of the force The component needed is the one that is parallel to the displacement When the force is at an angle, only the component of the force in the direction of motion is considered for the work done Power Power is the rate of doing work or the rate of energy transfer Power is calculated by the equation: Where: P = power (W) Δ W = change in work done (J) Δ t = change in time (s) The equation shows that the power is increased if: There is a greater energy transfer (work done) The energy is transferred (work is done) over a shorter period of time If an object is moving at constant velocity with a constant force , the power can also be calculated by: Where: F = force (N) v = velocity (m s –1 ) The force must be in the direction of the velocity Otherwise, the component of the force in the direction of the velocity must be used instead Worked Example The diagram shows a barrel of weight 2.5 × 10 3 N on a frictionless slope inclined at 40° to the horizontal. A force is applied to the barrel to move it up the slope at a constant speed. The force is parallel to the slope. What is the work done in moving the barrel a distance of 6.0 m up the slope? A. 7.2 × 10 3 J B. 2.5 × 10 4 J C. 1.1 × 10 4 J D. 9.6 × 10 3 J Examiner Tips and Tricks A common exam mistake is choosing the incorrect force which is not parallel to the direction of movement of an object. You may have to resolve the force vector first in order to find the component that is parallel. The force does not have to be in the same direction as the movement, as shown in the worked example.
+Work & Power The work done by a force is equivalent to a transfer of energy The unit of work done is newton metres The work done by a resultant force on a system is equal to the change in energy in that system Mechanical work is defined as The amount of energy transferred when an external force causes an object to move over a certain distance If a constant force is applied parallel to the direction of the object's displacement, the work done can be calculated using the equation: Where: W = work done (J) F = average force applied (N) s = displacement (m) In the diagram below, the man’s pushing force on the block is doing work as it is transferring energy to the block Work is done when a force is used to move an object over a distance When pushing a block, work is done against friction and energy is transferred from the man to the block Some of the energy is dissipated to the surroundings by heating and as sound Sometimes the direction of motion of an object is not parallel to the direction of the force If the force is at an angle θ to the object's displacement, the work done is calculated by: Where is the angle, in degrees, between the direction of the force and the motion of the object When (the force is in the direction of motion) then and the equation becomes For horizontal motion, is used For vertical motion, is used Always consider the horizontal and vertical components of the force The component needed is the one that is parallel to the displacement When the force is at an angle, only the component of the force in the direction of motion is considered for the work done Power Power is the rate of doing work or the rate of energy transfer Power is calculated by the equation: Where: P = power (W) Δ W = change in work done (J) Δ t = change in time (s) The equation shows that the power is increased if: There is a greater energy transfer (work done) The energy is transferred (work is done) over a shorter period of time If an object is moving at constant velocity with a constant force , the power can also be calculated by: Where: F = force (N) v = velocity (m s –1 ) The force must be in the direction of the velocity Otherwise, the component of the force in the direction of the velocity must be used instead
+The work done by a force is equivalent to a transfer of energy The unit of work done is newton metres
+The work done by a force is equivalent to a transfer of energy
+The unit of work done is newton metres
+The work done by a resultant force on a system is equal to the change in energy in that system
+Mechanical work is defined as
+The amount of energy transferred when an external force causes an object to move over a certain distance
+If a constant force is applied parallel to the direction of the object's displacement, the work done can be calculated using the equation:
+Where: W = work done (J) F = average force applied (N) s = displacement (m)
+Where:
+W = work done (J)
+F = average force applied (N)
+s = displacement (m)
+In the diagram below, the man’s pushing force on the block is doing work as it is transferring energy to the block
+Work is done when a force is used to move an object over a distance
+When pushing a block, work is done against friction and energy is transferred from the man to the block
+Some of the energy is dissipated to the surroundings by heating and as sound
+Sometimes the direction of motion of an object is not parallel to the direction of the force
+If the force is at an angle θ to the object's displacement, the work done is calculated by:
+Where is the angle, in degrees, between the direction of the force and the motion of the object When (the force is in the direction of motion) then and the equation becomes
+Where is the angle, in degrees, between the direction of the force and the motion of the object
+When (the force is in the direction of motion) then and the equation becomes
+For horizontal motion, is used
+For vertical motion, is used Always consider the horizontal and vertical components of the force The component needed is the one that is parallel to the displacement
+For vertical motion, is used
+Always consider the horizontal and vertical components of the force
+The component needed is the one that is parallel to the displacement
+When the force is at an angle, only the component of the force in the direction of motion is considered for the work done
+Power
+Power is the rate of doing work or the rate of energy transfer
+Power is calculated by the equation:
+Where: P = power (W) Δ W = change in work done (J) Δ t = change in time (s)
+P = power (W)
+Δ W = change in work done (J)
+Δ t = change in time (s)
+The equation shows that the power is increased if: There is a greater energy transfer (work done) The energy is transferred (work is done) over a shorter period of time
+The equation shows that the power is increased if:
+There is a greater energy transfer (work done)
+The energy is transferred (work is done) over a shorter period of time
+If an object is moving at constant velocity with a constant force , the power can also be calculated by:
+Where: F = force (N) v = velocity (m s –1 )
+F = force (N)
+v = velocity (m s –1 )
+The force must be in the direction of the velocity Otherwise, the component of the force in the direction of the velocity must be used instead
+The force must be in the direction of the velocity
+Otherwise, the component of the force in the direction of the velocity must be used instead
+Worked Example The diagram shows a barrel of weight 2.5 × 10 3 N on a frictionless slope inclined at 40° to the horizontal. A force is applied to the barrel to move it up the slope at a constant speed. The force is parallel to the slope. What is the work done in moving the barrel a distance of 6.0 m up the slope? A. 7.2 × 10 3 J B. 2.5 × 10 4 J C. 1.1 × 10 4 J D. 9.6 × 10 3 J
+Worked Example
+The diagram shows a barrel of weight 2.5 × 10 3 N on a frictionless slope inclined at 40° to the horizontal.
+A force is applied to the barrel to move it up the slope at a constant speed. The force is parallel to the slope.
+What is the work done in moving the barrel a distance of 6.0 m up the slope?
+A. 7.2 × 10 3 J B. 2.5 × 10 4 J C. 1.1 × 10 4 J D. 9.6 × 10 3 J
+Examiner Tips and Tricks A common exam mistake is choosing the incorrect force which is not parallel to the direction of movement of an object. You may have to resolve the force vector first in order to find the component that is parallel. The force does not have to be in the same direction as the movement, as shown in the worked example.
+Examiner Tips and Tricks
+A common exam mistake is choosing the incorrect force which is not parallel to the direction of movement of an object. You may have to resolve the force vector first in order to find the component that is parallel. The force does not have to be in the same direction as the movement, as shown in the worked example.

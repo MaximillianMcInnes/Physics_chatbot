@@ -1,0 +1,83 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-4-absolute-magnitude
+HEADING: Absolute Magnitude ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Absolute Magnitude The inherent brightness, or intensity of a star, as seen to the naked eye on Earth, depends on its: Luminosity Distance from Earth If two different stars have the same apparent magnitude it does not necessarily mean they emit the same amount of light or are the same size Therefore, it's useful to compare how bright they would appear to be if they were exactly the same distance from the Earth This is where the concept of absolute magnitude comes in The absolute magnitude of a star is defined as: The apparent magnitude it would have if it were observed from a distance of 10 parsecs away from Earth Since most stars are much further than 10 parsecs away, they would appear brighter if observed at a distance of 10 parsecs Apparent vs. absolute magnitude The absolute magnitude is often brighter than the apparent magnitude For example, a real bright star very far away would have the same apparent magnitude as a dim star close by However, their absolute magnitudes will be different This means that: Absolute and apparent magnitudes are measured on the same logarithmic scale Values of absolute magnitudes are more negative than their associated apparent magnitudes The relationship between the apparent magnitude, absolute magnitude and distance of a star from Earth is: Where: M = absolute magnitude m = apparent magnitude d = distance of the star from Earth (measured in parsecs) The difference between apparent and absolute magnitude is known as the distance modulus This is useful for quickly determining the relative distance of a star Distance modulus is negative for stars closer than 10 pc Distance modulus is positive for stars further away than 10 pc Worked Example The table shows some information about four stars in the constellation of Pegasus. Star Apparent magnitude distance / ly Algenib 2.84 390 Enif 2.39 690 Markab 2.49 140 Scheat 2.42 200 (a) State which of the stars in the table is the brightest on the absolute magnitude scale. (b) State which of the stars in the table is the dimmest on the absolute magnitude scale. (c) Calculate the absolute magnitude of Algenib. Answer: Part (a) The brightest on the absolute magnitude scale is... All have similar values of apparent magnitude Therefore, furthest = brightest = Enif Part (b) The dimmest on the absolute magnitude scale is... All have similar values of apparent magnitude Therefore, closest = dimmest = Markab Part (c) Calculate the absolute magnitude of Algenib: Step 1: List the known quantities Apparent magnitude of Algenib, = 2.84 Distance to Algenib, = 390 ly 1 pc = 3.26 ly (from data booklet) Step 2: Convert the distance into parsecs Distance to Algenib: = 119.6 pc Step 3: Rearrange the magnitude equation and calculate the absolute magnitude Absolute magnitude: Examiner Tips and Tricks Be specific in the language you use when comparing magnitudes - a 'bigger' magnitude could either mean brighter (greater intensity) or dimmer (bigger number) To avoid confusion, make sure to say 'brighter' or 'dimmer' magnitudes rather than larger or smaller. You must be comfortable with working with logs to manipulate this equation.
+Absolute Magnitude The inherent brightness, or intensity of a star, as seen to the naked eye on Earth, depends on its: Luminosity Distance from Earth If two different stars have the same apparent magnitude it does not necessarily mean they emit the same amount of light or are the same size Therefore, it's useful to compare how bright they would appear to be if they were exactly the same distance from the Earth This is where the concept of absolute magnitude comes in The absolute magnitude of a star is defined as: The apparent magnitude it would have if it were observed from a distance of 10 parsecs away from Earth Since most stars are much further than 10 parsecs away, they would appear brighter if observed at a distance of 10 parsecs Apparent vs. absolute magnitude The absolute magnitude is often brighter than the apparent magnitude For example, a real bright star very far away would have the same apparent magnitude as a dim star close by However, their absolute magnitudes will be different This means that: Absolute and apparent magnitudes are measured on the same logarithmic scale Values of absolute magnitudes are more negative than their associated apparent magnitudes The relationship between the apparent magnitude, absolute magnitude and distance of a star from Earth is: Where: M = absolute magnitude m = apparent magnitude d = distance of the star from Earth (measured in parsecs) The difference between apparent and absolute magnitude is known as the distance modulus This is useful for quickly determining the relative distance of a star Distance modulus is negative for stars closer than 10 pc Distance modulus is positive for stars further away than 10 pc
+The inherent brightness, or intensity of a star, as seen to the naked eye on Earth, depends on its: Luminosity Distance from Earth
+The inherent brightness, or intensity of a star, as seen to the naked eye on Earth, depends on its:
+Luminosity
+Distance from Earth
+If two different stars have the same apparent magnitude it does not necessarily mean they emit the same amount of light or are the same size Therefore, it's useful to compare how bright they would appear to be if they were exactly the same distance from the Earth This is where the concept of absolute magnitude comes in
+If two different stars have the same apparent magnitude it does not necessarily mean they emit the same amount of light or are the same size
+Therefore, it's useful to compare how bright they would appear to be if they were exactly the same distance from the Earth
+This is where the concept of absolute magnitude comes in
+The absolute magnitude of a star is defined as:
+The apparent magnitude it would have if it were observed from a distance of 10 parsecs away from Earth
+Since most stars are much further than 10 parsecs away, they would appear brighter if observed at a distance of 10 parsecs
+Apparent vs. absolute magnitude
+The absolute magnitude is often brighter than the apparent magnitude
+For example, a real bright star very far away would have the same apparent magnitude as a dim star close by However, their absolute magnitudes will be different
+For example, a real bright star very far away would have the same apparent magnitude as a dim star close by
+However, their absolute magnitudes will be different
+This means that: Absolute and apparent magnitudes are measured on the same logarithmic scale Values of absolute magnitudes are more negative than their associated apparent magnitudes
+This means that:
+Absolute and apparent magnitudes are measured on the same logarithmic scale
+Values of absolute magnitudes are more negative than their associated apparent magnitudes
+The relationship between the apparent magnitude, absolute magnitude and distance of a star from Earth is:
+Where: M = absolute magnitude m = apparent magnitude d = distance of the star from Earth (measured in parsecs)
+Where:
+M = absolute magnitude
+m = apparent magnitude
+d = distance of the star from Earth (measured in parsecs)
+The difference between apparent and absolute magnitude is known as the distance modulus
+This is useful for quickly determining the relative distance of a star Distance modulus is negative for stars closer than 10 pc Distance modulus is positive for stars further away than 10 pc
+This is useful for quickly determining the relative distance of a star
+Distance modulus is negative for stars closer than 10 pc
+Distance modulus is positive for stars further away than 10 pc
+Worked Example The table shows some information about four stars in the constellation of Pegasus. Star Apparent magnitude distance / ly Algenib 2.84 390 Enif 2.39 690 Markab 2.49 140 Scheat 2.42 200 (a) State which of the stars in the table is the brightest on the absolute magnitude scale. (b) State which of the stars in the table is the dimmest on the absolute magnitude scale. (c) Calculate the absolute magnitude of Algenib. Answer: Part (a) The brightest on the absolute magnitude scale is... All have similar values of apparent magnitude Therefore, furthest = brightest = Enif Part (b) The dimmest on the absolute magnitude scale is... All have similar values of apparent magnitude Therefore, closest = dimmest = Markab Part (c) Calculate the absolute magnitude of Algenib: Step 1: List the known quantities Apparent magnitude of Algenib, = 2.84 Distance to Algenib, = 390 ly 1 pc = 3.26 ly (from data booklet) Step 2: Convert the distance into parsecs Distance to Algenib: = 119.6 pc Step 3: Rearrange the magnitude equation and calculate the absolute magnitude Absolute magnitude:
+Worked Example
+The table shows some information about four stars in the constellation of Pegasus.
+Star Apparent magnitude distance / ly Algenib 2.84 390 Enif 2.39 690 Markab 2.49 140 Scheat 2.42 200
+Star
+Apparent magnitude
+distance / ly
+Algenib
+2.84
+390
+Enif
+2.39
+690
+Markab
+2.49
+140
+Scheat
+2.42
+200
+(a) State which of the stars in the table is the brightest on the absolute magnitude scale.
+(b) State which of the stars in the table is the dimmest on the absolute magnitude scale.
+(c) Calculate the absolute magnitude of Algenib.
+Answer:
+Part (a)
+The brightest on the absolute magnitude scale is...
+All have similar values of apparent magnitude
+Therefore, furthest = brightest = Enif
+Part (b)
+The dimmest on the absolute magnitude scale is...
+Therefore, closest = dimmest = Markab
+Part (c)
+Calculate the absolute magnitude of Algenib:
+Step 1: List the known quantities
+Apparent magnitude of Algenib, = 2.84
+Distance to Algenib, = 390 ly
+1 pc = 3.26 ly (from data booklet)
+Step 2: Convert the distance into parsecs
+Distance to Algenib: = 119.6 pc
+Step 3: Rearrange the magnitude equation and calculate the absolute magnitude
+Absolute magnitude:
+Examiner Tips and Tricks Be specific in the language you use when comparing magnitudes - a 'bigger' magnitude could either mean brighter (greater intensity) or dimmer (bigger number) To avoid confusion, make sure to say 'brighter' or 'dimmer' magnitudes rather than larger or smaller. You must be comfortable with working with logs to manipulate this equation.
+Examiner Tips and Tricks
+Be specific in the language you use when comparing magnitudes - a 'bigger' magnitude could either mean brighter (greater intensity) or dimmer (bigger number)
+To avoid confusion, make sure to say 'brighter' or 'dimmer' magnitudes rather than larger or smaller.
+You must be comfortable with working with logs to manipulate this equation.

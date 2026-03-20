@@ -1,0 +1,87 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-2-classification-of-particles/2-2-5-quarks-and-antiquarks
+HEADING: Quarks & Antiquarks ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Properties of Quarks & Antiquarks Quarks The three most common flavours of quarks are: up, down and strange The majority of hadrons are made up of different combinations of these quarks The three main quarks that make up most hadrons Each quark has a charge, baryon number and strangeness These will be provided on the data sheet Quarks Table provided on the datasheet The charge of a hadron is determined by the sum of the charges of its quarks For example, a proton is made up of two up quarks and a down quark. Adding up their charges gives the charge of a proton: Equivalently, the baryon number and strangeness of a hadron is determined by the sum of the baryon numbers and strangeness of its quarks Anti-quarks The equivalent antiparticle of the quark is the anti-quark The three main anti-quarks that make up most hadrons These are identical to quarks except with opposite relative charges, baryons numbers and strangeness Anti-quarks Table Quarks have a baryon number of +1/3 Anti-quarks having a baryon number of –1/3 Strange quarks have a strangeness of –1 Anti-strange quarks have a strangeness of +1 This is unique to the strange quark Worked Example A K - particle has a strangeness of –1. Determine the quark structure of this particle. Answer: Step 1: Determine the types of quarks in this particle The kaon is a meson, so is made up of a quark and an anti-quark. Step 2: Determine the quark that gives a strangeness of −1 The strange quark has a strangeness of −1, so this kaon must include an s quark Step 3: Determine the quark that gives an overall charge of −1 The kaon has an overall charge of −1 The strange quark has a charge of . Adding the charges of the quarks together gives the overall charge: Hence, the missing charge The anti-up quark ( ) has a charge of Step 4: State the quark structure of the particle Strange anti-up = Examiner Tips and Tricks You will not be expected to remember the charge of each quark as this information is provided on the datasheet. So, instead of memorising the charges of anti-quarks too, just remember they are identical but with opposite signs. Quark Combinations Baryons Protons and neutrons are not fundamental particles They are each made up of three quarks Protons are made up of two up quarks and a down quark Neutrons are made up of two down quarks and an up quark Protons and neutrons are made up of three quarks Mesons Pions and kaons are made up of a quark and anti-quark pair Pions are either: π + made up of an up quark and an anti-down quark π – made up on an anti-up quark and a down quark π 0 made up of an up quark and anti-up quark or down quark and anti-down quark Pions consist of up and down quarks, and their respective antiparticles, depending on their sign Kaons are either: K + made up of an up quark and an anti-strange quark K – made up on an anti-up quark and a strange quark K 0 made up of an down quark and anti-strange quark or anti-down quark and strange quark Kaons consist of up, down and strange quarks, and their respective antiparticles, depending on their sign Worked Example Answer: Step 1: Calculate the number of protons The number of protons is from the proton number = 26 protons Step 2: Calculate the number of neutrons Number of neutrons = nucleon number – proton number Number of neutrons = 56 - 26 = 30 neutrons Step 3: Up quarks in a proton Protons are made up of uud quarks = 2 up quarks Step 4: Up quarks in a neutron Neutrons are made up of udd quarks = 1 up quark Step 5: Total number of up quarks 26 protons × 2 up quarks = 52 up quarks 30 neutrons × 1 up quark = 30 up quarks Total number of up quarks = 52 + 30 = 82 up quarks Examiner Tips and Tricks The quark combinations for protons, neutrons, pions and kaons will be expected to be memorised for the exam.
+Properties of Quarks & Antiquarks Quarks The three most common flavours of quarks are: up, down and strange The majority of hadrons are made up of different combinations of these quarks The three main quarks that make up most hadrons Each quark has a charge, baryon number and strangeness These will be provided on the data sheet Quarks Table provided on the datasheet The charge of a hadron is determined by the sum of the charges of its quarks For example, a proton is made up of two up quarks and a down quark. Adding up their charges gives the charge of a proton: Equivalently, the baryon number and strangeness of a hadron is determined by the sum of the baryon numbers and strangeness of its quarks Anti-quarks The equivalent antiparticle of the quark is the anti-quark The three main anti-quarks that make up most hadrons These are identical to quarks except with opposite relative charges, baryons numbers and strangeness Anti-quarks Table Quarks have a baryon number of +1/3 Anti-quarks having a baryon number of –1/3 Strange quarks have a strangeness of –1 Anti-strange quarks have a strangeness of +1 This is unique to the strange quark
+Properties of Quarks & Antiquarks
+Quarks
+The three most common flavours of quarks are: up, down and strange
+The majority of hadrons are made up of different combinations of these quarks
+The three main quarks that make up most hadrons
+Each quark has a charge, baryon number and strangeness
+These will be provided on the data sheet
+Quarks Table provided on the datasheet
+The charge of a hadron is determined by the sum of the charges of its quarks
+For example, a proton is made up of two up quarks and a down quark. Adding up their charges gives the charge of a proton:
+Equivalently, the baryon number and strangeness of a hadron is determined by the sum of the baryon numbers and strangeness of its quarks
+Anti-quarks
+The equivalent antiparticle of the quark is the anti-quark
+The three main anti-quarks that make up most hadrons
+These are identical to quarks except with opposite relative charges, baryons numbers and strangeness
+Anti-quarks Table
+Quarks have a baryon number of +1/3
+Anti-quarks having a baryon number of –1/3
+Strange quarks have a strangeness of –1
+Anti-strange quarks have a strangeness of +1 This is unique to the strange quark
+Anti-strange quarks have a strangeness of +1
+This is unique to the strange quark
+Worked Example A K - particle has a strangeness of –1. Determine the quark structure of this particle. Answer: Step 1: Determine the types of quarks in this particle The kaon is a meson, so is made up of a quark and an anti-quark. Step 2: Determine the quark that gives a strangeness of −1 The strange quark has a strangeness of −1, so this kaon must include an s quark Step 3: Determine the quark that gives an overall charge of −1 The kaon has an overall charge of −1 The strange quark has a charge of . Adding the charges of the quarks together gives the overall charge: Hence, the missing charge The anti-up quark ( ) has a charge of Step 4: State the quark structure of the particle Strange anti-up =
+Worked Example
+A K - particle has a strangeness of –1. Determine the quark structure of this particle.
+Answer:
+Step 1: Determine the types of quarks in this particle
+The kaon is a meson, so is made up of a quark and an anti-quark.
+Step 2: Determine the quark that gives a strangeness of −1
+The strange quark has a strangeness of −1, so this kaon must include an s quark
+Step 3: Determine the quark that gives an overall charge of −1
+The kaon has an overall charge of −1
+The strange quark has a charge of .
+Adding the charges of the quarks together gives the overall charge:
+Hence, the missing charge
+The anti-up quark ( ) has a charge of
+Step 4: State the quark structure of the particle
+Strange anti-up =
+Examiner Tips and Tricks You will not be expected to remember the charge of each quark as this information is provided on the datasheet. So, instead of memorising the charges of anti-quarks too, just remember they are identical but with opposite signs.
+Examiner Tips and Tricks
+You will not be expected to remember the charge of each quark as this information is provided on the datasheet. So, instead of memorising the charges of anti-quarks too, just remember they are identical but with opposite signs.
+Quark Combinations Baryons Protons and neutrons are not fundamental particles They are each made up of three quarks Protons are made up of two up quarks and a down quark Neutrons are made up of two down quarks and an up quark Protons and neutrons are made up of three quarks Mesons Pions and kaons are made up of a quark and anti-quark pair Pions are either: π + made up of an up quark and an anti-down quark π – made up on an anti-up quark and a down quark π 0 made up of an up quark and anti-up quark or down quark and anti-down quark Pions consist of up and down quarks, and their respective antiparticles, depending on their sign Kaons are either: K + made up of an up quark and an anti-strange quark K – made up on an anti-up quark and a strange quark K 0 made up of an down quark and anti-strange quark or anti-down quark and strange quark Kaons consist of up, down and strange quarks, and their respective antiparticles, depending on their sign
+Quark Combinations
+Baryons
+Protons and neutrons are not fundamental particles They are each made up of three quarks
+Protons and neutrons are not fundamental particles
+They are each made up of three quarks
+Protons are made up of two up quarks and a down quark
+Neutrons are made up of two down quarks and an up quark
+Protons and neutrons are made up of three quarks
+Mesons
+Pions and kaons are made up of a quark and anti-quark pair
+Pions are either: π + made up of an up quark and an anti-down quark π – made up on an anti-up quark and a down quark π 0 made up of an up quark and anti-up quark or down quark and anti-down quark
+Pions are either:
+π + made up of an up quark and an anti-down quark
+π – made up on an anti-up quark and a down quark
+π 0 made up of an up quark and anti-up quark or down quark and anti-down quark
+Pions consist of up and down quarks, and their respective antiparticles, depending on their sign
+Kaons are either: K + made up of an up quark and an anti-strange quark K – made up on an anti-up quark and a strange quark K 0 made up of an down quark and anti-strange quark or anti-down quark and strange quark
+Kaons are either:
+K + made up of an up quark and an anti-strange quark
+K – made up on an anti-up quark and a strange quark
+K 0 made up of an down quark and anti-strange quark or anti-down quark and strange quark
+Kaons consist of up, down and strange quarks, and their respective antiparticles, depending on their sign
+Worked Example Answer: Step 1: Calculate the number of protons The number of protons is from the proton number = 26 protons Step 2: Calculate the number of neutrons Number of neutrons = nucleon number – proton number Number of neutrons = 56 - 26 = 30 neutrons Step 3: Up quarks in a proton Protons are made up of uud quarks = 2 up quarks Step 4: Up quarks in a neutron Neutrons are made up of udd quarks = 1 up quark Step 5: Total number of up quarks 26 protons × 2 up quarks = 52 up quarks 30 neutrons × 1 up quark = 30 up quarks Total number of up quarks = 52 + 30 = 82 up quarks
+Step 1: Calculate the number of protons
+The number of protons is from the proton number = 26 protons
+Step 2: Calculate the number of neutrons
+Number of neutrons = nucleon number – proton number
+Number of neutrons = 56 - 26 = 30 neutrons
+Step 3: Up quarks in a proton
+Protons are made up of uud quarks = 2 up quarks
+Step 4: Up quarks in a neutron
+Neutrons are made up of udd quarks = 1 up quark
+Step 5: Total number of up quarks
+26 protons × 2 up quarks = 52 up quarks
+30 neutrons × 1 up quark = 30 up quarks
+Total number of up quarks = 52 + 30 = 82 up quarks
+Examiner Tips and Tricks The quark combinations for protons, neutrons, pions and kaons will be expected to be memorised for the exam.
+The quark combinations for protons, neutrons, pions and kaons will be expected to be memorised for the exam.

@@ -1,0 +1,91 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-8-the-young-modulus/4-8-2-required-practical-the-young-modulus
+HEADING: Required Practical: The Young Modulus ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Required Practical: The Young Modulus Aims of the Experiment The aim of the experiment is to measure the Young Modulus of a metal in the form of a wire This requires a clamped horizontal wire over a pulley This experiment can also be done with a vertical wire attached to the ceiling with a mass attached Variables Independent variable = Force (or load) (N) Dependent variable = Extension (m) Control variables: The original length of wire The thickness of the wire The metal used for the wire Equipment List Resolution of measuring equipment: Metre ruler = 1 mm Micrometer = 0.001 mm Method This method is an example of the procedure for varying load and measuring the extension of a copper wire. This is just one way of measuring the relationship between them. Measure the diameter of the wire with a micrometre screw gauge or digital callipers. Take at least 3 readings and find an average Set up the apparatus so the wire is taut. No masses should be on the mass hanger just yet Measure the original length of the wire using a metre ruler and mark a reference point with tape preferably near the beginning of the scale eg. at 1 cm Record initial reading on the ruler of the reference point Add a 100 g mass onto the mass hanger Read and record the new reading of the tape marker from the meter ruler Repeat this method by adding a 100 g mass (at least 5 – 10 times) and record the new scale reading from the metre ruler An example of a table with some possible loads and extensions might look like: Analysis of Results The Young modulus is found from the equation Where: F = force (or load) (N) L = original length of the wire (m) A = cross-sectional area of the wire (m 2 ) Δ L = extension (m) Rearranging the Young Modulus equation for the force, F : Comparing this to the equation of a straight line: y = mx y = F x = Δ L Gradient = (Young Modulus × A )/ L 1. Calculate the cross-sectional area of the wire The area of circle is given by: Where: d = diameter of the wire (m) 2. Plot a graph of load (force) against extension The load is found by multiplying each mass by g (9.81 N kg –1 ) 3. Determine the gradient of this graph F /Δ L is the gradient of the force-extension graph 4. Multiply the gradient by the ratio of the original length and cross-sectional area of the wire to calculate the Young Modulus Evaluating the Experiment Systematic Errors: Use a vernier scale for more precise readings This is more likely to produce an accurate value for the extension If the wire is extended past its elastic limit, it will be permanently deformed To reduce the risk of this, remove the load and check the wire returns to its original length before taking any new readings Random Errors: Parallax error from reading the marker on the ruler Random errors are reduced by repeating the experiment for all the loads and finding an average extension Reduce the uncertainty on the cross-sectional area by measuring the diameter in several places and calculating an average Safety Considerations Wear safety goggles at all times in case the wire snaps Make sure a cushion or soft surface is kept directly below the mass hanger, in case it falls off Worked Example A student investigates the relationship between the force on a wire and its extension. They set up the experiment by keeping the string taut with a 100 g mass. Adding on an extra 100 g each time and measuring the extension, they obtain the following table of results The following additional data for the wire is: Calculate the value of the Young Modulus of the wire. Answer: Step 1: Plot a graph of the load (force) against the extension Make sure the axes are properly labelled and the line of best fit is drawn with a ruler Step 2: Calculate the gradient of the graph Step 3: Substitute values into the Young Modulus Equation Original length of wire, L = 1.382 m Cross-sectional area, A = 6.03 × 10 -8 m 2 Gradient = 2812.5 N m -1 Examiner Tips and Tricks Although every care should be taken to make the experiment as reliable as possible, you will be expected to suggest improvements in producing more accurate and reliable results (e.g. repeat readings and use a longer length of wire)
+Required Practical: The Young Modulus Aims of the Experiment The aim of the experiment is to measure the Young Modulus of a metal in the form of a wire This requires a clamped horizontal wire over a pulley This experiment can also be done with a vertical wire attached to the ceiling with a mass attached Variables Independent variable = Force (or load) (N) Dependent variable = Extension (m) Control variables: The original length of wire The thickness of the wire The metal used for the wire Equipment List Resolution of measuring equipment: Metre ruler = 1 mm Micrometer = 0.001 mm Method This method is an example of the procedure for varying load and measuring the extension of a copper wire. This is just one way of measuring the relationship between them. Measure the diameter of the wire with a micrometre screw gauge or digital callipers. Take at least 3 readings and find an average Set up the apparatus so the wire is taut. No masses should be on the mass hanger just yet Measure the original length of the wire using a metre ruler and mark a reference point with tape preferably near the beginning of the scale eg. at 1 cm Record initial reading on the ruler of the reference point Add a 100 g mass onto the mass hanger Read and record the new reading of the tape marker from the meter ruler Repeat this method by adding a 100 g mass (at least 5 – 10 times) and record the new scale reading from the metre ruler An example of a table with some possible loads and extensions might look like: Analysis of Results The Young modulus is found from the equation Where: F = force (or load) (N) L = original length of the wire (m) A = cross-sectional area of the wire (m 2 ) Δ L = extension (m) Rearranging the Young Modulus equation for the force, F : Comparing this to the equation of a straight line: y = mx y = F x = Δ L Gradient = (Young Modulus × A )/ L 1. Calculate the cross-sectional area of the wire The area of circle is given by: Where: d = diameter of the wire (m) 2. Plot a graph of load (force) against extension The load is found by multiplying each mass by g (9.81 N kg –1 ) 3. Determine the gradient of this graph F /Δ L is the gradient of the force-extension graph 4. Multiply the gradient by the ratio of the original length and cross-sectional area of the wire to calculate the Young Modulus Evaluating the Experiment Systematic Errors: Use a vernier scale for more precise readings This is more likely to produce an accurate value for the extension If the wire is extended past its elastic limit, it will be permanently deformed To reduce the risk of this, remove the load and check the wire returns to its original length before taking any new readings Random Errors: Parallax error from reading the marker on the ruler Random errors are reduced by repeating the experiment for all the loads and finding an average extension Reduce the uncertainty on the cross-sectional area by measuring the diameter in several places and calculating an average Safety Considerations Wear safety goggles at all times in case the wire snaps Make sure a cushion or soft surface is kept directly below the mass hanger, in case it falls off
+Aims of the Experiment
+The aim of the experiment is to measure the Young Modulus of a metal in the form of a wire
+This requires a clamped horizontal wire over a pulley
+This experiment can also be done with a vertical wire attached to the ceiling with a mass attached
+Variables
+Independent variable = Force (or load) (N)
+Independent variable
+Dependent variable = Extension (m)
+Dependent variable
+Control variables: The original length of wire The thickness of the wire The metal used for the wire
+Control variables:
+The original length of wire
+The thickness of the wire
+The metal used for the wire
+Equipment List
+Resolution of measuring equipment: Metre ruler = 1 mm Micrometer = 0.001 mm
+Resolution of measuring equipment:
+Resolution
+Metre ruler = 1 mm
+Micrometer = 0.001 mm
+Method
+This method is an example of the procedure for varying load and measuring the extension of a copper wire. This is just one way of measuring the relationship between them.
+Measure the diameter of the wire with a micrometre screw gauge or digital callipers. Take at least 3 readings and find an average
+Set up the apparatus so the wire is taut. No masses should be on the mass hanger just yet
+Measure the original length of the wire using a metre ruler and mark a reference point with tape preferably near the beginning of the scale eg. at 1 cm
+Record initial reading on the ruler of the reference point
+Add a 100 g mass onto the mass hanger
+Read and record the new reading of the tape marker from the meter ruler
+Repeat this method by adding a 100 g mass (at least 5 – 10 times) and record the new scale reading from the metre ruler
+An example of a table with some possible loads and extensions might look like:
+Analysis of Results
+The Young modulus is found from the equation
+Where: F = force (or load) (N) L = original length of the wire (m) A = cross-sectional area of the wire (m 2 ) Δ L = extension (m)
+Where:
+F = force (or load) (N)
+L = original length of the wire (m)
+A = cross-sectional area of the wire (m 2 )
+Δ L = extension (m)
+Rearranging the Young Modulus equation for the force, F :
+Comparing this to the equation of a straight line: y = mx y = F x = Δ L Gradient = (Young Modulus × A )/ L
+Comparing this to the equation of a straight line: y = mx
+y = F
+x = Δ L
+Gradient = (Young Modulus × A )/ L
+1. Calculate the cross-sectional area of the wire
+The area of circle is given by:
+Where: d = diameter of the wire (m)
+2. Plot a graph of load (force) against extension
+The load is found by multiplying each mass by g (9.81 N kg –1 )
+3. Determine the gradient of this graph
+F /Δ L is the gradient of the force-extension graph
+4. Multiply the gradient by the ratio of the original length and cross-sectional area of the wire to calculate the Young Modulus
+Evaluating the Experiment
+Systematic Errors:
+Use a vernier scale for more precise readings This is more likely to produce an accurate value for the extension
+Use a vernier scale for more precise readings
+This is more likely to produce an accurate value for the extension
+If the wire is extended past its elastic limit, it will be permanently deformed To reduce the risk of this, remove the load and check the wire returns to its original length before taking any new readings
+If the wire is extended past its elastic limit, it will be permanently deformed
+To reduce the risk of this, remove the load and check the wire returns to its original length before taking any new readings
+Random Errors:
+Parallax error from reading the marker on the ruler
+Random errors are reduced by repeating the experiment for all the loads and finding an average extension
+Reduce the uncertainty on the cross-sectional area by measuring the diameter in several places and calculating an average
+Safety Considerations
+Wear safety goggles at all times in case the wire snaps
+Make sure a cushion or soft surface is kept directly below the mass hanger, in case it falls off
+Worked Example A student investigates the relationship between the force on a wire and its extension. They set up the experiment by keeping the string taut with a 100 g mass. Adding on an extra 100 g each time and measuring the extension, they obtain the following table of results The following additional data for the wire is: Calculate the value of the Young Modulus of the wire. Answer: Step 1: Plot a graph of the load (force) against the extension Make sure the axes are properly labelled and the line of best fit is drawn with a ruler Step 2: Calculate the gradient of the graph Step 3: Substitute values into the Young Modulus Equation Original length of wire, L = 1.382 m Cross-sectional area, A = 6.03 × 10 -8 m 2 Gradient = 2812.5 N m -1
+Worked Example
+A student investigates the relationship between the force on a wire and its extension. They set up the experiment by keeping the string taut with a 100 g mass. Adding on an extra 100 g each time and measuring the extension, they obtain the following table of results
+The following additional data for the wire is:
+Calculate the value of the Young Modulus of the wire.
+Answer:
+Step 1: Plot a graph of the load (force) against the extension
+Make sure the axes are properly labelled and the line of best fit is drawn with a ruler
+Step 2: Calculate the gradient of the graph
+Step 3: Substitute values into the Young Modulus Equation
+Original length of wire, L = 1.382 m Cross-sectional area, A = 6.03 × 10 -8 m 2 Gradient = 2812.5 N m -1
+Original length of wire, L = 1.382 m
+Cross-sectional area, A = 6.03 × 10 -8 m 2
+Gradient = 2812.5 N m -1
+Examiner Tips and Tricks Although every care should be taken to make the experiment as reliable as possible, you will be expected to suggest improvements in producing more accurate and reliable results (e.g. repeat readings and use a longer length of wire)
+Examiner Tips and Tricks
+Although every care should be taken to make the experiment as reliable as possible, you will be expected to suggest improvements in producing more accurate and reliable results (e.g. repeat readings and use a longer length of wire)

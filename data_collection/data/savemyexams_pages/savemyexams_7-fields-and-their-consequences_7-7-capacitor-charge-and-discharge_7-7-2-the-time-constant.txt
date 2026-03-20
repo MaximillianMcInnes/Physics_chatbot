@@ -1,0 +1,45 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-7-capacitor-charge-and-discharge/7-7-2-the-time-constant
+HEADING: The Time Constant ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Time Constant The time constant of a capacitor discharging through a resistor is a measure of how long it takes for the capacitor to discharge The definition of the time constant is: The time taken for the charge, current or voltage of a discharging capacitor to decrease to 37% of its original value Alternatively, for a charging capacitor: The time taken for the charge or voltage of a charging capacitor to rise to 63% of its maximum value 37% is 0.37 or 1 / e (where e is the exponential function) multiplied by the original value ( I 0 , Q 0 or V 0 ) This is represented by the Greek letter tau, , and measured in units of seconds (s) It is a useful way of comparing the rate of change of similar quantities e.g. charge, current or p.d. It is defined by the equation: = RC Where: = time constant (s) R = resistance of the resistor (Ω) C = capacitance of the capacitor (F) For example, to find the time constant from a voltage-time graph, calculate 0.37 V 0 and determine the corresponding time for that value The time constant shown on a charging and discharging capacitor The time to half, t 1/2 (half-life) for a discharging capacitor is: The time taken for the charge, current or voltage of a discharging capacitor to reach half of its initial value This can also be written in terms of the time constant: t 1/2 = 0.69 = 0.69RC Worked Example A capacitor of 7 nF is discharged through a resistor of resistance R. The time constant of the discharge is 5.6 × 10 -3 s. Calculate the value of R . Answer: Step 1: Write out the known quantities Capacitance, C = 7 nF = 7 × 10 -9 F Time constant, = 5.6 × 10 -3 s Step 2: Write down the time constant equation = RC Step 3: Rearrange for resistance R Step 4: Substitute in values and calculate R Examiner Tips and Tricks Remember to check the context of an exam question, i.e., whether the capacitor is charging or discharging . The definition of the time constant depends on it! For a charging capacitor, the time constant refers to the time taken to reach 63% of its maximum potential difference or charge stored For a discharging capacitor, the time constant refers to the time taken to discharge to 37% of its initial potential difference or charge stored
+The Time Constant The time constant of a capacitor discharging through a resistor is a measure of how long it takes for the capacitor to discharge The definition of the time constant is: The time taken for the charge, current or voltage of a discharging capacitor to decrease to 37% of its original value Alternatively, for a charging capacitor: The time taken for the charge or voltage of a charging capacitor to rise to 63% of its maximum value 37% is 0.37 or 1 / e (where e is the exponential function) multiplied by the original value ( I 0 , Q 0 or V 0 ) This is represented by the Greek letter tau, , and measured in units of seconds (s) It is a useful way of comparing the rate of change of similar quantities e.g. charge, current or p.d. It is defined by the equation: = RC Where: = time constant (s) R = resistance of the resistor (Ω) C = capacitance of the capacitor (F) For example, to find the time constant from a voltage-time graph, calculate 0.37 V 0 and determine the corresponding time for that value The time constant shown on a charging and discharging capacitor The time to half, t 1/2 (half-life) for a discharging capacitor is: The time taken for the charge, current or voltage of a discharging capacitor to reach half of its initial value This can also be written in terms of the time constant: t 1/2 = 0.69 = 0.69RC
+The time constant of a capacitor discharging through a resistor is a measure of how long it takes for the capacitor to discharge
+The definition of the time constant is:
+The time taken for the charge, current or voltage of a discharging capacitor to decrease to 37% of its original value
+Alternatively, for a charging capacitor:
+The time taken for the charge or voltage of a charging capacitor to rise to 63% of its maximum value
+37% is 0.37 or 1 / e (where e is the exponential function) multiplied by the original value ( I 0 , Q 0 or V 0 )
+This is represented by the Greek letter tau, , and measured in units of seconds (s) It is a useful way of comparing the rate of change of similar quantities e.g. charge, current or p.d.
+This is represented by the Greek letter tau, , and measured in units of seconds (s)
+It is a useful way of comparing the rate of change of similar quantities e.g. charge, current or p.d.
+It is defined by the equation:
+= RC
+Where: = time constant (s) R = resistance of the resistor (Ω) C = capacitance of the capacitor (F)
+Where:
+= time constant (s)
+R = resistance of the resistor (Ω)
+C = capacitance of the capacitor (F)
+capacitance
+For example, to find the time constant from a voltage-time graph, calculate 0.37 V 0 and determine the corresponding time for that value
+The time constant shown on a charging and discharging capacitor
+The time to half, t 1/2 (half-life) for a discharging capacitor is:
+The time taken for the charge, current or voltage of a discharging capacitor to reach half of its initial value
+This can also be written in terms of the time constant:
+t 1/2 = 0.69 = 0.69RC
+Worked Example A capacitor of 7 nF is discharged through a resistor of resistance R. The time constant of the discharge is 5.6 × 10 -3 s. Calculate the value of R . Answer: Step 1: Write out the known quantities Capacitance, C = 7 nF = 7 × 10 -9 F Time constant, = 5.6 × 10 -3 s Step 2: Write down the time constant equation = RC Step 3: Rearrange for resistance R Step 4: Substitute in values and calculate R
+Worked Example
+A capacitor of 7 nF is discharged through a resistor of resistance R. The time constant of the discharge is 5.6 × 10 -3 s. Calculate the value of R .
+Answer:
+Step 1: Write out the known quantities
+Capacitance, C = 7 nF = 7 × 10 -9 F
+Time constant, = 5.6 × 10 -3 s
+Step 2: Write down the time constant equation
+Step 3: Rearrange for resistance R
+Step 4: Substitute in values and calculate R
+Examiner Tips and Tricks Remember to check the context of an exam question, i.e., whether the capacitor is charging or discharging . The definition of the time constant depends on it! For a charging capacitor, the time constant refers to the time taken to reach 63% of its maximum potential difference or charge stored For a discharging capacitor, the time constant refers to the time taken to discharge to 37% of its initial potential difference or charge stored
+Examiner Tips and Tricks
+Remember to check the context of an exam question, i.e., whether the capacitor is charging or discharging . The definition of the time constant depends on it!
+For a charging capacitor, the time constant refers to the time taken to reach 63% of its maximum potential difference or charge stored
+For a discharging capacitor, the time constant refers to the time taken to discharge to 37% of its initial potential difference or charge stored

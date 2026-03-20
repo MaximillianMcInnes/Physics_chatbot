@@ -1,0 +1,41 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-6-radionuclide-imaging-and-therapy/10-6-4-physical-biological-and-effective-half-life
+HEADING: Physical, Biological & Effective Half Life ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Physical, Biological & Effective Half Life In a medical context, multiple half-life definitions must be considered The radionuclides introduced have a half-life, but the radiopharmaceuticals (molecules with radionuclides attached) are also removed from the body by natural processes over time The physical half-life of a radioisotope is defined as: The time taken for the number of radioactive nuclei to halve This is the same as the half-life of a radioactive nuclide, which is a constant quantity for a given nuclide The biological half-life of a substance is defined as: The time taken for the concentration of a substance in the body to decrease by half This accounts for the process of removing drugs from the system through excretion and respiration This depends on many factors, such as the health and metabolism of the patient Effective half-life is the combined half-life of physical and biological half-life This accounts for radioactive processes and biological excretion Effective half-life is given by the equation: Effective half-life is always shorter than the shortest half-life out of and If the physical half-life is short, the effective half-life is even shorter This is because the body is also excreting the chemical to which the radionuclide is attached If the biological half-life is short, the effective half-life is even shorter This is because the radionuclide is also decaying while the body is excreting the radiopharmaceutical at this fast rate Worked Example A medical physicist is reading up on her health and safety documentation for iodine-131 before administering it for thyroid treatment. According to the document, I-131 has a biological half-life of 138 days and a physical half-life of 8.05 days. Calculate the effective half-life. Answer: Step 1: Find the equation for effective half-life on the data sheet Step 2: Substitute the known half-lives into this equation Step 3: Rearrange for the effective half-life Examiner Tips and Tricks Remember when checking your answer: the effective half-life should always be the shortest of the three half-lives. If it isn't then you need to repeat the calculation.
+Physical, Biological & Effective Half Life In a medical context, multiple half-life definitions must be considered The radionuclides introduced have a half-life, but the radiopharmaceuticals (molecules with radionuclides attached) are also removed from the body by natural processes over time The physical half-life of a radioisotope is defined as: The time taken for the number of radioactive nuclei to halve This is the same as the half-life of a radioactive nuclide, which is a constant quantity for a given nuclide The biological half-life of a substance is defined as: The time taken for the concentration of a substance in the body to decrease by half This accounts for the process of removing drugs from the system through excretion and respiration This depends on many factors, such as the health and metabolism of the patient Effective half-life is the combined half-life of physical and biological half-life This accounts for radioactive processes and biological excretion Effective half-life is given by the equation: Effective half-life is always shorter than the shortest half-life out of and If the physical half-life is short, the effective half-life is even shorter This is because the body is also excreting the chemical to which the radionuclide is attached If the biological half-life is short, the effective half-life is even shorter This is because the radionuclide is also decaying while the body is excreting the radiopharmaceutical at this fast rate
+In a medical context, multiple half-life definitions must be considered The radionuclides introduced have a half-life, but the radiopharmaceuticals (molecules with radionuclides attached) are also removed from the body by natural processes over time
+In a medical context, multiple half-life definitions must be considered
+The radionuclides introduced have a half-life, but the radiopharmaceuticals (molecules with radionuclides attached) are also removed from the body by natural processes over time
+The physical half-life of a radioisotope is defined as:
+The time taken for the number of radioactive nuclei to halve
+This is the same as the half-life of a radioactive nuclide, which is a constant quantity for a given nuclide
+The biological half-life of a substance is defined as:
+The time taken for the concentration of a substance in the body to decrease by half
+This accounts for the process of removing drugs from the system through excretion and respiration This depends on many factors, such as the health and metabolism of the patient
+This accounts for the process of removing drugs from the system through excretion and respiration
+This depends on many factors, such as the health and metabolism of the patient
+Effective half-life is the combined half-life of physical and biological half-life This accounts for radioactive processes and biological excretion
+Effective half-life is the combined half-life of physical and biological half-life
+This accounts for radioactive processes and biological excretion
+Effective half-life is given by the equation:
+Effective half-life is always shorter than the shortest half-life out of and
+If the physical half-life is short, the effective half-life is even shorter This is because the body is also excreting the chemical to which the radionuclide is attached
+If the physical half-life is short, the effective half-life is even shorter
+This is because the body is also excreting the chemical to which the radionuclide is attached
+If the biological half-life is short, the effective half-life is even shorter This is because the radionuclide is also decaying while the body is excreting the radiopharmaceutical at this fast rate
+If the biological half-life is short, the effective half-life is even shorter
+This is because the radionuclide is also decaying while the body is excreting the radiopharmaceutical at this fast rate
+Worked Example A medical physicist is reading up on her health and safety documentation for iodine-131 before administering it for thyroid treatment. According to the document, I-131 has a biological half-life of 138 days and a physical half-life of 8.05 days. Calculate the effective half-life. Answer: Step 1: Find the equation for effective half-life on the data sheet Step 2: Substitute the known half-lives into this equation Step 3: Rearrange for the effective half-life
+Worked Example
+A medical physicist is reading up on her health and safety documentation for iodine-131 before administering it for thyroid treatment.
+According to the document, I-131 has a biological half-life of 138 days and a physical half-life of 8.05 days.
+Calculate the effective half-life.
+Answer:
+Step 1: Find the equation for effective half-life on the data sheet
+Step 2: Substitute the known half-lives into this equation
+Step 3: Rearrange for the effective half-life
+Examiner Tips and Tricks Remember when checking your answer: the effective half-life should always be the shortest of the three half-lives. If it isn't then you need to repeat the calculation.
+Examiner Tips and Tricks
+Remember when checking your answer: the effective half-life should always be the shortest of the three half-lives. If it isn't then you need to repeat the calculation.

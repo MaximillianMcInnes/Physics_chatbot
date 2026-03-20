@@ -1,0 +1,108 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-15-the-hertzsprung-russell-diagram
+HEADING: The Hertzsprung-Russell Diagram ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Hertzsprung–Russell (HR) Diagram Danish astronomer Ejnar Hertzsprung, and American astronomer Henry Noris Russell, independently plotted the luminosity of different stars against their temperature Luminosity , relative to the Sun, on the y-axis, goes from dim (at the bottom) to bright (at the top) Temperature , in degrees Kelvin, on the x-axis, goes from hot (on the left) to cool (on the right) The Hertzsprung-Russell Diagram depicts the luminosity of stars against their temperature Hertzsprung and Russel found that the stars clustered in distinct areas Most stars are clustered in a band called the main sequence For main sequence stars, luminosity increases with surface temperature A smaller number of stars clustered above the main sequence in two areas, red giants, and red supergiants These stars show an increase in luminosity at cooler temperatures The only explanation for this is that these stars are much larger than main sequence stars Below and to the left of the main sequence are the white dwarf stars These stars are hot , but not very luminous Therefore, they must be much smaller than main sequence stars The Hertzsprung-Russell Diagram only shows stars that are in stable phases Transitory phases, such as supernovae, happen quickly in relation to the lifetime of a star Black holes cannot be seen since they emit no light Evolutionary Path of Sun-Like Stars The evolutionary path of stars similar to the Sun can be described using a H-R diagram Evolutionary path of a solar mass star The lifecycle of the Sun can be mapped out on a H-R Diagram Protostar to Main Sequence (A to B): The protostar collapses from a cold cloud of gas Initially, it is visible as a very dim cool star as it moves onto a fixed position on the main sequence Its position on the main sequence is determined by the star's mass Main Sequence to Red Giant (B to C): On the main sequence, the star is stable while it fuses hydrogen into helium nuclei Once hydrogen fusion stops, the star begins to collapse under gravity This heats up the core until further nuclear reactions reignite the star The massive increase in temperature causes the star to expand into a red giant, which could be 100 times the current diameter of the Sun As the outer layers move further from the core, its surface temperature will be lower, at about 3000 K, and the extremely large surface area causes it to be much more luminous Red Giant to White Dwarf (C to D): When the supply of helium runs out in the star, nuclear fusion stops and the star collapses into a white dwarf The surface temperature of a white dwarf is generally very hot ~10 000K Due to the small surface area of a white dwarf, its luminosity is very low Lifetimes of Stars The brightest stars have very short lifetimes (a few million years) These stars use up nuclear fuel at a much higher rate The dimmest stars have extremely long lifetimes in comparison (~10 12 years) These stars use up nuclear fuel at a much slower rate Stars on the main sequence with high luminosities are massive and very bright A star that is 10 6 times brighter than the Sun will use up its nuclear fuel 10 6 times faster than the Sun A star that has a mass 100 times that of the Sun will live about or 10 −4 times as long Worked Example Stars can be classified using a Hertzsprung-Russell (HR) diagram. (a) Label the spectral class and absolute magnitude axes with suitable scales. (b) State the types of stars found in areas A, B, C and D. (c) Label with an S the position of the Sun, and draw a line to show the evolution of a star similar to the Sun. (d) On the H-R diagram, plot the star with a surface temperature of 20 000 K and a luminosity 10 000 times greater than the Sun and label it Star X . Answer: Part (a) Use the luminosity scale as a guide for the absolute magnitude scale Absolute magnitude scale should be from +15 to −10 (but +15 to −15 would be allowed) Use the temperature scale as a guide to label the spectral classes Spectral classes must be in the correct order OBAFGKM Part (b) The main sequence is the easiest to recognise as it is the long band diagonally central to the diagram where the majority of stars are found Region B = main sequence White dwarf stars are hot, but not very luminous Therefore, they will be in the region below and to the left of the main sequence Region A = white dwarfs Red giants and red supergiants have a greater luminosity than main sequence stars and a lower temperature Therefore, they will be in the region above and to the right of the main sequence Red supergiants are more luminous than the red giants, hence, they will appear above the red giants on the graph Region C = red supergiants Region D = red giants Part (c) Step 1: Identify the position of the Sun on the HR diagram The luminosity of the Sun is 1 (as it's a relative scale), or abs mag +5 The temperature of the Sun is 5800 K (between 5500−6000 K is allowed) Tip: Use a ruler and pencil to draw a line from the position of the Sun to the luminosity axis (y-axis) Step 2: Draw the evolutionary path of the Sun Start the line from the right to S to represent the transition from protostar to the main sequence From S, continue the line up and to the right into the red giant region Curve the line around to the left and down into the white dwarf region Part (d) Luminosity of Star X = 10 000 (or 10 4 ) times that of the Sun Surface temperature of Star X = 20 000 K Examiner Tips and Tricks Drawing an HR diagram on a blank pair of axes is a common exam question, including labelling the axes with suitable scales, so make sure you get plenty of practice with this! Some key points to remember when drawing this diagram are: Make sure to put absolute magnitude on the y-axis, starting at +15 at the bottom and up to −10 at the top Make sure to put temperature on the x-axis, starting from 50 000 K on the left to 2500 K on the right Always draw the main sequence as a band, not a line, and give it some curvature, don't use a ruler here (for once!) Make sure each region is distinctive and not touching one another The giants should have absolute magnitudes less than 0 The dwarfs should have absolute magnitudes greater than 10
+The Hertzsprung–Russell (HR) Diagram Danish astronomer Ejnar Hertzsprung, and American astronomer Henry Noris Russell, independently plotted the luminosity of different stars against their temperature Luminosity , relative to the Sun, on the y-axis, goes from dim (at the bottom) to bright (at the top) Temperature , in degrees Kelvin, on the x-axis, goes from hot (on the left) to cool (on the right) The Hertzsprung-Russell Diagram depicts the luminosity of stars against their temperature Hertzsprung and Russel found that the stars clustered in distinct areas Most stars are clustered in a band called the main sequence For main sequence stars, luminosity increases with surface temperature A smaller number of stars clustered above the main sequence in two areas, red giants, and red supergiants These stars show an increase in luminosity at cooler temperatures The only explanation for this is that these stars are much larger than main sequence stars Below and to the left of the main sequence are the white dwarf stars These stars are hot , but not very luminous Therefore, they must be much smaller than main sequence stars The Hertzsprung-Russell Diagram only shows stars that are in stable phases Transitory phases, such as supernovae, happen quickly in relation to the lifetime of a star Black holes cannot be seen since they emit no light Evolutionary Path of Sun-Like Stars The evolutionary path of stars similar to the Sun can be described using a H-R diagram Evolutionary path of a solar mass star The lifecycle of the Sun can be mapped out on a H-R Diagram Protostar to Main Sequence (A to B): The protostar collapses from a cold cloud of gas Initially, it is visible as a very dim cool star as it moves onto a fixed position on the main sequence Its position on the main sequence is determined by the star's mass Main Sequence to Red Giant (B to C): On the main sequence, the star is stable while it fuses hydrogen into helium nuclei Once hydrogen fusion stops, the star begins to collapse under gravity This heats up the core until further nuclear reactions reignite the star The massive increase in temperature causes the star to expand into a red giant, which could be 100 times the current diameter of the Sun As the outer layers move further from the core, its surface temperature will be lower, at about 3000 K, and the extremely large surface area causes it to be much more luminous Red Giant to White Dwarf (C to D): When the supply of helium runs out in the star, nuclear fusion stops and the star collapses into a white dwarf The surface temperature of a white dwarf is generally very hot ~10 000K Due to the small surface area of a white dwarf, its luminosity is very low Lifetimes of Stars The brightest stars have very short lifetimes (a few million years) These stars use up nuclear fuel at a much higher rate The dimmest stars have extremely long lifetimes in comparison (~10 12 years) These stars use up nuclear fuel at a much slower rate Stars on the main sequence with high luminosities are massive and very bright A star that is 10 6 times brighter than the Sun will use up its nuclear fuel 10 6 times faster than the Sun A star that has a mass 100 times that of the Sun will live about or 10 −4 times as long
+The Hertzsprung–Russell (HR) Diagram
+Danish astronomer Ejnar Hertzsprung, and American astronomer Henry Noris Russell, independently plotted the luminosity of different stars against their temperature Luminosity , relative to the Sun, on the y-axis, goes from dim (at the bottom) to bright (at the top) Temperature , in degrees Kelvin, on the x-axis, goes from hot (on the left) to cool (on the right)
+Danish astronomer Ejnar Hertzsprung, and American astronomer Henry Noris Russell, independently plotted the luminosity of different stars against their temperature
+luminosity
+Luminosity , relative to the Sun, on the y-axis, goes from dim (at the bottom) to bright (at the top)
+Temperature , in degrees Kelvin, on the x-axis, goes from hot (on the left) to cool (on the right)
+The Hertzsprung-Russell Diagram depicts the luminosity of stars against their temperature
+Hertzsprung and Russel found that the stars clustered in distinct areas
+Most stars are clustered in a band called the main sequence For main sequence stars, luminosity increases with surface temperature
+Most stars are clustered in a band called the main sequence
+For main sequence stars, luminosity increases with surface temperature
+A smaller number of stars clustered above the main sequence in two areas, red giants, and red supergiants These stars show an increase in luminosity at cooler temperatures The only explanation for this is that these stars are much larger than main sequence stars
+A smaller number of stars clustered above the main sequence in two areas, red giants, and red supergiants
+These stars show an increase in luminosity at cooler temperatures
+The only explanation for this is that these stars are much larger than main sequence stars
+Below and to the left of the main sequence are the white dwarf stars These stars are hot , but not very luminous Therefore, they must be much smaller than main sequence stars
+Below and to the left of the main sequence are the white dwarf stars
+These stars are hot , but not very luminous
+Therefore, they must be much smaller than main sequence stars
+The Hertzsprung-Russell Diagram only shows stars that are in stable phases Transitory phases, such as supernovae, happen quickly in relation to the lifetime of a star Black holes cannot be seen since they emit no light
+The Hertzsprung-Russell Diagram only shows stars that are in stable phases
+Transitory phases, such as supernovae, happen quickly in relation to the lifetime of a star
+Black holes cannot be seen since they emit no light
+Evolutionary Path of Sun-Like Stars
+The evolutionary path of stars similar to the Sun can be described using a H-R diagram
+Evolutionary path of a solar mass star
+The lifecycle of the Sun can be mapped out on a H-R Diagram
+Protostar to Main Sequence (A to B):
+The protostar collapses from a cold cloud of gas
+Initially, it is visible as a very dim cool star as it moves onto a fixed position on the main sequence
+Its position on the main sequence is determined by the star's mass
+Main Sequence to Red Giant (B to C):
+On the main sequence, the star is stable while it fuses hydrogen into helium nuclei
+Once hydrogen fusion stops, the star begins to collapse under gravity
+This heats up the core until further nuclear reactions reignite the star
+The massive increase in temperature causes the star to expand into a red giant, which could be 100 times the current diameter of the Sun
+As the outer layers move further from the core, its surface temperature will be lower, at about 3000 K, and the extremely large surface area causes it to be much more luminous
+Red Giant to White Dwarf (C to D):
+When the supply of helium runs out in the star, nuclear fusion stops and the star collapses into a white dwarf
+The surface temperature of a white dwarf is generally very hot ~10 000K
+Due to the small surface area of a white dwarf, its luminosity is very low
+Lifetimes of Stars
+The brightest stars have very short lifetimes (a few million years) These stars use up nuclear fuel at a much higher rate
+The brightest stars have very short lifetimes (a few million years)
+These stars use up nuclear fuel at a much higher rate
+The dimmest stars have extremely long lifetimes in comparison (~10 12 years) These stars use up nuclear fuel at a much slower rate
+The dimmest stars have extremely long lifetimes in comparison (~10 12 years)
+These stars use up nuclear fuel at a much slower rate
+Stars on the main sequence with high luminosities are massive and very bright A star that is 10 6 times brighter than the Sun will use up its nuclear fuel 10 6 times faster than the Sun A star that has a mass 100 times that of the Sun will live about or 10 −4 times as long
+Stars on the main sequence with high luminosities are massive and very bright
+A star that is 10 6 times brighter than the Sun will use up its nuclear fuel 10 6 times faster than the Sun
+A star that has a mass 100 times that of the Sun will live about or 10 −4 times as long
+Worked Example Stars can be classified using a Hertzsprung-Russell (HR) diagram. (a) Label the spectral class and absolute magnitude axes with suitable scales. (b) State the types of stars found in areas A, B, C and D. (c) Label with an S the position of the Sun, and draw a line to show the evolution of a star similar to the Sun. (d) On the H-R diagram, plot the star with a surface temperature of 20 000 K and a luminosity 10 000 times greater than the Sun and label it Star X . Answer: Part (a) Use the luminosity scale as a guide for the absolute magnitude scale Absolute magnitude scale should be from +15 to −10 (but +15 to −15 would be allowed) Use the temperature scale as a guide to label the spectral classes Spectral classes must be in the correct order OBAFGKM Part (b) The main sequence is the easiest to recognise as it is the long band diagonally central to the diagram where the majority of stars are found Region B = main sequence White dwarf stars are hot, but not very luminous Therefore, they will be in the region below and to the left of the main sequence Region A = white dwarfs Red giants and red supergiants have a greater luminosity than main sequence stars and a lower temperature Therefore, they will be in the region above and to the right of the main sequence Red supergiants are more luminous than the red giants, hence, they will appear above the red giants on the graph Region C = red supergiants Region D = red giants Part (c) Step 1: Identify the position of the Sun on the HR diagram The luminosity of the Sun is 1 (as it's a relative scale), or abs mag +5 The temperature of the Sun is 5800 K (between 5500−6000 K is allowed) Tip: Use a ruler and pencil to draw a line from the position of the Sun to the luminosity axis (y-axis) Step 2: Draw the evolutionary path of the Sun Start the line from the right to S to represent the transition from protostar to the main sequence From S, continue the line up and to the right into the red giant region Curve the line around to the left and down into the white dwarf region Part (d) Luminosity of Star X = 10 000 (or 10 4 ) times that of the Sun Surface temperature of Star X = 20 000 K
+Worked Example
+Stars can be classified using a Hertzsprung-Russell (HR) diagram.
+(a) Label the spectral class and absolute magnitude axes with suitable scales.
+(b) State the types of stars found in areas A, B, C and D.
+(c) Label with an S the position of the Sun, and draw a line to show the evolution of a star similar to the Sun.
+(d) On the H-R diagram, plot the star with a surface temperature of 20 000 K and a luminosity 10 000 times greater than the Sun and label it Star X .
+Answer:
+Part (a)
+Use the luminosity scale as a guide for the absolute magnitude scale
+Absolute magnitude scale should be from +15 to −10 (but +15 to −15 would be allowed)
+Use the temperature scale as a guide to label the spectral classes
+Spectral classes must be in the correct order OBAFGKM
+Part (b)
+The main sequence is the easiest to recognise as it is the long band diagonally central to the diagram where the majority of stars are found Region B = main sequence
+The main sequence is the easiest to recognise as it is the long band diagonally central to the diagram where the majority of stars are found
+Region B = main sequence
+White dwarf stars are hot, but not very luminous
+Therefore, they will be in the region below and to the left of the main sequence Region A = white dwarfs
+Therefore, they will be in the region below and to the left of the main sequence
+Region A = white dwarfs
+Red giants and red supergiants have a greater luminosity than main sequence stars and a lower temperature
+Therefore, they will be in the region above and to the right of the main sequence
+Red supergiants are more luminous than the red giants, hence, they will appear above the red giants on the graph Region C = red supergiants Region D = red giants
+Red supergiants are more luminous than the red giants, hence, they will appear above the red giants on the graph
+Region C = red supergiants
+Region D = red giants
+Part (c)
+Step 1: Identify the position of the Sun on the HR diagram
+The luminosity of the Sun is 1 (as it's a relative scale), or abs mag +5
+The temperature of the Sun is 5800 K (between 5500−6000 K is allowed)
+Tip: Use a ruler and pencil to draw a line from the position of the Sun to the luminosity axis (y-axis)
+Step 2: Draw the evolutionary path of the Sun
+Start the line from the right to S to represent the transition from protostar to the main sequence
+From S, continue the line up and to the right into the red giant region
+Curve the line around to the left and down into the white dwarf region
+Part (d)
+Luminosity of Star X = 10 000 (or 10 4 ) times that of the Sun
+Surface temperature of Star X = 20 000 K
+Examiner Tips and Tricks Drawing an HR diagram on a blank pair of axes is a common exam question, including labelling the axes with suitable scales, so make sure you get plenty of practice with this! Some key points to remember when drawing this diagram are: Make sure to put absolute magnitude on the y-axis, starting at +15 at the bottom and up to −10 at the top Make sure to put temperature on the x-axis, starting from 50 000 K on the left to 2500 K on the right Always draw the main sequence as a band, not a line, and give it some curvature, don't use a ruler here (for once!) Make sure each region is distinctive and not touching one another The giants should have absolute magnitudes less than 0 The dwarfs should have absolute magnitudes greater than 10
+Examiner Tips and Tricks
+Drawing an HR diagram on a blank pair of axes is a common exam question, including labelling the axes with suitable scales, so make sure you get plenty of practice with this!
+Some key points to remember when drawing this diagram are:
+Make sure to put absolute magnitude on the y-axis, starting at +15 at the bottom and up to −10 at the top
+Make sure to put temperature on the x-axis, starting from 50 000 K on the left to 2500 K on the right
+Always draw the main sequence as a band, not a line, and give it some curvature, don't use a ruler here (for once!)
+Make sure each region is distinctive and not touching one another
+The giants should have absolute magnitudes less than 0
+The dwarfs should have absolute magnitudes greater than 10

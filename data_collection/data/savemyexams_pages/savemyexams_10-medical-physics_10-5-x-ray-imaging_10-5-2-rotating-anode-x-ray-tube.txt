@@ -1,0 +1,54 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-5-x-ray-imaging/10-5-2-rotating-anode-x-ray-tube
+HEADING: Rotating-Anode X-ray Tube ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Rotating-Anode X-ray Tube An X-ray tube is a device that converts an electrical input into X-rays It is composed of four main components: A heated cathode An anode A metal target A high voltage power supply The production of X-rays has many practical uses, such as in: Medical imaging (radiography) Security Industrial imaging The Rotating-Anode X-ray Tube The main components of an X-ray tube are the heated cathode, anode, metal target and a high voltage supply Heated Cathode At one end of the tube is the cathode (negative terminal) which is heated by an electric current The heat causes electrons to be liberated from the cathode, gathering in a cloud near its surface This process of thermionic emission is the source of the electrons Anode At the other end of the tube, an anode (positive terminal) is connected to the high-voltage supply This allows the electrons to be accelerated up to a voltage of 200 kV When the electrons arrive at the anode, they gain a kinetic energy of 200 keV (by the definition of an electronvolt ) Only about 1% of the kinetic energy is converted to X-rays The rest is converted to heat energy Therefore, to avoid overheating, the anode is spun at 3000 rpm and sometimes water-cooled Metal Target When the electrons hit the target at high speed , they lose some of their kinetic energy This energy is re-emitted as X-ray photons A heat-resistant block of metal, usually tungsten, is embedded at the end of the anode, facing the cathode This is the material that the electrons collide with and X-rays are generated in High Voltage Power Supply The high voltage supply creates a large potential difference (> 50 kV) between the cathode and the target This causes electrons in the cloud around the cathode to be accelerated to a high velocity towards the target, which they strike, creating X-rays Other Components X-rays are produced in all directions, so the tube is surrounded by lead shielding This is to ensure the safety of the operators and recipients of the X-rays An adjustable window allows a concentrated beam of X-rays to escape and be controlled safely The anode and cathode are housed inside a vacuum chamber This is to ensure that the electrons do not collide with any particles on their way to the metal target
+An X-ray tube is a device that converts an electrical input into X-rays
+It is composed of four main components: A heated cathode An anode A metal target A high voltage power supply
+It is composed of four main components:
+A heated cathode
+An anode
+A metal target
+A high voltage power supply
+The production of X-rays has many practical uses, such as in: Medical imaging (radiography) Security Industrial imaging
+The production of X-rays has many practical uses, such as in:
+Medical imaging (radiography)
+Security
+Industrial imaging
+The Rotating-Anode X-ray Tube
+The main components of an X-ray tube are the heated cathode, anode, metal target and a high voltage supply
+Heated Cathode
+At one end of the tube is the cathode (negative terminal) which is heated by an electric current The heat causes electrons to be liberated from the cathode, gathering in a cloud near its surface This process of thermionic emission is the source of the electrons
+At one end of the tube is the cathode (negative terminal) which is heated by an electric current
+The heat causes electrons to be liberated from the cathode, gathering in a cloud near its surface
+This process of thermionic emission is the source of the electrons
+thermionic emission
+Anode
+At the other end of the tube, an anode (positive terminal) is connected to the high-voltage supply
+This allows the electrons to be accelerated up to a voltage of 200 kV When the electrons arrive at the anode, they gain a kinetic energy of 200 keV (by the definition of an electronvolt )
+This allows the electrons to be accelerated up to a voltage of 200 kV
+When the electrons arrive at the anode, they gain a kinetic energy of 200 keV (by the definition of an electronvolt )
+electronvolt
+Only about 1% of the kinetic energy is converted to X-rays The rest is converted to heat energy Therefore, to avoid overheating, the anode is spun at 3000 rpm and sometimes water-cooled
+Only about 1% of the kinetic energy is converted to X-rays
+The rest is converted to heat energy
+Therefore, to avoid overheating, the anode is spun at 3000 rpm and sometimes water-cooled
+Metal Target
+When the electrons hit the target at high speed , they lose some of their kinetic energy This energy is re-emitted as X-ray photons
+When the electrons hit the target at high speed , they lose some of their kinetic energy
+This energy is re-emitted as X-ray photons
+A heat-resistant block of metal, usually tungsten, is embedded at the end of the anode, facing the cathode This is the material that the electrons collide with and X-rays are generated in
+A heat-resistant block of metal, usually tungsten, is embedded at the end of the anode, facing the cathode
+This is the material that the electrons collide with and X-rays are generated in
+High Voltage Power Supply
+The high voltage supply creates a large potential difference (> 50 kV) between the cathode and the target
+This causes electrons in the cloud around the cathode to be accelerated to a high velocity towards the target, which they strike, creating X-rays
+Other Components
+X-rays are produced in all directions, so the tube is surrounded by lead shielding This is to ensure the safety of the operators and recipients of the X-rays An adjustable window allows a concentrated beam of X-rays to escape and be controlled safely
+X-rays are produced in all directions, so the tube is surrounded by lead shielding
+This is to ensure the safety of the operators and recipients of the X-rays
+An adjustable window allows a concentrated beam of X-rays to escape and be controlled safely
+The anode and cathode are housed inside a vacuum chamber This is to ensure that the electrons do not collide with any particles on their way to the metal target
+The anode and cathode are housed inside a vacuum chamber
+This is to ensure that the electrons do not collide with any particles on their way to the metal target

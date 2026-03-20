@@ -1,0 +1,64 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-9-electromagnetic-induction/7-9-2-magnetic-flux-linkage
+HEADING: Magnetic Flux Linkage ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Magnetic Flux Linkage More coils in a wire mean a larger e.m.f is induced The magnetic flux linkage is a quantity commonly used for solenoids which are made of N turns of wire The flux linkage is defined as: The product of the magnetic flux and the number of turns of the coil It is calculated using the equation: Magnetic flux linkage = ΦN = BAN Where: Φ = magnetic flux (Wb) N = number of turns of the coil B = magnetic flux density (T) A = cross-sectional area (m 2 ) The flux linkage ΦN has the units of Weber turns (Wb turns) Flux Linkage in a Rotating Rectangular Coil When the magnet field lines are not completely perpendicular to the area A , then the perpendicular component of magnetic flux density B is taken The equation then becomes: Φ = BA cos(θ) Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 ) θ = angle between magnetic field lines and the line perpendicular to the plane of the area (often called the normal line) (degrees) This means the magnetic flux is: Maximum = BA when cos(θ) =1 therefore θ = 0 o The magnetic field lines are perpendicular to the plane of the area Minimum = 0 when cos(θ) = 0 therefore θ = 90 o The magnetic fields lines are parallel to the plane of the area An e.m.f is induced in a circuit when the magnetic flux linkage changes with respect to time This means an e.m.f is induced when there is: A changing magnetic flux density B A changing cross-sectional area A A change in angle θ The magnetic flux through a rectangular coil decreases as the angle between the field lines and plane decrease Magnetic field lines may not be completely perpendicular to the plane of the area that they pass through Therefore, the component of the flux density which is perpendicular is equal to: ΦN = BAN cos(θ) Where: N = number of turns of the coil Worked Example A solenoid of circular cross-sectional radius 0.40 m and 300 turns is placed perpendicular to a magnetic field with a magnetic flux density of 5.1 mT. Determine the magnetic flux linkage for this solenoid. Answer: Step 1: Write out the known quantities Cross-sectional area, A = πr 2 = π(0.4) 2 = 0.503 m 2 Magnetic flux density, B = 5.1 mT Number of turns of the coil, N = 300 turns Step 2: Write down the equation for the magnetic flux linkage ΦN = BAN Step 3: Substitute in values and calculate ΦN = (5.1 × 10 -3 ) × 0.503 × 300 = 0.7691 = 0.77 Wb turns (2 s.f)
+Magnetic Flux Linkage More coils in a wire mean a larger e.m.f is induced The magnetic flux linkage is a quantity commonly used for solenoids which are made of N turns of wire The flux linkage is defined as: The product of the magnetic flux and the number of turns of the coil It is calculated using the equation: Magnetic flux linkage = ΦN = BAN Where: Φ = magnetic flux (Wb) N = number of turns of the coil B = magnetic flux density (T) A = cross-sectional area (m 2 ) The flux linkage ΦN has the units of Weber turns (Wb turns)
+More coils in a wire mean a larger e.m.f is induced
+The magnetic flux linkage is a quantity commonly used for solenoids which are made of N turns of wire
+The flux linkage is defined as:
+The product of the magnetic flux and the number of turns of the coil
+It is calculated using the equation:
+Magnetic flux linkage = ΦN = BAN
+Where: Φ = magnetic flux (Wb) N = number of turns of the coil B = magnetic flux density (T) A = cross-sectional area (m 2 )
+Where:
+Φ = magnetic flux (Wb)
+magnetic flux
+N = number of turns of the coil
+B = magnetic flux density (T)
+A = cross-sectional area (m 2 )
+The flux linkage ΦN has the units of Weber turns (Wb turns)
+Flux Linkage in a Rotating Rectangular Coil When the magnet field lines are not completely perpendicular to the area A , then the perpendicular component of magnetic flux density B is taken The equation then becomes: Φ = BA cos(θ) Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 ) θ = angle between magnetic field lines and the line perpendicular to the plane of the area (often called the normal line) (degrees) This means the magnetic flux is: Maximum = BA when cos(θ) =1 therefore θ = 0 o The magnetic field lines are perpendicular to the plane of the area Minimum = 0 when cos(θ) = 0 therefore θ = 90 o The magnetic fields lines are parallel to the plane of the area An e.m.f is induced in a circuit when the magnetic flux linkage changes with respect to time This means an e.m.f is induced when there is: A changing magnetic flux density B A changing cross-sectional area A A change in angle θ The magnetic flux through a rectangular coil decreases as the angle between the field lines and plane decrease Magnetic field lines may not be completely perpendicular to the plane of the area that they pass through Therefore, the component of the flux density which is perpendicular is equal to: ΦN = BAN cos(θ) Where: N = number of turns of the coil
+Flux Linkage in a Rotating Rectangular Coil
+When the magnet field lines are not completely perpendicular to the area A , then the perpendicular component of magnetic flux density B is taken
+The equation then becomes:
+Φ = BA cos(θ)
+Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 ) θ = angle between magnetic field lines and the line perpendicular to the plane of the area (often called the normal line) (degrees)
+magnetic flux density
+θ = angle between magnetic field lines and the line perpendicular to the plane of the area (often called the normal line) (degrees)
+magnetic field
+This means the magnetic flux is: Maximum = BA when cos(θ) =1 therefore θ = 0 o The magnetic field lines are perpendicular to the plane of the area Minimum = 0 when cos(θ) = 0 therefore θ = 90 o The magnetic fields lines are parallel to the plane of the area
+This means the magnetic flux is:
+Maximum = BA when cos(θ) =1 therefore θ = 0 o The magnetic field lines are perpendicular to the plane of the area
+Maximum = BA
+when cos(θ) =1 therefore θ = 0 o
+The magnetic field lines are perpendicular to the plane of the area
+Minimum = 0 when cos(θ) = 0 therefore θ = 90 o The magnetic fields lines are parallel to the plane of the area
+Minimum = 0
+when cos(θ) = 0 therefore θ = 90 o
+The magnetic fields lines are parallel to the plane of the area
+An e.m.f is induced in a circuit when the magnetic flux linkage changes with respect to time
+This means an e.m.f is induced when there is: A changing magnetic flux density B A changing cross-sectional area A A change in angle θ
+This means an e.m.f is induced when there is:
+A changing magnetic flux density B
+A changing cross-sectional area A
+A change in angle θ
+The magnetic flux through a rectangular coil decreases as the angle between the field lines and plane decrease
+Magnetic field lines may not be completely perpendicular to the plane of the area that they pass through
+Therefore, the component of the flux density which is perpendicular is equal to:
+ΦN = BAN cos(θ)
+Where: N = number of turns of the coil
+Worked Example A solenoid of circular cross-sectional radius 0.40 m and 300 turns is placed perpendicular to a magnetic field with a magnetic flux density of 5.1 mT. Determine the magnetic flux linkage for this solenoid. Answer: Step 1: Write out the known quantities Cross-sectional area, A = πr 2 = π(0.4) 2 = 0.503 m 2 Magnetic flux density, B = 5.1 mT Number of turns of the coil, N = 300 turns Step 2: Write down the equation for the magnetic flux linkage ΦN = BAN Step 3: Substitute in values and calculate ΦN = (5.1 × 10 -3 ) × 0.503 × 300 = 0.7691 = 0.77 Wb turns (2 s.f)
+Worked Example
+A solenoid of circular cross-sectional radius 0.40 m and 300 turns is placed perpendicular to a magnetic field with a magnetic flux density of 5.1 mT. Determine the magnetic flux linkage for this solenoid.
+Answer:
+Step 1: Write out the known quantities
+Cross-sectional area, A = πr 2 = π(0.4) 2 = 0.503 m 2 Magnetic flux density, B = 5.1 mT Number of turns of the coil, N = 300 turns
+Cross-sectional area, A = πr 2 = π(0.4) 2 = 0.503 m 2
+Magnetic flux density, B = 5.1 mT
+Number of turns of the coil, N = 300 turns
+Step 2: Write down the equation for the magnetic flux linkage
+ΦN = BAN
+Step 3: Substitute in values and calculate
+ΦN = (5.1 × 10 -3 ) × 0.503 × 300 = 0.7691 = 0.77 Wb turns (2 s.f)

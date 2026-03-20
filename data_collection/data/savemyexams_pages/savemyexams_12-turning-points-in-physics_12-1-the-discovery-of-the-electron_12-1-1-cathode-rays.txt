@@ -1,0 +1,61 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-1-the-discovery-of-the-electron/12-1-1-cathode-rays
+HEADING: Cathode Rays ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Cathode Rays What is a Cathode? An electrode is a conductor through which electricity passes A cathode is a negatively charged electrode An anode is a positively charged electrode Discharge Tubes In the 1800s, scientists made discharge tubes These were glass chambers containing a low pressure gas, with an anode at one end and a cathode at the other, connected to a high voltage supply When a potential difference was applied between the anode and cathode, the gas glowed It was hypothesised that this glow was caused by emissions from the cathode, called cathode rays A discharge tube What are Cathode Rays? When a magnetic field was applied to the glass tube, it was found the path of the cathode rays was deflected This showed they were made from negatively charged particles How does the Discharge Tube Conduct? The electric field between the electrodes ionises the gas particles in the tube This separates atoms into positive ions and electrons Negative electrons are attracted to the positive anode Positive ions are attracted to the negative cathode This can only happen because the pressure of the gas is low enough to allow the charged particles to travel Electrons are also emitted from the cathode and travel towards the anode Conduction is a result of these electrons and positive ions moving across the tube Why does the Gas Glow? Electrons and positive ions are travelling in opposite directions in the tube Due to the low pressure , they have space to gain a large amount of energy in their kinetic store When they collide, they recombine in an excited state The electrons in atoms de-excite to ground state, emitting visible photons (as well as other frequencies) Worked Example A discharge tube contains a low pressure gas. An anode is at one end and a cathode at the other with a large potential difference between the two. The gas conducts and also emits light. (i) Explain how the gas conducts, referring to the charge-carrying particles in your answer. (ii) Explain why the gas must be at low pressure to emit light. Answer: Part (i) Step 1: Recall that, for the gas to conduct, we need charged particles The electric field ionises gas atoms, removing electrons and forming positive ions The cathode also emits electrons (at very high potential difference) Step 2: Recall why the particles move across the discharge tube The electric field accelerates electrons and positive ions, which cause conduction Part (ii) Step 1: Light is emitted when electrons and ions recombine Positive ions and electrons collide at high speed and recombine, emitting photons when they de-excite Step 2: Light is emitted when an atom is excited Accelerated electrons collide with gas atoms, exciting them The gas atoms emit visible photons when they de-excite Step 3: Describe a low pressure gas in terms of the distribution of particles In a low pressure gas, the particles are widely spaced Step 4: Recall why this allows atoms to become excited more easily There are fewer obstacles for accelerating charged particles, so they can collide with enough energy to produce excited atoms (which then go on to emit light)
+Cathode Rays What is a Cathode? An electrode is a conductor through which electricity passes A cathode is a negatively charged electrode An anode is a positively charged electrode Discharge Tubes In the 1800s, scientists made discharge tubes These were glass chambers containing a low pressure gas, with an anode at one end and a cathode at the other, connected to a high voltage supply When a potential difference was applied between the anode and cathode, the gas glowed It was hypothesised that this glow was caused by emissions from the cathode, called cathode rays A discharge tube What are Cathode Rays? When a magnetic field was applied to the glass tube, it was found the path of the cathode rays was deflected This showed they were made from negatively charged particles How does the Discharge Tube Conduct? The electric field between the electrodes ionises the gas particles in the tube This separates atoms into positive ions and electrons Negative electrons are attracted to the positive anode Positive ions are attracted to the negative cathode This can only happen because the pressure of the gas is low enough to allow the charged particles to travel Electrons are also emitted from the cathode and travel towards the anode Conduction is a result of these electrons and positive ions moving across the tube Why does the Gas Glow? Electrons and positive ions are travelling in opposite directions in the tube Due to the low pressure , they have space to gain a large amount of energy in their kinetic store When they collide, they recombine in an excited state The electrons in atoms de-excite to ground state, emitting visible photons (as well as other frequencies)
+What is a Cathode?
+An electrode is a conductor through which electricity passes
+A cathode is a negatively charged electrode
+An anode is a positively charged electrode
+Discharge Tubes
+In the 1800s, scientists made discharge tubes These were glass chambers containing a low pressure gas, with an anode at one end and a cathode at the other, connected to a high voltage supply
+In the 1800s, scientists made discharge tubes
+These were glass chambers containing a low pressure gas, with an anode at one end and a cathode at the other, connected to a high voltage supply
+When a potential difference was applied between the anode and cathode, the gas glowed It was hypothesised that this glow was caused by emissions from the cathode, called cathode rays
+When a potential difference was applied between the anode and cathode, the gas glowed
+It was hypothesised that this glow was caused by emissions from the cathode, called cathode rays
+A discharge tube
+What are Cathode Rays?
+When a magnetic field was applied to the glass tube, it was found the path of the cathode rays was deflected This showed they were made from negatively charged particles
+When a magnetic field was applied to the glass tube, it was found the path of the cathode rays was deflected
+This showed they were made from negatively charged particles
+How does the Discharge Tube Conduct?
+The electric field between the electrodes ionises the gas particles in the tube
+This separates atoms into positive ions and electrons Negative electrons are attracted to the positive anode Positive ions are attracted to the negative cathode This can only happen because the pressure of the gas is low enough to allow the charged particles to travel
+This separates atoms into positive ions and electrons
+Negative electrons are attracted to the positive anode
+Positive ions are attracted to the negative cathode
+This can only happen because the pressure of the gas is low enough to allow the charged particles to travel
+Electrons are also emitted from the cathode and travel towards the anode Conduction is a result of these electrons and positive ions moving across the tube
+Electrons are also emitted from the cathode and travel towards the anode
+Conduction is a result of these electrons and positive ions moving across the tube
+Why does the Gas Glow?
+Electrons and positive ions are travelling in opposite directions in the tube Due to the low pressure , they have space to gain a large amount of energy in their kinetic store
+Electrons and positive ions are travelling in opposite directions in the tube
+Due to the low pressure , they have space to gain a large amount of energy in their kinetic store
+When they collide, they recombine in an excited state
+The electrons in atoms de-excite to ground state, emitting visible photons (as well as other frequencies)
+Worked Example A discharge tube contains a low pressure gas. An anode is at one end and a cathode at the other with a large potential difference between the two. The gas conducts and also emits light. (i) Explain how the gas conducts, referring to the charge-carrying particles in your answer. (ii) Explain why the gas must be at low pressure to emit light. Answer: Part (i) Step 1: Recall that, for the gas to conduct, we need charged particles The electric field ionises gas atoms, removing electrons and forming positive ions The cathode also emits electrons (at very high potential difference) Step 2: Recall why the particles move across the discharge tube The electric field accelerates electrons and positive ions, which cause conduction Part (ii) Step 1: Light is emitted when electrons and ions recombine Positive ions and electrons collide at high speed and recombine, emitting photons when they de-excite Step 2: Light is emitted when an atom is excited Accelerated electrons collide with gas atoms, exciting them The gas atoms emit visible photons when they de-excite Step 3: Describe a low pressure gas in terms of the distribution of particles In a low pressure gas, the particles are widely spaced Step 4: Recall why this allows atoms to become excited more easily There are fewer obstacles for accelerating charged particles, so they can collide with enough energy to produce excited atoms (which then go on to emit light)
+Worked Example
+A discharge tube contains a low pressure gas. An anode is at one end and a cathode at the other with a large potential difference between the two. The gas conducts and also emits light.
+(i) Explain how the gas conducts, referring to the charge-carrying particles in your answer.
+(ii) Explain why the gas must be at low pressure to emit light.
+Answer:
+Part (i)
+Step 1: Recall that, for the gas to conduct, we need charged particles
+The electric field ionises gas atoms, removing electrons and forming positive ions
+The cathode also emits electrons (at very high potential difference)
+Step 2: Recall why the particles move across the discharge tube
+The electric field accelerates electrons and positive ions, which cause conduction
+Part (ii)
+Step 1: Light is emitted when electrons and ions recombine
+Positive ions and electrons collide at high speed and recombine, emitting photons when they de-excite
+Step 2: Light is emitted when an atom is excited
+Accelerated electrons collide with gas atoms, exciting them
+The gas atoms emit visible photons when they de-excite
+Step 3: Describe a low pressure gas in terms of the distribution of particles
+In a low pressure gas, the particles are widely spaced
+Step 4: Recall why this allows atoms to become excited more easily
+There are fewer obstacles for accelerating charged particles, so they can collide with enough energy to produce excited atoms (which then go on to emit light)

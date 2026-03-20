@@ -1,0 +1,38 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-9-star-formation
+HEADING: Star Formation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Star Formation Conditions for Fusion For nuclear fusion to occur, both nuclei must have sufficiently high kinetic energy to overcome the electrostatic repulsion between protons The conditions required to achieve this are: Very high temperature (on the scale of 100 million Kelvin) Very high pressure and density Four hydrogen nuclei (protons) are fused into one helium nucleus, producing two gamma-ray photons, two neutrinos and two positrons Massive amounts of energy are released The momentum of the gamma-ray photons results in an outward acting pressure called radiation pressure Nuclear fusion of hydrogen nuclei to form helium nuclei Equilibrium in Stars Once the core temperature of a star reaches millions of degrees kelvin and the fusion of hydrogen nuclei to helium nuclei begins The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur Eventually, when the core becomes hot enough and fusion reactions can occur, they will begin to produce an outward radiation pressure which balances the inward pull of gravity The star reaches a stable state where the inward and outward forces are in equilibrium As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases The gas pressure and the radiation pressure act outwards to balance the gravitational force (weight, F = mg ) acting inwards Equilibrium in stars occurs when the outward radiation pressure is balanced with the inward gravitational force If the temperature of a star increases , the outward pressure will also increase If outward pressure > gravitational force, the star will expand If the temperature drops the outward pressure will also decrease If outward pressure < gravitational force, the star will contract As long as these two forces are balanced , the star will remain stable
+Conditions for Fusion
+For nuclear fusion to occur, both nuclei must have sufficiently high kinetic energy to overcome the electrostatic repulsion between protons
+The conditions required to achieve this are: Very high temperature (on the scale of 100 million Kelvin) Very high pressure and density
+The conditions required to achieve this are:
+Very high temperature (on the scale of 100 million Kelvin)
+Very high pressure and density
+Four hydrogen nuclei (protons) are fused into one helium nucleus, producing two gamma-ray photons, two neutrinos and two positrons Massive amounts of energy are released The momentum of the gamma-ray photons results in an outward acting pressure called radiation pressure
+Four hydrogen nuclei (protons) are fused into one helium nucleus, producing two gamma-ray photons, two neutrinos and two positrons
+Massive amounts of energy are released
+The momentum of the gamma-ray photons results in an outward acting pressure called radiation pressure
+radiation pressure
+Nuclear fusion of hydrogen nuclei to form helium nuclei
+Equilibrium in Stars
+Once the core temperature of a star reaches millions of degrees kelvin and the fusion of hydrogen nuclei to helium nuclei begins The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur Eventually, when the core becomes hot enough and fusion reactions can occur, they will begin to produce an outward radiation pressure which balances the inward pull of gravity
+Once the core temperature of a star reaches millions of degrees kelvin and the fusion of hydrogen nuclei to helium nuclei begins
+degrees kelvin
+The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core
+With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur
+Eventually, when the core becomes hot enough and fusion reactions can occur, they will begin to produce an outward radiation pressure which balances the inward pull of gravity
+The star reaches a stable state where the inward and outward forces are in equilibrium As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases The gas pressure and the radiation pressure act outwards to balance the gravitational force (weight, F = mg ) acting inwards
+The star reaches a stable state where the inward and outward forces are in equilibrium
+As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases
+gas pressure
+The gas pressure and the radiation pressure act outwards to balance the gravitational force (weight, F = mg ) acting inwards
+Equilibrium in stars occurs when the outward radiation pressure is balanced with the inward gravitational force
+If the temperature of a star increases , the outward pressure will also increase If outward pressure > gravitational force, the star will expand
+If the temperature of a star increases , the outward pressure will also increase
+If outward pressure > gravitational force, the star will expand
+If the temperature drops the outward pressure will also decrease If outward pressure < gravitational force, the star will contract
+If the temperature drops the outward pressure will also decrease
+If outward pressure < gravitational force, the star will contract
+As long as these two forces are balanced , the star will remain stable

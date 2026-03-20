@@ -1,0 +1,95 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-1-atomic-structure-and-decay-equations/2-1-4-alpha-and-beta-decay
+HEADING: Alpha & Beta Decay ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+α & β Decay Equations When nuclei are unstable, they can become more stable through the process of radioactive decay Three of the most common decay mechanisms are: Alpha decay Beta-minus decay Beta-plus decay Alpha Decay Alpha decay is common in large, unstable nuclei with too many nucleons (protons and neutrons) The decay involves a nucleus emitting an alpha particle and decaying into a different nucleus An alpha particle consists of 2 protons and 2 neutrons This is equivalent to a helium nucleus During alpha decay, a parent nucleus becomes a daughter nucleus by emitting an alpha particle (helium nucleus) When an unstable nucleus (the parent nucleus) emits radiation, the constitution of its nucleus changes As a result, the isotope will change into a different element (the daughter nucleus) Alpha decay can be represented by the following radioactive decay equation: When an alpha particle is emitted from a nucleus: The nucleus loses 2 protons: proton number decreases by 2 The nucleus loses 4 nucleons: nucleon number decreases by 4 Beta-Minus Decay A beta-minus, β - , particle is a high energy electron emitted from the nucleus β - decay is when a neutron turns into a proton emitting an electron and an anti-electron neutrino During beta-minus decay, a neutron in a parent nucleus becomes a proton in a daughter nucleus by emitting a beta-minus particle (an electron) and an anti-electron neutrino When a β - particle is emitted from a nucleus: The number of protons increases by 1: proton number increases by 1 The total number of nucleons stays the same: nucleon number remains the same The new nucleus formed from the decay is called the “daughter” nucleus (nitrogen in the example above) Beta-Plus Decay A beta-plus, β + , particle is a high energy positron emitted from the nucleus β + decay is when a proton turns into a neutron emitting a positron (anti-electron) and an electron neutrino During beta-plus decay, a proton in a parent nucleus becomes a neutron in a daughter nucleus by emitting a beta-plus particle (a positron) and an electron neutrino When a β + particle is emitted from a nucleus: The number of protons decreases by 1: proton number decreases by 1 The total number of nucleons stays the same: nucleon number remains the same Worked Example The radioactive nucleus undergoes alpha decay into a daughter nucleus Po. (a) Which letter in the diagram represents the daughter product? (b) What is the nucleon number and proton number of Po? Answer: Part (a) Letter C represents the daughter product The number of neutrons in is 222 − 86 = 136 In alpha decay, the parent nucleus loses a helium nucleus (2 protons, 2 neutrons) Proton number: 86 decreases to 84 Neutron number: 136 decreases to 134 Therefore, the correct answer is C Part (b) The equation for alpha decay is as follows: Hence the daughter nucleus Po has Nucleon number = 222 − 4 = 218 Proton number = 86 − 2 = 84 Worked Example A radioactive substance with a nucleon number of 212 and a proton number of 82 decays by β-plus emission into a daughter product which further decays by β-plus emission into a granddaughter product. Which letter in the diagram represents the granddaughter product? Answer: A The number of neutrons in the parent nucleus is 212 − 82 = 130 In beta-plus decay, a proton turns into a neutron Proton number: 82 decreases to 80 Neutron number: 130 increases to 132 Therefore, the correct answer is A Examiner Tips and Tricks Remember to avoid the common mistake of confusing the number of neutrons with the nucleon number. In alpha decay, the nucleon (protons and neutrons) number decreases by 4 but the number of neutrons only decreases by 2. Neutrino Emission An electron neutrino is a type of subatomic particle with no charge and negligible mass which is also emitted from the nucleus The anti-neutrino is the antiparticle of a neutrino Electron anti-neutrinos are produced during β– decay Electron neutrinos are produced during β+ decay Although the neutrino has no charge and negligible mass, its existence was hypothesised to account for the conservation of energy in beta decay When the number of α particles is plotted against kinetic energy, there are clear spikes that appear on the graph This demonstrates that α-particles have discrete energies (only certain values) Alpha particles have discrete energy levels whilst beta particles have a continuous range of energies When the number of β particles is plotted against kinetic energy, the graph shows a curve This demonstrates that beta particles (electrons or positrons) have a continuous range of energies This is because the energy released in beta decay is shared between the beta particles (electrons or positrons) and neutrinos (or anti-neutrinos) This was one of the first clues of the neutrino’s existence The principle of conservation of momentum and energy applies in both alpha and beta emission Examiner Tips and Tricks One way to remember which particle decays into which depends on the type of beta emission, think of beta ‘ p lus’ as the ‘ p roton’ that turns into the neutron (plus an electron neutrino)
+α & β Decay Equations When nuclei are unstable, they can become more stable through the process of radioactive decay Three of the most common decay mechanisms are: Alpha decay Beta-minus decay Beta-plus decay Alpha Decay Alpha decay is common in large, unstable nuclei with too many nucleons (protons and neutrons) The decay involves a nucleus emitting an alpha particle and decaying into a different nucleus An alpha particle consists of 2 protons and 2 neutrons This is equivalent to a helium nucleus During alpha decay, a parent nucleus becomes a daughter nucleus by emitting an alpha particle (helium nucleus) When an unstable nucleus (the parent nucleus) emits radiation, the constitution of its nucleus changes As a result, the isotope will change into a different element (the daughter nucleus) Alpha decay can be represented by the following radioactive decay equation: When an alpha particle is emitted from a nucleus: The nucleus loses 2 protons: proton number decreases by 2 The nucleus loses 4 nucleons: nucleon number decreases by 4 Beta-Minus Decay A beta-minus, β - , particle is a high energy electron emitted from the nucleus β - decay is when a neutron turns into a proton emitting an electron and an anti-electron neutrino During beta-minus decay, a neutron in a parent nucleus becomes a proton in a daughter nucleus by emitting a beta-minus particle (an electron) and an anti-electron neutrino When a β - particle is emitted from a nucleus: The number of protons increases by 1: proton number increases by 1 The total number of nucleons stays the same: nucleon number remains the same The new nucleus formed from the decay is called the “daughter” nucleus (nitrogen in the example above) Beta-Plus Decay A beta-plus, β + , particle is a high energy positron emitted from the nucleus β + decay is when a proton turns into a neutron emitting a positron (anti-electron) and an electron neutrino During beta-plus decay, a proton in a parent nucleus becomes a neutron in a daughter nucleus by emitting a beta-plus particle (a positron) and an electron neutrino When a β + particle is emitted from a nucleus: The number of protons decreases by 1: proton number decreases by 1 The total number of nucleons stays the same: nucleon number remains the same
+α & β Decay Equations
+When nuclei are unstable, they can become more stable through the process of radioactive decay
+Three of the most common decay mechanisms are: Alpha decay Beta-minus decay Beta-plus decay
+Three of the most common decay mechanisms are:
+Alpha decay
+Beta-minus decay
+Beta-plus decay
+Alpha Decay
+Alpha decay is common in large, unstable nuclei with too many nucleons (protons and neutrons)
+The decay involves a nucleus emitting an alpha particle and decaying into a different nucleus
+An alpha particle consists of 2 protons and 2 neutrons This is equivalent to a helium nucleus
+An alpha particle consists of 2 protons and 2 neutrons
+This is equivalent to a helium nucleus
+During alpha decay, a parent nucleus becomes a daughter nucleus by emitting an alpha particle (helium nucleus)
+When an unstable nucleus (the parent nucleus) emits radiation, the constitution of its nucleus changes
+As a result, the isotope will change into a different element (the daughter nucleus)
+Alpha decay can be represented by the following radioactive decay equation:
+When an alpha particle is emitted from a nucleus: The nucleus loses 2 protons: proton number decreases by 2 The nucleus loses 4 nucleons: nucleon number decreases by 4
+When an alpha particle is emitted from a nucleus:
+The nucleus loses 2 protons: proton number decreases by 2
+The nucleus loses 4 nucleons: nucleon number decreases by 4
+Beta-Minus Decay
+A beta-minus, β - , particle is a high energy electron emitted from the nucleus
+β - decay is when a neutron turns into a proton emitting an electron and an anti-electron neutrino
+During beta-minus decay, a neutron in a parent nucleus becomes a proton in a daughter nucleus by emitting a beta-minus particle (an electron) and an anti-electron neutrino
+When a β - particle is emitted from a nucleus: The number of protons increases by 1: proton number increases by 1 The total number of nucleons stays the same: nucleon number remains the same
+When a β - particle is emitted from a nucleus:
+The number of protons increases by 1: proton number increases by 1
+The total number of nucleons stays the same: nucleon number remains the same
+The new nucleus formed from the decay is called the “daughter” nucleus (nitrogen in the example above)
+Beta-Plus Decay
+A beta-plus, β + , particle is a high energy positron emitted from the nucleus
+β + decay is when a proton turns into a neutron emitting a positron (anti-electron) and an electron neutrino
+During beta-plus decay, a proton in a parent nucleus becomes a neutron in a daughter nucleus by emitting a beta-plus particle (a positron) and an electron neutrino
+When a β + particle is emitted from a nucleus: The number of protons decreases by 1: proton number decreases by 1 The total number of nucleons stays the same: nucleon number remains the same
+When a β + particle is emitted from a nucleus:
+The number of protons decreases by 1: proton number decreases by 1
+Worked Example The radioactive nucleus undergoes alpha decay into a daughter nucleus Po. (a) Which letter in the diagram represents the daughter product? (b) What is the nucleon number and proton number of Po? Answer: Part (a) Letter C represents the daughter product The number of neutrons in is 222 − 86 = 136 In alpha decay, the parent nucleus loses a helium nucleus (2 protons, 2 neutrons) Proton number: 86 decreases to 84 Neutron number: 136 decreases to 134 Therefore, the correct answer is C Part (b) The equation for alpha decay is as follows: Hence the daughter nucleus Po has Nucleon number = 222 − 4 = 218 Proton number = 86 − 2 = 84
+Worked Example
+The radioactive nucleus undergoes alpha decay into a daughter nucleus Po.
+(a) Which letter in the diagram represents the daughter product?
+(b) What is the nucleon number and proton number of Po?
+Answer:
+Part (a)
+Letter C represents the daughter product
+The number of neutrons in is 222 − 86 = 136
+In alpha decay, the parent nucleus loses a helium nucleus (2 protons, 2 neutrons) Proton number: 86 decreases to 84 Neutron number: 136 decreases to 134
+In alpha decay, the parent nucleus loses a helium nucleus (2 protons, 2 neutrons)
+Proton number: 86 decreases to 84
+Neutron number: 136 decreases to 134
+Therefore, the correct answer is C
+Part (b)
+The equation for alpha decay is as follows:
+Hence the daughter nucleus Po has Nucleon number = 222 − 4 = 218 Proton number = 86 − 2 = 84
+Hence the daughter nucleus Po has
+Nucleon number = 222 − 4 = 218
+Proton number = 86 − 2 = 84
+Worked Example A radioactive substance with a nucleon number of 212 and a proton number of 82 decays by β-plus emission into a daughter product which further decays by β-plus emission into a granddaughter product. Which letter in the diagram represents the granddaughter product? Answer: A The number of neutrons in the parent nucleus is 212 − 82 = 130 In beta-plus decay, a proton turns into a neutron Proton number: 82 decreases to 80 Neutron number: 130 increases to 132 Therefore, the correct answer is A
+A radioactive substance with a nucleon number of 212 and a proton number of 82 decays by β-plus emission into a daughter product which further decays by β-plus emission into a granddaughter product.
+Which letter in the diagram represents the granddaughter product?
+Answer: A
+The number of neutrons in the parent nucleus is 212 − 82 = 130
+In beta-plus decay, a proton turns into a neutron Proton number: 82 decreases to 80 Neutron number: 130 increases to 132
+In beta-plus decay, a proton turns into a neutron
+Proton number: 82 decreases to 80
+Neutron number: 130 increases to 132
+Therefore, the correct answer is A
+Examiner Tips and Tricks Remember to avoid the common mistake of confusing the number of neutrons with the nucleon number. In alpha decay, the nucleon (protons and neutrons) number decreases by 4 but the number of neutrons only decreases by 2.
+Examiner Tips and Tricks
+Remember to avoid the common mistake of confusing the number of neutrons with the nucleon number. In alpha decay, the nucleon (protons and neutrons) number decreases by 4 but the number of neutrons only decreases by 2.
+Neutrino Emission An electron neutrino is a type of subatomic particle with no charge and negligible mass which is also emitted from the nucleus The anti-neutrino is the antiparticle of a neutrino Electron anti-neutrinos are produced during β– decay Electron neutrinos are produced during β+ decay Although the neutrino has no charge and negligible mass, its existence was hypothesised to account for the conservation of energy in beta decay When the number of α particles is plotted against kinetic energy, there are clear spikes that appear on the graph This demonstrates that α-particles have discrete energies (only certain values) Alpha particles have discrete energy levels whilst beta particles have a continuous range of energies When the number of β particles is plotted against kinetic energy, the graph shows a curve This demonstrates that beta particles (electrons or positrons) have a continuous range of energies This is because the energy released in beta decay is shared between the beta particles (electrons or positrons) and neutrinos (or anti-neutrinos) This was one of the first clues of the neutrino’s existence The principle of conservation of momentum and energy applies in both alpha and beta emission
+Neutrino Emission
+An electron neutrino is a type of subatomic particle with no charge and negligible mass which is also emitted from the nucleus
+The anti-neutrino is the antiparticle of a neutrino Electron anti-neutrinos are produced during β– decay Electron neutrinos are produced during β+ decay
+The anti-neutrino is the antiparticle of a neutrino
+Electron anti-neutrinos are produced during β– decay
+Electron neutrinos are produced during β+ decay
+Although the neutrino has no charge and negligible mass, its existence was hypothesised to account for the conservation of energy in beta decay
+When the number of α particles is plotted against kinetic energy, there are clear spikes that appear on the graph
+This demonstrates that α-particles have discrete energies (only certain values)
+Alpha particles have discrete energy levels whilst beta particles have a continuous range of energies
+When the number of β particles is plotted against kinetic energy, the graph shows a curve
+This demonstrates that beta particles (electrons or positrons) have a continuous range of energies
+This is because the energy released in beta decay is shared between the beta particles (electrons or positrons) and neutrinos (or anti-neutrinos)
+This was one of the first clues of the neutrino’s existence
+The principle of conservation of momentum and energy applies in both alpha and beta emission
+Examiner Tips and Tricks One way to remember which particle decays into which depends on the type of beta emission, think of beta ‘ p lus’ as the ‘ p roton’ that turns into the neutron (plus an electron neutrino)
+One way to remember which particle decays into which depends on the type of beta emission, think of beta ‘ p lus’ as the ‘ p roton’ that turns into the neutron (plus an electron neutrino)

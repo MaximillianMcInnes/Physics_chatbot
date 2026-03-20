@@ -1,0 +1,98 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-9-electromagnetic-induction/7-9-5-applications-of-em-induction
+HEADING: Applications of EM Induction ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Moving Conductors in a Magnetic Field Similar to a coil or a solenoid, a straight conducting rod moving through a magnetic field will also have an e.m.f. induced in it The maximum e.m.f. is induced when the conductor moves perpendicular to the magnetic field lines, where it cuts through the greatest amount of magnetic flux Conducting rod moving perpendicular to a magnetic field directed into the page The conducting rod has a length L and moves through a uniform magnetic field with flux density B at a constant velocity v The distance travelled by the conductor is: Where: s = distance travelled (m) v = velocity (m s -1 ) Δ t = time interval (s) Therefore, the area A of the magnetic flux that it cuts through is: The total flux the conductor cuts through is: Faraday's law gives the e.m.f. induced: Where for the conductor, N = 1 Substituting the change in magnetic flux ΔΦ into the e.m.f. equation: Therefore, the induced e.m.f. in the conductor as it moves through the magnetic field is: This equation shows that the e.m.f induced increases if: a longer conductor is in the field the magnetic field strength is larger the conductor cuts through the field lines faster Worked Example An aeroplane with a wingspan of 34.5 m flies at a speed 253 m s -1 perpendicular to the Earth's magnetic field. The Earth's magnetic field at the aeroplane's location has a strength of 0.06 mT. Calculate the induced e.m.f. between the wing tips. Answer: Step 1: Write down the known quantities Length, L = 34.5 m Velocity, v = 253 m s -1 Magnetic field strength, B = 0.06 mT = 0.06 × 10 -3 T Step 2: Write down the e.m.f. equation Step 3: Substitute in the values ε = (0.06 × 10 -3 ) × 34.5 × 253 = 0.52371 = 0.52 V Examiner Tips and Tricks Although calculations about a straight conductor moving through a magnetic field are common, the exam questions can be in other contexts. For example, the wing of an aeroplane moving through the Earth's magnetic field, as in the worked example. If this is the case, treat the situation like a straight conductor and use the same equations. EMF Induced in a Rotating Coil When a coil rotates in a uniform magnetic field, the flux through the coil will vary as it rotates Since e.m.f is the rate of change of flux linkage , this means the e.m.f will also change as it rotates The maximum e.m.f. is when the coil cuts through the most field lines The e.m.f induced is an alternating voltage The maximum e.m.f is when the coil cuts through the field lines when they are parallel to the plane of the coil This means that the e.m.f. is: maximum when θ = 90 o . The magnetic field lines are parallel to the plane of the area ( or the normal to the area is perpendicular to the field lines) zero when θ = 0 o . The magnetic field lines are perpendicular to the plane of the area ( or the normal to the area is parallel to the field lines) Note that this is the opposite of the maximum and minimum flux through the coil The e.m.f. and flux linkage are 90° out of phase The flux linkage can also be written as: Where the angle θ depends on the angular speed of the coil, ω: The induced e.m.f, ε from Faraday's Law depends on the rate of change of flux linkage, which means it can also be written as: Where: ε = e.m.f induced in the coil (V) B = magnetic flux density (T) A = cross-sectional area of the coil (m 2 ) ω = angular speed of the coil (rad s -1 ) t = time (s) The equation shows that the e.m.f varies sinusoidally and it is 90 ° out of phase with the flux linkage Worked Example A rectangular coil was 40 turns, each with an area of 0.5 m 2 is rotated at 42 rad s -1 in a uniform 3.15 mT magnetic field. Calculate the maximum e.m.f. induced in the coil. Answer: Step 1: Write the known quantities Number of turns, N = 40 Area, A = 0.5 m 2 Angular velocity, ω = 42 rad s -1 Magnetic flux density, B = 3.15 mT = 3.15 × 10 -3 T Step 2: Write down the e.m.f equation Step 3: Determine when the maximum e.m.f will be The maximum e.m.f. occurs when sin(ωt) = ±1, or when the coil is parallel to the magnetic field Step 4: Substitute in the values ε = (3.15 × 10 -3 ) × 0.5 × 40 × 42 × ±1 = ± 2.6 V Examiner Tips and Tricks Remember not to get mixed up with when the e.m.f or the flux linkage is at their maximum: When the plane of the coil is perpendicular to the field lines The flux linkage is at its maximum The e.m.f = 0 When the plane of the coil is parallel to the field lines The flux linkage is 0 the e.m.f is at its maximum Since ω is in units of rads s -1 , make sure your calculator is in radians mode before doing entering any values into sin(ωt) or cos(ωt)
+Moving Conductors in a Magnetic Field Similar to a coil or a solenoid, a straight conducting rod moving through a magnetic field will also have an e.m.f. induced in it The maximum e.m.f. is induced when the conductor moves perpendicular to the magnetic field lines, where it cuts through the greatest amount of magnetic flux Conducting rod moving perpendicular to a magnetic field directed into the page The conducting rod has a length L and moves through a uniform magnetic field with flux density B at a constant velocity v The distance travelled by the conductor is: Where: s = distance travelled (m) v = velocity (m s -1 ) Δ t = time interval (s) Therefore, the area A of the magnetic flux that it cuts through is: The total flux the conductor cuts through is: Faraday's law gives the e.m.f. induced: Where for the conductor, N = 1 Substituting the change in magnetic flux ΔΦ into the e.m.f. equation: Therefore, the induced e.m.f. in the conductor as it moves through the magnetic field is: This equation shows that the e.m.f induced increases if: a longer conductor is in the field the magnetic field strength is larger the conductor cuts through the field lines faster
+Moving Conductors in a Magnetic Field
+Similar to a coil or a solenoid, a straight conducting rod moving through a magnetic field will also have an e.m.f. induced in it
+The maximum e.m.f. is induced when the conductor moves perpendicular to the magnetic field lines, where it cuts through the greatest amount of magnetic flux
+Conducting rod moving perpendicular to a magnetic field directed into the page
+The conducting rod has a length L and moves through a uniform magnetic field with flux density B at a constant velocity v
+The distance travelled by the conductor is:
+Where: s = distance travelled (m) v = velocity (m s -1 ) Δ t = time interval (s)
+Where:
+s = distance travelled (m)
+v = velocity (m s -1 )
+Δ t = time interval (s)
+Therefore, the area A of the magnetic flux that it cuts through is:
+magnetic flux
+The total flux the conductor cuts through is:
+Faraday's law gives the e.m.f. induced:
+Where for the conductor, N = 1
+Substituting the change in magnetic flux ΔΦ into the e.m.f. equation:
+Therefore, the induced e.m.f. in the conductor as it moves through the magnetic field is:
+This equation shows that the e.m.f induced increases if: a longer conductor is in the field the magnetic field strength is larger the conductor cuts through the field lines faster
+This equation shows that the e.m.f induced increases if:
+a longer conductor is in the field
+the magnetic field strength is larger
+the conductor cuts through the field lines faster
+Worked Example An aeroplane with a wingspan of 34.5 m flies at a speed 253 m s -1 perpendicular to the Earth's magnetic field. The Earth's magnetic field at the aeroplane's location has a strength of 0.06 mT. Calculate the induced e.m.f. between the wing tips. Answer: Step 1: Write down the known quantities Length, L = 34.5 m Velocity, v = 253 m s -1 Magnetic field strength, B = 0.06 mT = 0.06 × 10 -3 T Step 2: Write down the e.m.f. equation Step 3: Substitute in the values ε = (0.06 × 10 -3 ) × 34.5 × 253 = 0.52371 = 0.52 V
+Worked Example
+An aeroplane with a wingspan of 34.5 m flies at a speed 253 m s -1 perpendicular to the Earth's magnetic field. The Earth's magnetic field at the aeroplane's location has a strength of 0.06 mT.
+Calculate the induced e.m.f. between the wing tips.
+Answer:
+Step 1: Write down the known quantities
+Length, L = 34.5 m Velocity, v = 253 m s -1 Magnetic field strength, B = 0.06 mT = 0.06 × 10 -3 T
+Length, L = 34.5 m
+Velocity, v = 253 m s -1
+Magnetic field strength, B = 0.06 mT = 0.06 × 10 -3 T
+Step 2: Write down the e.m.f. equation
+Step 3: Substitute in the values
+ε = (0.06 × 10 -3 ) × 34.5 × 253 = 0.52371 = 0.52 V
+Examiner Tips and Tricks Although calculations about a straight conductor moving through a magnetic field are common, the exam questions can be in other contexts. For example, the wing of an aeroplane moving through the Earth's magnetic field, as in the worked example. If this is the case, treat the situation like a straight conductor and use the same equations.
+Examiner Tips and Tricks
+Although calculations about a straight conductor moving through a magnetic field are common, the exam questions can be in other contexts.
+For example, the wing of an aeroplane moving through the Earth's magnetic field, as in the worked example. If this is the case, treat the situation like a straight conductor and use the same equations.
+EMF Induced in a Rotating Coil When a coil rotates in a uniform magnetic field, the flux through the coil will vary as it rotates Since e.m.f is the rate of change of flux linkage , this means the e.m.f will also change as it rotates The maximum e.m.f. is when the coil cuts through the most field lines The e.m.f induced is an alternating voltage The maximum e.m.f is when the coil cuts through the field lines when they are parallel to the plane of the coil This means that the e.m.f. is: maximum when θ = 90 o . The magnetic field lines are parallel to the plane of the area ( or the normal to the area is perpendicular to the field lines) zero when θ = 0 o . The magnetic field lines are perpendicular to the plane of the area ( or the normal to the area is parallel to the field lines) Note that this is the opposite of the maximum and minimum flux through the coil The e.m.f. and flux linkage are 90° out of phase The flux linkage can also be written as: Where the angle θ depends on the angular speed of the coil, ω: The induced e.m.f, ε from Faraday's Law depends on the rate of change of flux linkage, which means it can also be written as: Where: ε = e.m.f induced in the coil (V) B = magnetic flux density (T) A = cross-sectional area of the coil (m 2 ) ω = angular speed of the coil (rad s -1 ) t = time (s) The equation shows that the e.m.f varies sinusoidally and it is 90 ° out of phase with the flux linkage
+EMF Induced in a Rotating Coil
+When a coil rotates in a uniform magnetic field, the flux through the coil will vary as it rotates
+Since e.m.f is the rate of change of flux linkage , this means the e.m.f will also change as it rotates The maximum e.m.f. is when the coil cuts through the most field lines The e.m.f induced is an alternating voltage
+Since e.m.f is the rate of change of flux linkage , this means the e.m.f will also change as it rotates
+flux linkage
+The maximum e.m.f. is when the coil cuts through the most field lines
+The e.m.f induced is an alternating voltage
+The maximum e.m.f is when the coil cuts through the field lines when they are parallel to the plane of the coil
+This means that the e.m.f. is: maximum when θ = 90 o . The magnetic field lines are parallel to the plane of the area ( or the normal to the area is perpendicular to the field lines) zero when θ = 0 o . The magnetic field lines are perpendicular to the plane of the area ( or the normal to the area is parallel to the field lines)
+This means that the e.m.f. is:
+maximum when θ = 90 o . The magnetic field lines are parallel to the plane of the area ( or the normal to the area is perpendicular to the field lines)
+zero when θ = 0 o . The magnetic field lines are perpendicular to the plane of the area ( or the normal to the area is parallel to the field lines)
+Note that this is the opposite of the maximum and minimum flux through the coil
+The e.m.f. and flux linkage are 90° out of phase
+The flux linkage can also be written as:
+Where the angle θ depends on the angular speed of the coil, ω:
+The induced e.m.f, ε from Faraday's Law depends on the rate of change of flux linkage, which means it can also be written as:
+Where: ε = e.m.f induced in the coil (V) B = magnetic flux density (T) A = cross-sectional area of the coil (m 2 ) ω = angular speed of the coil (rad s -1 ) t = time (s)
+ε = e.m.f induced in the coil (V)
+B = magnetic flux density (T)
+magnetic flux density
+A = cross-sectional area of the coil (m 2 )
+ω = angular speed of the coil (rad s -1 )
+t = time (s)
+The equation shows that the e.m.f varies sinusoidally and it is 90 ° out of phase with the flux linkage
+sinusoidally
+Worked Example A rectangular coil was 40 turns, each with an area of 0.5 m 2 is rotated at 42 rad s -1 in a uniform 3.15 mT magnetic field. Calculate the maximum e.m.f. induced in the coil. Answer: Step 1: Write the known quantities Number of turns, N = 40 Area, A = 0.5 m 2 Angular velocity, ω = 42 rad s -1 Magnetic flux density, B = 3.15 mT = 3.15 × 10 -3 T Step 2: Write down the e.m.f equation Step 3: Determine when the maximum e.m.f will be The maximum e.m.f. occurs when sin(ωt) = ±1, or when the coil is parallel to the magnetic field Step 4: Substitute in the values ε = (3.15 × 10 -3 ) × 0.5 × 40 × 42 × ±1 = ± 2.6 V
+A rectangular coil was 40 turns, each with an area of 0.5 m 2 is rotated at 42 rad s -1 in a uniform 3.15 mT magnetic field.
+Calculate the maximum e.m.f. induced in the coil.
+Step 1: Write the known quantities
+Number of turns, N = 40
+Area, A = 0.5 m 2
+Angular velocity, ω = 42 rad s -1
+Magnetic flux density, B = 3.15 mT = 3.15 × 10 -3 T
+Step 2: Write down the e.m.f equation
+Step 3: Determine when the maximum e.m.f will be
+The maximum e.m.f. occurs when sin(ωt) = ±1, or when the coil is parallel to the magnetic field
+Step 4: Substitute in the values
+ε = (3.15 × 10 -3 ) × 0.5 × 40 × 42 × ±1 = ± 2.6 V
+Examiner Tips and Tricks Remember not to get mixed up with when the e.m.f or the flux linkage is at their maximum: When the plane of the coil is perpendicular to the field lines The flux linkage is at its maximum The e.m.f = 0 When the plane of the coil is parallel to the field lines The flux linkage is 0 the e.m.f is at its maximum Since ω is in units of rads s -1 , make sure your calculator is in radians mode before doing entering any values into sin(ωt) or cos(ωt)
+Remember not to get mixed up with when the e.m.f or the flux linkage is at their maximum:
+When the plane of the coil is perpendicular to the field lines The flux linkage is at its maximum The e.m.f = 0
+When the plane of the coil is perpendicular to the field lines
+The flux linkage is at its maximum
+The e.m.f = 0
+When the plane of the coil is parallel to the field lines The flux linkage is 0 the e.m.f is at its maximum
+When the plane of the coil is parallel to the field lines
+The flux linkage is 0
+the e.m.f is at its maximum
+Since ω is in units of rads s -1 , make sure your calculator is in radians mode before doing entering any values into sin(ωt) or cos(ωt)

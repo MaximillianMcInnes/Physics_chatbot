@@ -1,0 +1,68 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-1-the-first-law-of-thermodynamics
+HEADING: The First Law of Thermodynamics ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The First Law of Thermodynamics The first law of thermodynamics is based on the principle of conservation of energy This applies to heating, cooling and work done The first law can be expressed in different ways, depending on the sign convention used For AQA, the first law of thermodynamics is therefore defined as: Where: Δ U = increase in internal energy (J) Q = energy supplied to the system by heating (J) W = work done by the system (J) The 'system' is a region of space containing a quantity of gas The system is open if gas or vapour flows into and out of the region Examples include a gas expanding through the nozzle of an aerosol can or steam passing through a turbine The system is closed if gas or vapour remains within the region, although the boundary can expand or contract with changes in the volume of the gas Examples include gas expanding in a cylinder by moving a piston or air in a balloon being heated Open and closed systems An open system is where gas can flow in and out, whilst in a closed system, gas can only remain within the boundary In both systems, work can 'cross' the boundary The first law of thermodynamics applies to all situations, not just to gases There is an important sign convention used for this equation Amount of heat transfer Q is: Positive if heat energy is added Negative if heat energy is removed The change in internal energy Δ U is: Positive if the internal energy increases Negative if the internal energy decreases The work done, W is: Positive if work is done by the gas (the gas expands) Negative if the work is done on the gas (the gas is compressed) Worked Example The volume occupied by 1.00 mol of a liquid at 50°C is 2.4 × 10 −5 m 3 . When the liquid is vaporised at an atmospheric pressure of 1.03 × 10 5 Pa, the vapour occupies a volume of 5.9 × 10 −2 m 3 . The latent heat to vaporise 1.00 mol of this liquid at 50°C at atmospheric pressure is 3.48 × 10 4 J. For this change of state, determine the increase in internal energy Δ U of the system. Answer: Step 1: List the known quantities Thermal energy, Q = 3.48 × 10 4 J Atmospheric pressure, p = 1.03 × 10 5 Pa Initial volume = 2.4 × 10 −5 m 3 Final volume = 5.9 × 10 −2 m 3 Step 2: Calculate the work done W The work done by a gas at constant pressure is Where the change in volume is: Δ V = final volume − initial volume = (5.9 × 10 −2 ) − (2.4 × 10 −5 ) = 0.059 m 3 Since the volume of the gas increases (it expands), the work done is positive W = (1.03 × 10 5 ) × 0.059 = 6077 = 6.08 × 10 3 J W = 6.08 × 10 3 J Step 3: Substitute the values into the equation for the first law of thermodynamics From the first law of thermodynamics: Δ U = (3.48 × 10 4 ) – (6.08 × 10 3 ) = 28 720 Increase in internal energy: Δ U = 28 700 J (3 s.f.) Examiner Tips and Tricks The sign convention is very important for AQA, make sure you understand how it is used from the worked example.
+The First Law of Thermodynamics The first law of thermodynamics is based on the principle of conservation of energy This applies to heating, cooling and work done The first law can be expressed in different ways, depending on the sign convention used For AQA, the first law of thermodynamics is therefore defined as: Where: Δ U = increase in internal energy (J) Q = energy supplied to the system by heating (J) W = work done by the system (J) The 'system' is a region of space containing a quantity of gas The system is open if gas or vapour flows into and out of the region Examples include a gas expanding through the nozzle of an aerosol can or steam passing through a turbine The system is closed if gas or vapour remains within the region, although the boundary can expand or contract with changes in the volume of the gas Examples include gas expanding in a cylinder by moving a piston or air in a balloon being heated Open and closed systems An open system is where gas can flow in and out, whilst in a closed system, gas can only remain within the boundary In both systems, work can 'cross' the boundary The first law of thermodynamics applies to all situations, not just to gases There is an important sign convention used for this equation Amount of heat transfer Q is: Positive if heat energy is added Negative if heat energy is removed The change in internal energy Δ U is: Positive if the internal energy increases Negative if the internal energy decreases The work done, W is: Positive if work is done by the gas (the gas expands) Negative if the work is done on the gas (the gas is compressed)
+The first law of thermodynamics is based on the principle of conservation of energy This applies to heating, cooling and work done
+The first law of thermodynamics is based on the principle of conservation of energy
+This applies to heating, cooling and work done
+The first law can be expressed in different ways, depending on the sign convention used
+For AQA, the first law of thermodynamics is therefore defined as:
+Where: Δ U = increase in internal energy (J) Q = energy supplied to the system by heating (J) W = work done by the system (J)
+Where:
+Δ U = increase in internal energy (J)
+internal energy
+Q = energy supplied to the system by heating (J)
+W = work done by the system (J)
+The 'system' is a region of space containing a quantity of gas
+The system is open if gas or vapour flows into and out of the region Examples include a gas expanding through the nozzle of an aerosol can or steam passing through a turbine
+The system is open if gas or vapour flows into and out of the region
+Examples include a gas expanding through the nozzle of an aerosol can or steam passing through a turbine
+The system is closed if gas or vapour remains within the region, although the boundary can expand or contract with changes in the volume of the gas Examples include gas expanding in a cylinder by moving a piston or air in a balloon being heated
+The system is closed if gas or vapour remains within the region, although the boundary can expand or contract with changes in the volume of the gas
+Examples include gas expanding in a cylinder by moving a piston or air in a balloon being heated
+Open and closed systems
+An open system is where gas can flow in and out, whilst in a closed system, gas can only remain within the boundary
+In both systems, work can 'cross' the boundary
+The first law of thermodynamics applies to all situations, not just to gases There is an important sign convention used for this equation
+The first law of thermodynamics applies to all situations, not just to gases
+There is an important sign convention used for this equation
+Amount of heat transfer Q is: Positive if heat energy is added Negative if heat energy is removed
+Amount of heat transfer Q is:
+Positive if heat energy is added
+Negative if heat energy is removed
+The change in internal energy Δ U is: Positive if the internal energy increases Negative if the internal energy decreases
+The change in internal energy Δ U is:
+Positive if the internal energy increases
+Negative if the internal energy decreases
+The work done, W is: Positive if work is done by the gas (the gas expands) Negative if the work is done on the gas (the gas is compressed)
+The work done, W is:
+Positive if work is done by the gas (the gas expands)
+Negative if the work is done on the gas (the gas is compressed)
+Worked Example The volume occupied by 1.00 mol of a liquid at 50°C is 2.4 × 10 −5 m 3 . When the liquid is vaporised at an atmospheric pressure of 1.03 × 10 5 Pa, the vapour occupies a volume of 5.9 × 10 −2 m 3 . The latent heat to vaporise 1.00 mol of this liquid at 50°C at atmospheric pressure is 3.48 × 10 4 J. For this change of state, determine the increase in internal energy Δ U of the system. Answer: Step 1: List the known quantities Thermal energy, Q = 3.48 × 10 4 J Atmospheric pressure, p = 1.03 × 10 5 Pa Initial volume = 2.4 × 10 −5 m 3 Final volume = 5.9 × 10 −2 m 3 Step 2: Calculate the work done W The work done by a gas at constant pressure is Where the change in volume is: Δ V = final volume − initial volume = (5.9 × 10 −2 ) − (2.4 × 10 −5 ) = 0.059 m 3 Since the volume of the gas increases (it expands), the work done is positive W = (1.03 × 10 5 ) × 0.059 = 6077 = 6.08 × 10 3 J W = 6.08 × 10 3 J Step 3: Substitute the values into the equation for the first law of thermodynamics From the first law of thermodynamics: Δ U = (3.48 × 10 4 ) – (6.08 × 10 3 ) = 28 720 Increase in internal energy: Δ U = 28 700 J (3 s.f.)
+Worked Example
+The volume occupied by 1.00 mol of a liquid at 50°C is 2.4 × 10 −5 m 3 . When the liquid is vaporised at an atmospheric pressure of 1.03 × 10 5 Pa, the vapour occupies a volume of 5.9 × 10 −2 m 3 .
+The latent heat to vaporise 1.00 mol of this liquid at 50°C at atmospheric pressure is 3.48 × 10 4 J.
+For this change of state, determine the increase in internal energy Δ U of the system.
+Answer:
+Step 1: List the known quantities
+Thermal energy, Q = 3.48 × 10 4 J
+Atmospheric pressure, p = 1.03 × 10 5 Pa
+Initial volume = 2.4 × 10 −5 m 3
+Final volume = 5.9 × 10 −2 m 3
+Step 2: Calculate the work done W
+The work done by a gas at constant pressure is
+Where the change in volume is:
+Δ V = final volume − initial volume = (5.9 × 10 −2 ) − (2.4 × 10 −5 ) = 0.059 m 3
+Since the volume of the gas increases (it expands), the work done is positive
+W = (1.03 × 10 5 ) × 0.059 = 6077 = 6.08 × 10 3 J
+W = 6.08 × 10 3 J
+Step 3: Substitute the values into the equation for the first law of thermodynamics
+From the first law of thermodynamics:
+Δ U = (3.48 × 10 4 ) – (6.08 × 10 3 ) = 28 720
+Increase in internal energy: Δ U = 28 700 J (3 s.f.)
+Examiner Tips and Tricks The sign convention is very important for AQA, make sure you understand how it is used from the worked example.
+Examiner Tips and Tricks
+The sign convention is very important for AQA, make sure you understand how it is used from the worked example.

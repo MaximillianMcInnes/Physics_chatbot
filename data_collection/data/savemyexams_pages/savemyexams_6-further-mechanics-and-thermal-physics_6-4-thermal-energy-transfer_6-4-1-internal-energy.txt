@@ -1,0 +1,36 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-4-thermal-energy-transfer/6-4-1-internal-energy
+HEADING: Internal Energy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Internal Energy The internal energy of a substance includes both the kinetic and potential energy of the particles it contains The molecules of all substances have both kinetic and potential energies Kinetic energy is due to the speed of the molecules Potential energy is due to the intermolecular forces between the molecules and varies with the separation of particles The internal energy of a substance is defined as: The sum of the randomly distributed kinetic and potential energies of the particles in a body This means internal energy is the total of all the kinetic energies plus the total of all of the potential energies The symbol for internal energy is U , with units of joules (J) Particles are randomly distributed, meaning they all have different speeds and separations The internal energy of a system is determined by: Temperature (higher temperature, higher kinetic energy and vice versa) The random motion of molecules The phase of matter : gases have the highest internal energy, solids have the lowest Intermolecular interactions between the particles The internal energy of a system can increase by: Doing work on it Adding thermal energy to it (heating it) The internal energy of a system can decrease by: Losing thermal energy to its surroundings The system doing work on its surroundings (e.g. a gas pushing a piston) Examiner Tips and Tricks When an exam question asks you to define “internal energy”, you can lose a mark for not mentioning the “ random motion ” of the particles or the “ random distribution ” of the energies, so make sure you include one of these in your definition! In an ideal gas , there are no intermolecular forces , so the internal energy consists only of the kinetic energy of the particles. This is a common exam point — remember that ideal gases have no potential energy!
+Internal Energy The internal energy of a substance includes both the kinetic and potential energy of the particles it contains The molecules of all substances have both kinetic and potential energies Kinetic energy is due to the speed of the molecules Potential energy is due to the intermolecular forces between the molecules and varies with the separation of particles The internal energy of a substance is defined as: The sum of the randomly distributed kinetic and potential energies of the particles in a body This means internal energy is the total of all the kinetic energies plus the total of all of the potential energies The symbol for internal energy is U , with units of joules (J) Particles are randomly distributed, meaning they all have different speeds and separations The internal energy of a system is determined by: Temperature (higher temperature, higher kinetic energy and vice versa) The random motion of molecules The phase of matter : gases have the highest internal energy, solids have the lowest Intermolecular interactions between the particles The internal energy of a system can increase by: Doing work on it Adding thermal energy to it (heating it) The internal energy of a system can decrease by: Losing thermal energy to its surroundings The system doing work on its surroundings (e.g. a gas pushing a piston)
+The internal energy of a substance includes both the kinetic and potential energy of the particles it contains
+The molecules of all substances have both kinetic and potential energies Kinetic energy is due to the speed of the molecules Potential energy is due to the intermolecular forces between the molecules and varies with the separation of particles
+The molecules of all substances have both kinetic and potential energies
+Kinetic energy is due to the speed of the molecules
+Potential energy is due to the intermolecular forces between the molecules and varies with the separation of particles
+The internal energy of a substance is defined as: The sum of the randomly distributed kinetic and potential energies of the particles in a body
+The internal energy of a substance is defined as:
+The sum of the randomly distributed kinetic and potential energies of the particles in a body
+This means internal energy is the total of all the kinetic energies plus the total of all of the potential energies
+The symbol for internal energy is U , with units of joules (J)
+Particles are randomly distributed, meaning they all have different speeds and separations
+The internal energy of a system is determined by: Temperature (higher temperature, higher kinetic energy and vice versa) The random motion of molecules The phase of matter : gases have the highest internal energy, solids have the lowest Intermolecular interactions between the particles
+The internal energy of a system is determined by:
+Temperature (higher temperature, higher kinetic energy and vice versa)
+The random motion of molecules
+The phase of matter : gases have the highest internal energy, solids have the lowest
+Intermolecular interactions between the particles
+The internal energy of a system can increase by: Doing work on it Adding thermal energy to it (heating it)
+The internal energy of a system can increase by:
+Doing work on it
+Adding thermal energy to it (heating it)
+The internal energy of a system can decrease by: Losing thermal energy to its surroundings The system doing work on its surroundings (e.g. a gas pushing a piston)
+The internal energy of a system can decrease by:
+Losing thermal energy to its surroundings
+The system doing work on its surroundings (e.g. a gas pushing a piston)
+Examiner Tips and Tricks When an exam question asks you to define “internal energy”, you can lose a mark for not mentioning the “ random motion ” of the particles or the “ random distribution ” of the energies, so make sure you include one of these in your definition! In an ideal gas , there are no intermolecular forces , so the internal energy consists only of the kinetic energy of the particles. This is a common exam point — remember that ideal gases have no potential energy!
+Examiner Tips and Tricks
+When an exam question asks you to define “internal energy”, you can lose a mark for not mentioning the “ random motion ” of the particles or the “ random distribution ” of the energies, so make sure you include one of these in your definition!
+In an ideal gas , there are no intermolecular forces , so the internal energy consists only of the kinetic energy of the particles. This is a common exam point — remember that ideal gases have no potential energy!

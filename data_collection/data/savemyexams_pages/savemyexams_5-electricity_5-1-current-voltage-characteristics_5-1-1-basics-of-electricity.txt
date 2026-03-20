@@ -1,0 +1,109 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/5-electricity/5-1-current-voltage-characteristics/5-1-1-basics-of-electricity
+HEADING: Basics of Electricity ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Electric Current & Potential Difference A simple electrical circuit requires a conductor through which current can flow a source of potential difference Electric Current Electric current is defined as The rate of flow of electric charge Current is measured in units of amperes or amps (A) 1 amp is equivalent to a charge of 1 coulomb flowing in 1 second, or 1 A = 1 C s −1 Current can be described using the equation: Where: I = current (A) Δ Q = amount of charge flowing (C) Δ t = time interval (s) Current flows when a circuit is formed This is when a conductor, such as a wire, connects two oppositely charged terminals of a source, such as a cell For a charge to flow, a circuit must connect the positive and negative terminals of an electrical energy source In electric circuits, the current is a flow of electrons Conventional current is defined as the flow of positive charge This is from the positive terminal of a cell to the negative terminal This is the opposite of the direction of electron flow Electrons are negatively charged so they flow from the negative terminal of a cell to the positive terminal By definition, conventional current flows from the positive terminal to the negative terminal of the battery. Electrons flow in the opposite direction Current can be measured using an ammeter Ammeters must be connected in series with the component being measured An ammeter can be used to measure the current around a circuit and is always connected in series Potential Difference Potential difference is defined as The electrical work done per unit charge flowing between two points Potential difference is measured in units of volts (V) 1 volt is equivalent to the transfer of 1 joule of electrical energy by 1 coulomb of charge, or 1 V = 1 J C −1 Potential difference can be described using the equation: Where: V = potential difference (V) W = electrical work done by the charge (J) Q = charge flow (C) A simple cell creates a potential difference through the separation of charge One end ( terminal ) of the cell has an excess of positive charge and the other an excess of negative charge Negatively charged electrons are repelled by the negative terminal and attracted to the positive terminal Therefore, when a wire is connected between the two terminals, the potential difference causes the flow of electrons ( current ) As electrons flow through a cell, they gain energy For example, in a 12 V cell, every coulomb of charge passing through gains 12 J of energy As electrons flow through a circuit, they lose energy For example, after leaving the 12 V cell, each coulomb of charge will transfer 12 J of energy to the wires and components in the circuit The separation of positive and negative charges in a battery creates a potential difference. As the electrons flow through the light bulb, electrical energy is transferred into heat and light energy Potential difference can be measured using a voltmeter Voltmeters must be set up in parallel with the component being measured Potential difference can be measured by connecting a voltmeter in parallel between two points in a circuit Worked Example When will 8 mA of current pass through an electrical circuit? A . When 1 J of energy is used by 1 C of charge B . When a charge of 4 C passes in 500 s C . When a charge of 8 C passes in 100 s D . When a charge of 1 C passes in 8 s Answer: B The equation relating current, charge and time is: Consider option B : Δ Q = 4 C, Δ t = 500 s Therefore, the correct answer is B A is incorrect as this is the definition of a potential difference of 1 V between two points and does not describe current C is incorrect as D is incorrect as Examiner Tips and Tricks You may have previously described the potential difference in a circuit as 'voltage'. While this is a valid term, it is important to become comfortable using the term potential difference to describe the difference in potential (energy per unit charge) between two points in a circuit. Remember that potential difference is not the same as energy. It is the energy per unit charge. Since work done is , two batteries may have the same voltage (or the same potential difference between battery terminals), but one may store more energy than the other and therefore would be able to move more charge. Resistance Resistance is defined as The opposition of a component to the flow of electric current through it The resistance R of a conductor is defined as the ratio of the potential difference V across to the current I in it Where: R = resistance of a conductor (Ω) V = potential difference across the conductor (V) I = current in the conductor (A) Resistance is measured in units of ohms (Ω) A resistance of 1 Ω is equivalent to a potential difference across a component of 1 V which produces a current of 1 A through it The resistance of a component controls the size of the current in a circuit For a given potential difference across a component: The higher the resistance, the lower the current that can flow The lower the resistance, the higher the current that can flow All electrical components, including wires, possess some value of resistance Wires are often made from copper because of its low electrical resistance This is why it is known as a good conductor Examiner Tips and Tricks Although all electrical components have resistance, the resistance of wires is taken to be zero in exam questions.
+Electric Current & Potential Difference A simple electrical circuit requires a conductor through which current can flow a source of potential difference Electric Current Electric current is defined as The rate of flow of electric charge Current is measured in units of amperes or amps (A) 1 amp is equivalent to a charge of 1 coulomb flowing in 1 second, or 1 A = 1 C s −1 Current can be described using the equation: Where: I = current (A) Δ Q = amount of charge flowing (C) Δ t = time interval (s) Current flows when a circuit is formed This is when a conductor, such as a wire, connects two oppositely charged terminals of a source, such as a cell For a charge to flow, a circuit must connect the positive and negative terminals of an electrical energy source In electric circuits, the current is a flow of electrons Conventional current is defined as the flow of positive charge This is from the positive terminal of a cell to the negative terminal This is the opposite of the direction of electron flow Electrons are negatively charged so they flow from the negative terminal of a cell to the positive terminal By definition, conventional current flows from the positive terminal to the negative terminal of the battery. Electrons flow in the opposite direction Current can be measured using an ammeter Ammeters must be connected in series with the component being measured An ammeter can be used to measure the current around a circuit and is always connected in series Potential Difference Potential difference is defined as The electrical work done per unit charge flowing between two points Potential difference is measured in units of volts (V) 1 volt is equivalent to the transfer of 1 joule of electrical energy by 1 coulomb of charge, or 1 V = 1 J C −1 Potential difference can be described using the equation: Where: V = potential difference (V) W = electrical work done by the charge (J) Q = charge flow (C) A simple cell creates a potential difference through the separation of charge One end ( terminal ) of the cell has an excess of positive charge and the other an excess of negative charge Negatively charged electrons are repelled by the negative terminal and attracted to the positive terminal Therefore, when a wire is connected between the two terminals, the potential difference causes the flow of electrons ( current ) As electrons flow through a cell, they gain energy For example, in a 12 V cell, every coulomb of charge passing through gains 12 J of energy As electrons flow through a circuit, they lose energy For example, after leaving the 12 V cell, each coulomb of charge will transfer 12 J of energy to the wires and components in the circuit The separation of positive and negative charges in a battery creates a potential difference. As the electrons flow through the light bulb, electrical energy is transferred into heat and light energy Potential difference can be measured using a voltmeter Voltmeters must be set up in parallel with the component being measured Potential difference can be measured by connecting a voltmeter in parallel between two points in a circuit
+Electric Current & Potential Difference
+A simple electrical circuit requires a conductor through which current can flow a source of potential difference
+A simple electrical circuit requires
+a conductor through which current can flow
+a source of potential difference
+Electric Current
+Electric current is defined as The rate of flow of electric charge
+Electric current is defined as
+The rate of flow of electric charge
+Current is measured in units of amperes or amps (A) 1 amp is equivalent to a charge of 1 coulomb flowing in 1 second, or 1 A = 1 C s −1
+Current is measured in units of amperes or amps (A)
+1 amp is equivalent to a charge of 1 coulomb flowing in 1 second, or 1 A = 1 C s −1
+Current can be described using the equation:
+Where: I = current (A) Δ Q = amount of charge flowing (C) Δ t = time interval (s)
+Where:
+I = current (A)
+Δ Q = amount of charge flowing (C)
+Δ t = time interval (s)
+Current flows when a circuit is formed This is when a conductor, such as a wire, connects two oppositely charged terminals of a source, such as a cell
+Current flows when a circuit is formed
+This is when a conductor, such as a wire, connects two oppositely charged terminals of a source, such as a cell
+For a charge to flow, a circuit must connect the positive and negative terminals of an electrical energy source
+In electric circuits, the current is a flow of electrons
+Conventional current is defined as the flow of positive charge This is from the positive terminal of a cell to the negative terminal
+Conventional current is defined as the flow of positive charge
+This is from the positive terminal of a cell to the negative terminal
+This is the opposite of the direction of electron flow Electrons are negatively charged so they flow from the negative terminal of a cell to the positive terminal
+This is the opposite of the direction of electron flow
+Electrons are negatively charged so they flow from the negative terminal of a cell to the positive terminal
+By definition, conventional current flows from the positive terminal to the negative terminal of the battery. Electrons flow in the opposite direction
+Current can be measured using an ammeter
+Ammeters must be connected in series with the component being measured
+An ammeter can be used to measure the current around a circuit and is always connected in series
+Potential Difference
+Potential difference is defined as The electrical work done per unit charge flowing between two points
+Potential difference is defined as
+The electrical work done per unit charge flowing between two points
+Potential difference is measured in units of volts (V) 1 volt is equivalent to the transfer of 1 joule of electrical energy by 1 coulomb of charge, or 1 V = 1 J C −1
+Potential difference is measured in units of volts (V)
+1 volt is equivalent to the transfer of 1 joule of electrical energy by 1 coulomb of charge, or 1 V = 1 J C −1
+Potential difference can be described using the equation:
+Where: V = potential difference (V) W = electrical work done by the charge (J) Q = charge flow (C)
+V = potential difference (V)
+W = electrical work done by the charge (J)
+Q = charge flow (C)
+A simple cell creates a potential difference through the separation of charge One end ( terminal ) of the cell has an excess of positive charge and the other an excess of negative charge Negatively charged electrons are repelled by the negative terminal and attracted to the positive terminal Therefore, when a wire is connected between the two terminals, the potential difference causes the flow of electrons ( current )
+A simple cell creates a potential difference through the separation of charge
+One end ( terminal ) of the cell has an excess of positive charge and the other an excess of negative charge
+Negatively charged electrons are repelled by the negative terminal and attracted to the positive terminal
+Therefore, when a wire is connected between the two terminals, the potential difference causes the flow of electrons ( current )
+As electrons flow through a cell, they gain energy For example, in a 12 V cell, every coulomb of charge passing through gains 12 J of energy
+As electrons flow through a cell, they gain energy
+For example, in a 12 V cell, every coulomb of charge passing through gains 12 J of energy
+As electrons flow through a circuit, they lose energy For example, after leaving the 12 V cell, each coulomb of charge will transfer 12 J of energy to the wires and components in the circuit
+As electrons flow through a circuit, they lose energy
+For example, after leaving the 12 V cell, each coulomb of charge will transfer 12 J of energy to the wires and components in the circuit
+The separation of positive and negative charges in a battery creates a potential difference. As the electrons flow through the light bulb, electrical energy is transferred into heat and light energy
+Potential difference can be measured using a voltmeter
+Voltmeters must be set up in parallel with the component being measured
+Potential difference can be measured by connecting a voltmeter in parallel between two points in a circuit
+Worked Example When will 8 mA of current pass through an electrical circuit? A . When 1 J of energy is used by 1 C of charge B . When a charge of 4 C passes in 500 s C . When a charge of 8 C passes in 100 s D . When a charge of 1 C passes in 8 s Answer: B The equation relating current, charge and time is: Consider option B : Δ Q = 4 C, Δ t = 500 s Therefore, the correct answer is B A is incorrect as this is the definition of a potential difference of 1 V between two points and does not describe current C is incorrect as D is incorrect as
+Worked Example
+When will 8 mA of current pass through an electrical circuit?
+A . When 1 J of energy is used by 1 C of charge
+B . When a charge of 4 C passes in 500 s
+C . When a charge of 8 C passes in 100 s
+D . When a charge of 1 C passes in 8 s
+Answer: B
+The equation relating current, charge and time is:
+Consider option B : Δ Q = 4 C, Δ t = 500 s
+Therefore, the correct answer is B
+A is incorrect as this is the definition of a potential difference of 1 V between two points and does not describe current
+C is incorrect as
+D is incorrect as
+Examiner Tips and Tricks You may have previously described the potential difference in a circuit as 'voltage'. While this is a valid term, it is important to become comfortable using the term potential difference to describe the difference in potential (energy per unit charge) between two points in a circuit. Remember that potential difference is not the same as energy. It is the energy per unit charge. Since work done is , two batteries may have the same voltage (or the same potential difference between battery terminals), but one may store more energy than the other and therefore would be able to move more charge.
+Examiner Tips and Tricks
+You may have previously described the potential difference in a circuit as 'voltage'. While this is a valid term, it is important to become comfortable using the term potential difference to describe the difference in potential (energy per unit charge) between two points in a circuit.
+Remember that potential difference is not the same as energy. It is the energy per unit charge. Since work done is , two batteries may have the same voltage (or the same potential difference between battery terminals), but one may store more energy than the other and therefore would be able to move more charge.
+Resistance Resistance is defined as The opposition of a component to the flow of electric current through it The resistance R of a conductor is defined as the ratio of the potential difference V across to the current I in it Where: R = resistance of a conductor (Ω) V = potential difference across the conductor (V) I = current in the conductor (A) Resistance is measured in units of ohms (Ω) A resistance of 1 Ω is equivalent to a potential difference across a component of 1 V which produces a current of 1 A through it The resistance of a component controls the size of the current in a circuit For a given potential difference across a component: The higher the resistance, the lower the current that can flow The lower the resistance, the higher the current that can flow All electrical components, including wires, possess some value of resistance Wires are often made from copper because of its low electrical resistance This is why it is known as a good conductor
+Resistance
+Resistance is defined as The opposition of a component to the flow of electric current through it
+Resistance is defined as
+The opposition of a component to the flow of electric current through it
+The resistance R of a conductor is defined as the ratio of the potential difference V across to the current I in it
+Where: R = resistance of a conductor (Ω) V = potential difference across the conductor (V) I = current in the conductor (A)
+R = resistance of a conductor (Ω)
+V = potential difference across the conductor (V)
+I = current in the conductor (A)
+Resistance is measured in units of ohms (Ω) A resistance of 1 Ω is equivalent to a potential difference across a component of 1 V which produces a current of 1 A through it
+Resistance is measured in units of ohms (Ω)
+A resistance of 1 Ω is equivalent to a potential difference across a component of 1 V which produces a current of 1 A through it
+The resistance of a component controls the size of the current in a circuit
+For a given potential difference across a component: The higher the resistance, the lower the current that can flow The lower the resistance, the higher the current that can flow
+For a given potential difference across a component:
+The higher the resistance, the lower the current that can flow
+The lower the resistance, the higher the current that can flow
+All electrical components, including wires, possess some value of resistance
+Wires are often made from copper because of its low electrical resistance This is why it is known as a good conductor
+Wires are often made from copper because of its low electrical resistance
+This is why it is known as a good conductor
+Examiner Tips and Tricks Although all electrical components have resistance, the resistance of wires is taken to be zero in exam questions.
+Although all electrical components have resistance, the resistance of wires is taken to be zero in exam questions.

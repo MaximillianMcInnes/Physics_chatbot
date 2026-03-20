@@ -1,0 +1,32 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-5-diesel-engine-cycle
+HEADING: Diesel Engine Cycle ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Diesel Engine Cycle The Diesel Engine Cycle A diesel engine cycle is not that different from a petrol engine cycle It still consists of 4 strokes, but they work differently The four 'strokes' of the diesel engine cycle In the induction (or intake) stroke, only air is drawn into the cylinder (compared to a petrol-air mixture in the petrol engine) This means there is no fuel in the cylinder during compression During the compression stroke, the air is compressed at a high temperature which vapourises and ignites the diesel fuel (as a fine spray) pumped directly into the cylinder through an injector The expansion and exhaust stages are similar Indicator Diagrams This theoretical diagram would look like this: Theoretical indicator diagram for a four-stroke diesel engine From A to B : The gas is compressed adiabatically From B to C : Heat is supplied and the pressure is kept constant From C to D : The gas expands adiabatically (cooling) From D to A : The system is cooled at a constant volume The actual indicator diagram looks like: The biggest difference is from B to C - there is no sharp peak at the start of the expansion stroke
+The Diesel Engine Cycle
+A diesel engine cycle is not that different from a petrol engine cycle
+It still consists of 4 strokes, but they work differently
+The four 'strokes' of the diesel engine cycle
+In the induction (or intake) stroke, only air is drawn into the cylinder (compared to a petrol-air mixture in the petrol engine) This means there is no fuel in the cylinder during compression
+In the induction (or intake) stroke, only air is drawn into the cylinder (compared to a petrol-air mixture in the petrol engine)
+This means there is no fuel in the cylinder during compression
+During the compression stroke, the air is compressed at a high temperature which vapourises and ignites the diesel fuel (as a fine spray) pumped directly into the cylinder through an injector
+The expansion and exhaust stages are similar
+Indicator Diagrams
+This theoretical diagram would look like this:
+Theoretical indicator diagram for a four-stroke diesel engine
+From A to B : The gas is compressed adiabatically
+From A to B :
+The gas is compressed adiabatically
+From B to C : Heat is supplied and the pressure is kept constant
+From B to C :
+Heat is supplied and the pressure is kept constant
+From C to D : The gas expands adiabatically (cooling)
+From C to D :
+The gas expands adiabatically (cooling)
+From D to A : The system is cooled at a constant volume
+From D to A :
+The system is cooled at a constant volume
+The actual indicator diagram looks like:
+The biggest difference is from B to C - there is no sharp peak at the start of the expansion stroke

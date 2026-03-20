@@ -1,0 +1,19 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-3-cosmology/9-3-2-binary-star-systems
+HEADING: Binary Star Systems ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Binary Star Systems The Doppler effect can be used to identify eclipsing binary star systems An eclipsing binary star system is Where two stars orbit around a common centre of mass with their orbital plane in the Earth's line of sight This means that, when observed from Earth, the stars cross in front of each other as they orbit, appearing to periodically eclipse one another They can be identified from their characteristic light curves Light Curve of an Eclipsing Binary The light intensity curve of an eclipsing binary shows periodic dips of two different sizes The primary minima (the larger dips) are caused by the cooler star passing in front of the hotter star When the hotter star is eclipsed, more light is blocked which results in deeper minima The secondary minima (the smaller dips) are caused by the hotter star passing in front of the cooler star When the cooler star is eclipsed, less light is blocked which results in shallower minima
+The Doppler effect can be used to identify eclipsing binary star systems
+An eclipsing binary star system is
+Where two stars orbit around a common centre of mass with their orbital plane in the Earth's line of sight
+This means that, when observed from Earth, the stars cross in front of each other as they orbit, appearing to periodically eclipse one another
+They can be identified from their characteristic light curves
+Light Curve of an Eclipsing Binary
+The light intensity curve of an eclipsing binary shows periodic dips of two different sizes
+The primary minima (the larger dips) are caused by the cooler star passing in front of the hotter star When the hotter star is eclipsed, more light is blocked which results in deeper minima
+The primary minima (the larger dips) are caused by the cooler star passing in front of the hotter star
+When the hotter star is eclipsed, more light is blocked which results in deeper minima
+The secondary minima (the smaller dips) are caused by the hotter star passing in front of the cooler star When the cooler star is eclipsed, less light is blocked which results in shallower minima
+The secondary minima (the smaller dips) are caused by the hotter star passing in front of the cooler star
+When the cooler star is eclipsed, less light is blocked which results in shallower minima

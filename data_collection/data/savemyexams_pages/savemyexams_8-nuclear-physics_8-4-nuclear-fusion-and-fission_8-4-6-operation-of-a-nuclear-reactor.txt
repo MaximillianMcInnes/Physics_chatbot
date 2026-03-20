@@ -1,0 +1,82 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-4-nuclear-fusion-and-fission/8-4-6-operation-of-a-nuclear-reactor
+HEADING: Operation of a Nuclear Reactor ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Components of a Nuclear Reactor In a nuclear reactor, a chain reaction is required to keep the reactor running When the reactor is producing energy at the required rate, two factors must be controlled: The number of free neutrons in the reactor The energy of the free neutrons The main components of a nuclear reactor are: A moderator Control rods Coolant Components of a nuclear reactor Moderator The purpose of a moderator: To slow down neutrons The moderator is a material that surrounds the fuel rods and control rods inside the reactor core Moderators are made from materials that are poor absorbers of neutrons, such as water or graphite The fast-moving neutrons produced by the fission reactions slow down by colliding with the molecules of the moderator, causing them to lose some momentum The neutrons are slowed down so that they are in thermal equilibrium with the moderator, hence the term ‘thermal neutron’ This ensures neutrons can react efficiently with the uranium fuel Control Rods Purpose of a control rod: To absorb neutrons Control rods are made of a material which absorbs neutrons without becoming dangerously unstable themselves The number of neutrons absorbed is controlled by varying the depth of the control rods in the fuel rods Lowering the rods further decreases the rate of fission, as more neutrons are absorbed Raising the rods increases the rate of fission, as fewer neutrons are absorbed This is adjusted automatically so that exactly one fission neutron produced by each fission event goes on to cause another fission In the event the nuclear reactor needs to shut down, the control rods can be lowered all the way so no reaction can take place Coolant The purpose of coolant: To transfer thermal energy efficiently between the water systems of a nuclear power plant There are multiple water systems in a nuclear power plant that need regulating The coolant (usually water) used in the reactor vessel The water and steam that drives the turbine The condenser that cools the steam The heat exchanger mediates the thermal energy exchanges between these water systems The coolant is a substance, such as water, that is pumped into the reactor at a cold temperature to extract the heat released by the fission reactions In the heat exchanger, the coolant transfers the heat to water that is pumped in externally to produce steam This steam then goes on to power electricity-generating turbines Water systems in a nuclear power plant are regulated by a heat exchanger Moderation of Fission Reactors After each fission reaction, 2 or 3 high-energy neutrons are released The purpose of the moderator is to slow these neutrons down to maintain the chain reaction The first few collisions of a neutron transfer sufficient energy to excite nuclei in the moderator without being absorbed When they subsequently de-excite, this energy is released as gamma radiation The following collisions of a neutron with the moderator are elastic In these collisions, momentum is transferred to the moderator atoms With each elastic collision, the neutron slows down until the average kinetic energy of the neutrons corresponds to that of the moderator nuclei Eventually (after about 50 collisions), the neutrons reach speeds associated with thermal random motion (hence the name thermal neutron ) At these speeds, neutrons can cause fission rather than rebound off of the uranium nuclei The process of moderation changes fast neutrons to slow neutrons Materials Used for Nuclear Reactor Components Moderators must be made from light nuclei which are not fissionable and will not absorb neutrons but will absorb a large amount of energy from them Graphite and water are commonly used for moderators Control rods must be made with non-fissionable materials This is so that they can absorb excess neutrons without decaying themselves Boron and cadmium are commonly used for control rods Often water is used as both the coolant and moderator This is because it has a high specific heat capacity meaning it can transfer large amounts of thermal energy Other materials such as molten salt or inert gas (e.g helium) are sometimes used as a coolant Another important component of a nuclear reactor is shielding Alpha and beta radiation can be stopped by a few cm of material, however, gamma radiation is much more penetrating Therefore, lead or concrete is needed to ensure there are no radiation leakages A summary of materials used are shown in the table below: Materials for Moderators Table
+Components of a Nuclear Reactor In a nuclear reactor, a chain reaction is required to keep the reactor running When the reactor is producing energy at the required rate, two factors must be controlled: The number of free neutrons in the reactor The energy of the free neutrons The main components of a nuclear reactor are: A moderator Control rods Coolant Components of a nuclear reactor Moderator The purpose of a moderator: To slow down neutrons The moderator is a material that surrounds the fuel rods and control rods inside the reactor core Moderators are made from materials that are poor absorbers of neutrons, such as water or graphite The fast-moving neutrons produced by the fission reactions slow down by colliding with the molecules of the moderator, causing them to lose some momentum The neutrons are slowed down so that they are in thermal equilibrium with the moderator, hence the term ‘thermal neutron’ This ensures neutrons can react efficiently with the uranium fuel Control Rods Purpose of a control rod: To absorb neutrons Control rods are made of a material which absorbs neutrons without becoming dangerously unstable themselves The number of neutrons absorbed is controlled by varying the depth of the control rods in the fuel rods Lowering the rods further decreases the rate of fission, as more neutrons are absorbed Raising the rods increases the rate of fission, as fewer neutrons are absorbed This is adjusted automatically so that exactly one fission neutron produced by each fission event goes on to cause another fission In the event the nuclear reactor needs to shut down, the control rods can be lowered all the way so no reaction can take place Coolant The purpose of coolant: To transfer thermal energy efficiently between the water systems of a nuclear power plant There are multiple water systems in a nuclear power plant that need regulating The coolant (usually water) used in the reactor vessel The water and steam that drives the turbine The condenser that cools the steam The heat exchanger mediates the thermal energy exchanges between these water systems The coolant is a substance, such as water, that is pumped into the reactor at a cold temperature to extract the heat released by the fission reactions In the heat exchanger, the coolant transfers the heat to water that is pumped in externally to produce steam This steam then goes on to power electricity-generating turbines Water systems in a nuclear power plant are regulated by a heat exchanger
+Components of a Nuclear Reactor
+In a nuclear reactor, a chain reaction is required to keep the reactor running
+When the reactor is producing energy at the required rate, two factors must be controlled: The number of free neutrons in the reactor The energy of the free neutrons
+When the reactor is producing energy at the required rate, two factors must be controlled:
+The number of free neutrons in the reactor
+The energy of the free neutrons
+The main components of a nuclear reactor are: A moderator Control rods Coolant
+The main components of a nuclear reactor are:
+A moderator
+Control rods
+Coolant
+Components of a nuclear reactor
+Moderator
+The purpose of a moderator: To slow down neutrons
+The moderator is a material that surrounds the fuel rods and control rods inside the reactor core Moderators are made from materials that are poor absorbers of neutrons, such as water or graphite
+The moderator is a material that surrounds the fuel rods and control rods inside the reactor core
+Moderators are made from materials that are poor absorbers of neutrons, such as water or graphite
+The fast-moving neutrons produced by the fission reactions slow down by colliding with the molecules of the moderator, causing them to lose some momentum
+The neutrons are slowed down so that they are in thermal equilibrium with the moderator, hence the term ‘thermal neutron’ This ensures neutrons can react efficiently with the uranium fuel
+The neutrons are slowed down so that they are in thermal equilibrium with the moderator, hence the term ‘thermal neutron’
+This ensures neutrons can react efficiently with the uranium fuel
+Control Rods
+Purpose of a control rod: To absorb neutrons
+Control rods are made of a material which absorbs neutrons without becoming dangerously unstable themselves
+The number of neutrons absorbed is controlled by varying the depth of the control rods in the fuel rods Lowering the rods further decreases the rate of fission, as more neutrons are absorbed Raising the rods increases the rate of fission, as fewer neutrons are absorbed
+The number of neutrons absorbed is controlled by varying the depth of the control rods in the fuel rods
+Lowering the rods further decreases the rate of fission, as more neutrons are absorbed
+Raising the rods increases the rate of fission, as fewer neutrons are absorbed
+This is adjusted automatically so that exactly one fission neutron produced by each fission event goes on to cause another fission
+In the event the nuclear reactor needs to shut down, the control rods can be lowered all the way so no reaction can take place
+The purpose of coolant: To transfer thermal energy efficiently between the water systems of a nuclear power plant
+There are multiple water systems in a nuclear power plant that need regulating The coolant (usually water) used in the reactor vessel The water and steam that drives the turbine The condenser that cools the steam
+There are multiple water systems in a nuclear power plant that need regulating
+The coolant (usually water) used in the reactor vessel
+The water and steam that drives the turbine
+The condenser that cools the steam
+The heat exchanger mediates the thermal energy exchanges between these water systems
+The coolant is a substance, such as water, that is pumped into the reactor at a cold temperature to extract the heat released by the fission reactions
+In the heat exchanger, the coolant transfers the heat to water that is pumped in externally to produce steam
+This steam then goes on to power electricity-generating turbines
+Water systems in a nuclear power plant are regulated by a heat exchanger
+Moderation of Fission Reactors After each fission reaction, 2 or 3 high-energy neutrons are released The purpose of the moderator is to slow these neutrons down to maintain the chain reaction The first few collisions of a neutron transfer sufficient energy to excite nuclei in the moderator without being absorbed When they subsequently de-excite, this energy is released as gamma radiation The following collisions of a neutron with the moderator are elastic In these collisions, momentum is transferred to the moderator atoms With each elastic collision, the neutron slows down until the average kinetic energy of the neutrons corresponds to that of the moderator nuclei Eventually (after about 50 collisions), the neutrons reach speeds associated with thermal random motion (hence the name thermal neutron ) At these speeds, neutrons can cause fission rather than rebound off of the uranium nuclei The process of moderation changes fast neutrons to slow neutrons
+Moderation of Fission Reactors
+After each fission reaction, 2 or 3 high-energy neutrons are released
+The purpose of the moderator is to slow these neutrons down to maintain the chain reaction
+The first few collisions of a neutron transfer sufficient energy to excite nuclei in the moderator without being absorbed When they subsequently de-excite, this energy is released as gamma radiation
+The first few collisions of a neutron transfer sufficient energy to excite nuclei in the moderator without being absorbed
+When they subsequently de-excite, this energy is released as gamma radiation
+The following collisions of a neutron with the moderator are elastic
+In these collisions, momentum is transferred to the moderator atoms With each elastic collision, the neutron slows down until the average kinetic energy of the neutrons corresponds to that of the moderator nuclei
+In these collisions, momentum is transferred to the moderator atoms
+With each elastic collision, the neutron slows down until the average kinetic energy of the neutrons corresponds to that of the moderator nuclei
+Eventually (after about 50 collisions), the neutrons reach speeds associated with thermal random motion (hence the name thermal neutron ) At these speeds, neutrons can cause fission rather than rebound off of the uranium nuclei
+Eventually (after about 50 collisions), the neutrons reach speeds associated with thermal random motion (hence the name thermal neutron )
+At these speeds, neutrons can cause fission rather than rebound off of the uranium nuclei
+The process of moderation changes fast neutrons to slow neutrons
+Materials Used for Nuclear Reactor Components Moderators must be made from light nuclei which are not fissionable and will not absorb neutrons but will absorb a large amount of energy from them Graphite and water are commonly used for moderators Control rods must be made with non-fissionable materials This is so that they can absorb excess neutrons without decaying themselves Boron and cadmium are commonly used for control rods Often water is used as both the coolant and moderator This is because it has a high specific heat capacity meaning it can transfer large amounts of thermal energy Other materials such as molten salt or inert gas (e.g helium) are sometimes used as a coolant Another important component of a nuclear reactor is shielding Alpha and beta radiation can be stopped by a few cm of material, however, gamma radiation is much more penetrating Therefore, lead or concrete is needed to ensure there are no radiation leakages A summary of materials used are shown in the table below: Materials for Moderators Table
+Materials Used for Nuclear Reactor Components
+Moderators must be made from light nuclei which are not fissionable and will not absorb neutrons but will absorb a large amount of energy from them Graphite and water are commonly used for moderators
+Moderators must be made from light nuclei which are not fissionable and will not absorb neutrons but will absorb a large amount of energy from them
+Graphite and water are commonly used for moderators
+Control rods must be made with non-fissionable materials This is so that they can absorb excess neutrons without decaying themselves Boron and cadmium are commonly used for control rods
+Control rods must be made with non-fissionable materials
+This is so that they can absorb excess neutrons without decaying themselves
+Boron and cadmium are commonly used for control rods
+Often water is used as both the coolant and moderator This is because it has a high specific heat capacity meaning it can transfer large amounts of thermal energy
+Often water is used as both the coolant and moderator
+This is because it has a high specific heat capacity meaning it can transfer large amounts of thermal energy
+Other materials such as molten salt or inert gas (e.g helium) are sometimes used as a coolant
+Another important component of a nuclear reactor is shielding
+Alpha and beta radiation can be stopped by a few cm of material, however, gamma radiation is much more penetrating Therefore, lead or concrete is needed to ensure there are no radiation leakages
+Alpha and beta radiation can be stopped by a few cm of material, however, gamma radiation is much more penetrating
+Therefore, lead or concrete is needed to ensure there are no radiation leakages
+A summary of materials used are shown in the table below:
+Materials for Moderators Table

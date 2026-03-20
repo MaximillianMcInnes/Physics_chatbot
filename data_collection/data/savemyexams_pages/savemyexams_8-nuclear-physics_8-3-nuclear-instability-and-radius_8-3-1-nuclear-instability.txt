@@ -1,0 +1,65 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-3-nuclear-instability-and-radius/8-3-1-nuclear-instability
+HEADING: Nuclear Instability ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Nuclear Stability Graph The most common elements in the universe all tend to have values of N and Z less than 20 (plus iron which has Z = 26, N = 30) Where: N = number of neutrons Z = number of protons / atomic number This is because lighter elements (with fewer protons) tend to be much more stable than heavier ones (with many protons) Nuclear stability becomes vastly clearer when viewed on a graph of N against Z This nuclear stability curve shows the line of stable isotopes and which unstable isotopes will emit alpha or beta particles A nucleus will be unstable if it has: Too many neutrons Too many protons Too many nucleons ie. too heavy Too much energy For light isotopes, Z < 20: All these nuclei tend to be very stable They follow the straight-line N = Z For heavy isotopes, Z > 20: The neutron-proton ratio increases Stable nuclei must have more neutrons than protons This imbalance in the neutron-proton ratio is significant to the stability of nuclei At a short range (around 1–3 fm), nucleons are bound by the strong nuclear force Below 1 fm, the strong nuclear force is repulsive in order to prevent the nucleus from collapsing At longer ranges, the electromagnetic force acts between protons, so more protons cause more instability Therefore, as more protons are added to the nucleus, more neutrons are needed to add distance between protons to reduce the electrostatic repulsion Also, the extra neutrons increase the amount of binding force which helps to bind the nucleons together Alpha, Beta & Electron Capture The graph of N against Z is useful in determining which isotopes will decay via Alpha emission Beta-minus (β - ) emission Beta-plus (β + ) emission Electron capture Alpha emission Alpha emitters are found beneath the line of stability when Z > 82 where there are too many nucleons in the nucleus These nuclei have more protons than neutrons, but they are too large to be stable This is because the strong nuclear force between the nucleons is unable to overcome the electrostatic force of repulsion between the protons Beta-minus (β - ) emission Beta-minus emitters are found to the left of the stability line where the isotopes are neutron-rich compared to stable isotopes A neutron is converted to a proton and emits a β – particle (and an anti-electron neutrino) Beta-plus (β + ) emission Beta-plus emitters are found to the right of the stability line where the isotopes are proton-rich compared to stable isotopes A proton is converted to a neutron and emits a β + particle (and an electron neutrino) Electron capture Electron capture occurs when a nucleus captures one of its own orbiting electrons As with β + decay, a proton in the nucleus is converted into a neutron, releasing a gamma-ray (and an electron neutrino) Hence, this also occurs to the right of the stability line where the isotopes are proton-rich compared to stable isotopes Examiner Tips and Tricks To remember where the β - and β + emitters are on the graph: Beta-minus is a n egative particle where a n eutron turns into a proton. Unstable atoms always want to go towards a roughly equal number of protons and neutrons Therefore these emitters are on the n eutron-rich side of isotopes Beta-plus is a p ositive particle where a p roton turns into a neutron Therefore these emitters are on the p roton-rich side of isotopes The best way to remember the nuclear stability graph is to try to draw it from memory
+Nuclear Stability Graph The most common elements in the universe all tend to have values of N and Z less than 20 (plus iron which has Z = 26, N = 30) Where: N = number of neutrons Z = number of protons / atomic number This is because lighter elements (with fewer protons) tend to be much more stable than heavier ones (with many protons) Nuclear stability becomes vastly clearer when viewed on a graph of N against Z This nuclear stability curve shows the line of stable isotopes and which unstable isotopes will emit alpha or beta particles A nucleus will be unstable if it has: Too many neutrons Too many protons Too many nucleons ie. too heavy Too much energy For light isotopes, Z < 20: All these nuclei tend to be very stable They follow the straight-line N = Z For heavy isotopes, Z > 20: The neutron-proton ratio increases Stable nuclei must have more neutrons than protons This imbalance in the neutron-proton ratio is significant to the stability of nuclei At a short range (around 1–3 fm), nucleons are bound by the strong nuclear force Below 1 fm, the strong nuclear force is repulsive in order to prevent the nucleus from collapsing At longer ranges, the electromagnetic force acts between protons, so more protons cause more instability Therefore, as more protons are added to the nucleus, more neutrons are needed to add distance between protons to reduce the electrostatic repulsion Also, the extra neutrons increase the amount of binding force which helps to bind the nucleons together
+Nuclear Stability Graph
+The most common elements in the universe all tend to have values of N and Z less than 20 (plus iron which has Z = 26, N = 30)
+Where: N = number of neutrons Z = number of protons / atomic number
+Where:
+N = number of neutrons
+Z = number of protons / atomic number
+This is because lighter elements (with fewer protons) tend to be much more stable than heavier ones (with many protons)
+Nuclear stability becomes vastly clearer when viewed on a graph of N against Z
+This nuclear stability curve shows the line of stable isotopes and which unstable isotopes will emit alpha or beta particles
+A nucleus will be unstable if it has: Too many neutrons Too many protons Too many nucleons ie. too heavy Too much energy
+A nucleus will be unstable if it has:
+Too many neutrons
+Too many protons
+Too many nucleons ie. too heavy
+Too much energy
+For light isotopes, Z < 20: All these nuclei tend to be very stable They follow the straight-line N = Z
+For light isotopes, Z < 20:
+All these nuclei tend to be very stable
+They follow the straight-line N = Z
+For heavy isotopes, Z > 20: The neutron-proton ratio increases Stable nuclei must have more neutrons than protons
+For heavy isotopes, Z > 20:
+The neutron-proton ratio increases
+Stable nuclei must have more neutrons than protons
+This imbalance in the neutron-proton ratio is significant to the stability of nuclei At a short range (around 1–3 fm), nucleons are bound by the strong nuclear force Below 1 fm, the strong nuclear force is repulsive in order to prevent the nucleus from collapsing At longer ranges, the electromagnetic force acts between protons, so more protons cause more instability Therefore, as more protons are added to the nucleus, more neutrons are needed to add distance between protons to reduce the electrostatic repulsion Also, the extra neutrons increase the amount of binding force which helps to bind the nucleons together
+This imbalance in the neutron-proton ratio is significant to the stability of nuclei
+At a short range (around 1–3 fm), nucleons are bound by the strong nuclear force
+Below 1 fm, the strong nuclear force is repulsive in order to prevent the nucleus from collapsing
+At longer ranges, the electromagnetic force acts between protons, so more protons cause more instability
+Therefore, as more protons are added to the nucleus, more neutrons are needed to add distance between protons to reduce the electrostatic repulsion
+Also, the extra neutrons increase the amount of binding force which helps to bind the nucleons together
+Alpha, Beta & Electron Capture The graph of N against Z is useful in determining which isotopes will decay via Alpha emission Beta-minus (β - ) emission Beta-plus (β + ) emission Electron capture Alpha emission Alpha emitters are found beneath the line of stability when Z > 82 where there are too many nucleons in the nucleus These nuclei have more protons than neutrons, but they are too large to be stable This is because the strong nuclear force between the nucleons is unable to overcome the electrostatic force of repulsion between the protons Beta-minus (β - ) emission Beta-minus emitters are found to the left of the stability line where the isotopes are neutron-rich compared to stable isotopes A neutron is converted to a proton and emits a β – particle (and an anti-electron neutrino) Beta-plus (β + ) emission Beta-plus emitters are found to the right of the stability line where the isotopes are proton-rich compared to stable isotopes A proton is converted to a neutron and emits a β + particle (and an electron neutrino) Electron capture Electron capture occurs when a nucleus captures one of its own orbiting electrons As with β + decay, a proton in the nucleus is converted into a neutron, releasing a gamma-ray (and an electron neutrino) Hence, this also occurs to the right of the stability line where the isotopes are proton-rich compared to stable isotopes
+Alpha, Beta & Electron Capture
+The graph of N against Z is useful in determining which isotopes will decay via Alpha emission Beta-minus (β - ) emission Beta-plus (β + ) emission Electron capture
+The graph of N against Z is useful in determining which isotopes will decay via
+Alpha emission
+Beta-minus (β - ) emission
+Beta-plus (β + ) emission
+Electron capture
+Alpha emitters are found beneath the line of stability when Z > 82 where there are too many nucleons in the nucleus
+These nuclei have more protons than neutrons, but they are too large to be stable
+This is because the strong nuclear force between the nucleons is unable to overcome the electrostatic force of repulsion between the protons
+Beta-minus emitters are found to the left of the stability line where the isotopes are neutron-rich compared to stable isotopes
+A neutron is converted to a proton and emits a β – particle (and an anti-electron neutrino)
+Beta-plus emitters are found to the right of the stability line where the isotopes are proton-rich compared to stable isotopes
+A proton is converted to a neutron and emits a β + particle (and an electron neutrino)
+Electron capture occurs when a nucleus captures one of its own orbiting electrons
+As with β + decay, a proton in the nucleus is converted into a neutron, releasing a gamma-ray (and an electron neutrino)
+Hence, this also occurs to the right of the stability line where the isotopes are proton-rich compared to stable isotopes
+Examiner Tips and Tricks To remember where the β - and β + emitters are on the graph: Beta-minus is a n egative particle where a n eutron turns into a proton. Unstable atoms always want to go towards a roughly equal number of protons and neutrons Therefore these emitters are on the n eutron-rich side of isotopes Beta-plus is a p ositive particle where a p roton turns into a neutron Therefore these emitters are on the p roton-rich side of isotopes The best way to remember the nuclear stability graph is to try to draw it from memory
+Examiner Tips and Tricks
+To remember where the β - and β + emitters are on the graph:
+Beta-minus is a n egative particle where a n eutron turns into a proton. Unstable atoms always want to go towards a roughly equal number of protons and neutrons Therefore these emitters are on the n eutron-rich side of isotopes
+Beta-minus is a n egative particle where a n eutron turns into a proton. Unstable atoms always want to go towards a roughly equal number of protons and neutrons
+Therefore these emitters are on the n eutron-rich side of isotopes
+Beta-plus is a p ositive particle where a p roton turns into a neutron Therefore these emitters are on the p roton-rich side of isotopes
+Beta-plus is a p ositive particle where a p roton turns into a neutron
+Therefore these emitters are on the p roton-rich side of isotopes
+The best way to remember the nuclear stability graph is to try to draw it from memory

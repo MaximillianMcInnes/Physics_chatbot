@@ -1,0 +1,50 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-3-nuclear-instability-and-radius/8-3-6-nuclear-radius-equation
+HEADING: Nuclear Radius Equation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Nuclear Radius Values The radius of some nuclei are shown in the table below: In general, nuclear radii are of the order 10 –15 m or 1 fm The nuclear radius, R , varies with nucleon number, A as follows: The key features of this graph are: The graph starts with a steep gradient at the origin Then the gradient gradually decreases to almost horizontal This means that As more nucleons are added to a nucleus, the nucleus gets bigger However, the number of nucleons A is not proportional to its size r Radius v Nucleon Number The radius of nuclei depends on the nucleon number, A of the atom This makes sense because as more nucleons are added to a nucleus, more space is occupied by the nucleus, hence giving it a larger radius The exact relationship between the radius and nucleon number can be determined from experimental data By doing this, physicists were able to deduce the following relationship: Where: R = nuclear radius (m) A = nucleon / mass number R 0 = constant of proportionality = 1.05 fm Plotting a graph of R against A 1 / 3 gives a straight line through the origin with the gradient equal to R 0 It is also possible to plot a logarithmic graph of the relationship which can be derived as follows: ln R = ln ( R 0 A 1 / 3 ) ln R = ln R 0 + ln ( A 1 / 3 ) ln R = ln R 0 + 1/3 ln A Therefore, a graph of ln R against ln A yields a straight line Comparing this to the straight-line equation: y = mx + c y = lnR x = lnA m (the gradient) = 1/3 c (y-intercept) = ln R 0 Worked Example Verify the experimental relationship between R and A using the data from the table above and estimate a value of R 0 . Answer: Step 1: Add a column to the table to determine the values for A 1 / 3 Step 2: Plot a graph of R against A 1 / 3 and draw a line of best fit Step 3: Calculate the gradient R 0 = 1.12 fm
+Nuclear Radius Values The radius of some nuclei are shown in the table below: In general, nuclear radii are of the order 10 –15 m or 1 fm The nuclear radius, R , varies with nucleon number, A as follows: The key features of this graph are: The graph starts with a steep gradient at the origin Then the gradient gradually decreases to almost horizontal This means that As more nucleons are added to a nucleus, the nucleus gets bigger However, the number of nucleons A is not proportional to its size r
+Nuclear Radius Values
+The radius of some nuclei are shown in the table below:
+In general, nuclear radii are of the order 10 –15 m or 1 fm
+The nuclear radius, R , varies with nucleon number, A as follows:
+The key features of this graph are: The graph starts with a steep gradient at the origin Then the gradient gradually decreases to almost horizontal
+The key features of this graph are:
+The graph starts with a steep gradient at the origin
+Then the gradient gradually decreases to almost horizontal
+This means that As more nucleons are added to a nucleus, the nucleus gets bigger However, the number of nucleons A is not proportional to its size r
+This means that
+As more nucleons are added to a nucleus, the nucleus gets bigger
+However, the number of nucleons A is not proportional to its size r
+Radius v Nucleon Number The radius of nuclei depends on the nucleon number, A of the atom This makes sense because as more nucleons are added to a nucleus, more space is occupied by the nucleus, hence giving it a larger radius The exact relationship between the radius and nucleon number can be determined from experimental data By doing this, physicists were able to deduce the following relationship: Where: R = nuclear radius (m) A = nucleon / mass number R 0 = constant of proportionality = 1.05 fm Plotting a graph of R against A 1 / 3 gives a straight line through the origin with the gradient equal to R 0 It is also possible to plot a logarithmic graph of the relationship which can be derived as follows: ln R = ln ( R 0 A 1 / 3 ) ln R = ln R 0 + ln ( A 1 / 3 ) ln R = ln R 0 + 1/3 ln A Therefore, a graph of ln R against ln A yields a straight line Comparing this to the straight-line equation: y = mx + c y = lnR x = lnA m (the gradient) = 1/3 c (y-intercept) = ln R 0
+Radius v Nucleon Number
+The radius of nuclei depends on the nucleon number, A of the atom
+This makes sense because as more nucleons are added to a nucleus, more space is occupied by the nucleus, hence giving it a larger radius
+The exact relationship between the radius and nucleon number can be determined from experimental data
+By doing this, physicists were able to deduce the following relationship:
+Where: R = nuclear radius (m) A = nucleon / mass number R 0 = constant of proportionality = 1.05 fm
+Where:
+R = nuclear radius (m)
+A = nucleon / mass number
+R 0 = constant of proportionality = 1.05 fm
+Plotting a graph of R against A 1 / 3 gives a straight line through the origin with the gradient equal to R 0
+It is also possible to plot a logarithmic graph of the relationship which can be derived as follows:
+ln R = ln ( R 0 A 1 / 3 )
+ln R = ln R 0 + ln ( A 1 / 3 )
+ln R = ln R 0 + 1/3 ln A
+Therefore, a graph of ln R against ln A yields a straight line
+Comparing this to the straight-line equation: y = mx + c y = lnR x = lnA m (the gradient) = 1/3 c (y-intercept) = ln R 0
+Comparing this to the straight-line equation: y = mx + c
+y = lnR
+x = lnA
+m (the gradient) = 1/3
+c (y-intercept) = ln R 0
+Worked Example Verify the experimental relationship between R and A using the data from the table above and estimate a value of R 0 . Answer: Step 1: Add a column to the table to determine the values for A 1 / 3 Step 2: Plot a graph of R against A 1 / 3 and draw a line of best fit Step 3: Calculate the gradient R 0 = 1.12 fm
+Worked Example
+Verify the experimental relationship between R and A using the data from the table above and estimate a value of R 0 .
+Answer:
+Step 1: Add a column to the table to determine the values for A 1 / 3
+Step 2: Plot a graph of R against A 1 / 3 and draw a line of best fit
+Step 3: Calculate the gradient
+R 0 = 1.12 fm

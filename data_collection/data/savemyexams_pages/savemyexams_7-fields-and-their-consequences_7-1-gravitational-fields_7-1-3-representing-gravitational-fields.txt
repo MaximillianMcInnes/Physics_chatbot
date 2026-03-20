@@ -1,0 +1,37 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-1-gravitational-fields/7-1-3-representing-gravitational-fields
+HEADING: Representing Gravitational Fields ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Gravitational Field Lines The strength and direction of a gravitational field can be represented by gravitational field lines The gravitational field lines around a point mass are radially inwards The gravitational field lines of a uniform field, where the field strength is the same at all points, are represented by equally spaced parallel lines , for example, the field lines near the Earth’s surface Gravitational field lines for a point mass and a uniform gravitational field Radial fields are considered to be non-uniform fields The gravitational field strength g is different depending on how far you are from the centre Parallel field lines on the Earth’s surface are considered a uniform field The gravitational field strength g is the same throughout Point Mass Approximation For a point outside a uniform sphere, the mass of the sphere may be considered to be a point mass at its centre A uniform sphere is one where its mass is distributed evenly The gravitational field lines around a uniform sphere are therefore identical to those around a point mass An object can be regarded as a point mass when: It has an even mass distribution and the distance being considered is larger than its size For example, when drawing field lines around planets, the lines are drawn to converge at the centre Gravitational field lines around a uniform sphere are identical to those on a point mass Radial fields are considered non-uniform fields So, the gravitational field strength g is different depending on how far an object is from the centre of mass of the sphere Examiner Tips and Tricks Always label the arrows on the field lines! Gravitational forces are attractive only . Remember: For a radial field : it is towards the centre of the sphere or point charge For a uniform field : towards the surface of the object e.g. Earth
+Gravitational Field Lines The strength and direction of a gravitational field can be represented by gravitational field lines The gravitational field lines around a point mass are radially inwards The gravitational field lines of a uniform field, where the field strength is the same at all points, are represented by equally spaced parallel lines , for example, the field lines near the Earth’s surface Gravitational field lines for a point mass and a uniform gravitational field Radial fields are considered to be non-uniform fields The gravitational field strength g is different depending on how far you are from the centre Parallel field lines on the Earth’s surface are considered a uniform field The gravitational field strength g is the same throughout Point Mass Approximation For a point outside a uniform sphere, the mass of the sphere may be considered to be a point mass at its centre A uniform sphere is one where its mass is distributed evenly The gravitational field lines around a uniform sphere are therefore identical to those around a point mass An object can be regarded as a point mass when: It has an even mass distribution and the distance being considered is larger than its size For example, when drawing field lines around planets, the lines are drawn to converge at the centre Gravitational field lines around a uniform sphere are identical to those on a point mass Radial fields are considered non-uniform fields So, the gravitational field strength g is different depending on how far an object is from the centre of mass of the sphere
+Gravitational Field Lines
+The strength and direction of a gravitational field can be represented by gravitational field lines The gravitational field lines around a point mass are radially inwards The gravitational field lines of a uniform field, where the field strength is the same at all points, are represented by equally spaced parallel lines , for example, the field lines near the Earth’s surface
+The strength and direction of a gravitational field can be represented by gravitational field lines
+The gravitational field lines around a point mass are radially inwards
+The gravitational field lines of a uniform field, where the field strength is the same at all points, are represented by equally spaced parallel lines , for example, the field lines near the Earth’s surface
+Gravitational field lines for a point mass and a uniform gravitational field
+Radial fields are considered to be non-uniform fields The gravitational field strength g is different depending on how far you are from the centre
+Radial fields are considered to be non-uniform fields
+The gravitational field strength g is different depending on how far you are from the centre
+gravitational field strength
+Parallel field lines on the Earth’s surface are considered a uniform field The gravitational field strength g is the same throughout
+Parallel field lines on the Earth’s surface are considered a uniform field
+The gravitational field strength g is the same throughout
+Point Mass Approximation
+For a point outside a uniform sphere, the mass of the sphere may be considered to be a point mass at its centre A uniform sphere is one where its mass is distributed evenly
+For a point outside a uniform sphere, the mass of the sphere may be considered to be a point mass at its centre
+A uniform sphere is one where its mass is distributed evenly
+The gravitational field lines around a uniform sphere are therefore identical to those around a point mass
+An object can be regarded as a point mass when:
+It has an even mass distribution and the distance being considered is larger than its size
+For example, when drawing field lines around planets, the lines are drawn to converge at the centre
+Gravitational field lines around a uniform sphere are identical to those on a point mass
+Radial fields are considered non-uniform fields So, the gravitational field strength g is different depending on how far an object is from the centre of mass of the sphere
+Radial fields are considered non-uniform fields
+So, the gravitational field strength g is different depending on how far an object is from the centre of mass of the sphere
+Examiner Tips and Tricks Always label the arrows on the field lines! Gravitational forces are attractive only . Remember: For a radial field : it is towards the centre of the sphere or point charge For a uniform field : towards the surface of the object e.g. Earth
+Examiner Tips and Tricks
+Always label the arrows on the field lines! Gravitational forces are attractive only . Remember:
+For a radial field : it is towards the centre of the sphere or point charge
+For a uniform field : towards the surface of the object e.g. Earth

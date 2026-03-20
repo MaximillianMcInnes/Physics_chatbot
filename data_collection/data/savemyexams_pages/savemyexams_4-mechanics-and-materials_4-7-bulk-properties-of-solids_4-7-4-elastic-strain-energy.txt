@@ -1,0 +1,77 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-7-bulk-properties-of-solids/4-7-4-elastic-strain-energy
+HEADING: Elastic Strain Energy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Elastic Strain Energy Work has to be done to stretch a material Before a material reaches its elastic limit (whilst it obeys Hooke's Law), all the work is done is stored as elastic strain energy The work done, or the elastic strain energy is the area under the force-extension graph Work done is the area under the force-extension graph This is true for whether the material obeys Hooke’s law or not For the region where the material obeys Hooke’s law, the work done is the area of a right-angled triangle under the graph For the region where the material doesn’t obey Hooke’s law, the area is the full region under the graph. To calculate this area, split the graph into separate segments and add up the individual areas of each When a material does obey Hooke's law, the elastic strain energy, E can be calculated using: Where: E = elastic strain energy (or work done) (J) F = average force (N) Δ L = extension (m) This equation is equivalent to the area of a right-angled triangle under the force-extension graph Using Hooke's law , the elastic strain energy can also be written as: Where: k = spring constant (N m –1 ) Breaking Stress As greater force is applied on a material, the stress on it increases The breaking stress is the maximum stress a material can stand before it fractures (breaks) A material with high breaking stress is considered ductile This means it can stretch a long way before breaking A common example of this is copper, as well as being a good electrical conductor, copper is ductile so it is a suitable material for making wires The ultimate tensile stress (UTS) is sometimes also marked on a stress-strain graph This is the maximum stress that the material can withstand The UTS and breaking stress can depend on the condition of the material such as its temperature This is very important for engineers when considering materials for a particular structure The material might need to stand extreme temperatures and loads which are taken into consideration The ultimate breaking stress is the point on the stress-strain graph of maximum stress. The breaking point is where the material fractures Worked Example The graph shows the behaviour of a sample of a metal when it is stretched until it starts to undergo plastic deformation. What is the total work done in stretching the sample from zero to 13.5 mm extension? Simplify the calculation by treating the curve XY as a straight line. Answer: Worked Example A spring is extended with varying forces; the graph below shows the results. What is the energy stored in the spring when the extension is 40 mm? Answer: Spring Energy When a vertical spring is extended and contracted, its energy is converted into other forms Although the total energy of the spring will remain constant, it will have changing amounts of: Elastic potential energy (EPE) Kinetic energy (KE) Gravitational potential energy (GPE) When a vertical mass is hanging on a spring and it moves up and down, its energy will convert between the three in various amounts At position A: The spring has some EPE since it is slightly compressed Its KE is 0 since it is stationary Its GPE is at a maximum because the mass is at its highest point At position B: The spring has some EPE since it is slightly stretched Its KE is at a maximum as it passes through the equilibrium position at its maximum speed It has some GPE since the mass is still above the ground At position C: The spring has its maximum EPE because it is at its maximum extension Its KE is 0 since it is stationary Its GPE is at a minimum because it is at its lowest point above the Earth's surface For a horizontal mass on a spring system, there is no gravitational potential energy to consider. The spring only converts between kinetic and elastic potential energy Examiner Tips and Tricks It is important to remember at which position the mass has the greatest amount of which type of energy (and which type of energy is 0).
+Elastic Strain Energy Work has to be done to stretch a material Before a material reaches its elastic limit (whilst it obeys Hooke's Law), all the work is done is stored as elastic strain energy The work done, or the elastic strain energy is the area under the force-extension graph Work done is the area under the force-extension graph This is true for whether the material obeys Hooke’s law or not For the region where the material obeys Hooke’s law, the work done is the area of a right-angled triangle under the graph For the region where the material doesn’t obey Hooke’s law, the area is the full region under the graph. To calculate this area, split the graph into separate segments and add up the individual areas of each When a material does obey Hooke's law, the elastic strain energy, E can be calculated using: Where: E = elastic strain energy (or work done) (J) F = average force (N) Δ L = extension (m) This equation is equivalent to the area of a right-angled triangle under the force-extension graph Using Hooke's law , the elastic strain energy can also be written as: Where: k = spring constant (N m –1 ) Breaking Stress As greater force is applied on a material, the stress on it increases The breaking stress is the maximum stress a material can stand before it fractures (breaks) A material with high breaking stress is considered ductile This means it can stretch a long way before breaking A common example of this is copper, as well as being a good electrical conductor, copper is ductile so it is a suitable material for making wires The ultimate tensile stress (UTS) is sometimes also marked on a stress-strain graph This is the maximum stress that the material can withstand The UTS and breaking stress can depend on the condition of the material such as its temperature This is very important for engineers when considering materials for a particular structure The material might need to stand extreme temperatures and loads which are taken into consideration The ultimate breaking stress is the point on the stress-strain graph of maximum stress. The breaking point is where the material fractures
+Work has to be done to stretch a material
+Before a material reaches its elastic limit (whilst it obeys Hooke's Law), all the work is done is stored as elastic strain energy
+elastic limit
+The work done, or the elastic strain energy is the area under the force-extension graph
+Work done is the area under the force-extension graph
+This is true for whether the material obeys Hooke’s law or not For the region where the material obeys Hooke’s law, the work done is the area of a right-angled triangle under the graph For the region where the material doesn’t obey Hooke’s law, the area is the full region under the graph. To calculate this area, split the graph into separate segments and add up the individual areas of each
+This is true for whether the material obeys Hooke’s law or not
+For the region where the material obeys Hooke’s law, the work done is the area of a right-angled triangle under the graph
+For the region where the material doesn’t obey Hooke’s law, the area is the full region under the graph. To calculate this area, split the graph into separate segments and add up the individual areas of each
+When a material does obey Hooke's law, the elastic strain energy, E can be calculated using:
+Where: E = elastic strain energy (or work done) (J) F = average force (N) Δ L = extension (m)
+Where:
+E = elastic strain energy (or work done) (J)
+F = average force (N)
+Δ L = extension (m)
+This equation is equivalent to the area of a right-angled triangle under the force-extension graph
+Using Hooke's law , the elastic strain energy can also be written as:
+Where: k = spring constant (N m –1 )
+k = spring constant (N m –1 )
+Breaking Stress
+As greater force is applied on a material, the stress on it increases
+The breaking stress is the maximum stress a material can stand before it fractures (breaks) A material with high breaking stress is considered ductile This means it can stretch a long way before breaking A common example of this is copper, as well as being a good electrical conductor, copper is ductile so it is a suitable material for making wires
+The breaking stress is the maximum stress a material can stand before it fractures (breaks)
+A material with high breaking stress is considered ductile
+This means it can stretch a long way before breaking
+A common example of this is copper, as well as being a good electrical conductor, copper is ductile so it is a suitable material for making wires
+The ultimate tensile stress (UTS) is sometimes also marked on a stress-strain graph This is the maximum stress that the material can withstand
+The ultimate tensile stress (UTS) is sometimes also marked on a stress-strain graph
+This is the maximum stress that the material can withstand
+The UTS and breaking stress can depend on the condition of the material such as its temperature This is very important for engineers when considering materials for a particular structure The material might need to stand extreme temperatures and loads which are taken into consideration
+The UTS and breaking stress can depend on the condition of the material such as its temperature
+This is very important for engineers when considering materials for a particular structure
+The material might need to stand extreme temperatures and loads which are taken into consideration
+The ultimate breaking stress is the point on the stress-strain graph of maximum stress. The breaking point is where the material fractures
+Worked Example The graph shows the behaviour of a sample of a metal when it is stretched until it starts to undergo plastic deformation. What is the total work done in stretching the sample from zero to 13.5 mm extension? Simplify the calculation by treating the curve XY as a straight line. Answer:
+Worked Example
+The graph shows the behaviour of a sample of a metal when it is stretched until it starts to undergo plastic deformation.
+What is the total work done in stretching the sample from zero to 13.5 mm extension?
+Simplify the calculation by treating the curve XY as a straight line.
+Answer:
+Worked Example A spring is extended with varying forces; the graph below shows the results. What is the energy stored in the spring when the extension is 40 mm? Answer:
+A spring is extended with varying forces; the graph below shows the results.
+What is the energy stored in the spring when the extension is 40 mm?
+Spring Energy When a vertical spring is extended and contracted, its energy is converted into other forms Although the total energy of the spring will remain constant, it will have changing amounts of: Elastic potential energy (EPE) Kinetic energy (KE) Gravitational potential energy (GPE) When a vertical mass is hanging on a spring and it moves up and down, its energy will convert between the three in various amounts At position A: The spring has some EPE since it is slightly compressed Its KE is 0 since it is stationary Its GPE is at a maximum because the mass is at its highest point At position B: The spring has some EPE since it is slightly stretched Its KE is at a maximum as it passes through the equilibrium position at its maximum speed It has some GPE since the mass is still above the ground At position C: The spring has its maximum EPE because it is at its maximum extension Its KE is 0 since it is stationary Its GPE is at a minimum because it is at its lowest point above the Earth's surface For a horizontal mass on a spring system, there is no gravitational potential energy to consider. The spring only converts between kinetic and elastic potential energy
+Spring Energy
+When a vertical spring is extended and contracted, its energy is converted into other forms
+Although the total energy of the spring will remain constant, it will have changing amounts of: Elastic potential energy (EPE) Kinetic energy (KE) Gravitational potential energy (GPE)
+Although the total energy of the spring will remain constant, it will have changing amounts of:
+Elastic potential energy (EPE)
+Kinetic energy (KE)
+Gravitational potential energy (GPE)
+When a vertical mass is hanging on a spring and it moves up and down, its energy will convert between the three in various amounts
+At position A: The spring has some EPE since it is slightly compressed Its KE is 0 since it is stationary Its GPE is at a maximum because the mass is at its highest point
+At position A:
+The spring has some EPE since it is slightly compressed
+Its KE is 0 since it is stationary
+Its GPE is at a maximum because the mass is at its highest point
+At position B: The spring has some EPE since it is slightly stretched Its KE is at a maximum as it passes through the equilibrium position at its maximum speed It has some GPE since the mass is still above the ground
+At position B:
+The spring has some EPE since it is slightly stretched
+Its KE is at a maximum as it passes through the equilibrium position at its maximum speed
+It has some GPE since the mass is still above the ground
+At position C: The spring has its maximum EPE because it is at its maximum extension Its KE is 0 since it is stationary Its GPE is at a minimum because it is at its lowest point above the Earth's surface
+At position C:
+The spring has its maximum EPE because it is at its maximum extension
+Its GPE is at a minimum because it is at its lowest point above the Earth's surface
+For a horizontal mass on a spring system, there is no gravitational potential energy to consider. The spring only converts between kinetic and elastic potential energy
+Examiner Tips and Tricks It is important to remember at which position the mass has the greatest amount of which type of energy (and which type of energy is 0).
+Examiner Tips and Tricks
+It is important to remember at which position the mass has the greatest amount of which type of energy (and which type of energy is 0).

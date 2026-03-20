@@ -1,0 +1,32 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-2-moments/4-2-3-centre-of-mass
+HEADING: Centre of Mass ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Centre of Mass Centre of Mass Definition The centre of mass of an object is the point at which the weight of the object may be considered to act The position of the centre of mass of uniform regular solid is at its centre For example, for a person standing upright, their centre of mass is roughly in the middle of the body behind the navel, and for a sphere, it is at the centre For symmetrical objects with uniform density, the centre of mass is located at the point of symmetry The centre of mass of a shape can be found by symmetry Stability The position of the centre of mass of an object affects its stability An object is stable when its centre of mass lies above its base The object on the right will topple, as its centre of mass is no longer over its base The wider base an object has, the lower its centre of mass and it is more stable The narrower base an object has, the higher its centre of mass and the object is more likely to topple over if pushed The most stable objects have wide bases and low centres of mass Centre of gravity v Centre of mass In a uniform gravitational field, the centre of gravity is identical to the centre of mass The centre of mass does not depend on the gravitational field Since weight = mass × acceleration due to gravity, the centre of gravity does depend on the gravitational field When an object is in space, its centre of gravity will be more towards the object with the larger gravitational field For example, the Earth’s gravitational field on the Moon: The Earth’s stronger gravitational field pushes the Moons centre of gravity closer to Earth Examiner Tips and Tricks Since the centre of mass is a hypothetical point, it can lie inside or outside of a body. The centre of mass will constantly shift depending on the shape of a body. For example, a human body’s centre of mass is lower when learning forward than upright
+Centre of Mass Centre of Mass Definition The centre of mass of an object is the point at which the weight of the object may be considered to act The position of the centre of mass of uniform regular solid is at its centre For example, for a person standing upright, their centre of mass is roughly in the middle of the body behind the navel, and for a sphere, it is at the centre For symmetrical objects with uniform density, the centre of mass is located at the point of symmetry The centre of mass of a shape can be found by symmetry Stability The position of the centre of mass of an object affects its stability An object is stable when its centre of mass lies above its base The object on the right will topple, as its centre of mass is no longer over its base The wider base an object has, the lower its centre of mass and it is more stable The narrower base an object has, the higher its centre of mass and the object is more likely to topple over if pushed The most stable objects have wide bases and low centres of mass Centre of gravity v Centre of mass In a uniform gravitational field, the centre of gravity is identical to the centre of mass The centre of mass does not depend on the gravitational field Since weight = mass × acceleration due to gravity, the centre of gravity does depend on the gravitational field When an object is in space, its centre of gravity will be more towards the object with the larger gravitational field For example, the Earth’s gravitational field on the Moon: The Earth’s stronger gravitational field pushes the Moons centre of gravity closer to Earth
+Centre of Mass Definition
+The centre of mass of an object is the point at which the weight of the object may be considered to act
+The position of the centre of mass of uniform regular solid is at its centre For example, for a person standing upright, their centre of mass is roughly in the middle of the body behind the navel, and for a sphere, it is at the centre
+The position of the centre of mass of uniform regular solid is at its centre
+For example, for a person standing upright, their centre of mass is roughly in the middle of the body behind the navel, and for a sphere, it is at the centre
+For symmetrical objects with uniform density, the centre of mass is located at the point of symmetry
+The centre of mass of a shape can be found by symmetry
+Stability
+The position of the centre of mass of an object affects its stability
+An object is stable when its centre of mass lies above its base
+The object on the right will topple, as its centre of mass is no longer over its base
+The wider base an object has, the lower its centre of mass and it is more stable
+The narrower base an object has, the higher its centre of mass and the object is more likely to topple over if pushed
+The most stable objects have wide bases and low centres of mass
+Centre of gravity v Centre of mass
+In a uniform gravitational field, the centre of gravity is identical to the centre of mass
+The centre of mass does not depend on the gravitational field
+Since weight = mass × acceleration due to gravity, the centre of gravity does depend on the gravitational field
+When an object is in space, its centre of gravity will be more towards the object with the larger gravitational field For example, the Earth’s gravitational field on the Moon:
+When an object is in space, its centre of gravity will be more towards the object with the larger gravitational field
+For example, the Earth’s gravitational field on the Moon:
+The Earth’s stronger gravitational field pushes the Moons centre of gravity closer to Earth
+Examiner Tips and Tricks Since the centre of mass is a hypothetical point, it can lie inside or outside of a body. The centre of mass will constantly shift depending on the shape of a body. For example, a human body’s centre of mass is lower when learning forward than upright
+Examiner Tips and Tricks
+Since the centre of mass is a hypothetical point, it can lie inside or outside of a body. The centre of mass will constantly shift depending on the shape of a body. For example, a human body’s centre of mass is lower when learning forward than upright

@@ -1,0 +1,62 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-2-simple-harmonic-motion/6-2-3-calculating-maximum-speed-and-acceleration
+HEADING: Calculating Maximum Speed & Acceleration ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Maximum Speed The maximum speed of an oscillator, v max , is given by the equation: v max = ωA Where: v max = maximum speed (m s -1 ) ω = angular frequency (rad s -1 ) A = amplitude (m) This comes from the SHM speed-equation Where: v is maximum at the equilibrium position x = 0 So, When an oscillator begins its motion at the equilibrium position then the velocity-time graph is a cosine graph The maximum speed of an oscillator is the amplitude , v 0 of the velocity-time graph For a mass oscillating on a vertical spring: v max occurs when the spring is in its equilibrium position v = 0 at the amplitude position The maximum speed of a mass on a spring is at the equilibrium position. Its speed is 0 at its positive and negative amplitude Worked Example Calculate the frequency of an oscillator with a maximum speed of 12 m s -1 and amplitude of 1.4 m. Answer: Step 1: State the known values Maximum speed, v max = 12 m s -1 Amplitude, A = 1.4 m Step 2: Write down the equation v max = ωA Step 3: Rewrite angular velocity in terms of frequency f ω = 2π f v max = 2π fA Step 4: Rearrange for frequency, f Step 5: Substitute in the values Maximum Acceleration The maximum acceleration , a max of an oscillator will occur when the gradient of the velocity-time graph is steepest When v = 0 m s −1 at x = A Acceleration is zero at the equilibrium position ( x = 0) The maximum acceleration is given by the equation: a max = ω 2 A Where: a max = maximum acceleration (m s 2 ) ω = angular frequency (rad s -1 ) A = amplitude (maximum displacement, x ) (m) This comes from the defining equation of SHM : a = − ω 2 x The maximum acceleration of a mass on a spring is at its positive and negative amplitude. Its acceleration is 0 at the equilibrium position Worked Example Calculate the maximum acceleration of an oscillator with a time period of 0.4 s and amplitude of 2.8 m. Answer: Step 1: State the known values Time period, T = 0.4 s Amplitude, A = 2.8 m Step 2: Write down the equation a max = ω 2 A Step 3: Rewrite maximum acceleration with time period T Step 4: Substitute in the values Examiner Tips and Tricks Make sure not to get mixed up with lowercase a (acceleration) and uppercase A (amplitude). Make sure you feel confident moving between the equations in their various forms.
+Maximum Speed The maximum speed of an oscillator, v max , is given by the equation: v max = ωA Where: v max = maximum speed (m s -1 ) ω = angular frequency (rad s -1 ) A = amplitude (m) This comes from the SHM speed-equation Where: v is maximum at the equilibrium position x = 0 So, When an oscillator begins its motion at the equilibrium position then the velocity-time graph is a cosine graph The maximum speed of an oscillator is the amplitude , v 0 of the velocity-time graph For a mass oscillating on a vertical spring: v max occurs when the spring is in its equilibrium position v = 0 at the amplitude position The maximum speed of a mass on a spring is at the equilibrium position. Its speed is 0 at its positive and negative amplitude
+Maximum Speed
+The maximum speed of an oscillator, v max , is given by the equation:
+v max = ωA
+Where: v max = maximum speed (m s -1 ) ω = angular frequency (rad s -1 ) A = amplitude (m)
+Where:
+v max = maximum speed (m s -1 )
+ω = angular frequency (rad s -1 )
+A = amplitude (m)
+This comes from the SHM speed-equation
+Where: v is maximum at the equilibrium position x = 0 So,
+v is maximum at the equilibrium position x = 0
+So,
+When an oscillator begins its motion at the equilibrium position then the velocity-time graph is a cosine graph
+The maximum speed of an oscillator is the amplitude , v 0 of the velocity-time graph
+For a mass oscillating on a vertical spring: v max occurs when the spring is in its equilibrium position v = 0 at the amplitude position
+For a mass oscillating on a vertical spring:
+v max occurs when the spring is in its equilibrium position
+v = 0 at the amplitude position
+The maximum speed of a mass on a spring is at the equilibrium position. Its speed is 0 at its positive and negative amplitude
+Worked Example Calculate the frequency of an oscillator with a maximum speed of 12 m s -1 and amplitude of 1.4 m. Answer: Step 1: State the known values Maximum speed, v max = 12 m s -1 Amplitude, A = 1.4 m Step 2: Write down the equation v max = ωA Step 3: Rewrite angular velocity in terms of frequency f ω = 2π f v max = 2π fA Step 4: Rearrange for frequency, f Step 5: Substitute in the values
+Worked Example
+Calculate the frequency of an oscillator with a maximum speed of 12 m s -1 and amplitude of 1.4 m.
+Answer:
+Step 1: State the known values
+Maximum speed, v max = 12 m s -1
+Amplitude, A = 1.4 m
+Step 2: Write down the equation
+Step 3: Rewrite angular velocity in terms of frequency f
+ω = 2π f
+v max = 2π fA
+Step 4: Rearrange for frequency, f
+Step 5: Substitute in the values
+Maximum Acceleration The maximum acceleration , a max of an oscillator will occur when the gradient of the velocity-time graph is steepest When v = 0 m s −1 at x = A Acceleration is zero at the equilibrium position ( x = 0) The maximum acceleration is given by the equation: a max = ω 2 A Where: a max = maximum acceleration (m s 2 ) ω = angular frequency (rad s -1 ) A = amplitude (maximum displacement, x ) (m) This comes from the defining equation of SHM : a = − ω 2 x The maximum acceleration of a mass on a spring is at its positive and negative amplitude. Its acceleration is 0 at the equilibrium position
+Maximum Acceleration
+The maximum acceleration , a max of an oscillator will occur when the gradient of the velocity-time graph is steepest When v = 0 m s −1 at x = A
+The maximum acceleration , a max of an oscillator will occur when the gradient of the velocity-time graph is steepest
+When v = 0 m s −1 at x = A
+Acceleration is zero at the equilibrium position ( x = 0)
+The maximum acceleration is given by the equation:
+a max = ω 2 A
+Where: a max = maximum acceleration (m s 2 ) ω = angular frequency (rad s -1 ) A = amplitude (maximum displacement, x ) (m)
+a max = maximum acceleration (m s 2 )
+A = amplitude (maximum displacement, x ) (m)
+This comes from the defining equation of SHM :
+a = − ω 2 x
+The maximum acceleration of a mass on a spring is at its positive and negative amplitude. Its acceleration is 0 at the equilibrium position
+Worked Example Calculate the maximum acceleration of an oscillator with a time period of 0.4 s and amplitude of 2.8 m. Answer: Step 1: State the known values Time period, T = 0.4 s Amplitude, A = 2.8 m Step 2: Write down the equation a max = ω 2 A Step 3: Rewrite maximum acceleration with time period T Step 4: Substitute in the values
+Calculate the maximum acceleration of an oscillator with a time period of 0.4 s and amplitude of 2.8 m.
+Time period, T = 0.4 s
+Amplitude, A = 2.8 m
+Step 3: Rewrite maximum acceleration with time period T
+Step 4: Substitute in the values
+Examiner Tips and Tricks Make sure not to get mixed up with lowercase a (acceleration) and uppercase A (amplitude). Make sure you feel confident moving between the equations in their various forms.
+Examiner Tips and Tricks
+Make sure not to get mixed up with lowercase a (acceleration) and uppercase A (amplitude). Make sure you feel confident moving between the equations in their various forms.

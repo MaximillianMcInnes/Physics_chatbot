@@ -1,0 +1,87 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-4-newtons-laws-of-motion/4-4-2-newtons-second-law
+HEADING: Newton's Second Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Newton's Second Law Newton's second law describes the change in motion that arises from a resultant force acting on an object Newton's Second Law states that: The resultant force acting on an object with a constant mass is directly proportional to its acceleration Where: = resultant force, measured in newtons (N) = mass of object, measured in kilograms (kg) = acceleration, measured in metres per second squared (m s −2 ) This acceleration always acts in the same direction as the resultant force When unbalanced forces act on an object, the object experiences a resultant force If the resultant force acts along the direction of the object's motion , the object will: Speed up (accelerate) Slow down (decelerate) If the resultant force acts on an object at an angle to its direction of motion , it will: Change direction Resultant Force Force is a vector quantity with both magnitude and direction The resultant force is, therefore, the vector sum of all the forces acting on the body If the object is in motion, then the positive direction is in the direction of motion Resultant forces on a body can be positive or negative depending on their direction If the resultant force acts at an angle to the direction of motion, the magnitude and direction of the resultant force can be found by Combing vectors Scale drawings Both of these methods are covered in Scalars & Vectors Acceleration Acceleration is a vector quantity with both magnitude and direction If the resultant force acts in the direction of an object's motion, the acceleration is positive If the resultant force opposes the direction of the object's motion, the acceleration is negative But the acceleration will always act in the same direction as the resultant force Examiner Tips and Tricks It is important to understand that for an object in motion, a resultant force that opposes that motion will cause the object to decelerate, not to suddenly travel backwards. If no drag forces are present, then the acceleration of a falling object is independent of its mass. This unintuitive fact of physics has been proven by astronauts on the Moon, who simultaneously dropped both a hammer and a feather from equal heights and found that they hit the ground at the same time! (Because there is no air resistance on the Moon.) Worked Example A rocket produces an upward thrust of 15 MN and has a weight of 8 MN. A. When in flight, the force due to air resistance is 500 kN. Determine the resultant force on the rocket. B. The mass of the rocket is 0.8 × 10 5 kg. Calculate the acceleration of the rocket, and state the direction of the acceleration. Answer Part (a) Step 1: Draw a force diagram of the situation Step 2: Convert the forces into newtons and assign directions The direction of motion is upwards, therefore upwards is the positive direction Air resistance (downward acting) = −500 kN = −500 × 10 3 N Weight (downward acting) = −8 MN = −8 × 10 6 N Thrust (upward acting) = 15 MN = 15 × 10 6 N Step 3: Calculate the resultant force The positive value indicates that the resultant force acts in the direction of motion i.e., upwards Part (b) Step 1: State the equation for Newton's second law and rearrange to make acceleration the subject Step 2: Calculate the acceleration and state the direction upwards Acceleration is in the same direction as the resultant force Examiner Tips and Tricks It is a general rule to consider the direction of the object's motion as positive. Therefore, all vectors in the direction of motion will be positive, and opposing vectors, such as drag forces, will be negative. For stationary objects, you can choose which direction is positive or negative as long as you are consistent throughout your calculations. However, it is generally assumed that forward, upwards, and to the right are positive and backward, downwards, and to the left are negative. Newton's Second Law and Momentum Newton's second law can also be given in terms of momentum The resultant force on an object is equal to its rate of change of momentum This change in momentum is in the same direction as the resultant force These two definitions are derived from the definition of momentum, as follows: Momentum: Rate of change of momentum: Force: Acceleration: Therefore: Worked Example A girl is riding her skateboard down the road and increases her speed from 1 m s -1 to 4 m s -1 in 2.5 s. The force driving her forward is 72 N. Calculate the combined mass of the girl and the skateboard. Answer:
+Newton's Second Law Newton's second law describes the change in motion that arises from a resultant force acting on an object Newton's Second Law states that: The resultant force acting on an object with a constant mass is directly proportional to its acceleration Where: = resultant force, measured in newtons (N) = mass of object, measured in kilograms (kg) = acceleration, measured in metres per second squared (m s −2 ) This acceleration always acts in the same direction as the resultant force When unbalanced forces act on an object, the object experiences a resultant force If the resultant force acts along the direction of the object's motion , the object will: Speed up (accelerate) Slow down (decelerate) If the resultant force acts on an object at an angle to its direction of motion , it will: Change direction Resultant Force Force is a vector quantity with both magnitude and direction The resultant force is, therefore, the vector sum of all the forces acting on the body If the object is in motion, then the positive direction is in the direction of motion Resultant forces on a body can be positive or negative depending on their direction If the resultant force acts at an angle to the direction of motion, the magnitude and direction of the resultant force can be found by Combing vectors Scale drawings Both of these methods are covered in Scalars & Vectors Acceleration Acceleration is a vector quantity with both magnitude and direction If the resultant force acts in the direction of an object's motion, the acceleration is positive If the resultant force opposes the direction of the object's motion, the acceleration is negative But the acceleration will always act in the same direction as the resultant force
+Newton's second law describes the change in motion that arises from a resultant force acting on an object
+Newton's Second Law states that: The resultant force acting on an object with a constant mass is directly proportional to its acceleration
+Newton's Second Law states that:
+The resultant force acting on an object with a constant mass is directly proportional to its acceleration
+Where: = resultant force, measured in newtons (N) = mass of object, measured in kilograms (kg) = acceleration, measured in metres per second squared (m s −2 )
+Where:
+= resultant force, measured in newtons (N)
+= mass of object, measured in kilograms (kg)
+= acceleration, measured in metres per second squared (m s −2 )
+This acceleration always acts in the same direction as the resultant force
+When unbalanced forces act on an object, the object experiences a resultant force
+If the resultant force acts along the direction of the object's motion , the object will: Speed up (accelerate) Slow down (decelerate)
+If the resultant force acts along the direction of the object's motion , the object will:
+Speed up (accelerate)
+Slow down (decelerate)
+If the resultant force acts on an object at an angle to its direction of motion , it will: Change direction
+If the resultant force acts on an object at an angle to its direction of motion , it will:
+Change direction
+Resultant Force
+Force is a vector quantity with both magnitude and direction
+The resultant force is, therefore, the vector sum of all the forces acting on the body
+If the object is in motion, then the positive direction is in the direction of motion
+Resultant forces on a body can be positive or negative depending on their direction
+If the resultant force acts at an angle to the direction of motion, the magnitude and direction of the resultant force can be found by Combing vectors Scale drawings Both of these methods are covered in Scalars & Vectors
+If the resultant force acts at an angle to the direction of motion, the magnitude and direction of the resultant force can be found by
+Combing vectors
+Scale drawings Both of these methods are covered in Scalars & Vectors
+Scale drawings
+Both of these methods are covered in Scalars & Vectors
+Acceleration
+Acceleration is a vector quantity with both magnitude and direction
+If the resultant force acts in the direction of an object's motion, the acceleration is positive
+If the resultant force opposes the direction of the object's motion, the acceleration is negative
+But the acceleration will always act in the same direction as the resultant force
+Examiner Tips and Tricks It is important to understand that for an object in motion, a resultant force that opposes that motion will cause the object to decelerate, not to suddenly travel backwards. If no drag forces are present, then the acceleration of a falling object is independent of its mass. This unintuitive fact of physics has been proven by astronauts on the Moon, who simultaneously dropped both a hammer and a feather from equal heights and found that they hit the ground at the same time! (Because there is no air resistance on the Moon.)
+Examiner Tips and Tricks
+It is important to understand that for an object in motion, a resultant force that opposes that motion will cause the object to decelerate, not to suddenly travel backwards.
+If no drag forces are present, then the acceleration of a falling object is independent of its mass. This unintuitive fact of physics has been proven by astronauts on the Moon, who simultaneously dropped both a hammer and a feather from equal heights and found that they hit the ground at the same time! (Because there is no air resistance on the Moon.)
+Worked Example A rocket produces an upward thrust of 15 MN and has a weight of 8 MN. A. When in flight, the force due to air resistance is 500 kN. Determine the resultant force on the rocket. B. The mass of the rocket is 0.8 × 10 5 kg. Calculate the acceleration of the rocket, and state the direction of the acceleration. Answer Part (a) Step 1: Draw a force diagram of the situation Step 2: Convert the forces into newtons and assign directions The direction of motion is upwards, therefore upwards is the positive direction Air resistance (downward acting) = −500 kN = −500 × 10 3 N Weight (downward acting) = −8 MN = −8 × 10 6 N Thrust (upward acting) = 15 MN = 15 × 10 6 N Step 3: Calculate the resultant force The positive value indicates that the resultant force acts in the direction of motion i.e., upwards Part (b) Step 1: State the equation for Newton's second law and rearrange to make acceleration the subject Step 2: Calculate the acceleration and state the direction upwards Acceleration is in the same direction as the resultant force
+Worked Example
+A rocket produces an upward thrust of 15 MN and has a weight of 8 MN.
+A. When in flight, the force due to air resistance is 500 kN.
+Determine the resultant force on the rocket.
+B. The mass of the rocket is 0.8 × 10 5 kg.
+Calculate the acceleration of the rocket, and state the direction of the acceleration.
+Answer
+Part (a)
+Step 1: Draw a force diagram of the situation
+Step 2: Convert the forces into newtons and assign directions
+The direction of motion is upwards, therefore upwards is the positive direction Air resistance (downward acting) = −500 kN = −500 × 10 3 N Weight (downward acting) = −8 MN = −8 × 10 6 N Thrust (upward acting) = 15 MN = 15 × 10 6 N
+The direction of motion is upwards, therefore upwards is the positive direction
+Air resistance (downward acting) = −500 kN = −500 × 10 3 N
+Weight (downward acting) = −8 MN = −8 × 10 6 N
+Thrust (upward acting) = 15 MN = 15 × 10 6 N
+Step 3: Calculate the resultant force
+The positive value indicates that the resultant force acts in the direction of motion i.e., upwards
+Part (b)
+Step 1: State the equation for Newton's second law and rearrange to make acceleration the subject
+Step 2: Calculate the acceleration and state the direction
+upwards
+Acceleration is in the same direction as the resultant force
+Examiner Tips and Tricks It is a general rule to consider the direction of the object's motion as positive. Therefore, all vectors in the direction of motion will be positive, and opposing vectors, such as drag forces, will be negative. For stationary objects, you can choose which direction is positive or negative as long as you are consistent throughout your calculations. However, it is generally assumed that forward, upwards, and to the right are positive and backward, downwards, and to the left are negative.
+It is a general rule to consider the direction of the object's motion as positive. Therefore, all vectors in the direction of motion will be positive, and opposing vectors, such as drag forces, will be negative. For stationary objects, you can choose which direction is positive or negative as long as you are consistent throughout your calculations. However, it is generally assumed that forward, upwards, and to the right are positive and backward, downwards, and to the left are negative.
+Newton's Second Law and Momentum Newton's second law can also be given in terms of momentum The resultant force on an object is equal to its rate of change of momentum This change in momentum is in the same direction as the resultant force These two definitions are derived from the definition of momentum, as follows: Momentum: Rate of change of momentum: Force: Acceleration: Therefore:
+Newton's Second Law and Momentum
+Newton's second law can also be given in terms of momentum The resultant force on an object is equal to its rate of change of momentum
+Newton's second law can also be given in terms of momentum
+The resultant force on an object is equal to its rate of change of momentum
+This change in momentum is in the same direction as the resultant force
+These two definitions are derived from the definition of momentum, as follows:
+Momentum:
+Rate of change of momentum:
+Force:
+Acceleration:
+Therefore:
+Worked Example A girl is riding her skateboard down the road and increases her speed from 1 m s -1 to 4 m s -1 in 2.5 s. The force driving her forward is 72 N. Calculate the combined mass of the girl and the skateboard. Answer:
+A girl is riding her skateboard down the road and increases her speed from 1 m s -1 to 4 m s -1 in 2.5 s.
+The force driving her forward is 72 N.
+Calculate the combined mass of the girl and the skateboard.
+Answer:

@@ -1,0 +1,40 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-2-physics-of-the-ear/10-2-4-defects-of-hearing
+HEADING: Defects of Hearing ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Defects of Hearing Deterioration of hearing can occur due to Age Exposure to excessive and prolonged noise Genetic factors and disease Depending on the type of hearing loss, the response is different for different frequencies of sound Hearing loss due to ageing : Occurs at all frequencies With the greatest losses at higher frequencies Hearing loss due to excessive noise : Occurs in the frequency range the person was exposed to With the greatest loss at 4 kHz Hearing Loss & Frequency Variation Depending on the type of hearing loss, different responses to frequencies of sound are found to deteriorate The degree of hearing loss can be tested by obtaining equal loudness curves and comparing the results with the curves for normal hearing The same, but inverted, curve can be obtained using the dBA scale Comparing Hearing Defects Curve A shows the response for a young person with no hearing loss. Curve B shows the response for an older person with hearing loss due to ageing. Curve C shows the response for a young person with hearing damage due to excessive noise Worked Example A hearing test was used to obtain threshold hearing audiograms for a group of people. The diagram below shows the audiogram obtained for a person with normal hearing. On the graph, sketch curves to show: (a) a curve labelled X to show a person suffering from hearing loss due to excessive noise (b) a curve labelled Y to show a person suffering from hearing loss due to old age. Answer: Part (a) Hearing loss due to excessive noise: Curve X: hearing loss increases up to 4 kHz then decreases after this frequency Part (b) Hearing loss due to ageing: Curve Y: loss increases as frequency increases
+Defects of Hearing Deterioration of hearing can occur due to Age Exposure to excessive and prolonged noise Genetic factors and disease Depending on the type of hearing loss, the response is different for different frequencies of sound Hearing loss due to ageing : Occurs at all frequencies With the greatest losses at higher frequencies Hearing loss due to excessive noise : Occurs in the frequency range the person was exposed to With the greatest loss at 4 kHz Hearing Loss & Frequency Variation Depending on the type of hearing loss, different responses to frequencies of sound are found to deteriorate The degree of hearing loss can be tested by obtaining equal loudness curves and comparing the results with the curves for normal hearing The same, but inverted, curve can be obtained using the dBA scale Comparing Hearing Defects Curve A shows the response for a young person with no hearing loss. Curve B shows the response for an older person with hearing loss due to ageing. Curve C shows the response for a young person with hearing damage due to excessive noise
+Deterioration of hearing can occur due to Age Exposure to excessive and prolonged noise Genetic factors and disease
+Deterioration of hearing can occur due to
+Age
+Exposure to excessive and prolonged noise
+Genetic factors and disease
+Depending on the type of hearing loss, the response is different for different frequencies of sound
+Hearing loss due to ageing : Occurs at all frequencies With the greatest losses at higher frequencies
+Hearing loss due to ageing :
+Occurs at all frequencies
+With the greatest losses at higher frequencies
+Hearing loss due to excessive noise : Occurs in the frequency range the person was exposed to With the greatest loss at 4 kHz
+Hearing loss due to excessive noise :
+Occurs in the frequency range the person was exposed to
+With the greatest loss at 4 kHz
+Hearing Loss & Frequency Variation
+Depending on the type of hearing loss, different responses to frequencies of sound are found to deteriorate
+The degree of hearing loss can be tested by obtaining equal loudness curves and comparing the results with the curves for normal hearing
+The same, but inverted, curve can be obtained using the dBA scale
+Comparing Hearing Defects
+Curve A shows the response for a young person with no hearing loss. Curve B shows the response for an older person with hearing loss due to ageing. Curve C shows the response for a young person with hearing damage due to excessive noise
+Worked Example A hearing test was used to obtain threshold hearing audiograms for a group of people. The diagram below shows the audiogram obtained for a person with normal hearing. On the graph, sketch curves to show: (a) a curve labelled X to show a person suffering from hearing loss due to excessive noise (b) a curve labelled Y to show a person suffering from hearing loss due to old age. Answer: Part (a) Hearing loss due to excessive noise: Curve X: hearing loss increases up to 4 kHz then decreases after this frequency Part (b) Hearing loss due to ageing: Curve Y: loss increases as frequency increases
+Worked Example
+A hearing test was used to obtain threshold hearing audiograms for a group of people. The diagram below shows the audiogram obtained for a person with normal hearing.
+On the graph, sketch curves to show:
+(a) a curve labelled X to show a person suffering from hearing loss due to excessive noise
+(b) a curve labelled Y to show a person suffering from hearing loss due to old age.
+Answer:
+Part (a)
+Hearing loss due to excessive noise:
+Curve X: hearing loss increases up to 4 kHz then decreases after this frequency
+Part (b)
+Hearing loss due to ageing:
+Curve Y: loss increases as frequency increases

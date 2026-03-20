@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/5-electricity/5-3-circuits-and-the-potential-divider/5-3-1-resistors-in-series-and-parallel
+HEADING: Resistors in Series & Parallel ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Resistors in Series & Parallel Resistors in Series When two or more components are connected in series: The combined resistance of the components is equal to the sum of individual resistances Resistors connected in series To calculate the total resistance of resistors in series: Worked Example The combined resistance R in the following series circuit is 60 Ω.What is the resistance value of R 2 ? A . 100 Ω B . 30 Ω C . 20 Ω D . 40 Ω Resistors in Parallel When two or component are connected in parallel: The reciprocal of the combined resistance is the sum of the reciprocals of the individual resistances Resistors connected in parallel To calculate the total resistance of resistors in parallel: This means as more resistors are added, their combined resistance decreases and is, therefore, less than the resistance of the individual components For example, If two resistors of equal resistance are connected in parallel, then the combined resistance will halve Worked Example Examiner Tips and Tricks The most common mistake in questions about parallel resistors is to forget to find the reciprocal of R T (1/ R T ) instead of R T . Here is a maths tip to rejig your memory on reciprocals: The reciprocal of a value is 1 / value For example, the reciprocal of a whole number such as 2 equals ½ Conversely, the reciprocal of ½ is 2 If the number is already a fraction, the numerator and denominator are ‘flipped’ round The reciprocal of a number is 1 ÷ number In the case of the resistance R , this becomes 1/ R To get the value of R from 1/ R , you must calculate 1 ÷ your answer You can also use the reciprocal button on your calculator (labelled either x -1 or 1/x, depending on your calculator)
+Resistors in Series & Parallel Resistors in Series When two or more components are connected in series: The combined resistance of the components is equal to the sum of individual resistances Resistors connected in series To calculate the total resistance of resistors in series:
+Resistors in Series
+When two or more components are connected in series: The combined resistance of the components is equal to the sum of individual resistances
+When two or more components are connected in series:
+The combined resistance of the components is equal to the sum of individual resistances
+Resistors connected in series
+To calculate the total resistance of resistors in series:
+Worked Example The combined resistance R in the following series circuit is 60 Ω.What is the resistance value of R 2 ? A . 100 Ω B . 30 Ω C . 20 Ω D . 40 Ω
+Worked Example
+The combined resistance R in the following series circuit is 60 Ω.What is the resistance value of R 2 ?
+A . 100 Ω B . 30 Ω C . 20 Ω D . 40 Ω
+Resistors in Parallel When two or component are connected in parallel: The reciprocal of the combined resistance is the sum of the reciprocals of the individual resistances Resistors connected in parallel To calculate the total resistance of resistors in parallel: This means as more resistors are added, their combined resistance decreases and is, therefore, less than the resistance of the individual components For example, If two resistors of equal resistance are connected in parallel, then the combined resistance will halve
+Resistors in Parallel
+When two or component are connected in parallel: The reciprocal of the combined resistance is the sum of the reciprocals of the individual resistances
+When two or component are connected in parallel:
+The reciprocal of the combined resistance is the sum of the reciprocals of the individual resistances
+Resistors connected in parallel
+To calculate the total resistance of resistors in parallel:
+This means as more resistors are added, their combined resistance decreases and is, therefore, less than the resistance of the individual components For example, If two resistors of equal resistance are connected in parallel, then the combined resistance will halve
+This means as more resistors are added, their combined resistance decreases and is, therefore, less than the resistance of the individual components
+For example, If two resistors of equal resistance are connected in parallel, then the combined resistance will halve
+Examiner Tips and Tricks The most common mistake in questions about parallel resistors is to forget to find the reciprocal of R T (1/ R T ) instead of R T . Here is a maths tip to rejig your memory on reciprocals: The reciprocal of a value is 1 / value For example, the reciprocal of a whole number such as 2 equals ½ Conversely, the reciprocal of ½ is 2 If the number is already a fraction, the numerator and denominator are ‘flipped’ round The reciprocal of a number is 1 ÷ number In the case of the resistance R , this becomes 1/ R To get the value of R from 1/ R , you must calculate 1 ÷ your answer You can also use the reciprocal button on your calculator (labelled either x -1 or 1/x, depending on your calculator)
+Examiner Tips and Tricks
+The most common mistake in questions about parallel resistors is to forget to find the reciprocal of R T (1/ R T ) instead of R T . Here is a maths tip to rejig your memory on reciprocals:
+The reciprocal of a value is 1 / value
+For example, the reciprocal of a whole number such as 2 equals ½ Conversely, the reciprocal of ½ is 2
+For example, the reciprocal of a whole number such as 2 equals ½
+Conversely, the reciprocal of ½ is 2
+If the number is already a fraction, the numerator and denominator are ‘flipped’ round
+The reciprocal of a number is 1 ÷ number
+In the case of the resistance R , this becomes 1/ R
+To get the value of R from 1/ R , you must calculate 1 ÷ your answer
+You can also use the reciprocal button on your calculator (labelled either x -1 or 1/x, depending on your calculator)

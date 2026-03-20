@@ -1,0 +1,36 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-5-energy-levels-and-photon-emission/2-5-6-analysis-of-the-nature-of-matter
+HEADING: Analysis of the Nature of Matter ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Analysis of the Nature of Matter The Evolving Field of Quantum Mechanics The field of quantum mechanics is a relatively new field of research, compared to fields in classical mechanics (Newton’s laws, wave theory etc) Around 1900, discoveries such as the electron and the gamma photon began to conflict with the existing models scientists held about the nature of matter Soon after, new theories about the nature of matter began to emerge from Max Planck , Niels Bohr and Albert Einstein , who are seen as the pioneers of Quantum Theory Unsurprisingly, the understanding of quantum mechanics and the nature of matter has changed over time Scientists use the existing models, such as wave theory, to make predictions Sometimes the results of their experiments were not as predicted and did not fit with the existing model, for example, the photoelectric effect Scientists then have to change the model so that it can explain the new evidence, for example, wave-particle duality Development of Scientific Theories When a new theory is suggested, such as de Broglie’s idea of particles acting as waves, the theory needs to be evaluated Other scientists evaluate the theory in a process called peer review When enough experimental evidence is found to support the theory, it is validated De Broglie’s theory is currently accepted to be correct until any conflicting evidence is found Peer Review Scientists across the world form a scientific community Scientific claims from new research that is published in journals must be peer-reviewed or evaluated by other scientists who are experts in that field of science During the peer review process, scientists must check: Validity – does the research achieve what it says it does? Is the method appropriate and how have any errors been addressed? Originality – are the results new or has anyone else already carried out similar research? If so, has their work been credited? Significance – are the findings of the research important or ground-breaking? Evaluating Scientific Claims Claims that are from research that is not peer-reviewed should always be questioned There could be a multitude of problems. These could be the method used, the accuracy of results or the conclusions drawn Research should also be checked that it is: Repeatable by the same scientists who carried it out Reproducible by other teams of scientists Timeline of the great advancements in quantum theory since 1900
+The Evolving Field of Quantum Mechanics
+The field of quantum mechanics is a relatively new field of research, compared to fields in classical mechanics (Newton’s laws, wave theory etc)
+Around 1900, discoveries such as the electron and the gamma photon began to conflict with the existing models scientists held about the nature of matter
+Soon after, new theories about the nature of matter began to emerge from Max Planck , Niels Bohr and Albert Einstein , who are seen as the pioneers of Quantum Theory
+Unsurprisingly, the understanding of quantum mechanics and the nature of matter has changed over time Scientists use the existing models, such as wave theory, to make predictions Sometimes the results of their experiments were not as predicted and did not fit with the existing model, for example, the photoelectric effect Scientists then have to change the model so that it can explain the new evidence, for example, wave-particle duality
+Unsurprisingly, the understanding of quantum mechanics and the nature of matter has changed over time
+Scientists use the existing models, such as wave theory, to make predictions
+Sometimes the results of their experiments were not as predicted and did not fit with the existing model, for example, the photoelectric effect
+Scientists then have to change the model so that it can explain the new evidence, for example, wave-particle duality
+Development of Scientific Theories
+When a new theory is suggested, such as de Broglie’s idea of particles acting as waves, the theory needs to be evaluated
+Other scientists evaluate the theory in a process called peer review
+When enough experimental evidence is found to support the theory, it is validated
+De Broglie’s theory is currently accepted to be correct until any conflicting evidence is found
+Peer Review
+Scientists across the world form a scientific community
+Scientific claims from new research that is published in journals must be peer-reviewed or evaluated by other scientists who are experts in that field of science
+During the peer review process, scientists must check: Validity – does the research achieve what it says it does? Is the method appropriate and how have any errors been addressed? Originality – are the results new or has anyone else already carried out similar research? If so, has their work been credited? Significance – are the findings of the research important or ground-breaking?
+During the peer review process, scientists must check:
+Validity – does the research achieve what it says it does? Is the method appropriate and how have any errors been addressed?
+Originality – are the results new or has anyone else already carried out similar research? If so, has their work been credited?
+Significance – are the findings of the research important or ground-breaking?
+Evaluating Scientific Claims
+Claims that are from research that is not peer-reviewed should always be questioned
+There could be a multitude of problems. These could be the method used, the accuracy of results or the conclusions drawn
+Research should also be checked that it is: Repeatable by the same scientists who carried it out Reproducible by other teams of scientists
+Research should also be checked that it is:
+Repeatable by the same scientists who carried it out
+Reproducible by other teams of scientists
+Timeline of the great advancements in quantum theory since 1900

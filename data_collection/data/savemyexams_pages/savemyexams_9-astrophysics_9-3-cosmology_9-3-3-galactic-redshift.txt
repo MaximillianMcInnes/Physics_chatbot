@@ -1,0 +1,49 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-3-cosmology/9-3-3-galactic-redshift
+HEADING: Galactic Redshift ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Galactic Redshift When spectral lines from a distant galaxy are redshifted , this means: The lines have shifted towards a longer wavelength, or towards the red end of the spectrum This shift can be observed by comparing the spectra from the distant galaxy to a spectrum produced by a nearby object, such as our Sun, or a laboratory sample Comparing the light spectrum produced by the Sun with light from a distant galaxy An Expanding Universe After the discovery of redshift, astronomers began to realise that almost all the galaxies in the Universe are receding This led to the idea that the space between the Earth and the galaxies must be expanding This expansion stretches out the light waves as they travel through space, shifting them towards the red end of the spectrum The expansion of the Universe can be compared to dots on an inflating balloon As the balloon is inflated, the dots all move away from each other In the same way, as the rubber stretches when the balloon is inflated, space itself is stretching out between galaxies Just like the dots, the galaxies move away from each other, however, they themselves do not move Another observation from looking at the light spectra produced by distant galaxies is that the greater the distance to the galaxy, the greater the redshift This means that the greater the degree of redshift, the faster the galaxy is moving away from Earth The further a galaxy is from Earth, the greater its redshift tends to be The furthest galaxies appear to be redshifted the most and are receding the fastest Worked Example The spectra below show dark absorption lines against a continuous visible spectrum. A particle line in the spectrum of light from a source in the laboratory has a frequency of 4.570 × 10 14 Hz. The same line in the spectrum of light from a distant galaxy is observed to have a frequency of 4.547 × 10 14 Hz. Calculate the speed of the distant galaxy, and state whether it is moving towards or away from the Earth. Answer: Step 1: Write down the known quantities Observed frequency, = 4.547 × 10 14 Hz Original frequency, = 4.570 × 10 14 Hz Change in frequency, = (4.547 – 4.570) × 10 14 = –2.3 × 10 12 Hz Speed of light, = 3.0 × 10 8 m s –1 Step 2: Write down the Doppler redshift equation Step 3: Rearrange for speed v , and calculate = −1.5 × 10 6 m s –1 Step 4: Write a concluding sentence The relative velocity is negative , so the source is moving away from the Earth OR The observed frequency is less than the emitted frequency (the light from a laboratory source), therefore, the source is receding , or moving away, from the Earth at 1.5 × 10 6 m s –1 Examiner Tips and Tricks Keep track of the minus signs in your calculation, as this gives you information about whether the object is moving away or towards the observer. The speed of light is given in your data booklet, you will not need to memorise this value.
+Galactic Redshift When spectral lines from a distant galaxy are redshifted , this means: The lines have shifted towards a longer wavelength, or towards the red end of the spectrum This shift can be observed by comparing the spectra from the distant galaxy to a spectrum produced by a nearby object, such as our Sun, or a laboratory sample Comparing the light spectrum produced by the Sun with light from a distant galaxy An Expanding Universe After the discovery of redshift, astronomers began to realise that almost all the galaxies in the Universe are receding This led to the idea that the space between the Earth and the galaxies must be expanding This expansion stretches out the light waves as they travel through space, shifting them towards the red end of the spectrum The expansion of the Universe can be compared to dots on an inflating balloon As the balloon is inflated, the dots all move away from each other In the same way, as the rubber stretches when the balloon is inflated, space itself is stretching out between galaxies Just like the dots, the galaxies move away from each other, however, they themselves do not move Another observation from looking at the light spectra produced by distant galaxies is that the greater the distance to the galaxy, the greater the redshift This means that the greater the degree of redshift, the faster the galaxy is moving away from Earth The further a galaxy is from Earth, the greater its redshift tends to be The furthest galaxies appear to be redshifted the most and are receding the fastest
+When spectral lines from a distant galaxy are redshifted , this means:
+The lines have shifted towards a longer wavelength, or towards the red end of the spectrum
+This shift can be observed by comparing the spectra from the distant galaxy to a spectrum produced by a nearby object, such as our Sun, or a laboratory sample
+Comparing the light spectrum produced by the Sun with light from a distant galaxy
+An Expanding Universe
+After the discovery of redshift, astronomers began to realise that almost all the galaxies in the Universe are receding This led to the idea that the space between the Earth and the galaxies must be expanding
+After the discovery of redshift, astronomers began to realise that almost all the galaxies in the Universe are receding
+This led to the idea that the space between the Earth and the galaxies must be expanding
+This expansion stretches out the light waves as they travel through space, shifting them towards the red end of the spectrum
+The expansion of the Universe can be compared to dots on an inflating balloon As the balloon is inflated, the dots all move away from each other In the same way, as the rubber stretches when the balloon is inflated, space itself is stretching out between galaxies Just like the dots, the galaxies move away from each other, however, they themselves do not move
+The expansion of the Universe can be compared to dots on an inflating balloon
+As the balloon is inflated, the dots all move away from each other
+In the same way, as the rubber stretches when the balloon is inflated, space itself is stretching out between galaxies
+Just like the dots, the galaxies move away from each other, however, they themselves do not move
+Another observation from looking at the light spectra produced by distant galaxies is that the greater the distance to the galaxy, the greater the redshift This means that the greater the degree of redshift, the faster the galaxy is moving away from Earth
+Another observation from looking at the light spectra produced by distant galaxies is that the greater the distance to the galaxy, the greater the redshift
+This means that the greater the degree of redshift, the faster the galaxy is moving away from Earth
+The further a galaxy is from Earth, the greater its redshift tends to be
+The furthest galaxies appear to be redshifted the most and are receding the fastest
+Worked Example The spectra below show dark absorption lines against a continuous visible spectrum. A particle line in the spectrum of light from a source in the laboratory has a frequency of 4.570 × 10 14 Hz. The same line in the spectrum of light from a distant galaxy is observed to have a frequency of 4.547 × 10 14 Hz. Calculate the speed of the distant galaxy, and state whether it is moving towards or away from the Earth. Answer: Step 1: Write down the known quantities Observed frequency, = 4.547 × 10 14 Hz Original frequency, = 4.570 × 10 14 Hz Change in frequency, = (4.547 – 4.570) × 10 14 = –2.3 × 10 12 Hz Speed of light, = 3.0 × 10 8 m s –1 Step 2: Write down the Doppler redshift equation Step 3: Rearrange for speed v , and calculate = −1.5 × 10 6 m s –1 Step 4: Write a concluding sentence The relative velocity is negative , so the source is moving away from the Earth OR The observed frequency is less than the emitted frequency (the light from a laboratory source), therefore, the source is receding , or moving away, from the Earth at 1.5 × 10 6 m s –1
+Worked Example
+The spectra below show dark absorption lines against a continuous visible spectrum.
+A particle line in the spectrum of light from a source in the laboratory has a frequency of 4.570 × 10 14 Hz.
+The same line in the spectrum of light from a distant galaxy is observed to have a frequency of 4.547 × 10 14 Hz.
+Calculate the speed of the distant galaxy, and state whether it is moving towards or away from the Earth.
+Answer:
+Step 1: Write down the known quantities
+Observed frequency, = 4.547 × 10 14 Hz
+Original frequency, = 4.570 × 10 14 Hz
+Change in frequency, = (4.547 – 4.570) × 10 14 = –2.3 × 10 12 Hz
+Speed of light, = 3.0 × 10 8 m s –1
+Step 2: Write down the Doppler redshift equation
+Step 3: Rearrange for speed v , and calculate
+= −1.5 × 10 6 m s –1
+Step 4: Write a concluding sentence
+The relative velocity is negative , so the source is moving away from the Earth
+OR
+The observed frequency is less than the emitted frequency (the light from a laboratory source), therefore, the source is receding , or moving away, from the Earth at 1.5 × 10 6 m s –1
+Examiner Tips and Tricks Keep track of the minus signs in your calculation, as this gives you information about whether the object is moving away or towards the observer. The speed of light is given in your data booklet, you will not need to memorise this value.
+Examiner Tips and Tricks
+Keep track of the minus signs in your calculation, as this gives you information about whether the object is moving away or towards the observer.
+The speed of light is given in your data booklet, you will not need to memorise this value.

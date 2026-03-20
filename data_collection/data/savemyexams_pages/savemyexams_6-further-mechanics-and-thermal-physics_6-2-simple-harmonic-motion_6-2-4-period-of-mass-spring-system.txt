@@ -1,0 +1,31 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-2-simple-harmonic-motion/6-2-4-period-of-mass-spring-system
+HEADING: Period of Mass-Spring System ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Period of Mass-Spring System A mass-spring system consists of a mass attached to the end of a spring The equation for the restoring force (the force responsible for the SHM) is F H = - kx This is the same as the equation for Hooke's Law The time period of a mass-spring system is given by: Where: T = time period (s) m = mass on the end of the spring (kg) k = spring constant (N m -1 ) This equation applies to both horizontal and vertical mass-spring systems: A mass-spring system can be either vertical or horizontal. The time period equation applies to both The equation shows that the time period and frequency, of a mass-spring system, does not depend on the force of gravity Therefore, the oscillations would have the same time period on Earth and the Moon The higher the spring constant k , the stiffer the spring and the shorter the time period of the oscillation Worked Example Calculate the frequency of a mass of 2.0 kg attached to a spring of spring constant 0.9 N m –1 oscillating in simple harmonic motion. Answer: Examiner Tips and Tricks Another area of physics where you may have seen the spring constant k is from Hooke's Law. Exam questions commonly merge these two topics together, so make sure you're familiar with the Hooke's Law equation too.
+Period of Mass-Spring System A mass-spring system consists of a mass attached to the end of a spring The equation for the restoring force (the force responsible for the SHM) is F H = - kx This is the same as the equation for Hooke's Law The time period of a mass-spring system is given by: Where: T = time period (s) m = mass on the end of the spring (kg) k = spring constant (N m -1 ) This equation applies to both horizontal and vertical mass-spring systems: A mass-spring system can be either vertical or horizontal. The time period equation applies to both The equation shows that the time period and frequency, of a mass-spring system, does not depend on the force of gravity Therefore, the oscillations would have the same time period on Earth and the Moon The higher the spring constant k , the stiffer the spring and the shorter the time period of the oscillation
+A mass-spring system consists of a mass attached to the end of a spring
+The equation for the restoring force (the force responsible for the SHM) is F H = - kx This is the same as the equation for Hooke's Law
+The equation for the restoring force (the force responsible for the SHM) is F H = - kx
+This is the same as the equation for Hooke's Law
+The time period of a mass-spring system is given by:
+time period
+Where: T = time period (s) m = mass on the end of the spring (kg) k = spring constant (N m -1 )
+Where:
+T = time period (s)
+m = mass on the end of the spring (kg)
+k = spring constant (N m -1 )
+This equation applies to both horizontal and vertical mass-spring systems:
+A mass-spring system can be either vertical or horizontal. The time period equation applies to both
+The equation shows that the time period and frequency, of a mass-spring system, does not depend on the force of gravity Therefore, the oscillations would have the same time period on Earth and the Moon
+The equation shows that the time period and frequency, of a mass-spring system, does not depend on the force of gravity
+Therefore, the oscillations would have the same time period on Earth and the Moon
+The higher the spring constant k , the stiffer the spring and the shorter the time period of the oscillation
+Worked Example Calculate the frequency of a mass of 2.0 kg attached to a spring of spring constant 0.9 N m –1 oscillating in simple harmonic motion. Answer:
+Worked Example
+Calculate the frequency of a mass of 2.0 kg attached to a spring of spring constant 0.9 N m –1 oscillating in simple harmonic motion.
+Answer:
+Examiner Tips and Tricks Another area of physics where you may have seen the spring constant k is from Hooke's Law. Exam questions commonly merge these two topics together, so make sure you're familiar with the Hooke's Law equation too.
+Examiner Tips and Tricks
+Another area of physics where you may have seen the spring constant k is from Hooke's Law. Exam questions commonly merge these two topics together, so make sure you're familiar with the Hooke's Law equation too.

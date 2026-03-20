@@ -1,0 +1,57 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-3-conservation-laws-and-particle-interactions/2-3-1-the-four-fundamental-interactions
+HEADING: The Four Fundamental Interactions ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+Did this video help you? The Four Fundamental Interactions There are four fundamental interactions, or fundamental forces, that exist. These are: Gravity Electromagnetism Strong Nuclear (or Strong Interaction) Weak Nuclear Gravity is the weakest of these forces, whilst the strong interaction is the strongest (hence the name) They also have different ranges: The electromagnetic and gravitational interactions have an infinite range The weak force has a range of up to 10 –18 m The strong force has a range of ~ 10 –15 m The fundamental interactions in order of strength The gravitational interaction only affects particles with mass The electromagnetic interaction only affects particles with charge The weak interaction affects all particles The strong interaction only affects hadrons Exchange Particles When two particles interact, there cannot be instantaneous action at a distance This means one particle needs to "know" that the other is there This is the idea behind exchange (or virtual ) particles When two particles exert a force on each other, a virtual particle is created Virtual particles only exist for a short amount of time and carry the fundamental force between each particle A force can be attractive or repulsive . An analogy of exchange particles would be: Two people are on skateboards and a ball is passed between them. Due to this, they start to move away from each other. The ball represents an exchange particle creating repulsion However, if one person throws a boomerang to the other, they will start to move closer together. The boomerang represents an exchange particle creating attraction Both skateboarders can create repulsion or attraction by throwing a ball or boomerang between them. The ball and boomerang represent exchange particles. Each fundamental interaction is transmitted by its own exchange particle These are also called gauge bosons Table of exchange particles Fundamental interaction Exchange particle Strong Pion Weak W-boson , or Z-boson Electromagnetic Photon Since gravity is so weak, it only has a noticeable effect on large masses, therefore, gravity does not play a part in particle interactions The theorised exchange particle for the gravitational force is the graviton, however, this has not yet been discovered Examiner Tips and Tricks You will be expected to remember which exchange particle mediates which fundamental interaction for your exam. This is particularly important when drawing Feynman diagrams, as the correct exchange particle is expected to be on them.
+Did this video help you?
+The Four Fundamental Interactions There are four fundamental interactions, or fundamental forces, that exist. These are: Gravity Electromagnetism Strong Nuclear (or Strong Interaction) Weak Nuclear Gravity is the weakest of these forces, whilst the strong interaction is the strongest (hence the name) They also have different ranges: The electromagnetic and gravitational interactions have an infinite range The weak force has a range of up to 10 –18 m The strong force has a range of ~ 10 –15 m The fundamental interactions in order of strength The gravitational interaction only affects particles with mass The electromagnetic interaction only affects particles with charge The weak interaction affects all particles The strong interaction only affects hadrons
+There are four fundamental interactions, or fundamental forces, that exist. These are: Gravity Electromagnetism Strong Nuclear (or Strong Interaction) Weak Nuclear
+There are four fundamental interactions, or fundamental forces, that exist. These are:
+Gravity
+Electromagnetism
+Strong Nuclear (or Strong Interaction)
+Weak Nuclear
+Gravity is the weakest of these forces, whilst the strong interaction is the strongest (hence the name)
+They also have different ranges: The electromagnetic and gravitational interactions have an infinite range The weak force has a range of up to 10 –18 m The strong force has a range of ~ 10 –15 m
+They also have different ranges:
+The electromagnetic and gravitational interactions have an infinite range
+The weak force has a range of up to 10 –18 m
+The strong force has a range of ~ 10 –15 m
+The fundamental interactions in order of strength
+The gravitational interaction only affects particles with mass
+The electromagnetic interaction only affects particles with charge
+The weak interaction affects all particles
+The strong interaction only affects hadrons
+hadrons
+Exchange Particles When two particles interact, there cannot be instantaneous action at a distance This means one particle needs to "know" that the other is there This is the idea behind exchange (or virtual ) particles When two particles exert a force on each other, a virtual particle is created Virtual particles only exist for a short amount of time and carry the fundamental force between each particle A force can be attractive or repulsive . An analogy of exchange particles would be: Two people are on skateboards and a ball is passed between them. Due to this, they start to move away from each other. The ball represents an exchange particle creating repulsion However, if one person throws a boomerang to the other, they will start to move closer together. The boomerang represents an exchange particle creating attraction Both skateboarders can create repulsion or attraction by throwing a ball or boomerang between them. The ball and boomerang represent exchange particles. Each fundamental interaction is transmitted by its own exchange particle These are also called gauge bosons Table of exchange particles Fundamental interaction Exchange particle Strong Pion Weak W-boson , or Z-boson Electromagnetic Photon Since gravity is so weak, it only has a noticeable effect on large masses, therefore, gravity does not play a part in particle interactions The theorised exchange particle for the gravitational force is the graviton, however, this has not yet been discovered
+Exchange Particles
+When two particles interact, there cannot be instantaneous action at a distance This means one particle needs to "know" that the other is there
+When two particles interact, there cannot be instantaneous action at a distance
+This means one particle needs to "know" that the other is there
+This is the idea behind exchange (or virtual ) particles
+When two particles exert a force on each other, a virtual particle is created
+Virtual particles only exist for a short amount of time and carry the fundamental force between each particle
+A force can be attractive or repulsive . An analogy of exchange particles would be: Two people are on skateboards and a ball is passed between them. Due to this, they start to move away from each other. The ball represents an exchange particle creating repulsion However, if one person throws a boomerang to the other, they will start to move closer together. The boomerang represents an exchange particle creating attraction
+A force can be attractive or repulsive . An analogy of exchange particles would be:
+Two people are on skateboards and a ball is passed between them. Due to this, they start to move away from each other. The ball represents an exchange particle creating repulsion
+However, if one person throws a boomerang to the other, they will start to move closer together. The boomerang represents an exchange particle creating attraction
+Both skateboarders can create repulsion or attraction by throwing a ball or boomerang between them. The ball and boomerang represent exchange particles.
+Each fundamental interaction is transmitted by its own exchange particle These are also called gauge bosons
+Each fundamental interaction is transmitted by its own exchange particle
+These are also called gauge bosons
+gauge bosons
+Table of exchange particles
+Fundamental interaction Exchange particle Strong Pion Weak W-boson , or Z-boson Electromagnetic Photon
+Fundamental interaction
+Exchange particle
+Strong
+Pion
+Weak
+W-boson , or Z-boson
+Electromagnetic
+Photon
+Since gravity is so weak, it only has a noticeable effect on large masses, therefore, gravity does not play a part in particle interactions
+The theorised exchange particle for the gravitational force is the graviton, however, this has not yet been discovered
+Examiner Tips and Tricks You will be expected to remember which exchange particle mediates which fundamental interaction for your exam. This is particularly important when drawing Feynman diagrams, as the correct exchange particle is expected to be on them.
+Examiner Tips and Tricks
+You will be expected to remember which exchange particle mediates which fundamental interaction for your exam. This is particularly important when drawing Feynman diagrams, as the correct exchange particle is expected to be on them.

@@ -1,0 +1,52 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-6-molecular-kinetic-theory-model/6-6-1-gas-laws-v-kinetic-theory
+HEADING: Gas Laws v Kinetic Theory ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Gas Laws v Kinetic Theory There is a scientific distinction between the gas laws and kinetic theory Gas Laws The gas laws are empirical in nature which means they are based on observation and evidence The gas laws include Boyle's Law, Charles's Law, Pressure Law and the ideal gas equation These are all based on observations of how a gas responds to changes in its environment, namely volume, pressure and temperature from experiment Kinetic Theory Kinetic theory is based on theory (as stated in its name) This means it is based on assumptions and derivations from existing theories These are then used to explain why the gas laws behave the way they do Ideal Gas Internal Energy The internal energy of an object is intrinsically related to its temperature When a container containing gas molecules is heated up, the molecules begin to move around faster, increasing their kinetic energy If the object is a solid, where the molecules are tightly packed, when heated the molecules begin to vibrate more Molecules in liquids and solids have both kinetic and potential energy because they are close together and bound by intermolecular forces However, ideal gas molecules are assumed to have no intermolecular forces This means they have no potential energy, only kinetic energy So the ideal gas internal energy is the sum of all the kinetic energies of the atoms In equation form, this can be written as: Where: U is the internal energy of the ideal gas in joules, J N is the number of particles in the ideal gas E k is the average kinetic energy of a single particle in joules, J Temperature is proportional to average kinetic energy, therefore, for an ideal gas, internal energy is proportional to temperature (this is covered in greater detail in Average Molecular Kinetic Energy ) As the container is heated up, the gas molecules move faster with higher kinetic energy and therefore higher internal energy Worked Example A container is filled with 3.00 moles of ideal gas. Each gas particle has a mass of 6.664 × 10 −27 kg and an average speed of 1400 m s −1 . Calculate the internal energy of this ideal gas. Answer: Step 1: Recall the definition of internal energy for an ideal gas For an ideal gas, internal energy is the sum of all the kinetic energies of all the particles in the system This is because there are no potential energies for an ideal gas, as there are no interactions between particles Step 2: Calculate the average kinetic energy for a single particle The kinetic energy of one particle travelling at average speed is: Step 3: Calculate the total kinetic energy of all the particles and, therefore, the internal energy of the gas To find the number of particles, N , use Avogadro's number: The internal energy is therefore: Examiner Tips and Tricks If an exam question about an ideal gas asks for the total internal energy , remember that this is equal to the total kinetic energy since an ideal gas has zero potential energy
+Gas Laws v Kinetic Theory There is a scientific distinction between the gas laws and kinetic theory Gas Laws The gas laws are empirical in nature which means they are based on observation and evidence The gas laws include Boyle's Law, Charles's Law, Pressure Law and the ideal gas equation These are all based on observations of how a gas responds to changes in its environment, namely volume, pressure and temperature from experiment Kinetic Theory Kinetic theory is based on theory (as stated in its name) This means it is based on assumptions and derivations from existing theories These are then used to explain why the gas laws behave the way they do
+There is a scientific distinction between the gas laws and kinetic theory
+Gas Laws
+The gas laws are empirical in nature which means they are based on observation and evidence
+The gas laws include Boyle's Law, Charles's Law, Pressure Law and the ideal gas equation
+These are all based on observations of how a gas responds to changes in its environment, namely volume, pressure and temperature from experiment
+Kinetic Theory
+Kinetic theory is based on theory (as stated in its name)
+This means it is based on assumptions and derivations from existing theories
+These are then used to explain why the gas laws behave the way they do
+Ideal Gas Internal Energy The internal energy of an object is intrinsically related to its temperature When a container containing gas molecules is heated up, the molecules begin to move around faster, increasing their kinetic energy If the object is a solid, where the molecules are tightly packed, when heated the molecules begin to vibrate more Molecules in liquids and solids have both kinetic and potential energy because they are close together and bound by intermolecular forces However, ideal gas molecules are assumed to have no intermolecular forces This means they have no potential energy, only kinetic energy So the ideal gas internal energy is the sum of all the kinetic energies of the atoms In equation form, this can be written as: Where: U is the internal energy of the ideal gas in joules, J N is the number of particles in the ideal gas E k is the average kinetic energy of a single particle in joules, J Temperature is proportional to average kinetic energy, therefore, for an ideal gas, internal energy is proportional to temperature (this is covered in greater detail in Average Molecular Kinetic Energy ) As the container is heated up, the gas molecules move faster with higher kinetic energy and therefore higher internal energy
+Ideal Gas Internal Energy
+The internal energy of an object is intrinsically related to its temperature
+When a container containing gas molecules is heated up, the molecules begin to move around faster, increasing their kinetic energy
+If the object is a solid, where the molecules are tightly packed, when heated the molecules begin to vibrate more
+Molecules in liquids and solids have both kinetic and potential energy because they are close together and bound by intermolecular forces
+However, ideal gas molecules are assumed to have no intermolecular forces This means they have no potential energy, only kinetic energy
+However, ideal gas molecules are assumed to have no intermolecular forces
+This means they have no potential energy, only kinetic energy
+So the ideal gas internal energy is the sum of all the kinetic energies of the atoms In equation form, this can be written as:
+So the ideal gas internal energy is the sum of all the kinetic energies of the atoms
+In equation form, this can be written as:
+Where: U is the internal energy of the ideal gas in joules, J N is the number of particles in the ideal gas E k is the average kinetic energy of a single particle in joules, J
+Where:
+U is the internal energy of the ideal gas in joules, J
+N is the number of particles in the ideal gas
+E k is the average kinetic energy of a single particle in joules, J
+Temperature is proportional to average kinetic energy, therefore, for an ideal gas, internal energy is proportional to temperature (this is covered in greater detail in Average Molecular Kinetic Energy )
+As the container is heated up, the gas molecules move faster with higher kinetic energy and therefore higher internal energy
+Worked Example A container is filled with 3.00 moles of ideal gas. Each gas particle has a mass of 6.664 × 10 −27 kg and an average speed of 1400 m s −1 . Calculate the internal energy of this ideal gas. Answer: Step 1: Recall the definition of internal energy for an ideal gas For an ideal gas, internal energy is the sum of all the kinetic energies of all the particles in the system This is because there are no potential energies for an ideal gas, as there are no interactions between particles Step 2: Calculate the average kinetic energy for a single particle The kinetic energy of one particle travelling at average speed is: Step 3: Calculate the total kinetic energy of all the particles and, therefore, the internal energy of the gas To find the number of particles, N , use Avogadro's number: The internal energy is therefore:
+Worked Example
+A container is filled with 3.00 moles of ideal gas. Each gas particle has a mass of 6.664 × 10 −27 kg and an average speed of 1400 m s −1 .
+Calculate the internal energy of this ideal gas.
+Answer:
+Step 1: Recall the definition of internal energy for an ideal gas
+For an ideal gas, internal energy is the sum of all the kinetic energies of all the particles in the system This is because there are no potential energies for an ideal gas, as there are no interactions between particles
+For an ideal gas, internal energy is the sum of all the kinetic energies of all the particles in the system
+This is because there are no potential energies for an ideal gas, as there are no interactions between particles
+Step 2: Calculate the average kinetic energy for a single particle
+The kinetic energy of one particle travelling at average speed is:
+Step 3: Calculate the total kinetic energy of all the particles and, therefore, the internal energy of the gas
+To find the number of particles, N , use Avogadro's number:
+The internal energy is therefore:
+Examiner Tips and Tricks If an exam question about an ideal gas asks for the total internal energy , remember that this is equal to the total kinetic energy since an ideal gas has zero potential energy
+Examiner Tips and Tricks
+If an exam question about an ideal gas asks for the total internal energy , remember that this is equal to the total kinetic energy since an ideal gas has zero potential energy

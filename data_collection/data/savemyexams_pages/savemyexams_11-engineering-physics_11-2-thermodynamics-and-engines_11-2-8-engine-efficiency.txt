@@ -1,0 +1,30 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-8-engine-efficiency
+HEADING: Engine Efficiency ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Engine Efficiency The efficiency of an engine can be measured in three different ways: overall, thermal and mechanical The overall efficiency of an engine is: This is also the product of the thermal and mechanical efficiencies The thermal efficiency of an engine is: This tells us how well the engine transforms the chemical energy in the fuel into useful power (and work) in the engine cylinders The mechanical efficiency engine is: This depends on the amount of energy lost due to moving parts of the engine (due to friction) Worked Example An engine consumes fuel at the rate of 0.90 kg per second. The calorific value of the fuel is 44 MJ kg –1 . The indicated power of the engine is 4720 kW. Because of the high speed of the air in the engine, there is significant frictional heating amounting to a power loss of 230 kW. Calculate the overall efficiency of the engine. Answer: Step 1: State the overall efficiency equation Step 2: Calculate the brake power Step 3: Calculate the input power Step 4: Calculate the overall efficiency ; Examiner Tips and Tricks These formulas are not given on your data sheet, so make sure to remember these! You can see from the worked example that it's very important to understand how and when to use the power equations! Exam questions may be set on other theoretical cycles of other engines, which you don't need to have working knowledge of. Therefore, the questions will be interpretive, so you should be confident in finding the area under a p - V loop for different engines or their efficiency. You will also be examined on how well you understand what is going on in the engine based on the information given (they will not stray too far from diesel and petrol)
+Engine Efficiency The efficiency of an engine can be measured in three different ways: overall, thermal and mechanical The overall efficiency of an engine is: This is also the product of the thermal and mechanical efficiencies The thermal efficiency of an engine is: This tells us how well the engine transforms the chemical energy in the fuel into useful power (and work) in the engine cylinders The mechanical efficiency engine is: This depends on the amount of energy lost due to moving parts of the engine (due to friction)
+The efficiency of an engine can be measured in three different ways: overall, thermal and mechanical
+The overall efficiency of an engine is:
+This is also the product of the thermal and mechanical efficiencies
+The thermal efficiency of an engine is:
+This tells us how well the engine transforms the chemical energy in the fuel into useful power (and work) in the engine cylinders
+The mechanical efficiency engine is:
+This depends on the amount of energy lost due to moving parts of the engine (due to friction)
+Worked Example An engine consumes fuel at the rate of 0.90 kg per second. The calorific value of the fuel is 44 MJ kg –1 . The indicated power of the engine is 4720 kW. Because of the high speed of the air in the engine, there is significant frictional heating amounting to a power loss of 230 kW. Calculate the overall efficiency of the engine. Answer: Step 1: State the overall efficiency equation Step 2: Calculate the brake power Step 3: Calculate the input power Step 4: Calculate the overall efficiency ;
+Worked Example
+An engine consumes fuel at the rate of 0.90 kg per second. The calorific value of the fuel is 44 MJ kg –1 .
+The indicated power of the engine is 4720 kW. Because of the high speed of the air in the engine, there is significant frictional heating amounting to a power loss of 230 kW.
+Calculate the overall efficiency of the engine.
+Answer:
+Step 1: State the overall efficiency equation
+Step 2: Calculate the brake power
+Step 3: Calculate the input power
+Step 4: Calculate the overall efficiency ;
+Examiner Tips and Tricks These formulas are not given on your data sheet, so make sure to remember these! You can see from the worked example that it's very important to understand how and when to use the power equations! Exam questions may be set on other theoretical cycles of other engines, which you don't need to have working knowledge of. Therefore, the questions will be interpretive, so you should be confident in finding the area under a p - V loop for different engines or their efficiency. You will also be examined on how well you understand what is going on in the engine based on the information given (they will not stray too far from diesel and petrol)
+Examiner Tips and Tricks
+These formulas are not given on your data sheet, so make sure to remember these!
+You can see from the worked example that it's very important to understand how and when to use the power equations!
+Exam questions may be set on other theoretical cycles of other engines, which you don't need to have working knowledge of. Therefore, the questions will be interpretive, so you should be confident in finding the area under a p - V loop for different engines or their efficiency.
+You will also be examined on how well you understand what is going on in the engine based on the information given (they will not stray too far from diesel and petrol)

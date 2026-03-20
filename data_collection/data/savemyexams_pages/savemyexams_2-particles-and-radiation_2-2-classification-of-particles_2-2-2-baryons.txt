@@ -1,0 +1,42 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-2-classification-of-particles/2-2-2-baryons
+HEADING: Baryons ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Baryon Number The baryon number, B , is the number of baryons in an interaction B depends on whether the particle is a baryon, anti-baryon or neither Baryons have a baryon number B = +1 Anti-baryons have a baryon number B = –1 Particles that are not baryons have a baryon number B = 0 Baryon number is a quantum number and is conserved in all interactions This is one of the indicators for whether an interaction is able to occur or not The baryon number of a particle depends if it is a baryon, anti–baryon or neither The up (u), down (d) and strange (s) quark have a baryon number of 1/3 each This means that the anti–up, anti–down and anti–strange quarks have a baryon number of –1/3 each Note: The baryon number of each quark is provided on the datasheet The implication of this is that baryons are made up of all quarks and anti-baryons are made up of all anti-quarks There are no baryons (yet) that have a combination of quarks and anti-quarks eg. up, anti-down, down The reason being that this would equate to a baryon number that is not a whole number (integer) Worked Example Show that the baryon number is conserved in β – decay. Answer: Step 1: Write down the equation for beta-minus decay Step 2: Determine the baryon number on both sides of the equation 1=1+0+0 Step 3: Write a conclusion Since the total baryon number is equal on both sides of the equation, baryon number is conserved in beta minus decay The Proton as a Baryon The proton is the most stable baryon This means it has the longest half-life of any baryon and is the particle which other baryons eventually decay to It is the most stable baryon because it is also the lightest baryon Radioactive decay occurs when heavier particles decay into lighter particles A decay of the proton would therefore violate the conservation of baryon number It is theorised that the proton has a half-life of around 10 32 years and research experiments are still underway that are designed to detect proton decay
+Baryon Number The baryon number, B , is the number of baryons in an interaction B depends on whether the particle is a baryon, anti-baryon or neither Baryons have a baryon number B = +1 Anti-baryons have a baryon number B = –1 Particles that are not baryons have a baryon number B = 0 Baryon number is a quantum number and is conserved in all interactions This is one of the indicators for whether an interaction is able to occur or not The baryon number of a particle depends if it is a baryon, anti–baryon or neither The up (u), down (d) and strange (s) quark have a baryon number of 1/3 each This means that the anti–up, anti–down and anti–strange quarks have a baryon number of –1/3 each Note: The baryon number of each quark is provided on the datasheet The implication of this is that baryons are made up of all quarks and anti-baryons are made up of all anti-quarks There are no baryons (yet) that have a combination of quarks and anti-quarks eg. up, anti-down, down The reason being that this would equate to a baryon number that is not a whole number (integer)
+Baryon Number
+The baryon number, B , is the number of baryons in an interaction
+B depends on whether the particle is a baryon, anti-baryon or neither Baryons have a baryon number B = +1 Anti-baryons have a baryon number B = –1 Particles that are not baryons have a baryon number B = 0
+B depends on whether the particle is a baryon, anti-baryon or neither
+Baryons have a baryon number B = +1
+Anti-baryons have a baryon number B = –1
+Particles that are not baryons have a baryon number B = 0
+Baryon number is a quantum number and is conserved in all interactions This is one of the indicators for whether an interaction is able to occur or not
+Baryon number is a quantum number and is conserved in all interactions
+This is one of the indicators for whether an interaction is able to occur or not
+The baryon number of a particle depends if it is a baryon, anti–baryon or neither
+The up (u), down (d) and strange (s) quark have a baryon number of 1/3 each
+This means that the anti–up, anti–down and anti–strange quarks have a baryon number of –1/3 each
+Note: The baryon number of each quark is provided on the datasheet
+The implication of this is that baryons are made up of all quarks and anti-baryons are made up of all anti-quarks
+There are no baryons (yet) that have a combination of quarks and anti-quarks eg. up, anti-down, down
+The reason being that this would equate to a baryon number that is not a whole number (integer)
+Worked Example Show that the baryon number is conserved in β – decay. Answer: Step 1: Write down the equation for beta-minus decay Step 2: Determine the baryon number on both sides of the equation 1=1+0+0 Step 3: Write a conclusion Since the total baryon number is equal on both sides of the equation, baryon number is conserved in beta minus decay
+Worked Example
+Show that the baryon number is conserved in β – decay.
+Answer:
+Step 1: Write down the equation for beta-minus decay
+Step 2: Determine the baryon number on both sides of the equation
+1=1+0+0
+Step 3: Write a conclusion
+Since the total baryon number is equal on both sides of the equation, baryon number is conserved in beta minus decay
+The Proton as a Baryon The proton is the most stable baryon This means it has the longest half-life of any baryon and is the particle which other baryons eventually decay to It is the most stable baryon because it is also the lightest baryon Radioactive decay occurs when heavier particles decay into lighter particles A decay of the proton would therefore violate the conservation of baryon number It is theorised that the proton has a half-life of around 10 32 years and research experiments are still underway that are designed to detect proton decay
+The Proton as a Baryon
+The proton is the most stable baryon
+This means it has the longest half-life of any baryon and is the particle which other baryons eventually decay to
+It is the most stable baryon because it is also the lightest baryon Radioactive decay occurs when heavier particles decay into lighter particles A decay of the proton would therefore violate the conservation of baryon number
+It is the most stable baryon because it is also the lightest baryon
+Radioactive decay occurs when heavier particles decay into lighter particles
+A decay of the proton would therefore violate the conservation of baryon number
+It is theorised that the proton has a half-life of around 10 32 years and research experiments are still underway that are designed to detect proton decay

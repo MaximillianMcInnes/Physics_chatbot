@@ -1,0 +1,44 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-2-moments/4-2-1-moments
+HEADING: Moments ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+Did this video help you? What is a Moment? A moment is the turning effect of a force Moments occur when forces cause objects to rotate about some pivot The moment of a force is given by Moment ( N m ) = Force ( N ) × perpendicular distance from the pivot ( m ) The SI unit for the moment is Newton metres ( N m ). This may also be Newton centimetres ( N cm ) depending on the units given for the distance The force might not always be perpendicular to the distance An example of moments in everyday life is opening a door The door handle is placed on the other side of the door to the hinge (the pivot) to maximise the distance for a given force and therefore provide a greater moment (turning force) This makes it easier to push or pull it Worked Example A uniform metre rule is pivoted at the 50 cm mark. A 0.5 kg weight is suspended at the 80 cm mark, causing the rule to rotate about the pivot. Assuming the weight of the rule is negligible, what is the turning moment about the pivot? Answer: Examiner Tips and Tricks If not already given, drawing all the forces on an object in the diagram will help you see which ones are perpendicular to the distance from the pivot. Not all the forces will provide a turning effect and it is not unusual for a question to provide more forces than required to throw you off! The Principle of Moments The principle of moments states: For a system to be in equilibrium, the sum of clockwise moments about a point must be equal to the sum of the anticlockwise moments (about the same point) Diagram showing the moments acting on a balanced beam In the above diagram: Force F 2 is supplying a clockwise moment; Forces F 1 and F 3 are supplying anticlockwise moments Hence: F 2 × d 2 = ( F 1 × d 1 ) + ( F 3 × d 3 ) Worked Example A uniform beam of weight 40 N is 5 m long and is supported by a pivot situated 2 m from one end. When a load of weight W is hung from that end, the beam is in equilibrium as shown in the diagram. What is the value of W? A 10 N B 50 N C 25 N D 30 N Examiner Tips and Tricks Make sure that all the distances are in the same units and you’re considering the correct forces as clockwise or anticlockwise, as seen in the diagram below
+Did this video help you?
+What is a Moment? A moment is the turning effect of a force Moments occur when forces cause objects to rotate about some pivot The moment of a force is given by Moment ( N m ) = Force ( N ) × perpendicular distance from the pivot ( m ) The SI unit for the moment is Newton metres ( N m ). This may also be Newton centimetres ( N cm ) depending on the units given for the distance The force might not always be perpendicular to the distance An example of moments in everyday life is opening a door The door handle is placed on the other side of the door to the hinge (the pivot) to maximise the distance for a given force and therefore provide a greater moment (turning force) This makes it easier to push or pull it
+What is a Moment?
+A moment is the turning effect of a force
+Moments occur when forces cause objects to rotate about some pivot
+The moment of a force is given by
+Moment ( N m ) = Force ( N ) × perpendicular distance from the pivot ( m )
+The SI unit for the moment is Newton metres ( N m ). This may also be Newton centimetres ( N cm ) depending on the units given for the distance
+The force might not always be perpendicular to the distance
+An example of moments in everyday life is opening a door
+The door handle is placed on the other side of the door to the hinge (the pivot) to maximise the distance for a given force and therefore provide a greater moment (turning force) This makes it easier to push or pull it
+The door handle is placed on the other side of the door to the hinge (the pivot) to maximise the distance for a given force and therefore provide a greater moment (turning force)
+This makes it easier to push or pull it
+Worked Example A uniform metre rule is pivoted at the 50 cm mark. A 0.5 kg weight is suspended at the 80 cm mark, causing the rule to rotate about the pivot. Assuming the weight of the rule is negligible, what is the turning moment about the pivot? Answer:
+Worked Example
+A uniform metre rule is pivoted at the 50 cm mark.
+A 0.5 kg weight is suspended at the 80 cm mark, causing the rule to rotate about the pivot.
+Assuming the weight of the rule is negligible, what is the turning moment about the pivot?
+Answer:
+Examiner Tips and Tricks If not already given, drawing all the forces on an object in the diagram will help you see which ones are perpendicular to the distance from the pivot. Not all the forces will provide a turning effect and it is not unusual for a question to provide more forces than required to throw you off!
+Examiner Tips and Tricks
+If not already given, drawing all the forces on an object in the diagram will help you see which ones are perpendicular to the distance from the pivot. Not all the forces will provide a turning effect and it is not unusual for a question to provide more forces than required to throw you off!
+The Principle of Moments The principle of moments states: For a system to be in equilibrium, the sum of clockwise moments about a point must be equal to the sum of the anticlockwise moments (about the same point) Diagram showing the moments acting on a balanced beam In the above diagram: Force F 2 is supplying a clockwise moment; Forces F 1 and F 3 are supplying anticlockwise moments Hence: F 2 × d 2 = ( F 1 × d 1 ) + ( F 3 × d 3 )
+The Principle of Moments
+The principle of moments states: For a system to be in equilibrium, the sum of clockwise moments about a point must be equal to the sum of the anticlockwise moments (about the same point)
+The principle of moments states:
+For a system to be in equilibrium, the sum of clockwise moments about a point must be equal to the sum of the anticlockwise moments (about the same point)
+Diagram showing the moments acting on a balanced beam
+In the above diagram: Force F 2 is supplying a clockwise moment; Forces F 1 and F 3 are supplying anticlockwise moments
+In the above diagram:
+Force F 2 is supplying a clockwise moment;
+Forces F 1 and F 3 are supplying anticlockwise moments
+Hence: F 2 × d 2 = ( F 1 × d 1 ) + ( F 3 × d 3 )
+Worked Example A uniform beam of weight 40 N is 5 m long and is supported by a pivot situated 2 m from one end. When a load of weight W is hung from that end, the beam is in equilibrium as shown in the diagram. What is the value of W? A 10 N B 50 N C 25 N D 30 N
+A uniform beam of weight 40 N is 5 m long and is supported by a pivot situated 2 m from one end. When a load of weight W is hung from that end, the beam is in equilibrium as shown in the diagram.
+What is the value of W?
+A 10 N B 50 N C 25 N D 30 N
+Examiner Tips and Tricks Make sure that all the distances are in the same units and you’re considering the correct forces as clockwise or anticlockwise, as seen in the diagram below
+Make sure that all the distances are in the same units and you’re considering the correct forces as clockwise or anticlockwise, as seen in the diagram below

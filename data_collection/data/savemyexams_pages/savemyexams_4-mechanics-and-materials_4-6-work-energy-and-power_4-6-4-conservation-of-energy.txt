@@ -1,0 +1,65 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-6-work-energy-and-power/4-6-4-conservation-of-energy
+HEADING: Conservation of Energy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Principle of Conservation of Energy The Principle of Conservation of Energy states that: Energy cannot be created or destroyed, it can only be transferred from one form to another This means the total amount of energy in a closed system remains constant, although how much of each form there is may change Types of Energy Energy Dissipation No energy transfer is 100% efficient When energy is transferred, some of the energy is dissipated to the surroundings Dissipated energy is usually regarded as wasted energy because it cannot easily be used for a specific purpose Any energy not transferred for a useful purpose is wasted energy These are commonly in the form of thermal (heat), light or sound energy What counts as wasted energy depends on the system For example, in a television : electrical energy ➝ light energy + sound energy + thermal energy Light and sound energy are useful energy transfers, whereas thermal energy (from the heating up of wires) is wasted Another example, in a heater : electrical energy ➝ thermal energy + sound energy Thermal energy is useful, whereas sound is not Applications of Energy Conservation Common examples of energy transfers are: A falling object (in a vacuum): gravitational potential energy ➝ kinetic energy A battery: chemical energy ➝ electrical energy Horizontal mass on a spring: elastic potential energy ➝ kinetic energy Energy transfers whilst jumping on a trampoline There may also be work done against resistive forces such as friction For example, if an object travels up a rough inclined surface, then Loss in kinetic energy = Gain in gravitational potential energy + Work done against friction Energy Equations The most common equations used in the conservation of energy calculations are: Worked Example The diagram shows a rollercoaster going down a track. The rollercoaster takes the path A → B → C → D. Which statement is true about the energy changes that occur for the rollercoaster down this track? A. KE - GPE - GPE - KE B. KE - GPE - KE - GPE C. GPE - KE - KE - GPE D. GPE - KE - GPE - KE Answer: D At point A: The rollercoaster is raised above the ground, therefore it has GPE As it travels down the track, GPE is converted to KE and the roller coaster speeds up At point B: KE is converted to GPE as the rollercoaster rises up the loop At point C: This GPE is converted back into KE as the rollercoaster travels back down the loop At point D: The flat terrain means the rollercoaster only has KE Examiner Tips and Tricks You may not always be given the energy transfers happening in the system in exam questions. By familiarising yourself with the transfers and stores of energy, you will be expected to relate these to the situation in question. For example, a ball rolling down a hill is transferring gravitational potential energy to kinetic energy whilst a spring converts elastic potential energy into kinetic energy.
+The Principle of Conservation of Energy The Principle of Conservation of Energy states that: Energy cannot be created or destroyed, it can only be transferred from one form to another This means the total amount of energy in a closed system remains constant, although how much of each form there is may change Types of Energy Energy Dissipation No energy transfer is 100% efficient When energy is transferred, some of the energy is dissipated to the surroundings Dissipated energy is usually regarded as wasted energy because it cannot easily be used for a specific purpose Any energy not transferred for a useful purpose is wasted energy These are commonly in the form of thermal (heat), light or sound energy What counts as wasted energy depends on the system For example, in a television : electrical energy ➝ light energy + sound energy + thermal energy Light and sound energy are useful energy transfers, whereas thermal energy (from the heating up of wires) is wasted Another example, in a heater : electrical energy ➝ thermal energy + sound energy Thermal energy is useful, whereas sound is not
+The Principle of Conservation of Energy
+The Principle of Conservation of Energy states that: Energy cannot be created or destroyed, it can only be transferred from one form to another
+The Principle of Conservation of Energy states that:
+Energy cannot be created or destroyed, it can only be transferred from one form to another
+This means the total amount of energy in a closed system remains constant, although how much of each form there is may change
+Types of Energy
+Energy Dissipation
+No energy transfer is 100% efficient
+When energy is transferred, some of the energy is dissipated to the surroundings
+Dissipated energy is usually regarded as wasted energy because it cannot easily be used for a specific purpose
+Any energy not transferred for a useful purpose is wasted energy
+These are commonly in the form of thermal (heat), light or sound energy
+What counts as wasted energy depends on the system
+For example, in a television :
+electrical energy ➝ light energy + sound energy + thermal energy
+Light and sound energy are useful energy transfers, whereas thermal energy (from the heating up of wires) is wasted
+Another example, in a heater :
+electrical energy ➝ thermal energy + sound energy
+Thermal energy is useful, whereas sound is not
+Applications of Energy Conservation Common examples of energy transfers are: A falling object (in a vacuum): gravitational potential energy ➝ kinetic energy A battery: chemical energy ➝ electrical energy Horizontal mass on a spring: elastic potential energy ➝ kinetic energy Energy transfers whilst jumping on a trampoline There may also be work done against resistive forces such as friction For example, if an object travels up a rough inclined surface, then Loss in kinetic energy = Gain in gravitational potential energy + Work done against friction Energy Equations The most common equations used in the conservation of energy calculations are:
+Applications of Energy Conservation
+Common examples of energy transfers are: A falling object (in a vacuum): gravitational potential energy ➝ kinetic energy A battery: chemical energy ➝ electrical energy Horizontal mass on a spring: elastic potential energy ➝ kinetic energy
+Common examples of energy transfers are:
+A falling object (in a vacuum): gravitational potential energy ➝ kinetic energy
+A battery: chemical energy ➝ electrical energy
+Horizontal mass on a spring: elastic potential energy ➝ kinetic energy
+Energy transfers whilst jumping on a trampoline
+There may also be work done against resistive forces such as friction
+For example, if an object travels up a rough inclined surface, then
+Loss in kinetic energy = Gain in gravitational potential energy + Work done against friction
+Energy Equations
+The most common equations used in the conservation of energy calculations are:
+Worked Example The diagram shows a rollercoaster going down a track. The rollercoaster takes the path A → B → C → D. Which statement is true about the energy changes that occur for the rollercoaster down this track? A. KE - GPE - GPE - KE B. KE - GPE - KE - GPE C. GPE - KE - KE - GPE D. GPE - KE - GPE - KE Answer: D At point A: The rollercoaster is raised above the ground, therefore it has GPE As it travels down the track, GPE is converted to KE and the roller coaster speeds up At point B: KE is converted to GPE as the rollercoaster rises up the loop At point C: This GPE is converted back into KE as the rollercoaster travels back down the loop At point D: The flat terrain means the rollercoaster only has KE
+Worked Example
+The diagram shows a rollercoaster going down a track.
+The rollercoaster takes the path A → B → C → D.
+Which statement is true about the energy changes that occur for the rollercoaster down this track?
+A. KE - GPE - GPE - KE
+B. KE - GPE - KE - GPE
+C. GPE - KE - KE - GPE
+D. GPE - KE - GPE - KE
+Answer: D
+At point A: The rollercoaster is raised above the ground, therefore it has GPE As it travels down the track, GPE is converted to KE and the roller coaster speeds up
+At point A:
+The rollercoaster is raised above the ground, therefore it has GPE
+As it travels down the track, GPE is converted to KE and the roller coaster speeds up
+At point B: KE is converted to GPE as the rollercoaster rises up the loop
+At point B:
+KE is converted to GPE as the rollercoaster rises up the loop
+At point C: This GPE is converted back into KE as the rollercoaster travels back down the loop
+At point C:
+This GPE is converted back into KE as the rollercoaster travels back down the loop
+At point D: The flat terrain means the rollercoaster only has KE
+At point D:
+The flat terrain means the rollercoaster only has KE
+Examiner Tips and Tricks You may not always be given the energy transfers happening in the system in exam questions. By familiarising yourself with the transfers and stores of energy, you will be expected to relate these to the situation in question. For example, a ball rolling down a hill is transferring gravitational potential energy to kinetic energy whilst a spring converts elastic potential energy into kinetic energy.
+Examiner Tips and Tricks
+You may not always be given the energy transfers happening in the system in exam questions. By familiarising yourself with the transfers and stores of energy, you will be expected to relate these to the situation in question. For example, a ball rolling down a hill is transferring gravitational potential energy to kinetic energy whilst a spring converts elastic potential energy into kinetic energy.

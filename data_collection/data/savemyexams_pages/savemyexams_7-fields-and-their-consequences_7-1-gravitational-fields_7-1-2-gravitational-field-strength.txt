@@ -1,0 +1,51 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-1-gravitational-fields/7-1-2-gravitational-field-strength
+HEADING: Gravitational Field Strength ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Gravitational Force There is a universal force of attraction between all matter with mass This force is known as the ‘force due to gravity’ or the weight The Earth’s gravitational field is responsible for the weight of all objects on Earth A gravitational field is defined as: A region of space where a mass experiences a force due to the gravitational attraction of another mass The direction of the gravitational field is always towards the centre of the mass Gravitational forces cannot be repulsive Gravity has an infinite range, meaning it affects all objects in the universe There is a greater gravitational force around objects with a large mass (such as planets) There is a smaller gravitational force around objects with a small mass (almost negligible for atoms) The Earth's gravitational field produces an attractive force Gravitational Field Strength The strength of this gravitational field g at a point is the force F per unit mass m of an object at that point: Where: g = gravitational field strength (N kg -1 ) F = force due to gravity, or weight (N) m = mass (kg) This equation shows that: The larger the mass of an object, the greater its pull on another object On planets with a large value of g , the gravitational force per unit mass is greater than on planets with a smaller value of g An object's mass remains the same at all points in space However, on planets such as Jupiter, the weight of an object will be a lot greater than on a less massive planet, such as Earth This means the gravitational force would be so high that humans, for example, would not be unable to fully stand up A person’s weight on Jupiter would be so large that a human would be unable to fully stand up Factors that affect the gravitational field strength at the surface of a planet are: The radius (or diameter) of the planet The mass (or density) of the planet Worked Example Calculate the mass of an object with weight 10 N on Earth. Answer: Examiner Tips and Tricks There is a big difference between g and G (sometimes referred to as ‘little g’ and ‘big G’ respectively), g is the gravitational field strength and G is Newton’s gravitational constant. Make sure not to use these interchangeably! Remember the equation density ρ = mass m ÷ volume V, which may come in handy with some calculations
+Gravitational Force There is a universal force of attraction between all matter with mass This force is known as the ‘force due to gravity’ or the weight The Earth’s gravitational field is responsible for the weight of all objects on Earth A gravitational field is defined as: A region of space where a mass experiences a force due to the gravitational attraction of another mass The direction of the gravitational field is always towards the centre of the mass Gravitational forces cannot be repulsive Gravity has an infinite range, meaning it affects all objects in the universe There is a greater gravitational force around objects with a large mass (such as planets) There is a smaller gravitational force around objects with a small mass (almost negligible for atoms) The Earth's gravitational field produces an attractive force
+Gravitational Force
+There is a universal force of attraction between all matter with mass This force is known as the ‘force due to gravity’ or the weight
+There is a universal force of attraction between all matter with mass
+This force is known as the ‘force due to gravity’ or the weight
+The Earth’s gravitational field is responsible for the weight of all objects on Earth
+A gravitational field is defined as: A region of space where a mass experiences a force due to the gravitational attraction of another mass
+A gravitational field is defined as:
+A region of space where a mass experiences a force due to the gravitational attraction of another mass
+The direction of the gravitational field is always towards the centre of the mass Gravitational forces cannot be repulsive
+The direction of the gravitational field is always towards the centre of the mass
+Gravitational forces cannot be repulsive
+Gravity has an infinite range, meaning it affects all objects in the universe There is a greater gravitational force around objects with a large mass (such as planets) There is a smaller gravitational force around objects with a small mass (almost negligible for atoms)
+Gravity has an infinite range, meaning it affects all objects in the universe
+There is a greater gravitational force around objects with a large mass (such as planets)
+There is a smaller gravitational force around objects with a small mass (almost negligible for atoms)
+The Earth's gravitational field produces an attractive force
+Gravitational Field Strength The strength of this gravitational field g at a point is the force F per unit mass m of an object at that point: Where: g = gravitational field strength (N kg -1 ) F = force due to gravity, or weight (N) m = mass (kg) This equation shows that: The larger the mass of an object, the greater its pull on another object On planets with a large value of g , the gravitational force per unit mass is greater than on planets with a smaller value of g An object's mass remains the same at all points in space However, on planets such as Jupiter, the weight of an object will be a lot greater than on a less massive planet, such as Earth This means the gravitational force would be so high that humans, for example, would not be unable to fully stand up A person’s weight on Jupiter would be so large that a human would be unable to fully stand up Factors that affect the gravitational field strength at the surface of a planet are: The radius (or diameter) of the planet The mass (or density) of the planet
+The strength of this gravitational field g at a point is the force F per unit mass m of an object at that point:
+Where: g = gravitational field strength (N kg -1 ) F = force due to gravity, or weight (N) m = mass (kg)
+Where:
+g = gravitational field strength (N kg -1 )
+gravitational field strength
+F = force due to gravity, or weight (N)
+m = mass (kg)
+This equation shows that: The larger the mass of an object, the greater its pull on another object On planets with a large value of g , the gravitational force per unit mass is greater than on planets with a smaller value of g
+This equation shows that:
+The larger the mass of an object, the greater its pull on another object
+On planets with a large value of g , the gravitational force per unit mass is greater than on planets with a smaller value of g
+An object's mass remains the same at all points in space However, on planets such as Jupiter, the weight of an object will be a lot greater than on a less massive planet, such as Earth This means the gravitational force would be so high that humans, for example, would not be unable to fully stand up
+An object's mass remains the same at all points in space
+However, on planets such as Jupiter, the weight of an object will be a lot greater than on a less massive planet, such as Earth
+This means the gravitational force would be so high that humans, for example, would not be unable to fully stand up
+A person’s weight on Jupiter would be so large that a human would be unable to fully stand up
+Factors that affect the gravitational field strength at the surface of a planet are: The radius (or diameter) of the planet The mass (or density) of the planet
+Factors that affect the gravitational field strength at the surface of a planet are:
+The radius (or diameter) of the planet
+The mass (or density) of the planet
+Worked Example Calculate the mass of an object with weight 10 N on Earth. Answer:
+Worked Example
+Calculate the mass of an object with weight 10 N on Earth.
+Answer:
+Examiner Tips and Tricks There is a big difference between g and G (sometimes referred to as ‘little g’ and ‘big G’ respectively), g is the gravitational field strength and G is Newton’s gravitational constant. Make sure not to use these interchangeably! Remember the equation density ρ = mass m ÷ volume V, which may come in handy with some calculations
+Examiner Tips and Tricks
+There is a big difference between g and G (sometimes referred to as ‘little g’ and ‘big G’ respectively), g is the gravitational field strength and G is Newton’s gravitational constant. Make sure not to use these interchangeably! Remember the equation density ρ = mass m ÷ volume V, which may come in handy with some calculations

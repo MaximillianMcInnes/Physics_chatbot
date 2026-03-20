@@ -1,0 +1,113 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-3-cosmology/9-3-4-hubbles-law
+HEADING: Hubble's Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Hubble's Law Analysis of the light from distant galaxies reveals a clear relationship between the distance of the galaxy from Earth and the amount of red shift This relationship is known as Hubble’s law , which states: The recessional velocity of a galaxy is proportional to its distance from Earth This can be expressed mathematically as: Where: = recessional velocity of an object (km s −1 ) = Hubble constant (km s −1 Mpc −1 ) = distance between the object and the Earth (Mpc) In terms of red shift , this can also be written as Where: = red shift (no units) = speed of light Hubble’s law shows that: the further away a galaxy is from the Earth, the greater the red shift, and the faster it is moving away the closer a galaxy is to the Earth, the smaller the red shift, and the slower it is moving away Graph of Hubble's Law A key aspect of Hubble’s law is that the furthest galaxies appear to move away the fastest The Hubble Constant The constant of proportionality in Hubble’s law is known as the Hubble constant: The value for the Hubble constant has been estimated using data from thousands of galaxies and other sources, such as standard candles A value for the Hubble constant can be determined by measuring values of red shift and distance for a range of galaxies plotting a graph of velocity against distance calculating the gradient (equal to ) for the plotted points Our current best estimate of the Hubble constant, based on CMB observations by the Planck satellite, is: = 67.4 ± 0.5 km s −1 Mpc −1 Note: this value is constantly under review as more data is collected Worked Example The graph shows how the recessional velocity of a group of galaxies varies with their distance from the Earth. Use the graph to determine a value for the Hubble constant and state its unit. Answer: Step 1: Recall Hubble's Law and the Hubble constant Hubble’s Law: The gradient of the speed-distance graph = Step 2: Read values of v and d from the graph From the graph: v = 20 000 km s –1 From the graph: d = 305 MPc Step 3: Calculate the gradient of the graph Hubble constant: = 66 km s –1 Mpc –1 Worked Example Measurements of type 1a supernovae are used to find a value for the Hubble constant. The distance from Earth is known for many type 1a supernovae. Describe how these values of distance are used, with other data, to find the Hubble constant. Your answer should include: the other data needed and how these data are used the graph plotted, including appropriate units for the axes how the Hubble constant is obtained and any limitations on the result. Answer: Step 1: Describe the data needed for the determination of the Hubble constant and how it will be used The Hubble constant can be described by the ratio of recession velocity and distance Therefore, as well as measurements of distance to the Type 1a supernovae, measurements of red shift are also needed The recession velocities of the Type 1a supernovae can be calculated from red shift using: Values of red shift can be obtained by measuring the wavelength of spectral lines from the Type 1a supernovae and comparing them to the same spectral lines from a source in a laboratory Step 2: Describe how to plot the graph to determine the Hubble constant Once the measurements of recession velocity and distance are obtained, they can be plotted on a graph with velocity , in km s -1 , on the y-axis distance , in Mpc, on the x-axis Then, the gradient of the graph is the Hubble constant , in km s -1 Mpc -1 Step 3: Discuss any limitations in the obtained value of the Hubble constant Values of distance are determined using the distance modulus equation : For Type 1a supernovae , the absolute magnitude is known, but measurements of apparent magnitude are required, which may be affected by light passing through gas and dust in space A large amount of data is needed to reduce uncertainty, however, Type 1a supernovae are rare events, and their occurrence is difficult to predict Other potential limitations: There is a large variation in the data due to variations between galaxies or random errors in measurement Type 1a supernovae are typically observed at large distances, where data suggests that the expansion of the Universe is accelerating , so this leads to discrepancies in values of compared to nearer sources Examiner Tips and Tricks The units for the quantities in Hubble's law and the Hubble constant can change depending on the situation. Make sure you convert them to appropriate units and express your final answer correctly. The Hubble constant is given in the data booklet as To convert this into SI units: Multiply by 1 km Divide by 1 Mpc, where 1 parsec = 3.08 × 10 16 m (from the data booklet) Estimating the Age of the Universe Hubble’s Law is extremely important as it can give us an estimate the age of the Universe It can be used to ﬁnd the time since the expansion began, and hence the age of the Universe We can calculate the time taken to reach a distant object from the Earth if we know how far away it is its recessional speed This requires a couple of assumptions: all points in the Universe were initially together the recessional speed of a galaxy is and has always been constant Comparing the equation for speed, distance and time: With the Hubble equation: It can be seen that: If we consider that all matter was at the same point at the very start of the Big Bang (t = 0), then the time taken for the galaxy to expand to its current state must be equal to the age of the Universe Using current estimations of the Hubble constant, astronomers believe that the universe has been expanding for around 13.7 billion years Worked Example In 2020, the best estimate for the Hubble constant was 67.4 km s −1 Mpc −1 . Use this value to calculate the age of the Universe. Answer: Step 1: List the known quantities Hubble constant, = 67.4 km s −1 Mpc −1 1 parsec = 3.08 × 10 16 m (from the data booklet) 1 year = (60 × 60 × 24 × 365) = 3.15 × 10 7 s Step 2: Convert the Hubble constant into SI units First, multiply by 1 km, or 10 3 m Then, divide by 1 Mpc, or 3.08 × 10 22 m Step 3: Calculate the age of the Universe The age of the Universe is equivalent to the reciprocal of the Hubble constant: = 1.45 × 10 10 years = 14.5 billion years
+Hubble's Law Analysis of the light from distant galaxies reveals a clear relationship between the distance of the galaxy from Earth and the amount of red shift This relationship is known as Hubble’s law , which states: The recessional velocity of a galaxy is proportional to its distance from Earth This can be expressed mathematically as: Where: = recessional velocity of an object (km s −1 ) = Hubble constant (km s −1 Mpc −1 ) = distance between the object and the Earth (Mpc) In terms of red shift , this can also be written as Where: = red shift (no units) = speed of light Hubble’s law shows that: the further away a galaxy is from the Earth, the greater the red shift, and the faster it is moving away the closer a galaxy is to the Earth, the smaller the red shift, and the slower it is moving away Graph of Hubble's Law A key aspect of Hubble’s law is that the furthest galaxies appear to move away the fastest The Hubble Constant The constant of proportionality in Hubble’s law is known as the Hubble constant: The value for the Hubble constant has been estimated using data from thousands of galaxies and other sources, such as standard candles A value for the Hubble constant can be determined by measuring values of red shift and distance for a range of galaxies plotting a graph of velocity against distance calculating the gradient (equal to ) for the plotted points Our current best estimate of the Hubble constant, based on CMB observations by the Planck satellite, is: = 67.4 ± 0.5 km s −1 Mpc −1 Note: this value is constantly under review as more data is collected
+Analysis of the light from distant galaxies reveals a clear relationship between the distance of the galaxy from Earth and the amount of red shift
+This relationship is known as Hubble’s law , which states:
+The recessional velocity of a galaxy is proportional to its distance from Earth
+This can be expressed mathematically as:
+Where: = recessional velocity of an object (km s −1 ) = Hubble constant (km s −1 Mpc −1 ) = distance between the object and the Earth (Mpc)
+Where:
+= recessional velocity of an object (km s −1 )
+= Hubble constant (km s −1 Mpc −1 )
+= distance between the object and the Earth (Mpc)
+In terms of red shift , this can also be written as
+Where: = red shift (no units) = speed of light
+= red shift (no units)
+= speed of light
+Hubble’s law shows that: the further away a galaxy is from the Earth, the greater the red shift, and the faster it is moving away the closer a galaxy is to the Earth, the smaller the red shift, and the slower it is moving away
+Hubble’s law shows that:
+the further away a galaxy is from the Earth, the greater the red shift, and the faster it is moving away
+the closer a galaxy is to the Earth, the smaller the red shift, and the slower it is moving away
+Graph of Hubble's Law
+A key aspect of Hubble’s law is that the furthest galaxies appear to move away the fastest
+The Hubble Constant
+The constant of proportionality in Hubble’s law is known as the Hubble constant:
+The value for the Hubble constant has been estimated using data from thousands of galaxies and other sources, such as standard candles
+standard candles
+A value for the Hubble constant can be determined by measuring values of red shift and distance for a range of galaxies plotting a graph of velocity against distance calculating the gradient (equal to ) for the plotted points
+A value for the Hubble constant can be determined by
+measuring values of red shift and distance for a range of galaxies
+plotting a graph of velocity against distance
+calculating the gradient (equal to ) for the plotted points
+Our current best estimate of the Hubble constant, based on CMB observations by the Planck satellite, is:
+= 67.4 ± 0.5 km s −1 Mpc −1
+Note: this value is constantly under review as more data is collected
+Worked Example The graph shows how the recessional velocity of a group of galaxies varies with their distance from the Earth. Use the graph to determine a value for the Hubble constant and state its unit. Answer: Step 1: Recall Hubble's Law and the Hubble constant Hubble’s Law: The gradient of the speed-distance graph = Step 2: Read values of v and d from the graph From the graph: v = 20 000 km s –1 From the graph: d = 305 MPc Step 3: Calculate the gradient of the graph Hubble constant: = 66 km s –1 Mpc –1
+Worked Example
+The graph shows how the recessional velocity of a group of galaxies varies with their distance from the Earth.
+Use the graph to determine a value for the Hubble constant and state its unit.
+Answer:
+Step 1: Recall Hubble's Law and the Hubble constant
+Hubble’s Law:
+The gradient of the speed-distance graph =
+Step 2: Read values of v and d from the graph
+From the graph: v = 20 000 km s –1
+From the graph: d = 305 MPc
+Step 3: Calculate the gradient of the graph
+Hubble constant: = 66 km s –1 Mpc –1
+Worked Example Measurements of type 1a supernovae are used to find a value for the Hubble constant. The distance from Earth is known for many type 1a supernovae. Describe how these values of distance are used, with other data, to find the Hubble constant. Your answer should include: the other data needed and how these data are used the graph plotted, including appropriate units for the axes how the Hubble constant is obtained and any limitations on the result. Answer: Step 1: Describe the data needed for the determination of the Hubble constant and how it will be used The Hubble constant can be described by the ratio of recession velocity and distance Therefore, as well as measurements of distance to the Type 1a supernovae, measurements of red shift are also needed The recession velocities of the Type 1a supernovae can be calculated from red shift using: Values of red shift can be obtained by measuring the wavelength of spectral lines from the Type 1a supernovae and comparing them to the same spectral lines from a source in a laboratory Step 2: Describe how to plot the graph to determine the Hubble constant Once the measurements of recession velocity and distance are obtained, they can be plotted on a graph with velocity , in km s -1 , on the y-axis distance , in Mpc, on the x-axis Then, the gradient of the graph is the Hubble constant , in km s -1 Mpc -1 Step 3: Discuss any limitations in the obtained value of the Hubble constant Values of distance are determined using the distance modulus equation : For Type 1a supernovae , the absolute magnitude is known, but measurements of apparent magnitude are required, which may be affected by light passing through gas and dust in space A large amount of data is needed to reduce uncertainty, however, Type 1a supernovae are rare events, and their occurrence is difficult to predict Other potential limitations: There is a large variation in the data due to variations between galaxies or random errors in measurement Type 1a supernovae are typically observed at large distances, where data suggests that the expansion of the Universe is accelerating , so this leads to discrepancies in values of compared to nearer sources
+Measurements of type 1a supernovae are used to find a value for the Hubble constant. The distance from Earth is known for many type 1a supernovae.
+Describe how these values of distance are used, with other data, to find the Hubble constant.
+Your answer should include:
+the other data needed and how these data are used
+the graph plotted, including appropriate units for the axes
+how the Hubble constant is obtained and any limitations on the result.
+Step 1: Describe the data needed for the determination of the Hubble constant and how it will be used
+The Hubble constant can be described by the ratio of recession velocity and distance
+Therefore, as well as measurements of distance to the Type 1a supernovae, measurements of red shift are also needed
+The recession velocities of the Type 1a supernovae can be calculated from red shift using:
+Values of red shift can be obtained by measuring the wavelength of spectral lines from the Type 1a supernovae and comparing them to the same spectral lines from a source in a laboratory
+Step 2: Describe how to plot the graph to determine the Hubble constant
+Once the measurements of recession velocity and distance are obtained, they can be plotted on a graph with velocity , in km s -1 , on the y-axis distance , in Mpc, on the x-axis
+Once the measurements of recession velocity and distance are obtained, they can be plotted on a graph with
+velocity , in km s -1 , on the y-axis
+distance , in Mpc, on the x-axis
+Then, the gradient of the graph is the Hubble constant , in km s -1 Mpc -1
+Step 3: Discuss any limitations in the obtained value of the Hubble constant
+Values of distance are determined using the distance modulus equation :
+For Type 1a supernovae , the absolute magnitude is known, but measurements of apparent magnitude are required, which may be affected by light passing through gas and dust in space
+A large amount of data is needed to reduce uncertainty, however, Type 1a supernovae are rare events, and their occurrence is difficult to predict
+Other potential limitations:
+There is a large variation in the data due to variations between galaxies or random errors in measurement
+Type 1a supernovae are typically observed at large distances, where data suggests that the expansion of the Universe is accelerating , so this leads to discrepancies in values of compared to nearer sources
+Examiner Tips and Tricks The units for the quantities in Hubble's law and the Hubble constant can change depending on the situation. Make sure you convert them to appropriate units and express your final answer correctly. The Hubble constant is given in the data booklet as To convert this into SI units: Multiply by 1 km Divide by 1 Mpc, where 1 parsec = 3.08 × 10 16 m (from the data booklet)
+Examiner Tips and Tricks
+The units for the quantities in Hubble's law and the Hubble constant can change depending on the situation. Make sure you convert them to appropriate units and express your final answer correctly.
+The Hubble constant is given in the data booklet as
+To convert this into SI units:
+Multiply by 1 km
+Divide by 1 Mpc, where 1 parsec = 3.08 × 10 16 m (from the data booklet)
+Estimating the Age of the Universe Hubble’s Law is extremely important as it can give us an estimate the age of the Universe It can be used to ﬁnd the time since the expansion began, and hence the age of the Universe We can calculate the time taken to reach a distant object from the Earth if we know how far away it is its recessional speed This requires a couple of assumptions: all points in the Universe were initially together the recessional speed of a galaxy is and has always been constant Comparing the equation for speed, distance and time: With the Hubble equation: It can be seen that: If we consider that all matter was at the same point at the very start of the Big Bang (t = 0), then the time taken for the galaxy to expand to its current state must be equal to the age of the Universe Using current estimations of the Hubble constant, astronomers believe that the universe has been expanding for around 13.7 billion years
+Estimating the Age of the Universe
+Hubble’s Law is extremely important as it can give us an estimate the age of the Universe
+It can be used to ﬁnd the time since the expansion began, and hence the age of the Universe
+We can calculate the time taken to reach a distant object from the Earth if we know how far away it is its recessional speed
+We can calculate the time taken to reach a distant object from the Earth if we know
+how far away it is
+its recessional speed
+This requires a couple of assumptions: all points in the Universe were initially together the recessional speed of a galaxy is and has always been constant
+This requires a couple of assumptions:
+all points in the Universe were initially together
+the recessional speed of a galaxy is and has always been constant
+Comparing the equation for speed, distance and time:
+With the Hubble equation:
+It can be seen that:
+If we consider that all matter was at the same point at the very start of the Big Bang (t = 0), then the time taken for the galaxy to expand to its current state must be equal to the age of the Universe
+Using current estimations of the Hubble constant, astronomers believe that the universe has been expanding for around 13.7 billion years
+Worked Example In 2020, the best estimate for the Hubble constant was 67.4 km s −1 Mpc −1 . Use this value to calculate the age of the Universe. Answer: Step 1: List the known quantities Hubble constant, = 67.4 km s −1 Mpc −1 1 parsec = 3.08 × 10 16 m (from the data booklet) 1 year = (60 × 60 × 24 × 365) = 3.15 × 10 7 s Step 2: Convert the Hubble constant into SI units First, multiply by 1 km, or 10 3 m Then, divide by 1 Mpc, or 3.08 × 10 22 m Step 3: Calculate the age of the Universe The age of the Universe is equivalent to the reciprocal of the Hubble constant: = 1.45 × 10 10 years = 14.5 billion years
+In 2020, the best estimate for the Hubble constant was 67.4 km s −1 Mpc −1 .
+Use this value to calculate the age of the Universe.
+Step 1: List the known quantities
+Hubble constant, = 67.4 km s −1 Mpc −1
+1 parsec = 3.08 × 10 16 m (from the data booklet)
+1 year = (60 × 60 × 24 × 365) = 3.15 × 10 7 s
+Step 2: Convert the Hubble constant into SI units
+First, multiply by 1 km, or 10 3 m
+Then, divide by 1 Mpc, or 3.08 × 10 22 m
+Step 3: Calculate the age of the Universe
+The age of the Universe is equivalent to the reciprocal of the Hubble constant:
+= 1.45 × 10 10 years = 14.5 billion years

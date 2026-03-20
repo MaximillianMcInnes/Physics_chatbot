@@ -1,0 +1,53 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-7-angular-impulse
+HEADING: Angular Impulse ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Angular Impulse In linear motion, the resultant force on a body can be defined as the rate of change of linear momentum: This leads to the definition of linear impulse: An average resultant force acting for a time produces a change in linear momentum Similarly, the resultant torque on a body can be defined as the rate of change of angular momentum: Where: = resultant torque on a body (N m) = change in angular momentum (kg m 2 s −1 ) = time interval (s) This leads to the definition of angular impulse: An average resultant torque acting for a time produces a change in angular momentum Angular impulse is measured in kg m 2 s −1 , or N m s This equation requires the use of a constant resultant torque If the resultant torque changes, then an average of the values must be used Angular impulse describes the effect of a torque acting over a time interval This means a small torque acting over a long time has the same effect as a large torque acting over a short time Angular Impulse on a Torque-Time Graph The area under a torque-time graph is equal to the angular impulse or the change in angular momentum This is because the area, angular impulse, is a fraction of the base × height, torque × time, The fraction of torque × time depends upon the shape of the area under the graph When the torque is not constant, the angular impulse is the area under a torque–time graph Worked Example The graph shows the variation of time t with the net torque on an object which has a moment of inertia of 6.0 kg m 2 . At t = 0, the object rotates with an angular velocity of 2.0 rad s −1 clockwise. Determine the magnitude and direction of rotation of the angular velocity at t = 5 s. In this question, take anticlockwise as the positive direction. Answer: The area under a torque-time graph is equal to angular impulse, or the change in angular momentum The area under the positive curve (triangle) = The area under the negative curve (rectangle) = Therefore, the overall change in angular momentum is The change in angular momentum is equal to Where Moment of inertia, = 6.0 kg m 2 Initial angular velocity, = −2.0 rad s −1 (clockwise is the negative direction) Therefore, when t = 5 s, the angular velocity is Anti-clockwise is positive, so = 1.17 rad s −1 in the clockwise direction Examiner Tips and Tricks Many applications for angular impulse will be related to sports. These are similar to the linear impulse topic.
+Angular Impulse In linear motion, the resultant force on a body can be defined as the rate of change of linear momentum: This leads to the definition of linear impulse: An average resultant force acting for a time produces a change in linear momentum Similarly, the resultant torque on a body can be defined as the rate of change of angular momentum: Where: = resultant torque on a body (N m) = change in angular momentum (kg m 2 s −1 ) = time interval (s) This leads to the definition of angular impulse: An average resultant torque acting for a time produces a change in angular momentum Angular impulse is measured in kg m 2 s −1 , or N m s This equation requires the use of a constant resultant torque If the resultant torque changes, then an average of the values must be used Angular impulse describes the effect of a torque acting over a time interval This means a small torque acting over a long time has the same effect as a large torque acting over a short time Angular Impulse on a Torque-Time Graph The area under a torque-time graph is equal to the angular impulse or the change in angular momentum This is because the area, angular impulse, is a fraction of the base × height, torque × time, The fraction of torque × time depends upon the shape of the area under the graph When the torque is not constant, the angular impulse is the area under a torque–time graph
+In linear motion, the resultant force on a body can be defined as the rate of change of linear momentum:
+This leads to the definition of linear impulse:
+An average resultant force acting for a time produces a change in linear momentum
+Similarly, the resultant torque on a body can be defined as the rate of change of angular momentum:
+Where: = resultant torque on a body (N m) = change in angular momentum (kg m 2 s −1 ) = time interval (s)
+Where:
+= resultant torque on a body (N m)
+= change in angular momentum (kg m 2 s −1 )
+= time interval (s)
+This leads to the definition of angular impulse:
+An average resultant torque acting for a time produces a change in angular momentum
+Angular impulse is measured in kg m 2 s −1 , or N m s
+This equation requires the use of a constant resultant torque If the resultant torque changes, then an average of the values must be used
+This equation requires the use of a constant resultant torque
+If the resultant torque changes, then an average of the values must be used
+Angular impulse describes the effect of a torque acting over a time interval This means a small torque acting over a long time has the same effect as a large torque acting over a short time
+Angular impulse describes the effect of a torque acting over a time interval
+This means a small torque acting over a long time has the same effect as a large torque acting over a short time
+Angular Impulse on a Torque-Time Graph
+The area under a torque-time graph is equal to the angular impulse or the change in angular momentum This is because the area, angular impulse, is a fraction of the base × height, torque × time, The fraction of torque × time depends upon the shape of the area under the graph
+The area under a torque-time graph is equal to the angular impulse or the change in angular momentum
+This is because the area, angular impulse, is a fraction of the base × height, torque × time,
+The fraction of torque × time depends upon the shape of the area under the graph
+When the torque is not constant, the angular impulse is the area under a torque–time graph
+Worked Example The graph shows the variation of time t with the net torque on an object which has a moment of inertia of 6.0 kg m 2 . At t = 0, the object rotates with an angular velocity of 2.0 rad s −1 clockwise. Determine the magnitude and direction of rotation of the angular velocity at t = 5 s. In this question, take anticlockwise as the positive direction. Answer: The area under a torque-time graph is equal to angular impulse, or the change in angular momentum The area under the positive curve (triangle) = The area under the negative curve (rectangle) = Therefore, the overall change in angular momentum is The change in angular momentum is equal to Where Moment of inertia, = 6.0 kg m 2 Initial angular velocity, = −2.0 rad s −1 (clockwise is the negative direction) Therefore, when t = 5 s, the angular velocity is Anti-clockwise is positive, so = 1.17 rad s −1 in the clockwise direction
+Worked Example
+The graph shows the variation of time t with the net torque on an object which has a moment of inertia of 6.0 kg m 2 .
+At t = 0, the object rotates with an angular velocity of 2.0 rad s −1 clockwise.
+Determine the magnitude and direction of rotation of the angular velocity at t = 5 s.
+In this question, take anticlockwise as the positive direction.
+Answer:
+The area under a torque-time graph is equal to angular impulse, or the change in angular momentum
+The area under the positive curve (triangle) =
+The area under the negative curve (rectangle) =
+Therefore, the overall change in angular momentum is
+The change in angular momentum is equal to
+Where Moment of inertia, = 6.0 kg m 2 Initial angular velocity, = −2.0 rad s −1 (clockwise is the negative direction)
+Where
+Moment of inertia, = 6.0 kg m 2
+Initial angular velocity, = −2.0 rad s −1 (clockwise is the negative direction)
+Therefore, when t = 5 s, the angular velocity is
+Anti-clockwise is positive, so = 1.17 rad s −1 in the clockwise direction
+Examiner Tips and Tricks Many applications for angular impulse will be related to sports. These are similar to the linear impulse topic.
+Examiner Tips and Tricks
+Many applications for angular impulse will be related to sports. These are similar to the linear impulse topic.
+impulse

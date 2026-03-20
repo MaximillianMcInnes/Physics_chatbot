@@ -1,0 +1,60 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-6-work-energy-and-power/4-6-5-kinetic-and-gravitational-potential-energy
+HEADING: Kinetic & Gravitational Potential Energy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Kinetic & Gravitational Potential Energy Kinetic Energy Kinetic energy is the energy an object has due to its motion (or velocity) The faster an object is moving, the greater its kinetic energy When an object is falling, it is gaining kinetic energy since it is gaining speed This energy is transferred from the gravitational potential energy it is losing Kinetic energy can be calculated using the following equation: Where: E k = kinetic energy (J) m = mass (kg) v = velocity (m s –1 ) Kinetic energy: The energy an object has when it is moving Worked Example A body travelling with a speed of 12 m s -1 has kinetic energy 1650 J .The speed of the body is increased to 45 m s -1 . Determine the body's new kinetic energy. Answer: Examiner Tips and Tricks When using the kinetic energy equation, note that only the speed is squared, not the mass or the ½. If a question asks about the ‘loss of kinetic energy’, remember not to include a negative sign since energy is a scalar quantity. Gravitational Potential Energy Gravitational potential energy is energy stored in a mass due to its position in a gravitational field If a mass is lifted up, it will gain gravitational potential energy If a mass falls , it will lose gravitational potential energy The equation for gravitational potential energy for energy changes in a uniform gravitational field is: Where: Δ E p = gravitational potential energy (J) m = mass (kg) g = gravitational field strength (9.81 N kg –1 ) Δ h = change in height (m) Gravitational potential energy: The energy an object has when lifted up The potential energy on the Earth’s surface at ground level is usually taken to be equal to zero However, any position can be taken as zero if you are calculating the change in gravitational potential energy This equation is only relevant for energy changes in a uniform gravitational field (such as near the Earth’s surface) Gravitational Potential Energy v Height Graphs The two graphs below show how the gravitational potential energy changes with height for a ball being thrown up in the air and then falling down (ignoring air resistance) Graphs showing the linear relationship between gravitational potential energy and height Since the graphs are straight lines, gravitational potential energy and height are said to have a linear relationship These graphs would be identical for gravitational potential energy against time instead of height Worked Example To get to his apartment, a man has to climb five flights of stairs. The height of each flight is 3.7 m and the man has a mass of 74 kg. What is the approximate change in the man's gravitational potential energy during the climb? A. 13 000 J B. 2700 J C. 1500 J D. 12 500 J Examiner Tips and Tricks This equation only works for objects close to the Earth’s surface, where we can consider the gravitational field to be uniform. At A level, you might have to consider examples where the gravitational field is not uniform, such as in space, where this equation will not be relevant. Gravitational potential energy is often shortened to GPE for ease. In your equations, you should stick to the correct symbol, which is
+Kinetic & Gravitational Potential Energy Kinetic Energy Kinetic energy is the energy an object has due to its motion (or velocity) The faster an object is moving, the greater its kinetic energy When an object is falling, it is gaining kinetic energy since it is gaining speed This energy is transferred from the gravitational potential energy it is losing Kinetic energy can be calculated using the following equation: Where: E k = kinetic energy (J) m = mass (kg) v = velocity (m s –1 ) Kinetic energy: The energy an object has when it is moving
+Kinetic Energy
+Kinetic energy is the energy an object has due to its motion (or velocity) The faster an object is moving, the greater its kinetic energy
+Kinetic energy is the energy an object has due to its motion (or velocity)
+The faster an object is moving, the greater its kinetic energy
+When an object is falling, it is gaining kinetic energy since it is gaining speed This energy is transferred from the gravitational potential energy it is losing
+When an object is falling, it is gaining kinetic energy since it is gaining speed
+This energy is transferred from the gravitational potential energy it is losing
+Kinetic energy can be calculated using the following equation:
+Where: E k = kinetic energy (J) m = mass (kg) v = velocity (m s –1 )
+Where:
+E k = kinetic energy (J)
+m = mass (kg)
+v = velocity (m s –1 )
+Kinetic energy: The energy an object has when it is moving
+Worked Example A body travelling with a speed of 12 m s -1 has kinetic energy 1650 J .The speed of the body is increased to 45 m s -1 . Determine the body's new kinetic energy. Answer:
+Worked Example
+A body travelling with a speed of 12 m s -1 has kinetic energy 1650 J .The speed of the body is increased to 45 m s -1 .
+Determine the body's new kinetic energy.
+Answer:
+Examiner Tips and Tricks When using the kinetic energy equation, note that only the speed is squared, not the mass or the ½. If a question asks about the ‘loss of kinetic energy’, remember not to include a negative sign since energy is a scalar quantity.
+Examiner Tips and Tricks
+When using the kinetic energy equation, note that only the speed is squared, not the mass or the ½.
+If a question asks about the ‘loss of kinetic energy’, remember not to include a negative sign since energy is a scalar quantity.
+Gravitational Potential Energy Gravitational potential energy is energy stored in a mass due to its position in a gravitational field If a mass is lifted up, it will gain gravitational potential energy If a mass falls , it will lose gravitational potential energy The equation for gravitational potential energy for energy changes in a uniform gravitational field is: Where: Δ E p = gravitational potential energy (J) m = mass (kg) g = gravitational field strength (9.81 N kg –1 ) Δ h = change in height (m) Gravitational potential energy: The energy an object has when lifted up The potential energy on the Earth’s surface at ground level is usually taken to be equal to zero However, any position can be taken as zero if you are calculating the change in gravitational potential energy This equation is only relevant for energy changes in a uniform gravitational field (such as near the Earth’s surface) Gravitational Potential Energy v Height Graphs The two graphs below show how the gravitational potential energy changes with height for a ball being thrown up in the air and then falling down (ignoring air resistance) Graphs showing the linear relationship between gravitational potential energy and height Since the graphs are straight lines, gravitational potential energy and height are said to have a linear relationship These graphs would be identical for gravitational potential energy against time instead of height
+Gravitational Potential Energy
+Gravitational potential energy is energy stored in a mass due to its position in a gravitational field If a mass is lifted up, it will gain gravitational potential energy If a mass falls , it will lose gravitational potential energy
+Gravitational potential energy is energy stored in a mass due to its position in a gravitational field
+If a mass is lifted up, it will gain gravitational potential energy
+If a mass falls , it will lose gravitational potential energy
+The equation for gravitational potential energy for energy changes in a uniform gravitational field is:
+Where: Δ E p = gravitational potential energy (J) m = mass (kg) g = gravitational field strength (9.81 N kg –1 ) Δ h = change in height (m)
+Δ E p = gravitational potential energy (J)
+g = gravitational field strength (9.81 N kg –1 )
+Δ h = change in height (m)
+Gravitational potential energy: The energy an object has when lifted up
+The potential energy on the Earth’s surface at ground level is usually taken to be equal to zero However, any position can be taken as zero if you are calculating the change in gravitational potential energy
+The potential energy on the Earth’s surface at ground level is usually taken to be equal to zero
+However, any position can be taken as zero if you are calculating the change in gravitational potential energy
+This equation is only relevant for energy changes in a uniform gravitational field (such as near the Earth’s surface)
+Gravitational Potential Energy v Height Graphs
+The two graphs below show how the gravitational potential energy changes with height for a ball being thrown up in the air and then falling down (ignoring air resistance)
+Graphs showing the linear relationship between gravitational potential energy and height
+Since the graphs are straight lines, gravitational potential energy and height are said to have a linear relationship
+These graphs would be identical for gravitational potential energy against time instead of height
+Worked Example To get to his apartment, a man has to climb five flights of stairs. The height of each flight is 3.7 m and the man has a mass of 74 kg. What is the approximate change in the man's gravitational potential energy during the climb? A. 13 000 J B. 2700 J C. 1500 J D. 12 500 J
+To get to his apartment, a man has to climb five flights of stairs.
+The height of each flight is 3.7 m and the man has a mass of 74 kg.
+What is the approximate change in the man's gravitational potential energy during the climb?
+A. 13 000 J B. 2700 J C. 1500 J D. 12 500 J
+Examiner Tips and Tricks This equation only works for objects close to the Earth’s surface, where we can consider the gravitational field to be uniform. At A level, you might have to consider examples where the gravitational field is not uniform, such as in space, where this equation will not be relevant. Gravitational potential energy is often shortened to GPE for ease. In your equations, you should stick to the correct symbol, which is
+This equation only works for objects close to the Earth’s surface, where we can consider the gravitational field to be uniform.
+At A level, you might have to consider examples where the gravitational field is not uniform, such as in space, where this equation will not be relevant.
+Gravitational potential energy is often shortened to GPE for ease. In your equations, you should stick to the correct symbol, which is

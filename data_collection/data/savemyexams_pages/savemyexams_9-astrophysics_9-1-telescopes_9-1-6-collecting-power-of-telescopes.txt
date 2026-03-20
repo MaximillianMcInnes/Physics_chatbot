@@ -1,0 +1,58 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-1-telescopes/9-1-6-collecting-power-of-telescopes
+HEADING: Collecting Power of Telescopes ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Collecting Power Telescopes are designed to gather as much light as possible The more light energy a telescope can gather, the brighter the images it will be able to produce This can be measured by a telescope's collecting power The collecting power of a telescope is defined as: A measure of the amount of light energy it collects per second This is equivalent to the power per unit area, or intensity of the incident radiation collected Differences in Collecting Power The telescope with the larger aperture is able to produce a brighter image The collecting power of a telescope is directly proportional to the square of the diameter of its objective This is because: Intensity is proportional to surface area The surface area of a circular object of diameter D is equal to This means that objects at greater distances can also be seen The intensity of light from a point source decreases inversely with the square of the distance according to the inverse square law Large Diameter Telescopes Larger aperture diameter telescopes are advantageous for two main reasons: They have a greater collecting power, so images are brighter They have a greater resolving power, so images are clearer The collecting power of two telescopes can be calculated using the ratio The resolving power of two telescopes operating at the same wavelength can be calculated using the ratio Worked Example The largest refracting telescope still in operation is the Yerkes refractor. The construction of this telescope later paved the way for the Otto Struve reflector to be built. Both telescopes detect optical wavelengths of light. The table below summarises some of the properties of the two optical telescopes. Telescope Type Objective diameter / cm Yerkes refractor 102 Otto-Struve reflector 208 Compare the two telescopes in terms of their collecting power and resolving power. Answer: Step 1: Compare the collecting power of the telescopes Since collecting power, or intensity of light collected area (diameter) 2 The collecting power of the Otto-Struve reflector is 4 times greater than the Yerkes refractor, meaning it will produce brighter images Step 2: Compare the resolving power of the telescopes Resolving power, or minimum angular resolution: (for the same wavelength) The Yerkes refractor can resolve detail half as well as the Otto-Struve reflector Therefore, the resolving power of the Otto-Struve reflector is twice as great as the Yerkes refractor, meaning it will produce clearer images Examiner Tips and Tricks Remember: the smaller the value of θ , the greater the resolving power
+Collecting Power Telescopes are designed to gather as much light as possible The more light energy a telescope can gather, the brighter the images it will be able to produce This can be measured by a telescope's collecting power The collecting power of a telescope is defined as: A measure of the amount of light energy it collects per second This is equivalent to the power per unit area, or intensity of the incident radiation collected Differences in Collecting Power The telescope with the larger aperture is able to produce a brighter image The collecting power of a telescope is directly proportional to the square of the diameter of its objective This is because: Intensity is proportional to surface area The surface area of a circular object of diameter D is equal to This means that objects at greater distances can also be seen The intensity of light from a point source decreases inversely with the square of the distance according to the inverse square law Large Diameter Telescopes Larger aperture diameter telescopes are advantageous for two main reasons: They have a greater collecting power, so images are brighter They have a greater resolving power, so images are clearer The collecting power of two telescopes can be calculated using the ratio The resolving power of two telescopes operating at the same wavelength can be calculated using the ratio
+Collecting Power
+Telescopes are designed to gather as much light as possible The more light energy a telescope can gather, the brighter the images it will be able to produce This can be measured by a telescope's collecting power
+Telescopes are designed to gather as much light as possible
+The more light energy a telescope can gather, the brighter the images it will be able to produce
+This can be measured by a telescope's collecting power
+The collecting power of a telescope is defined as:
+A measure of the amount of light energy it collects per second
+This is equivalent to the power per unit area, or intensity of the incident radiation collected
+Differences in Collecting Power
+The telescope with the larger aperture is able to produce a brighter image
+The collecting power of a telescope is directly proportional to the square of the diameter of its objective
+This is because: Intensity is proportional to surface area The surface area of a circular object of diameter D is equal to
+This is because:
+Intensity is proportional to surface area
+The surface area of a circular object of diameter D is equal to
+This means that objects at greater distances can also be seen The intensity of light from a point source decreases inversely with the square of the distance according to the inverse square law
+This means that objects at greater distances can also be seen
+The intensity of light from a point source decreases inversely with the square of the distance according to the inverse square law
+Large Diameter Telescopes
+Larger aperture diameter telescopes are advantageous for two main reasons: They have a greater collecting power, so images are brighter They have a greater resolving power, so images are clearer
+Larger aperture diameter telescopes are advantageous for two main reasons:
+They have a greater collecting power, so images are brighter
+They have a greater resolving power, so images are clearer
+The collecting power of two telescopes can be calculated using the ratio
+The resolving power of two telescopes operating at the same wavelength can be calculated using the ratio
+Worked Example The largest refracting telescope still in operation is the Yerkes refractor. The construction of this telescope later paved the way for the Otto Struve reflector to be built. Both telescopes detect optical wavelengths of light. The table below summarises some of the properties of the two optical telescopes. Telescope Type Objective diameter / cm Yerkes refractor 102 Otto-Struve reflector 208 Compare the two telescopes in terms of their collecting power and resolving power. Answer: Step 1: Compare the collecting power of the telescopes Since collecting power, or intensity of light collected area (diameter) 2 The collecting power of the Otto-Struve reflector is 4 times greater than the Yerkes refractor, meaning it will produce brighter images Step 2: Compare the resolving power of the telescopes Resolving power, or minimum angular resolution: (for the same wavelength) The Yerkes refractor can resolve detail half as well as the Otto-Struve reflector Therefore, the resolving power of the Otto-Struve reflector is twice as great as the Yerkes refractor, meaning it will produce clearer images
+Worked Example
+The largest refracting telescope still in operation is the Yerkes refractor. The construction of this telescope later paved the way for the Otto Struve reflector to be built. Both telescopes detect optical wavelengths of light.
+The table below summarises some of the properties of the two optical telescopes.
+Telescope Type Objective diameter / cm Yerkes refractor 102 Otto-Struve reflector 208
+Telescope
+Type
+Objective diameter / cm
+Yerkes
+refractor
+102
+Otto-Struve
+reflector
+208
+Compare the two telescopes in terms of their collecting power and resolving power.
+Answer:
+Step 1: Compare the collecting power of the telescopes
+Since collecting power, or intensity of light collected area (diameter) 2
+The collecting power of the Otto-Struve reflector is 4 times greater than the Yerkes refractor, meaning it will produce brighter images
+Step 2: Compare the resolving power of the telescopes
+Resolving power, or minimum angular resolution: (for the same wavelength)
+The Yerkes refractor can resolve detail half as well as the Otto-Struve reflector
+Therefore, the resolving power of the Otto-Struve reflector is twice as great as the Yerkes refractor, meaning it will produce clearer images
+Examiner Tips and Tricks Remember: the smaller the value of θ , the greater the resolving power
+Examiner Tips and Tricks
+Remember: the smaller the value of θ , the greater the resolving power

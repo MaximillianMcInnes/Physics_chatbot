@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-5-ideal-gases/6-5-1-the-kelvin-scale-and-absolute-zero
+HEADING: The Kelvin Scale & Absolute Zero ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Kelvin Scale & Absolute Zero On the thermodynamic (Kelvin) temperature scale, absolute zero is defined as: The lowest temperature possible. Equal to 0 K or -273.15 °C It is not possible to have a temperature lower than 0 K This means a temperature in Kelvin will never be a negative value Absolute zero is defined as: The temperature at which the molecules in a substance have zero kinetic energy This means that for a system at 0 K, it is not possible to remove any more energy from it Even in space, the temperature is roughly 2.7 K, just above absolute zero Using the Kelvin Scale To convert between temperatures θ in the Celsius scale and T in the Kelvin scale, use the following conversion: θ / ° C = T / K − 273.15 T / K = θ / ° C + 273.15 Conversion chart relating the temperature on the Kelvin and Celsius scales The divisions on both scales are equal, which means: A change in a temperature of 1 K is equal to a change in temperature of 1 °C So, when using the specific heat capacity equation Q = mc Δθ Δθ does not require the temperature to be in either unit This is because the difference in temperature between two values whether in Kelvin or Celsius will be exactly the same Worked Example In many ideal gas problems, room temperature is considered to be 300 K. What is this temperature in Celsius? Answer: Step 1: Kelvin to Celsius equation θ / ° C = T / K − 273.15 Step 2: Substitute in value of 300 K 300 K − 273.15 = 26.85 ° C Examiner Tips and Tricks If you forget in the exam whether it’s +273.15 or −273.15, just remember that 0 ° C = 273.15 K. This way, when you know that you need to add +273.15 to a temperature in degrees to get a temperature in Kelvin. For example: 0 ° C + 273.15 = 273.15 K You will not be penalised for using a rounded value of 273 K in your exam.
+The Kelvin Scale & Absolute Zero On the thermodynamic (Kelvin) temperature scale, absolute zero is defined as: The lowest temperature possible. Equal to 0 K or -273.15 °C It is not possible to have a temperature lower than 0 K This means a temperature in Kelvin will never be a negative value Absolute zero is defined as: The temperature at which the molecules in a substance have zero kinetic energy This means that for a system at 0 K, it is not possible to remove any more energy from it Even in space, the temperature is roughly 2.7 K, just above absolute zero Using the Kelvin Scale To convert between temperatures θ in the Celsius scale and T in the Kelvin scale, use the following conversion: θ / ° C = T / K − 273.15 T / K = θ / ° C + 273.15 Conversion chart relating the temperature on the Kelvin and Celsius scales The divisions on both scales are equal, which means: A change in a temperature of 1 K is equal to a change in temperature of 1 °C So, when using the specific heat capacity equation Q = mc Δθ Δθ does not require the temperature to be in either unit This is because the difference in temperature between two values whether in Kelvin or Celsius will be exactly the same
+On the thermodynamic (Kelvin) temperature scale, absolute zero is defined as:
+The lowest temperature possible. Equal to 0 K or -273.15 °C
+It is not possible to have a temperature lower than 0 K This means a temperature in Kelvin will never be a negative value
+It is not possible to have a temperature lower than 0 K
+This means a temperature in Kelvin will never be a negative value
+Absolute zero is defined as:
+The temperature at which the molecules in a substance have zero kinetic energy
+This means that for a system at 0 K, it is not possible to remove any more energy from it
+Even in space, the temperature is roughly 2.7 K, just above absolute zero
+Using the Kelvin Scale
+To convert between temperatures θ in the Celsius scale and T in the Kelvin scale, use the following conversion:
+θ / ° C = T / K − 273.15
+T / K = θ / ° C + 273.15
+Conversion chart relating the temperature on the Kelvin and Celsius scales
+The divisions on both scales are equal, which means:
+A change in a temperature of 1 K is equal to a change in temperature of 1 °C
+So, when using the specific heat capacity equation
+Q = mc Δθ
+Δθ does not require the temperature to be in either unit This is because the difference in temperature between two values whether in Kelvin or Celsius will be exactly the same
+Δθ does not require the temperature to be in either unit
+This is because the difference in temperature between two values whether in Kelvin or Celsius will be exactly the same
+Worked Example In many ideal gas problems, room temperature is considered to be 300 K. What is this temperature in Celsius? Answer: Step 1: Kelvin to Celsius equation θ / ° C = T / K − 273.15 Step 2: Substitute in value of 300 K 300 K − 273.15 = 26.85 ° C
+Worked Example
+In many ideal gas problems, room temperature is considered to be 300 K. What is this temperature in Celsius?
+Answer:
+Step 1: Kelvin to Celsius equation
+Step 2: Substitute in value of 300 K
+300 K − 273.15 = 26.85 ° C
+Examiner Tips and Tricks If you forget in the exam whether it’s +273.15 or −273.15, just remember that 0 ° C = 273.15 K. This way, when you know that you need to add +273.15 to a temperature in degrees to get a temperature in Kelvin. For example: 0 ° C + 273.15 = 273.15 K You will not be penalised for using a rounded value of 273 K in your exam.
+Examiner Tips and Tricks
+If you forget in the exam whether it’s +273.15 or −273.15, just remember that 0 ° C = 273.15 K. This way, when you know that you need to add +273.15 to a temperature in degrees to get a temperature in Kelvin. For example: 0 ° C + 273.15 = 273.15 K
+You will not be penalised for using a rounded value of 273 K in your exam.

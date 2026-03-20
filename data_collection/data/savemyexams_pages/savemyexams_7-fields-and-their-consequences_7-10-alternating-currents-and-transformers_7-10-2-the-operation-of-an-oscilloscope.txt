@@ -1,0 +1,57 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-10-alternating-currents-and-transformers/7-10-2-the-operation-of-an-oscilloscope
+HEADING: The Operation of an Oscilloscope ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Oscilloscope as a DC & AC Voltmeter A Cathode-Ray Oscilloscope (CRO) is a laboratory instrument used to display, measure and analyse waveforms of electrical circuits It can therefore be used as an a.c and d.c voltmeter An a.c voltage on an oscilloscope is represented as a transverse wave Therefore you can determine its frequency, time period and peak voltage A d.c voltage on an oscilloscope is represented as a horizontal line at the relevant voltage The x-axis is the time and the y-axis is the voltage ( or y-gain) Diagram of Cathode-Ray Oscilloscope display showing wavelength and time-base setting The period of the wave can be determined from the time-base This is how many seconds each division represents measured commonly in s div -1 or s cm -1 The frequency is then determined through: Where: T = time period (s) Dividing the total time by the number of wavelengths will give a value for T Use as many wavelengths shown on the screen as possible to reduce uncertainties C.R.O Controls for An A.C Waveform Time-base When the time-base is switched off, only a vertical line on the voltage-gain axis is seen with its relevant amplitude When the time-base is switched on, a wave will appear across the whole screen and the time period can be measured This control has units of time cm -1 or time div -1 and has a range of 100 ms – 1 μs per cm, or division Voltage-gain (sensitivity) This controls the vertical deflection, or amplitude, of the wave The peak voltage (V 0 ) is the maximum vertical displacement measured from the time axis The peak-to-peak voltage is the vertical displacement between the minimum and maximum values of voltage When the voltage-gain is switched off, only a horizontal line on the time axis will be seen This control has units of volts cm -1 or volts div -1 For a d.c waveform, only a horizontal line is displayed at the relevant voltage The time-base settings are irrelevant since there is no time period The voltage-gain setting is relevant since this is used to read the value of the d.c voltage Examples of an alternating and direct voltage on a CRO with and without the time base Worked Example A cathode-ray oscilloscope (c.r.o.) is used to display the trace from a sound wave. The time-base is set at 7 µs mm -1 . What is the frequency of the sound wave? A. 2.4 Hz B. 24 Hz C. 2.4 kHz D. 24 kHz Examiner Tips and Tricks The time-base setting varies with units for seconds (commonly ms) and the unit length (commonly mm). Unit conversions are very important when calculating the time period and frequency.
+Oscilloscope as a DC & AC Voltmeter A Cathode-Ray Oscilloscope (CRO) is a laboratory instrument used to display, measure and analyse waveforms of electrical circuits It can therefore be used as an a.c and d.c voltmeter An a.c voltage on an oscilloscope is represented as a transverse wave Therefore you can determine its frequency, time period and peak voltage A d.c voltage on an oscilloscope is represented as a horizontal line at the relevant voltage The x-axis is the time and the y-axis is the voltage ( or y-gain) Diagram of Cathode-Ray Oscilloscope display showing wavelength and time-base setting The period of the wave can be determined from the time-base This is how many seconds each division represents measured commonly in s div -1 or s cm -1 The frequency is then determined through: Where: T = time period (s) Dividing the total time by the number of wavelengths will give a value for T Use as many wavelengths shown on the screen as possible to reduce uncertainties C.R.O Controls for An A.C Waveform Time-base When the time-base is switched off, only a vertical line on the voltage-gain axis is seen with its relevant amplitude When the time-base is switched on, a wave will appear across the whole screen and the time period can be measured This control has units of time cm -1 or time div -1 and has a range of 100 ms – 1 μs per cm, or division Voltage-gain (sensitivity) This controls the vertical deflection, or amplitude, of the wave The peak voltage (V 0 ) is the maximum vertical displacement measured from the time axis The peak-to-peak voltage is the vertical displacement between the minimum and maximum values of voltage When the voltage-gain is switched off, only a horizontal line on the time axis will be seen This control has units of volts cm -1 or volts div -1 For a d.c waveform, only a horizontal line is displayed at the relevant voltage The time-base settings are irrelevant since there is no time period The voltage-gain setting is relevant since this is used to read the value of the d.c voltage Examples of an alternating and direct voltage on a CRO with and without the time base
+Oscilloscope as a DC & AC Voltmeter
+A Cathode-Ray Oscilloscope (CRO) is a laboratory instrument used to display, measure and analyse waveforms of electrical circuits It can therefore be used as an a.c and d.c voltmeter
+A Cathode-Ray Oscilloscope (CRO) is a laboratory instrument used to display, measure and analyse waveforms of electrical circuits
+It can therefore be used as an a.c and d.c voltmeter
+An a.c voltage on an oscilloscope is represented as a transverse wave Therefore you can determine its frequency, time period and peak voltage
+An a.c voltage on an oscilloscope is represented as a transverse wave
+Therefore you can determine its frequency, time period and peak voltage
+A d.c voltage on an oscilloscope is represented as a horizontal line at the relevant voltage
+The x-axis is the time and the y-axis is the voltage ( or y-gain)
+Diagram of Cathode-Ray Oscilloscope display showing wavelength and time-base setting
+The period of the wave can be determined from the time-base This is how many seconds each division represents measured commonly in s div -1 or s cm -1
+The period of the wave can be determined from the time-base
+This is how many seconds each division represents measured commonly in s div -1 or s cm -1
+The frequency is then determined through:
+Where: T = time period (s)
+Where:
+T = time period (s)
+time period
+Dividing the total time by the number of wavelengths will give a value for T Use as many wavelengths shown on the screen as possible to reduce uncertainties
+Dividing the total time by the number of wavelengths will give a value for T
+Use as many wavelengths shown on the screen as possible to reduce uncertainties
+C.R.O Controls for An A.C Waveform
+Time-base When the time-base is switched off, only a vertical line on the voltage-gain axis is seen with its relevant amplitude When the time-base is switched on, a wave will appear across the whole screen and the time period can be measured This control has units of time cm -1 or time div -1 and has a range of 100 ms – 1 μs per cm, or division
+Time-base
+When the time-base is switched off, only a vertical line on the voltage-gain axis is seen with its relevant amplitude
+When the time-base is switched on, a wave will appear across the whole screen and the time period can be measured
+This control has units of time cm -1 or time div -1 and has a range of 100 ms – 1 μs per cm, or division
+Voltage-gain (sensitivity) This controls the vertical deflection, or amplitude, of the wave The peak voltage (V 0 ) is the maximum vertical displacement measured from the time axis The peak-to-peak voltage is the vertical displacement between the minimum and maximum values of voltage When the voltage-gain is switched off, only a horizontal line on the time axis will be seen This control has units of volts cm -1 or volts div -1
+Voltage-gain (sensitivity)
+This controls the vertical deflection, or amplitude, of the wave
+The peak voltage (V 0 ) is the maximum vertical displacement measured from the time axis
+The peak-to-peak voltage is the vertical displacement between the minimum and maximum values of voltage
+When the voltage-gain is switched off, only a horizontal line on the time axis will be seen
+This control has units of volts cm -1 or volts div -1
+For a d.c waveform, only a horizontal line is displayed at the relevant voltage The time-base settings are irrelevant since there is no time period The voltage-gain setting is relevant since this is used to read the value of the d.c voltage
+For a d.c waveform, only a horizontal line is displayed at the relevant voltage
+The time-base settings are irrelevant since there is no time period
+The voltage-gain setting is relevant since this is used to read the value of the d.c voltage
+Examples of an alternating and direct voltage on a CRO with and without the time base
+Worked Example A cathode-ray oscilloscope (c.r.o.) is used to display the trace from a sound wave. The time-base is set at 7 µs mm -1 . What is the frequency of the sound wave? A. 2.4 Hz B. 24 Hz C. 2.4 kHz D. 24 kHz
+Worked Example
+A cathode-ray oscilloscope (c.r.o.) is used to display the trace from a sound wave. The time-base is set at 7 µs mm -1 .
+What is the frequency of the sound wave?
+A. 2.4 Hz
+B. 24 Hz
+C. 2.4 kHz
+D. 24 kHz
+Examiner Tips and Tricks The time-base setting varies with units for seconds (commonly ms) and the unit length (commonly mm). Unit conversions are very important when calculating the time period and frequency.
+Examiner Tips and Tricks
+The time-base setting varies with units for seconds (commonly ms) and the unit length (commonly mm). Unit conversions are very important when calculating the time period and frequency.

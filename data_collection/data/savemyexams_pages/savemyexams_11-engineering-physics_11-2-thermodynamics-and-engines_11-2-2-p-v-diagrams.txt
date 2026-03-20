@@ -1,0 +1,65 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-2-p-v-diagrams
+HEADING: p–V Diagrams ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+p–V Diagrams When a gas expands , it does work on its surroundings by exerting pressure on the walls of the container it's in For a gas inside a piston, the force exerted by the gas pushes the piston outwards As a result, work is done by the gas when the piston expands the volume of the gas Alternatively, if an external force is applied to the piston, the gas will be compressed In this case, work is done on the gas when the piston compresses the gas Gas pushed in a piston The expansion of the gas does work on the piston by exerting a force over a distance, s The work done when the volume of a gas changes at constant pressure is: Where: W = work done (J) p = pressure of the gas (Pa) Δ V = change in the volume of the gas (m 3 ) This equation assumes that the surrounding pressure does not change as the gas expands This is true if the gas is expanding against the pressure of the atmosphere, which changes very slowly p-V diagrams Pressure-volume ( p-V ) diagrams are often used to represent changes in the state of a gas in thermodynamic processes Gas expanding and compressing in a cylinder by a piston Positive or negative work done depends on whether the gas is compressed or expanded The area under a p – V diagram tells us how much work is done When a gas expands (at constant pressure) work done is positive Volume increases +Δ V Work is done by the gas + W When a gas is compressed (at constant pressure) work done W is negative Volume decreases −Δ V Work is done on the gas − W When both the volume and pressure of gas changes The work done can be determined from the area under a p-V diagram In the context of engines, these are referred to as indicator diagrams Worked Example When a balloon is inflated, its rubber walls push against the air around it. Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 . Atmospheric pressure = 1.0 × 10 5 Pa. Answer: The work done by a gas is equal to Where the change in volume is Δ V = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3 Therefore, work done is W = (1.0 × 10 5 ) × 0.015 = 1500 J Worked Example An ideal gas is compressed, as shown on the graph below. (a) For this change, state and explain whether work is done on the gas or by the gas (b) Determine the value of the work done and state whether it is positive or negative Answer: Part (a) The volume decreases, therefore, work is done on the gas Part (b) The work done is equal to the area under the p-V diagram Work done on the gas, W = 240 J Examiner Tips and Tricks Interpreting p-V diagrams is a very important part of Thermodynamics. Questions linked to the ideal gas equation, or might also be involved.
+p–V Diagrams When a gas expands , it does work on its surroundings by exerting pressure on the walls of the container it's in For a gas inside a piston, the force exerted by the gas pushes the piston outwards As a result, work is done by the gas when the piston expands the volume of the gas Alternatively, if an external force is applied to the piston, the gas will be compressed In this case, work is done on the gas when the piston compresses the gas Gas pushed in a piston The expansion of the gas does work on the piston by exerting a force over a distance, s The work done when the volume of a gas changes at constant pressure is: Where: W = work done (J) p = pressure of the gas (Pa) Δ V = change in the volume of the gas (m 3 ) This equation assumes that the surrounding pressure does not change as the gas expands This is true if the gas is expanding against the pressure of the atmosphere, which changes very slowly p-V diagrams Pressure-volume ( p-V ) diagrams are often used to represent changes in the state of a gas in thermodynamic processes Gas expanding and compressing in a cylinder by a piston Positive or negative work done depends on whether the gas is compressed or expanded The area under a p – V diagram tells us how much work is done When a gas expands (at constant pressure) work done is positive Volume increases +Δ V Work is done by the gas + W When a gas is compressed (at constant pressure) work done W is negative Volume decreases −Δ V Work is done on the gas − W When both the volume and pressure of gas changes The work done can be determined from the area under a p-V diagram In the context of engines, these are referred to as indicator diagrams
+When a gas expands , it does work on its surroundings by exerting pressure on the walls of the container it's in
+For a gas inside a piston, the force exerted by the gas pushes the piston outwards As a result, work is done by the gas when the piston expands the volume of the gas
+For a gas inside a piston, the force exerted by the gas pushes the piston outwards
+As a result, work is done by the gas when the piston expands the volume of the gas
+Alternatively, if an external force is applied to the piston, the gas will be compressed In this case, work is done on the gas when the piston compresses the gas
+Alternatively, if an external force is applied to the piston, the gas will be compressed
+In this case, work is done on the gas when the piston compresses the gas
+Gas pushed in a piston
+The expansion of the gas does work on the piston by exerting a force over a distance, s
+The work done when the volume of a gas changes at constant pressure is:
+Where: W = work done (J) p = pressure of the gas (Pa) Δ V = change in the volume of the gas (m 3 )
+Where:
+W = work done (J)
+p = pressure of the gas (Pa)
+Δ V = change in the volume of the gas (m 3 )
+This equation assumes that the surrounding pressure does not change as the gas expands This is true if the gas is expanding against the pressure of the atmosphere, which changes very slowly
+This equation assumes that the surrounding pressure does not change as the gas expands
+This is true if the gas is expanding against the pressure of the atmosphere, which changes very slowly
+p-V diagrams
+Pressure-volume ( p-V ) diagrams are often used to represent changes in the state of a gas in thermodynamic processes
+Gas expanding and compressing in a cylinder by a piston
+Positive or negative work done depends on whether the gas is compressed or expanded
+The area under a p – V diagram tells us how much work is done
+When a gas expands (at constant pressure) work done is positive Volume increases +Δ V Work is done by the gas + W
+When a gas expands (at constant pressure) work done is positive
+Volume increases +Δ V
+Work is done by the gas + W
+When a gas is compressed (at constant pressure) work done W is negative Volume decreases −Δ V Work is done on the gas − W
+When a gas is compressed (at constant pressure) work done W is negative
+Volume decreases −Δ V
+Work is done on the gas − W
+When both the volume and pressure of gas changes The work done can be determined from the area under a p-V diagram
+When both the volume and pressure of gas changes
+The work done can be determined from the area under a p-V diagram
+In the context of engines, these are referred to as indicator diagrams
+Worked Example When a balloon is inflated, its rubber walls push against the air around it. Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 . Atmospheric pressure = 1.0 × 10 5 Pa. Answer: The work done by a gas is equal to Where the change in volume is Δ V = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3 Therefore, work done is W = (1.0 × 10 5 ) × 0.015 = 1500 J
+Worked Example
+When a balloon is inflated, its rubber walls push against the air around it.
+Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 .
+Atmospheric pressure = 1.0 × 10 5 Pa.
+Answer:
+The work done by a gas is equal to
+Where the change in volume is
+Δ V = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3
+Therefore, work done is
+W = (1.0 × 10 5 ) × 0.015 = 1500 J
+Worked Example An ideal gas is compressed, as shown on the graph below. (a) For this change, state and explain whether work is done on the gas or by the gas (b) Determine the value of the work done and state whether it is positive or negative Answer: Part (a) The volume decreases, therefore, work is done on the gas Part (b) The work done is equal to the area under the p-V diagram Work done on the gas, W = 240 J
+An ideal gas is compressed, as shown on the graph below.
+(a) For this change, state and explain whether work is done on the gas or by the gas
+(b) Determine the value of the work done and state whether it is positive or negative
+Part (a)
+The volume decreases, therefore, work is done on the gas
+Part (b)
+The work done is equal to the area under the p-V diagram
+Work done on the gas, W = 240 J
+Examiner Tips and Tricks Interpreting p-V diagrams is a very important part of Thermodynamics. Questions linked to the ideal gas equation, or might also be involved.
+Examiner Tips and Tricks
+Interpreting p-V diagrams is a very important part of Thermodynamics. Questions linked to the ideal gas equation, or might also be involved.

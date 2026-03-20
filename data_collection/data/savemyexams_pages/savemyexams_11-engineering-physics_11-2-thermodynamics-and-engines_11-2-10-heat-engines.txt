@@ -1,0 +1,69 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-10-heat-engines
+HEADING: Heat Engines ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Efficiency of a Heat Engine The goal of a heat engine is to transfer thermal energy (heat) into useful mechanical work as efficiently as possible The efficiency of a heat engine can, therefore, be calculated using Where: W = useful work output (J) Q H = energy transferred from the source (J) Q C = energy transferred to the sink (J) Source-sink diagram for a heat engine For the efficiency of a heat engine to be 0%, this would mean that no useful work is done Conversely, the efficiency of a heat engine can never be 100%, as no heat engine can completely convert heat into work This is because some heat will always be lost to the surroundings Worked Example Which is a correct statement about an ideal heat engine? A. The efficiency is 75% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink. B. The maximum efficiency depends on the p - V cycle of the engine. C. The efficiency decreases when the absolute temperature of the hot source and the cold sink decrease by equal amounts. D. The efficiency is 25% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink. Answer: A If the hot source is four times the absolute (Kelvin) temperature of the cold sink, then In the efficiency equation, this is This efficiency is 75 % Examiner Tips and Tricks This equation is given on your data sheet. Make sure all the variables are in the same units i.e. J or kJ. You must convert these into the same units before you do your calculation. If the efficiency is asked for as a percentage instead of a decimal, remember to × 100 Maximum Theoretical Efficiency As the efficiency of a thermodynamic system increases, the difference between the temperatures of the source and sink increases The maximum theoretical efficiency of a heat engine is: Maximum theoretical efficiency = Where: = temperature in the sink (cold reservoir) (K) = temperature in the source (hot reservoir) (K) This equation can be used if an ideal gas is used as a substance for the engine Therefore, to make an engine as efficient as possible, the source temperature must be as high as possible, and the sink temperature as low as possible The maximum theoretical efficiency is 100% only if the sink temperature is at 0 K Worked Example An engineer designs a heat engine that has an inlet temperature of 500 K and an outlet temperature of 300 K. The engineer claims that 100 kJ of thermal energy flows out of the source and 25 kJ of thermal energy flows into the sink. Determine, with reference to the second law of thermodynamics, whether this engine is thermodynamically possible. Answer: Step 1: Determine the efficiency of the proposed engine The efficiency of this engine would be Where: Heat transferred in, = 100 kJ Heat transferred out, = 25 kJ Efficiency = = 0.75 = 75% Step 2: Determine the maximum theoretical efficiency of the proposed engine A Carnot engine operating between the same temperatures would have an efficiency of Maximum theoretical efficiency = Where: Inlet temperature, = 500 K Outlet temperature, = 300 K Maximum theoretical efficiency = = 0.4 = 40% Step 3: Discuss the proposed engine in relation to the second law The second law of thermodynamics states that it is impossible for heat to flow from a cooler body to a hotter body without performing work This law sets an upper limit on the maximum possible efficiency of the transfer of thermal energy to mechanical energy in a heat engine The maximum possible efficiency of the proposed engine is 40%, but the engineer is proposing an efficiency of 75% i.e. an efficiency greater than the efficiency of the engine This violates the second law, hence the proposed engine is impossible Examiner Tips and Tricks This equation is valid for all idealised reversible engines, irrespective of the particular cycle and the particular working substance. You may be given unfamiliar cycles in the exam (such as the Carnot cycle) to apply this to.
+Efficiency of a Heat Engine The goal of a heat engine is to transfer thermal energy (heat) into useful mechanical work as efficiently as possible The efficiency of a heat engine can, therefore, be calculated using Where: W = useful work output (J) Q H = energy transferred from the source (J) Q C = energy transferred to the sink (J) Source-sink diagram for a heat engine For the efficiency of a heat engine to be 0%, this would mean that no useful work is done Conversely, the efficiency of a heat engine can never be 100%, as no heat engine can completely convert heat into work This is because some heat will always be lost to the surroundings
+Efficiency of a Heat Engine
+The goal of a heat engine is to transfer thermal energy (heat) into useful mechanical work as efficiently as possible
+The efficiency of a heat engine can, therefore, be calculated using
+Where: W = useful work output (J) Q H = energy transferred from the source (J) Q C = energy transferred to the sink (J)
+Where:
+W = useful work output (J)
+Q H = energy transferred from the source (J)
+Q C = energy transferred to the sink (J)
+Source-sink diagram for a heat engine
+For the efficiency of a heat engine to be 0%, this would mean that no useful work is done
+Conversely, the efficiency of a heat engine can never be 100%, as no heat engine can completely convert heat into work This is because some heat will always be lost to the surroundings
+Conversely, the efficiency of a heat engine can never be 100%, as no heat engine can completely convert heat into work
+This is because some heat will always be lost to the surroundings
+Worked Example Which is a correct statement about an ideal heat engine? A. The efficiency is 75% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink. B. The maximum efficiency depends on the p - V cycle of the engine. C. The efficiency decreases when the absolute temperature of the hot source and the cold sink decrease by equal amounts. D. The efficiency is 25% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink. Answer: A If the hot source is four times the absolute (Kelvin) temperature of the cold sink, then In the efficiency equation, this is This efficiency is 75 %
+Worked Example
+Which is a correct statement about an ideal heat engine?
+A. The efficiency is 75% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink.
+B. The maximum efficiency depends on the p - V cycle of the engine.
+C. The efficiency decreases when the absolute temperature of the hot source and the cold sink decrease by equal amounts.
+D. The efficiency is 25% when the absolute temperature of the hot source is four times the absolute temperature of the cold sink.
+Answer: A
+If the hot source is four times the absolute (Kelvin) temperature of the cold sink, then
+In the efficiency equation, this is
+This efficiency is 75 %
+Examiner Tips and Tricks This equation is given on your data sheet. Make sure all the variables are in the same units i.e. J or kJ. You must convert these into the same units before you do your calculation. If the efficiency is asked for as a percentage instead of a decimal, remember to × 100
+Examiner Tips and Tricks
+This equation is given on your data sheet. Make sure all the variables are in the same units i.e. J or kJ. You must convert these into the same units before you do your calculation.
+If the efficiency is asked for as a percentage instead of a decimal, remember to × 100
+Maximum Theoretical Efficiency As the efficiency of a thermodynamic system increases, the difference between the temperatures of the source and sink increases The maximum theoretical efficiency of a heat engine is: Maximum theoretical efficiency = Where: = temperature in the sink (cold reservoir) (K) = temperature in the source (hot reservoir) (K) This equation can be used if an ideal gas is used as a substance for the engine Therefore, to make an engine as efficient as possible, the source temperature must be as high as possible, and the sink temperature as low as possible The maximum theoretical efficiency is 100% only if the sink temperature is at 0 K
+Maximum Theoretical Efficiency
+As the efficiency of a thermodynamic system increases, the difference between the temperatures of the source and sink increases
+The maximum theoretical efficiency of a heat engine is:
+Maximum theoretical efficiency =
+Where: = temperature in the sink (cold reservoir) (K) = temperature in the source (hot reservoir) (K)
+= temperature in the sink (cold reservoir) (K)
+= temperature in the source (hot reservoir) (K)
+This equation can be used if an ideal gas is used as a substance for the engine
+Therefore, to make an engine as efficient as possible, the source temperature must be as high as possible, and the sink temperature as low as possible
+The maximum theoretical efficiency is 100% only if the sink temperature is at 0 K
+Worked Example An engineer designs a heat engine that has an inlet temperature of 500 K and an outlet temperature of 300 K. The engineer claims that 100 kJ of thermal energy flows out of the source and 25 kJ of thermal energy flows into the sink. Determine, with reference to the second law of thermodynamics, whether this engine is thermodynamically possible. Answer: Step 1: Determine the efficiency of the proposed engine The efficiency of this engine would be Where: Heat transferred in, = 100 kJ Heat transferred out, = 25 kJ Efficiency = = 0.75 = 75% Step 2: Determine the maximum theoretical efficiency of the proposed engine A Carnot engine operating between the same temperatures would have an efficiency of Maximum theoretical efficiency = Where: Inlet temperature, = 500 K Outlet temperature, = 300 K Maximum theoretical efficiency = = 0.4 = 40% Step 3: Discuss the proposed engine in relation to the second law The second law of thermodynamics states that it is impossible for heat to flow from a cooler body to a hotter body without performing work This law sets an upper limit on the maximum possible efficiency of the transfer of thermal energy to mechanical energy in a heat engine The maximum possible efficiency of the proposed engine is 40%, but the engineer is proposing an efficiency of 75% i.e. an efficiency greater than the efficiency of the engine This violates the second law, hence the proposed engine is impossible
+An engineer designs a heat engine that has an inlet temperature of 500 K and an outlet temperature of 300 K. The engineer claims that 100 kJ of thermal energy flows out of the source and 25 kJ of thermal energy flows into the sink.
+Determine, with reference to the second law of thermodynamics, whether this engine is thermodynamically possible.
+Answer:
+Step 1: Determine the efficiency of the proposed engine
+The efficiency of this engine would be
+Where: Heat transferred in, = 100 kJ Heat transferred out, = 25 kJ
+Heat transferred in, = 100 kJ
+Heat transferred out, = 25 kJ
+Efficiency = = 0.75 = 75%
+Step 2: Determine the maximum theoretical efficiency of the proposed engine
+A Carnot engine operating between the same temperatures would have an efficiency of
+Where: Inlet temperature, = 500 K Outlet temperature, = 300 K
+Inlet temperature, = 500 K
+Outlet temperature, = 300 K
+Maximum theoretical efficiency = = 0.4 = 40%
+Step 3: Discuss the proposed engine in relation to the second law
+The second law of thermodynamics states that it is impossible for heat to flow from a cooler body to a hotter body without performing work
+This law sets an upper limit on the maximum possible efficiency of the transfer of thermal energy to mechanical energy in a heat engine
+The maximum possible efficiency of the proposed engine is 40%, but the engineer is proposing an efficiency of 75% i.e. an efficiency greater than the efficiency of the engine
+This violates the second law, hence the proposed engine is impossible
+Examiner Tips and Tricks This equation is valid for all idealised reversible engines, irrespective of the particular cycle and the particular working substance. You may be given unfamiliar cycles in the exam (such as the Carnot cycle) to apply this to.
+This equation is valid for all idealised reversible engines, irrespective of the particular cycle and the particular working substance. You may be given unfamiliar cycles in the exam (such as the Carnot cycle) to apply this to.

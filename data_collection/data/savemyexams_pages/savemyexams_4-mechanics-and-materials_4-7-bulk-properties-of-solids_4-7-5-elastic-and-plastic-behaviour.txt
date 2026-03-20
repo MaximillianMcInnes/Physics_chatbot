@@ -1,0 +1,62 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-7-bulk-properties-of-solids/4-7-5-elastic-and-plastic-behaviour
+HEADING: Elastic & Plastic Behaviour ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Plastic Behaviour Materials can undergo two types of deformations: Elastic deformation When the load is removed, the object will return to its original shape This is shown in the elastic region of the graph Plastic deformation The material is permanently deformed When the load is removed, the object will not return to its original shape or length This is beyond the elastic limit and is shown in the plastic region of the graph These regions can be determined from a Force-Extension graph: Below the elastic limit, the material exhibits elastic behaviour. Above the elastic limit, the material exhibits plastic behaviour The elastic region is where the extension is proportional to the force applied to the material ( straight line ) The plastic region is where the extension is no longer proportional to the force applied to the material (graph starts to curve ) These regions are divided by the elastic limit The plastic region starts at the elastic limit and ends at the point of fracture (the material breaks) Examiner Tips and Tricks Students often wonder about the section of graph between the limit of proportionality and the elastic limit. In this region, the material will still behave elastically (return to its original length) but it no longer obeys Hooke's law (a directly proportional relationship). You will not be asked about this region on your exam. You do, however, need to be able to explain the behaviour of the material at all other points on the graph. Brittle and Ductile Materials Brittle materials have very little to no plastic region e.g. glass, concrete The material breaks with little elastic and insignificant plastic deformation Ductile materials have a larger plastic region e.g. rubber, copper The material stretches into a new shape before breaking Brittle and ductile materials on a stress-strain graph. These are the same on a force-extension graph too To identify these materials on a stress-strain or force-extension graph up to their breaking point: A brittle material is represented by a straight line through the origins with no or negligible curved region A ductile material is represented with a straight line through the origin then curving towards the x-axis Worked Example A sample of metal wire is subjected to a force which increases as a series of masses are added to the wire. The extension is measured and a force-extension graph of the data is plotted as shown below. When the wire has been extended to Y , the point just before the wire fractures, the masses are removed one by one and the extension is re-measured. (i) Describe the behaviour of the metal between X and Y . (ii) On the graph, sketch the result obtained after the masses are removed and explain why the graph has this shape. Answer: (i) Since the graph is a straight line and the metal almost fractures, the point after X must be its elastic limit The graph starts to curve after this and would fracture beyond point Y This curve between X and Y denotes plastic behaviour Therefore, the metal exhibits plastic behaviour, but not elastic behaviour (ii) Plastic deformation has occurred which results in permanent extension As the load is decreased, the bonds in the metal are re-aligned hence the y-intercept is now not through the origin The gradient remains the same because the intermolecular forces (the forces between bonds) are identical to before Examiner Tips and Tricks Avoid describing plastic deformation as 'does not obey Hooke's law'. Although this is mostly correct, it should be described as the material being permanently deformed
+Plastic Behaviour Materials can undergo two types of deformations: Elastic deformation When the load is removed, the object will return to its original shape This is shown in the elastic region of the graph Plastic deformation The material is permanently deformed When the load is removed, the object will not return to its original shape or length This is beyond the elastic limit and is shown in the plastic region of the graph These regions can be determined from a Force-Extension graph: Below the elastic limit, the material exhibits elastic behaviour. Above the elastic limit, the material exhibits plastic behaviour The elastic region is where the extension is proportional to the force applied to the material ( straight line ) The plastic region is where the extension is no longer proportional to the force applied to the material (graph starts to curve ) These regions are divided by the elastic limit The plastic region starts at the elastic limit and ends at the point of fracture (the material breaks)
+Plastic Behaviour
+Materials can undergo two types of deformations:
+Elastic deformation When the load is removed, the object will return to its original shape This is shown in the elastic region of the graph
+Elastic deformation
+When the load is removed, the object will return to its original shape
+This is shown in the elastic region of the graph
+Plastic deformation The material is permanently deformed When the load is removed, the object will not return to its original shape or length This is beyond the elastic limit and is shown in the plastic region of the graph
+Plastic deformation
+The material is permanently deformed
+When the load is removed, the object will not return to its original shape or length
+This is beyond the elastic limit and is shown in the plastic region of the graph
+These regions can be determined from a Force-Extension graph:
+Below the elastic limit, the material exhibits elastic behaviour. Above the elastic limit, the material exhibits plastic behaviour
+The elastic region is where the extension is proportional to the force applied to the material ( straight line )
+The plastic region is where the extension is no longer proportional to the force applied to the material (graph starts to curve ) These regions are divided by the elastic limit
+The plastic region is where the extension is no longer proportional to the force applied to the material (graph starts to curve )
+These regions are divided by the elastic limit
+The plastic region starts at the elastic limit and ends at the point of fracture (the material breaks)
+Examiner Tips and Tricks Students often wonder about the section of graph between the limit of proportionality and the elastic limit. In this region, the material will still behave elastically (return to its original length) but it no longer obeys Hooke's law (a directly proportional relationship). You will not be asked about this region on your exam. You do, however, need to be able to explain the behaviour of the material at all other points on the graph.
+Examiner Tips and Tricks
+Students often wonder about the section of graph between the limit of proportionality and the elastic limit. In this region, the material will still behave elastically (return to its original length) but it no longer obeys Hooke's law (a directly proportional relationship).
+You will not be asked about this region on your exam. You do, however, need to be able to explain the behaviour of the material at all other points on the graph.
+Brittle and Ductile Materials Brittle materials have very little to no plastic region e.g. glass, concrete The material breaks with little elastic and insignificant plastic deformation Ductile materials have a larger plastic region e.g. rubber, copper The material stretches into a new shape before breaking Brittle and ductile materials on a stress-strain graph. These are the same on a force-extension graph too To identify these materials on a stress-strain or force-extension graph up to their breaking point: A brittle material is represented by a straight line through the origins with no or negligible curved region A ductile material is represented with a straight line through the origin then curving towards the x-axis
+Brittle and Ductile Materials
+Brittle materials have very little to no plastic region e.g. glass, concrete The material breaks with little elastic and insignificant plastic deformation
+Brittle materials have very little to no plastic region e.g. glass, concrete
+Brittle
+The material breaks with little elastic and insignificant plastic deformation
+Ductile materials have a larger plastic region e.g. rubber, copper The material stretches into a new shape before breaking
+Ductile materials have a larger plastic region e.g. rubber, copper
+Ductile
+The material stretches into a new shape before breaking
+Brittle and ductile materials on a stress-strain graph. These are the same on a force-extension graph too
+To identify these materials on a stress-strain or force-extension graph up to their breaking point: A brittle material is represented by a straight line through the origins with no or negligible curved region A ductile material is represented with a straight line through the origin then curving towards the x-axis
+To identify these materials on a stress-strain or force-extension graph up to their breaking point:
+A brittle material is represented by a straight line through the origins with no or negligible curved region
+A ductile material is represented with a straight line through the origin then curving towards the x-axis
+Worked Example A sample of metal wire is subjected to a force which increases as a series of masses are added to the wire. The extension is measured and a force-extension graph of the data is plotted as shown below. When the wire has been extended to Y , the point just before the wire fractures, the masses are removed one by one and the extension is re-measured. (i) Describe the behaviour of the metal between X and Y . (ii) On the graph, sketch the result obtained after the masses are removed and explain why the graph has this shape. Answer: (i) Since the graph is a straight line and the metal almost fractures, the point after X must be its elastic limit The graph starts to curve after this and would fracture beyond point Y This curve between X and Y denotes plastic behaviour Therefore, the metal exhibits plastic behaviour, but not elastic behaviour (ii) Plastic deformation has occurred which results in permanent extension As the load is decreased, the bonds in the metal are re-aligned hence the y-intercept is now not through the origin The gradient remains the same because the intermolecular forces (the forces between bonds) are identical to before
+Worked Example
+A sample of metal wire is subjected to a force which increases as a series of masses are added to the wire. The extension is measured and a force-extension graph of the data is plotted as shown below.
+When the wire has been extended to Y , the point just before the wire fractures, the masses are removed one by one and the extension is re-measured.
+(i) Describe the behaviour of the metal between X and Y .
+(ii) On the graph, sketch the result obtained after the masses are removed and explain why the graph has this shape.
+Answer:
+(i)
+Since the graph is a straight line and the metal almost fractures, the point after X must be its elastic limit
+The graph starts to curve after this and would fracture beyond point Y
+This curve between X and Y denotes plastic behaviour
+Therefore, the metal exhibits plastic behaviour, but not elastic behaviour
+(ii)
+Plastic deformation has occurred which results in permanent extension
+As the load is decreased, the bonds in the metal are re-aligned hence the y-intercept is now not through the origin
+The gradient remains the same because the intermolecular forces (the forces between bonds) are identical to before
+Examiner Tips and Tricks Avoid describing plastic deformation as 'does not obey Hooke's law'. Although this is mostly correct, it should be described as the material being permanently deformed
+Avoid describing plastic deformation as 'does not obey Hooke's law'. Although this is mostly correct, it should be described as the material being permanently deformed

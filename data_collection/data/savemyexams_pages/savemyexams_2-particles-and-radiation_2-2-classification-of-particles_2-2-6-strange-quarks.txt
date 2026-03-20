@@ -1,0 +1,48 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-2-classification-of-particles/2-2-6-strange-quarks
+HEADING: Strange Quarks ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Strange Particles Strange particles are particles that include a strange or anti-strange quark An example of these are kaons Strange particles always: Are produced through the strong interaction Decay through the weak interaction Are produced in quark-antiquark pairs An example of a kaon production could be: Kaons are produced through the strong interaction. This is shown by the gluon exchange particle. An example of kaon decay could be: Kaons decay via the weak interaction. This is shown by the W + boson. Strangeness Strangeness, S , like baryon and lepton number, is a quantum number Strangeness is conserved in every interaction except the weak interaction This means that strange particles are always produced in pairs (e.g. K+ and K–) S depends on whether the particle contains a strange quark, anti-strange quark, or no strange quarks Particles with an anti-strange quark have S = +1 Particle with a strange quark have S = –1 Particles with no strange quark have S = 0 Only particles with a strange quark have a strangeness of +1 or –1 Strangeness can change by 0, +1 or –1 in weak interactions Worked Example The sigma baryon has a quark structure of suu. It decays to produce a proton and pion as shown in the equation below Prove that this decay is via the weak interaction. Answer: Step 1: Determine the strangeness, S of each particle Since sigma baryon has one s quark, it has S = –1 The proton and pion has no strange particles, so they have S = 0 Step 2: Determine strangeness, S on both sides of the equation The sigma baryon has a S = –1 but the meson and proton have a S = 0 –1 = 0 + 0 Step 3: Comment on the conservation of strangeness Since S is not conserved on both sides of the decay equation (only changed by –1), this decay is via the weak interaction This is because S is conserved in all other types of interaction (strong and EM), but isn't always conserved in weak interactions
+Strange Particles Strange particles are particles that include a strange or anti-strange quark An example of these are kaons Strange particles always: Are produced through the strong interaction Decay through the weak interaction Are produced in quark-antiquark pairs An example of a kaon production could be: Kaons are produced through the strong interaction. This is shown by the gluon exchange particle. An example of kaon decay could be: Kaons decay via the weak interaction. This is shown by the W + boson.
+Strange Particles
+Strange particles are particles that include a strange or anti-strange quark
+An example of these are kaons
+Strange particles always: Are produced through the strong interaction Decay through the weak interaction Are produced in quark-antiquark pairs
+Strange particles always:
+Are produced through the strong interaction
+Decay through the weak interaction
+Are produced in quark-antiquark pairs
+An example of a kaon production could be:
+Kaons are produced through the strong interaction. This is shown by the gluon exchange particle.
+An example of kaon decay could be:
+Kaons decay via the weak interaction. This is shown by the W + boson.
+Strangeness Strangeness, S , like baryon and lepton number, is a quantum number Strangeness is conserved in every interaction except the weak interaction This means that strange particles are always produced in pairs (e.g. K+ and K–) S depends on whether the particle contains a strange quark, anti-strange quark, or no strange quarks Particles with an anti-strange quark have S = +1 Particle with a strange quark have S = –1 Particles with no strange quark have S = 0 Only particles with a strange quark have a strangeness of +1 or –1 Strangeness can change by 0, +1 or –1 in weak interactions
+Strangeness
+Strangeness, S , like baryon and lepton number, is a quantum number
+quantum number
+Strangeness is conserved in every interaction except the weak interaction
+This means that strange particles are always produced in pairs (e.g. K+ and K–)
+S depends on whether the particle contains a strange quark, anti-strange quark, or no strange quarks Particles with an anti-strange quark have S = +1 Particle with a strange quark have S = –1 Particles with no strange quark have S = 0
+S depends on whether the particle contains a strange quark, anti-strange quark, or no strange quarks
+Particles with an anti-strange quark have S = +1
+Particle with a strange quark have S = –1
+Particles with no strange quark have S = 0
+Only particles with a strange quark have a strangeness of +1 or –1
+Strangeness can change by 0, +1 or –1 in weak interactions
+Worked Example The sigma baryon has a quark structure of suu. It decays to produce a proton and pion as shown in the equation below Prove that this decay is via the weak interaction. Answer: Step 1: Determine the strangeness, S of each particle Since sigma baryon has one s quark, it has S = –1 The proton and pion has no strange particles, so they have S = 0 Step 2: Determine strangeness, S on both sides of the equation The sigma baryon has a S = –1 but the meson and proton have a S = 0 –1 = 0 + 0 Step 3: Comment on the conservation of strangeness Since S is not conserved on both sides of the decay equation (only changed by –1), this decay is via the weak interaction This is because S is conserved in all other types of interaction (strong and EM), but isn't always conserved in weak interactions
+Worked Example
+The sigma baryon has a quark structure of suu. It decays to produce a proton and pion as shown in the equation below
+Prove that this decay is via the weak interaction.
+Answer:
+Step 1: Determine the strangeness, S of each particle
+Since sigma baryon has one s quark, it has S = –1 The proton and pion has no strange particles, so they have S = 0
+Since sigma baryon has one s quark, it has S = –1
+The proton and pion has no strange particles, so they have S = 0
+Step 2: Determine strangeness, S on both sides of the equation
+The sigma baryon has a S = –1 but the meson and proton have a S = 0
+–1 = 0 + 0
+Step 3: Comment on the conservation of strangeness
+Since S is not conserved on both sides of the decay equation (only changed by –1), this decay is via the weak interaction This is because S is conserved in all other types of interaction (strong and EM), but isn't always conserved in weak interactions
+Since S is not conserved on both sides of the decay equation (only changed by –1), this decay is via the weak interaction
+This is because S is conserved in all other types of interaction (strong and EM), but isn't always conserved in weak interactions

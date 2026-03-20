@@ -1,0 +1,66 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/3-waves/3-2-stationary-waves/3-2-2-formation-of-stationary-waves
+HEADING: Formation of Stationary Waves ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Formation of Stationary Waves The Principle of Superposition The principle of superposition states: When two or more waves with the same frequency arrive at a point, the resultant displacement is the sum of the displacements of each wave This principle describes how waves that meet at a point in space interact When two waves with the same frequency and amplitude arrive at a point, they superpose either: In phase , causing constructive interference. The peaks and troughs line up on both waves and the resultant wave has double the amplitude In anti-phase , causing destructive interference. The peaks on one wave line up with the troughs of the other. The resultant wave has no amplitude Waves in superposition can undergo constructive or destructive interference The principle of superposition applies to all types of waves i.e. transverse and longitudinal, progressive and stationary The Formation of Stationary Waves A stationary wave is formed when: Two waves travelling in opposite directions along the same line with the same frequency superpose The waves must have: The same wavelength ) A similar amplitude As a result of superposition, a resultant wave is produced Nodes and antinodes are a result of destructive and constructive interference respectively At the nodes : The waves are in anti-phase meaning destructive interference occurs This causes the two waves to cancel each other out At the antinodes : The waves are in phase meaning constructive interference occurs This causes the waves to add together Each point on the stationary wave has a different amplitude (unlike a progressive / travelling wave where each point has the same amplitude) A graphical representation of how stationary waves are formed - the black line represents the resulting wave Examples of Stationary Waves Stretched Strings Vibrations caused by stationary waves on a stretched string produce sound This is how stringed instruments, such as guitars or violins, work This can be demonstrated by a length of string under tension fixed at one end and vibrations made by an oscillator: Stationary wave on a stretched string At specific frequencies, known as resonant frequencies , a whole number of half wavelengths will fit on the length of the string As the resonant frequencies of the oscillator are achieved, standing waves with different numbers of minima (nodes) and maxima (antinodes) form Microwaves A microwave source is placed in line with a reflecting plate and a small detector between the two The reflector can be moved to and from the source to vary the stationary wave pattern formed By moving the detector, it can pick up the minima (nodes) and maxima (antinodes) of the stationary wave pattern Using microwaves to demonstrate stationary waves Sound Waves Sound waves can be produced as a result of the formation of stationary waves inside an air column This is how musical instruments, such as clarinets and organs, work This can be demonstrated by placing a fine powder inside the air column and a loudspeaker at the open end At certain frequencies, the powder forms evenly spaced heaps along the tube, showing where there is zero disturbance as a result of the nodes of the stationary wave Stationary wave in an air column In order to produce a stationary wave, there must be a minima (node) at one end and a maxima (antinode) at the end with the loudspeaker Examiner Tips and Tricks Always refer back to the experiment or scenario in an exam question e.g. the wave produced by a loudspeaker reflects at the end of a tube . This reflected wave, with the same frequency, overlaps the initial wave to create a stationary wave.
+Formation of Stationary Waves The Principle of Superposition The principle of superposition states: When two or more waves with the same frequency arrive at a point, the resultant displacement is the sum of the displacements of each wave This principle describes how waves that meet at a point in space interact When two waves with the same frequency and amplitude arrive at a point, they superpose either: In phase , causing constructive interference. The peaks and troughs line up on both waves and the resultant wave has double the amplitude In anti-phase , causing destructive interference. The peaks on one wave line up with the troughs of the other. The resultant wave has no amplitude Waves in superposition can undergo constructive or destructive interference The principle of superposition applies to all types of waves i.e. transverse and longitudinal, progressive and stationary The Formation of Stationary Waves A stationary wave is formed when: Two waves travelling in opposite directions along the same line with the same frequency superpose The waves must have: The same wavelength ) A similar amplitude As a result of superposition, a resultant wave is produced Nodes and antinodes are a result of destructive and constructive interference respectively At the nodes : The waves are in anti-phase meaning destructive interference occurs This causes the two waves to cancel each other out At the antinodes : The waves are in phase meaning constructive interference occurs This causes the waves to add together Each point on the stationary wave has a different amplitude (unlike a progressive / travelling wave where each point has the same amplitude) A graphical representation of how stationary waves are formed - the black line represents the resulting wave
+The Principle of Superposition
+The principle of superposition states: When two or more waves with the same frequency arrive at a point, the resultant displacement is the sum of the displacements of each wave
+The principle of superposition states:
+When two or more waves with the same frequency arrive at a point, the resultant displacement is the sum of the displacements of each wave
+This principle describes how waves that meet at a point in space interact
+When two waves with the same frequency and amplitude arrive at a point, they superpose either: In phase , causing constructive interference. The peaks and troughs line up on both waves and the resultant wave has double the amplitude In anti-phase , causing destructive interference. The peaks on one wave line up with the troughs of the other. The resultant wave has no amplitude
+When two waves with the same frequency and amplitude arrive at a point, they superpose either:
+In phase , causing constructive interference. The peaks and troughs line up on both waves and the resultant wave has double the amplitude
+In phase
+In anti-phase , causing destructive interference. The peaks on one wave line up with the troughs of the other. The resultant wave has no amplitude
+Waves in superposition can undergo constructive or destructive interference
+The principle of superposition applies to all types of waves i.e. transverse and longitudinal, progressive and stationary
+The Formation of Stationary Waves
+A stationary wave is formed when: Two waves travelling in opposite directions along the same line with the same frequency superpose
+A stationary wave is formed when:
+Two waves travelling in opposite directions along the same line with the same frequency superpose
+The waves must have: The same wavelength ) A similar amplitude
+The waves must have:
+The same wavelength )
+wavelength
+A similar amplitude
+As a result of superposition, a resultant wave is produced
+Nodes and antinodes are a result of destructive and constructive interference respectively
+At the nodes : The waves are in anti-phase meaning destructive interference occurs This causes the two waves to cancel each other out
+At the nodes :
+The waves are in anti-phase meaning destructive interference occurs
+This causes the two waves to cancel each other out
+At the antinodes : The waves are in phase meaning constructive interference occurs This causes the waves to add together
+At the antinodes :
+The waves are in phase meaning constructive interference occurs
+This causes the waves to add together
+Each point on the stationary wave has a different amplitude (unlike a progressive / travelling wave where each point has the same amplitude)
+A graphical representation of how stationary waves are formed - the black line represents the resulting wave
+Examples of Stationary Waves Stretched Strings Vibrations caused by stationary waves on a stretched string produce sound This is how stringed instruments, such as guitars or violins, work This can be demonstrated by a length of string under tension fixed at one end and vibrations made by an oscillator: Stationary wave on a stretched string At specific frequencies, known as resonant frequencies , a whole number of half wavelengths will fit on the length of the string As the resonant frequencies of the oscillator are achieved, standing waves with different numbers of minima (nodes) and maxima (antinodes) form Microwaves A microwave source is placed in line with a reflecting plate and a small detector between the two The reflector can be moved to and from the source to vary the stationary wave pattern formed By moving the detector, it can pick up the minima (nodes) and maxima (antinodes) of the stationary wave pattern Using microwaves to demonstrate stationary waves Sound Waves Sound waves can be produced as a result of the formation of stationary waves inside an air column This is how musical instruments, such as clarinets and organs, work This can be demonstrated by placing a fine powder inside the air column and a loudspeaker at the open end At certain frequencies, the powder forms evenly spaced heaps along the tube, showing where there is zero disturbance as a result of the nodes of the stationary wave Stationary wave in an air column In order to produce a stationary wave, there must be a minima (node) at one end and a maxima (antinode) at the end with the loudspeaker
+Examples of Stationary Waves
+Stretched Strings
+Vibrations caused by stationary waves on a stretched string produce sound This is how stringed instruments, such as guitars or violins, work
+Vibrations caused by stationary waves on a stretched string produce sound
+This is how stringed instruments, such as guitars or violins, work
+This can be demonstrated by a length of string under tension fixed at one end and vibrations made by an oscillator:
+Stationary wave on a stretched string
+At specific frequencies, known as resonant frequencies , a whole number of half wavelengths will fit on the length of the string
+As the resonant frequencies of the oscillator are achieved, standing waves with different numbers of minima (nodes) and maxima (antinodes) form
+Microwaves
+A microwave source is placed in line with a reflecting plate and a small detector between the two
+The reflector can be moved to and from the source to vary the stationary wave pattern formed
+By moving the detector, it can pick up the minima (nodes) and maxima (antinodes) of the stationary wave pattern
+Using microwaves to demonstrate stationary waves
+Sound Waves
+Sound waves can be produced as a result of the formation of stationary waves inside an air column This is how musical instruments, such as clarinets and organs, work
+Sound waves can be produced as a result of the formation of stationary waves inside an air column
+This is how musical instruments, such as clarinets and organs, work
+This can be demonstrated by placing a fine powder inside the air column and a loudspeaker at the open end
+At certain frequencies, the powder forms evenly spaced heaps along the tube, showing where there is zero disturbance as a result of the nodes of the stationary wave
+Stationary wave in an air column
+In order to produce a stationary wave, there must be a minima (node) at one end and a maxima (antinode) at the end with the loudspeaker
+Examiner Tips and Tricks Always refer back to the experiment or scenario in an exam question e.g. the wave produced by a loudspeaker reflects at the end of a tube . This reflected wave, with the same frequency, overlaps the initial wave to create a stationary wave.
+Examiner Tips and Tricks
+Always refer back to the experiment or scenario in an exam question e.g. the wave produced by a loudspeaker reflects at the end of a tube . This reflected wave, with the same frequency, overlaps the initial wave to create a stationary wave.

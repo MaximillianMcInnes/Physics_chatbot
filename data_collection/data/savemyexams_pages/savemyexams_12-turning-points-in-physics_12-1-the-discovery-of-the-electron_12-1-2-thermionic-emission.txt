@@ -1,0 +1,54 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-1-the-discovery-of-the-electron/12-1-2-thermionic-emission
+HEADING: Thermionic Emission ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Thermionic Emission How do you Create a Cathode Ray? We now know that cathode rays are electrons The first discharge tubes produced cathode rays from the cathode using a strong electric field to "pull" electrons across the tube Forming a cathode ray can be made easier by heating the cathode - this is called thermionic emission Thermionic Emission The electrons in the heated cathode (also called a heated filament ) have more energy in their kinetic stores This is enough to leave the surface of the metal and move towards the anode Cathode Ray Tubes These are designed to "fire" the electrons emitted from the cathode towards a target - sometimes these are more dramatically called electron guns Electrons are accelerated towards the anode, but pass through a hole in it and continue towards their target Cathode Ray Tube Design The filament is heated, giving electrons enough energy to be easily removed. All electrons are accelerated towards the anode's positive charge - some pass through a hole in the centre, forming a tight beam of electrons. Worked Example Figure 1 shows a thin filament placed near an anode with a hole in it. Passing current through the filament generates a beam of electrons. Figure 1 Explain why passing a current through the filament causes the emission of electrons. Answer: Step 1: Recall that thermionic emission requires a heated cathode (filament) The current heats the wire Step 2: Explain why this higher temperature is needed The electrons in the filament gain enough kinetic energy to escape the filament and accelerate towards the anode Examiner Tips and Tricks Remember that current passing through a wire causes it to heat up - it is the higher temperature, not the current, that gives the electrons enough energy to be easily attracted from the cathode towards the anode. Work Done on an Electron Using the concept of work done, the speed of electrons in a cathode ray tube can be calculated Work done, W , by an electric field of potential difference, V, on a charge, q, is equal to: For an electron: In this instance, all work done on an electron is transferred to its kinetic store, and we can assume their initial velocity is near-zero so: where m e is electron mass and v is the speed of the electron Worked Example An electron is accelerated through a vacuum by an electric field with a potential difference of 500 V. It exits through a small hole in a positive plate. Calculate its speed upon leaving the electric field. Answer: Step 1: List the known quantities: Electron mass, m e = 9.11 × 10 −31 kg Magnitude of the charge of an electron, e = 1.60 × 10 −19 C Potential difference, V = 500 V Step 2: Recall the equation relating work done on an electron and kinetic energy To determine electron speed, v : Step 3: Rearrange this equation to make velocity the subject Multiply both sides by 2, divide both by mass and square root both sides to get: Step 4: Substitute the known quantities For the final answer: Examiner Tips and Tricks This same concept of work done = kinetic energy is referred to again in Bertozzi's Experiment at the end of the Special Relativity section, so make sure you are familiar with this idea before moving on.
+Thermionic Emission How do you Create a Cathode Ray? We now know that cathode rays are electrons The first discharge tubes produced cathode rays from the cathode using a strong electric field to "pull" electrons across the tube Forming a cathode ray can be made easier by heating the cathode - this is called thermionic emission Thermionic Emission The electrons in the heated cathode (also called a heated filament ) have more energy in their kinetic stores This is enough to leave the surface of the metal and move towards the anode Cathode Ray Tubes These are designed to "fire" the electrons emitted from the cathode towards a target - sometimes these are more dramatically called electron guns Electrons are accelerated towards the anode, but pass through a hole in it and continue towards their target Cathode Ray Tube Design The filament is heated, giving electrons enough energy to be easily removed. All electrons are accelerated towards the anode's positive charge - some pass through a hole in the centre, forming a tight beam of electrons.
+How do you Create a Cathode Ray?
+We now know that cathode rays are electrons
+The first discharge tubes produced cathode rays from the cathode using a strong electric field to "pull" electrons across the tube
+Forming a cathode ray can be made easier by heating the cathode - this is called thermionic emission
+The electrons in the heated cathode (also called a heated filament ) have more energy in their kinetic stores This is enough to leave the surface of the metal and move towards the anode
+The electrons in the heated cathode (also called a heated filament ) have more energy in their kinetic stores
+This is enough to leave the surface of the metal and move towards the anode
+Cathode Ray Tubes
+These are designed to "fire" the electrons emitted from the cathode towards a target - sometimes these are more dramatically called electron guns
+Electrons are accelerated towards the anode, but pass through a hole in it and continue towards their target
+Cathode Ray Tube Design
+The filament is heated, giving electrons enough energy to be easily removed. All electrons are accelerated towards the anode's positive charge - some pass through a hole in the centre, forming a tight beam of electrons.
+Worked Example Figure 1 shows a thin filament placed near an anode with a hole in it. Passing current through the filament generates a beam of electrons. Figure 1 Explain why passing a current through the filament causes the emission of electrons. Answer: Step 1: Recall that thermionic emission requires a heated cathode (filament) The current heats the wire Step 2: Explain why this higher temperature is needed The electrons in the filament gain enough kinetic energy to escape the filament and accelerate towards the anode
+Worked Example
+Figure 1 shows a thin filament placed near an anode with a hole in it. Passing current through the filament generates a beam of electrons.
+Figure 1
+Explain why passing a current through the filament causes the emission of electrons.
+Answer:
+Step 1: Recall that thermionic emission requires a heated cathode (filament)
+The current heats the wire
+Step 2: Explain why this higher temperature is needed
+The electrons in the filament gain enough kinetic energy to escape the filament and accelerate towards the anode
+Examiner Tips and Tricks Remember that current passing through a wire causes it to heat up - it is the higher temperature, not the current, that gives the electrons enough energy to be easily attracted from the cathode towards the anode.
+Examiner Tips and Tricks
+Remember that current passing through a wire causes it to heat up - it is the higher temperature, not the current, that gives the electrons enough energy to be easily attracted from the cathode towards the anode.
+Work Done on an Electron Using the concept of work done, the speed of electrons in a cathode ray tube can be calculated Work done, W , by an electric field of potential difference, V, on a charge, q, is equal to: For an electron: In this instance, all work done on an electron is transferred to its kinetic store, and we can assume their initial velocity is near-zero so: where m e is electron mass and v is the speed of the electron
+Work Done on an Electron
+Using the concept of work done, the speed of electrons in a cathode ray tube can be calculated
+Work done, W , by an electric field of potential difference, V, on a charge, q, is equal to:
+For an electron:
+In this instance, all work done on an electron is transferred to its kinetic store, and we can assume their initial velocity is near-zero so:
+where m e is electron mass and v is the speed of the electron
+Worked Example An electron is accelerated through a vacuum by an electric field with a potential difference of 500 V. It exits through a small hole in a positive plate. Calculate its speed upon leaving the electric field. Answer: Step 1: List the known quantities: Electron mass, m e = 9.11 × 10 −31 kg Magnitude of the charge of an electron, e = 1.60 × 10 −19 C Potential difference, V = 500 V Step 2: Recall the equation relating work done on an electron and kinetic energy To determine electron speed, v : Step 3: Rearrange this equation to make velocity the subject Multiply both sides by 2, divide both by mass and square root both sides to get: Step 4: Substitute the known quantities For the final answer:
+An electron is accelerated through a vacuum by an electric field with a potential difference of 500 V. It exits through a small hole in a positive plate.
+Calculate its speed upon leaving the electric field.
+Step 1: List the known quantities:
+Electron mass, m e = 9.11 × 10 −31 kg
+Magnitude of the charge of an electron, e = 1.60 × 10 −19 C
+Potential difference, V = 500 V
+Step 2: Recall the equation relating work done on an electron and kinetic energy
+To determine electron speed, v :
+Step 3: Rearrange this equation to make velocity the subject
+Multiply both sides by 2, divide both by mass and square root both sides to get:
+Step 4: Substitute the known quantities
+For the final answer:
+Examiner Tips and Tricks This same concept of work done = kinetic energy is referred to again in Bertozzi's Experiment at the end of the Special Relativity section, so make sure you are familiar with this idea before moving on.
+This same concept of work done = kinetic energy is referred to again in Bertozzi's Experiment at the end of the Special Relativity section, so make sure you are familiar with this idea before moving on.

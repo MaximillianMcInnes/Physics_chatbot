@@ -1,0 +1,103 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-14-neutron-stars-and-black-holes
+HEADING: Neutron Stars & Black Holes ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Neutron Stars Neutron stars are objects which form after a supernova has ejected the outer layers of a star into space A core which has a mass between 1.4 and 3 solar masses will become a neutron star A neutron star is defined as: An extremely dense collapsed star made up of neutrons Neutron stars are extremely small and dense (~10 17 kg m −3 ) A neutron star with the mass of the Sun would have a diameter of about 30 km A teaspoon of neutron star would have a mass of about 100 million tonnes The immense gravitational forces acting on the core crush the electrons and protons until they combine into neutrons , via reverse beta decay : Further collapse is prevented by neutron degeneracy pressure Some neutron stars rotate rapidly (up to 600 times per second) emitting bursts of highly directional electromagnetic radiation These stars are called pulsars What is a pulsar? A fast-rotating neutron star is called a pulsar Pulsars are much easier to identify than slow, or non-rotating, neutron stars This is because they emit radiation periodically which makes them easier to detect In particular, they emit radio waves strongly, and sometimes X-rays and gamma rays Black Holes After a supernova has ejected the outer layers of a star into space, the most massive cores can collapse into an infinitely dense point called a singularity A core which has a mass greater than 3 solar masses will become a black hole The gravitational field around a black hole is so strong that nothing, not even light, can escape it The boundary at which light and matter cannot escape the gravitational pull of the black hole is called the event horizon The escape velocity beyond the event horizon is greater than the speed of light This is why black holes cannot be seen directly, as photons cannot escape beyond the event horizon What is a black hole? A black hole is an object which is so dense that its escape velocity is greater than the speed of light Schwarzschild Radius of a Black Hole The radius of a black hole’s event horizon is called the Schwarzschild radius and is given by: Where: = the Schwarzschild radius (m) = gravitational constant = mass of the black hole = speed of light Supermassive Black Holes Observations of stars at the centre of the Milky Way suggest that a mass equivalent to millions of stars is contained in a very small volume Astronomers determined that the mass at the galactic centre is, in fact, a supermassive black hole Sagittarius A*, the one in our galactic centre, has a mass of 4 million solar masses Since this discovery, over 150 supermassive black holes have been identified at the centres of other galaxies similar to the Milky Way This is thought to be strong evidence that supermassive black holes exist at the centres of nearly all large galaxies Worked Example Some galaxies, known as Seyfert galaxies, have very active galactic centres. They are believed to host supermassive black holes at their centres. The black hole at the centre of the galaxy NGC 5252 is found to have a mass 9.5 × 10 9 times that of the Sun. (a) Explain what is meant by the ‘event horizon’ of a black hole. (b) Calculate the radius of the event horizon in terms of solar radii. (c) Calculate the average density of matter inside the event horizon. (d) Compare your answer to (c) with the density of a black hole which has the same mass as the Sun. Answer: Part (a) An event horizon is: The boundary of the region around a black hole, inside of which light cannot escape Part (b) Step 1: List the known quantities Mass of the black hole, = 9.5 × 10 9 Mass of the Sun, = 1.99 × 10 30 kg (from the data booklet) Gravitational constant, = 6.67 × 10 –11 N m 2 kg –2 (from the data booklet) Speed of light, = 3.00 × 10 8 m s –1 (from the data booklet) Radius of the Sun, = 6.96 × 10 8 m (from the data booklet) Step 2: Write down the equation for the Schwarzschild radius Note: this equation is included in the data booklet Step 3: Calculate the radius of the event horizon Schwarzschild radius: = 2.8 × 10 13 m Step 4: Convert to solar radii Schwarzschild radius: This means the size of the black hole is the equivalent length of 40,000 Suns placed side-by-side Part (c) Step 1: Recall the equations for density and volume We can treat the volume of the black hole as a sphere: The density of the black hole is therefore given by Step 2: Calculate the average density of the matter within the event horizon Part (d) Step 1: Write expressions for the densities and Schwarzschild radii of the black holes Density of a solar-mass black hole: Where Density of a supermassive black hole: Where Step 2: Determine the ratio of the densities and make a comparison Substituting : This means that the solar-mass black hole is ~10 20 times denser than the supermassive black hole The density of a black hole must be proportional to the inverse square of its mass, i.e. the more massive the black hole, the less dense it is Examiner Tips and Tricks When writing the definition for the event horizon of a black hole, make sure to be clear that it is the boundary where the escape velocity = c Avoid definitions that describe the event horizon as a point or a distance, as this is not correct.
+Neutron Stars Neutron stars are objects which form after a supernova has ejected the outer layers of a star into space A core which has a mass between 1.4 and 3 solar masses will become a neutron star A neutron star is defined as: An extremely dense collapsed star made up of neutrons Neutron stars are extremely small and dense (~10 17 kg m −3 ) A neutron star with the mass of the Sun would have a diameter of about 30 km A teaspoon of neutron star would have a mass of about 100 million tonnes The immense gravitational forces acting on the core crush the electrons and protons until they combine into neutrons , via reverse beta decay : Further collapse is prevented by neutron degeneracy pressure Some neutron stars rotate rapidly (up to 600 times per second) emitting bursts of highly directional electromagnetic radiation These stars are called pulsars What is a pulsar? A fast-rotating neutron star is called a pulsar Pulsars are much easier to identify than slow, or non-rotating, neutron stars This is because they emit radiation periodically which makes them easier to detect In particular, they emit radio waves strongly, and sometimes X-rays and gamma rays
+Neutron Stars
+Neutron stars are objects which form after a supernova has ejected the outer layers of a star into space A core which has a mass between 1.4 and 3 solar masses will become a neutron star
+Neutron stars are objects which form after a supernova has ejected the outer layers of a star into space
+A core which has a mass between 1.4 and 3 solar masses will become a neutron star
+A neutron star is defined as:
+An extremely dense collapsed star made up of neutrons
+Neutron stars are extremely small and dense (~10 17 kg m −3 ) A neutron star with the mass of the Sun would have a diameter of about 30 km A teaspoon of neutron star would have a mass of about 100 million tonnes
+Neutron stars are extremely small and dense (~10 17 kg m −3 )
+A neutron star with the mass of the Sun would have a diameter of about 30 km
+A teaspoon of neutron star would have a mass of about 100 million tonnes
+The immense gravitational forces acting on the core crush the electrons and protons until they combine into neutrons , via reverse beta decay :
+Further collapse is prevented by neutron degeneracy pressure
+neutron degeneracy pressure
+Some neutron stars rotate rapidly (up to 600 times per second) emitting bursts of highly directional electromagnetic radiation These stars are called pulsars
+Some neutron stars rotate rapidly (up to 600 times per second) emitting bursts of highly directional electromagnetic radiation
+These stars are called pulsars
+What is a pulsar?
+A fast-rotating neutron star is called a pulsar
+Pulsars are much easier to identify than slow, or non-rotating, neutron stars This is because they emit radiation periodically which makes them easier to detect In particular, they emit radio waves strongly, and sometimes X-rays and gamma rays
+Pulsars are much easier to identify than slow, or non-rotating, neutron stars
+This is because they emit radiation periodically which makes them easier to detect
+In particular, they emit radio waves strongly, and sometimes X-rays and gamma rays
+Black Holes After a supernova has ejected the outer layers of a star into space, the most massive cores can collapse into an infinitely dense point called a singularity A core which has a mass greater than 3 solar masses will become a black hole The gravitational field around a black hole is so strong that nothing, not even light, can escape it The boundary at which light and matter cannot escape the gravitational pull of the black hole is called the event horizon The escape velocity beyond the event horizon is greater than the speed of light This is why black holes cannot be seen directly, as photons cannot escape beyond the event horizon What is a black hole? A black hole is an object which is so dense that its escape velocity is greater than the speed of light Schwarzschild Radius of a Black Hole The radius of a black hole’s event horizon is called the Schwarzschild radius and is given by: Where: = the Schwarzschild radius (m) = gravitational constant = mass of the black hole = speed of light Supermassive Black Holes Observations of stars at the centre of the Milky Way suggest that a mass equivalent to millions of stars is contained in a very small volume Astronomers determined that the mass at the galactic centre is, in fact, a supermassive black hole Sagittarius A*, the one in our galactic centre, has a mass of 4 million solar masses Since this discovery, over 150 supermassive black holes have been identified at the centres of other galaxies similar to the Milky Way This is thought to be strong evidence that supermassive black holes exist at the centres of nearly all large galaxies
+Black Holes
+After a supernova has ejected the outer layers of a star into space, the most massive cores can collapse into an infinitely dense point called a singularity A core which has a mass greater than 3 solar masses will become a black hole
+After a supernova has ejected the outer layers of a star into space, the most massive cores can collapse into an infinitely dense point called a singularity
+singularity
+A core which has a mass greater than 3 solar masses will become a black hole
+The gravitational field around a black hole is so strong that nothing, not even light, can escape it
+The boundary at which light and matter cannot escape the gravitational pull of the black hole is called the event horizon
+The escape velocity beyond the event horizon is greater than the speed of light This is why black holes cannot be seen directly, as photons cannot escape beyond the event horizon
+The escape velocity beyond the event horizon is greater than the speed of light
+escape velocity
+This is why black holes cannot be seen directly, as photons cannot escape beyond the event horizon
+What is a black hole?
+A black hole is an object which is so dense that its escape velocity is greater than the speed of light
+Schwarzschild Radius of a Black Hole
+The radius of a black hole’s event horizon is called the Schwarzschild radius and is given by:
+Where: = the Schwarzschild radius (m) = gravitational constant = mass of the black hole = speed of light
+Where:
+= the Schwarzschild radius (m)
+= gravitational constant
+= mass of the black hole
+= speed of light
+Supermassive Black Holes
+Observations of stars at the centre of the Milky Way suggest that a mass equivalent to millions of stars is contained in a very small volume
+Astronomers determined that the mass at the galactic centre is, in fact, a supermassive black hole Sagittarius A*, the one in our galactic centre, has a mass of 4 million solar masses
+Astronomers determined that the mass at the galactic centre is, in fact, a supermassive black hole
+Sagittarius A*, the one in our galactic centre, has a mass of 4 million solar masses
+Since this discovery, over 150 supermassive black holes have been identified at the centres of other galaxies similar to the Milky Way This is thought to be strong evidence that supermassive black holes exist at the centres of nearly all large galaxies
+Since this discovery, over 150 supermassive black holes have been identified at the centres of other galaxies similar to the Milky Way
+This is thought to be strong evidence that supermassive black holes exist at the centres of nearly all large galaxies
+Worked Example Some galaxies, known as Seyfert galaxies, have very active galactic centres. They are believed to host supermassive black holes at their centres. The black hole at the centre of the galaxy NGC 5252 is found to have a mass 9.5 × 10 9 times that of the Sun. (a) Explain what is meant by the ‘event horizon’ of a black hole. (b) Calculate the radius of the event horizon in terms of solar radii. (c) Calculate the average density of matter inside the event horizon. (d) Compare your answer to (c) with the density of a black hole which has the same mass as the Sun. Answer: Part (a) An event horizon is: The boundary of the region around a black hole, inside of which light cannot escape Part (b) Step 1: List the known quantities Mass of the black hole, = 9.5 × 10 9 Mass of the Sun, = 1.99 × 10 30 kg (from the data booklet) Gravitational constant, = 6.67 × 10 –11 N m 2 kg –2 (from the data booklet) Speed of light, = 3.00 × 10 8 m s –1 (from the data booklet) Radius of the Sun, = 6.96 × 10 8 m (from the data booklet) Step 2: Write down the equation for the Schwarzschild radius Note: this equation is included in the data booklet Step 3: Calculate the radius of the event horizon Schwarzschild radius: = 2.8 × 10 13 m Step 4: Convert to solar radii Schwarzschild radius: This means the size of the black hole is the equivalent length of 40,000 Suns placed side-by-side Part (c) Step 1: Recall the equations for density and volume We can treat the volume of the black hole as a sphere: The density of the black hole is therefore given by Step 2: Calculate the average density of the matter within the event horizon Part (d) Step 1: Write expressions for the densities and Schwarzschild radii of the black holes Density of a solar-mass black hole: Where Density of a supermassive black hole: Where Step 2: Determine the ratio of the densities and make a comparison Substituting : This means that the solar-mass black hole is ~10 20 times denser than the supermassive black hole The density of a black hole must be proportional to the inverse square of its mass, i.e. the more massive the black hole, the less dense it is
+Worked Example
+Some galaxies, known as Seyfert galaxies, have very active galactic centres. They are believed to host supermassive black holes at their centres.
+The black hole at the centre of the galaxy NGC 5252 is found to have a mass 9.5 × 10 9 times that of the Sun.
+(a) Explain what is meant by the ‘event horizon’ of a black hole.
+(b) Calculate the radius of the event horizon in terms of solar radii.
+(c) Calculate the average density of matter inside the event horizon.
+(d) Compare your answer to (c) with the density of a black hole which has the same mass as the Sun.
+Answer:
+Part (a)
+An event horizon is:
+The boundary of the region around a black hole, inside of which light cannot escape
+Part (b)
+Step 1: List the known quantities
+Mass of the black hole, = 9.5 × 10 9
+Mass of the Sun, = 1.99 × 10 30 kg (from the data booklet)
+Gravitational constant, = 6.67 × 10 –11 N m 2 kg –2 (from the data booklet)
+Speed of light, = 3.00 × 10 8 m s –1 (from the data booklet)
+Radius of the Sun, = 6.96 × 10 8 m (from the data booklet)
+Step 2: Write down the equation for the Schwarzschild radius
+Note: this equation is included in the data booklet
+Step 3: Calculate the radius of the event horizon
+Schwarzschild radius: = 2.8 × 10 13 m
+Step 4: Convert to solar radii
+Schwarzschild radius:
+This means the size of the black hole is the equivalent length of 40,000 Suns placed side-by-side
+Part (c)
+Step 1: Recall the equations for density and volume
+We can treat the volume of the black hole as a sphere:
+The density of the black hole is therefore given by
+Step 2: Calculate the average density of the matter within the event horizon
+Part (d)
+Step 1: Write expressions for the densities and Schwarzschild radii of the black holes
+Density of a solar-mass black hole:
+Where
+Density of a supermassive black hole:
+Step 2: Determine the ratio of the densities and make a comparison
+Substituting :
+This means that the solar-mass black hole is ~10 20 times denser than the supermassive black hole
+The density of a black hole must be proportional to the inverse square of its mass, i.e. the more massive the black hole, the less dense it is
+Examiner Tips and Tricks When writing the definition for the event horizon of a black hole, make sure to be clear that it is the boundary where the escape velocity = c Avoid definitions that describe the event horizon as a point or a distance, as this is not correct.
+Examiner Tips and Tricks
+When writing the definition for the event horizon of a black hole, make sure to be clear that it is the boundary where the escape velocity = c
+Avoid definitions that describe the event horizon as a point or a distance, as this is not correct.

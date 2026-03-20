@@ -1,0 +1,110 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-6-radionuclide-imaging-and-therapy/10-6-1-radioactive-tracers
+HEADING: Radioactive Tracers ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Radioactive Tracers A radioactive tracer is defined as: A radioactive substance that can be absorbed by tissue in order to study the structure and function of organs in the body Gamma emitters make good radioactive tracers, as the gamma can leave the body and doesn't ionise tissues as much as alpha or beta radiation To be suitable for medicine, the radioactive isotope must be able to bond to molecules A molecule labelled with a radioactive isotope is known as a radiopharmaceutical product To be a good tracer, this molecule must not affect the body's regular function, but gather in tissues Different molecules can be used to make the tracer accumulate in specific organs or tissues Three common radioactive tracers which emit gamma radiation are: Technetium-99m (the m refers to a metastable excited state of the nucleus) Iodine-131 Indium-111 The radioactive tracer is injected or swallowed into the patient and flows around the body Once the tissues and organs have absorbed the tracer, then they appear on the screen of a gamma camera as a bright area Using tracer-labelled glucose, for example, highlights areas of higher respiration (e.g. tumours) which use more glucose Labelling white blood cells can show the location of an infection in the body Labelling red blood cells can highlight areas with decreased blood supply (e.g. regions in the brain, for a diagnosis of Alzheimer's disease) Imaging Respiration using Radioactive Tracers Tracers can show areas of increased respiration if bonded to glucose Worked Example Discuss the advantages of using a gamma-emitting tracer in a patient rather than a beta-emitting tracer. Answer: Step 1: Consider the properties of gamma and beta particles Gamma particles are not (very) ionising and have a long range Beta particles are very ionising and have a short range Step 2: Compare the effects of the gamma and beta particles in relation to detection Gamma radiation will pass through the patient and hence can be easily detected Beta particles will be absorbed by the patient and hence cannot be detected Step 3: Compare the effects of the gamma and beta particles in relation to patient safety Gamma radiation is not very ionising, hence, it does little damage to cells Beta particles is highly ionising, hence, it can cause a lot of damage to cells Properties of Radioactive Tracers Each radioactive tracer has a unique set of properties, making them ideal for different medical uses The main properties of radioactive tracers are: the types of radiation it emits the half-life of the isotope the energy of the gamma radiation it emits any tissues or organs it has a specific affinity for whether it can be used to label specific cells and compounds Technetium-99m This is the most commonly used radioisotope for diagnosis Tc-99m decays to Tc-99 The 'm' indicates the nucleus is in an excited, but somewhat stable, state ( metastable ) A gamma photon with 140 keV of energy is emitted in this decay The half-life is 6.0 hours This is short enough to avoid prolonged irradiation of the body The chemical properties of Tc-99m allow it to be bonded to many molecules which have specific affinities for different organs and tissues This means it can be used to study: The skeleton The flow of blood The heart The brain The thyroid Tumours Iodine-131 Unlike Tc-99m, I-131 emits both beta-minus particles and gamma photons when decaying The gamma photons have energies of 360 keV, whereas the beta minus particles have energies of keV The half-life of this decay is 8.0 days Iodine can bond to thyroid hormones, so it is the most commonly used tracer for thyroid activity I-131's beta emission can be used to destroy parts of an overactive thyroid or kill remaining thyroid cells after a thyroid gland is removed (usually because it contains cancerous cells) In recent years, I-131 as a thyroid tracer has been replaced with I-132, as it doesn't emit beta and has a shorter half-life Indium-111 In-111 emits gamma photons at energies of 170 keV and 250 keV The half-life of this decay is 68 hours (2.8 days) In-111 is particularly useful for ' labelling ' certain cells, such as: Red blood cells and platelets (to identify issues in the blood) White blood cells, bone marrow and spinal fluid (to locate inflammation or infection) Tumours (to allow precise cancer detection) This makes it useful for diagnosing blood diseases or rare cancers Comparing Radioactive Tracers Different tracers are used for different purposes, but the essential properties of a tracer are: It must be a gamma emitter so that the radiation can be detected outside the body The gamma rays must be as low-energy as possible to reduce the risks of ionisation damage It must have a half-life which is short enough to reduce the total dose given to the patient but produces a high enough gamma intensity to be detected Technetium-99m Iodine-131 Indium-111 types of radiation emitted γ only β − , γ γ only half-life 6 hours 8 days 68 hours energy of gamma photons 140 keV 360 keV 170 keV & 250 keV common uses to investigate most organs, blood and tumours to treat overactive thyroids or thyroid cancer to label cells and diagnose blood disorders and rare cancers Examiner Tips and Tricks While all these tracers emit gamma radiation, it is their chemical properties that make them appropriate for different scenarios. Different tracers label different radiopharmaceuticals which have an affinity for different organs.
+Radioactive Tracers A radioactive tracer is defined as: A radioactive substance that can be absorbed by tissue in order to study the structure and function of organs in the body Gamma emitters make good radioactive tracers, as the gamma can leave the body and doesn't ionise tissues as much as alpha or beta radiation To be suitable for medicine, the radioactive isotope must be able to bond to molecules A molecule labelled with a radioactive isotope is known as a radiopharmaceutical product To be a good tracer, this molecule must not affect the body's regular function, but gather in tissues Different molecules can be used to make the tracer accumulate in specific organs or tissues Three common radioactive tracers which emit gamma radiation are: Technetium-99m (the m refers to a metastable excited state of the nucleus) Iodine-131 Indium-111 The radioactive tracer is injected or swallowed into the patient and flows around the body Once the tissues and organs have absorbed the tracer, then they appear on the screen of a gamma camera as a bright area Using tracer-labelled glucose, for example, highlights areas of higher respiration (e.g. tumours) which use more glucose Labelling white blood cells can show the location of an infection in the body Labelling red blood cells can highlight areas with decreased blood supply (e.g. regions in the brain, for a diagnosis of Alzheimer's disease) Imaging Respiration using Radioactive Tracers Tracers can show areas of increased respiration if bonded to glucose
+A radioactive tracer is defined as:
+A radioactive substance that can be absorbed by tissue in order to study the structure and function of organs in the body
+Gamma emitters make good radioactive tracers, as the gamma can leave the body and doesn't ionise tissues as much as alpha or beta radiation
+To be suitable for medicine, the radioactive isotope must be able to bond to molecules A molecule labelled with a radioactive isotope is known as a radiopharmaceutical product To be a good tracer, this molecule must not affect the body's regular function, but gather in tissues Different molecules can be used to make the tracer accumulate in specific organs or tissues
+To be suitable for medicine, the radioactive isotope must be able to bond to molecules
+A molecule labelled with a radioactive isotope is known as a radiopharmaceutical product
+To be a good tracer, this molecule must not affect the body's regular function, but gather in tissues
+Different molecules can be used to make the tracer accumulate in specific organs or tissues
+Three common radioactive tracers which emit gamma radiation are: Technetium-99m (the m refers to a metastable excited state of the nucleus) Iodine-131 Indium-111
+Three common radioactive tracers which emit gamma radiation are:
+Technetium-99m (the m refers to a metastable excited state of the nucleus)
+Iodine-131
+Indium-111
+The radioactive tracer is injected or swallowed into the patient and flows around the body
+Once the tissues and organs have absorbed the tracer, then they appear on the screen of a gamma camera as a bright area Using tracer-labelled glucose, for example, highlights areas of higher respiration (e.g. tumours) which use more glucose Labelling white blood cells can show the location of an infection in the body Labelling red blood cells can highlight areas with decreased blood supply (e.g. regions in the brain, for a diagnosis of Alzheimer's disease)
+Once the tissues and organs have absorbed the tracer, then they appear on the screen of a gamma camera as a bright area
+Using tracer-labelled glucose, for example, highlights areas of higher respiration (e.g. tumours) which use more glucose
+Labelling white blood cells can show the location of an infection in the body
+Labelling red blood cells can highlight areas with decreased blood supply (e.g. regions in the brain, for a diagnosis of Alzheimer's disease)
+Imaging Respiration using Radioactive Tracers
+Tracers can show areas of increased respiration if bonded to glucose
+Worked Example Discuss the advantages of using a gamma-emitting tracer in a patient rather than a beta-emitting tracer. Answer: Step 1: Consider the properties of gamma and beta particles Gamma particles are not (very) ionising and have a long range Beta particles are very ionising and have a short range Step 2: Compare the effects of the gamma and beta particles in relation to detection Gamma radiation will pass through the patient and hence can be easily detected Beta particles will be absorbed by the patient and hence cannot be detected Step 3: Compare the effects of the gamma and beta particles in relation to patient safety Gamma radiation is not very ionising, hence, it does little damage to cells Beta particles is highly ionising, hence, it can cause a lot of damage to cells
+Worked Example
+Discuss the advantages of using a gamma-emitting tracer in a patient rather than a beta-emitting tracer.
+Answer:
+Step 1: Consider the properties of gamma and beta particles
+Gamma particles are not (very) ionising and have a long range
+Beta particles are very ionising and have a short range
+Step 2: Compare the effects of the gamma and beta particles in relation to detection
+Gamma radiation will pass through the patient and hence can be easily detected
+Beta particles will be absorbed by the patient and hence cannot be detected
+Step 3: Compare the effects of the gamma and beta particles in relation to patient safety
+Gamma radiation is not very ionising, hence, it does little damage to cells
+Beta particles is highly ionising, hence, it can cause a lot of damage to cells
+Properties of Radioactive Tracers Each radioactive tracer has a unique set of properties, making them ideal for different medical uses The main properties of radioactive tracers are: the types of radiation it emits the half-life of the isotope the energy of the gamma radiation it emits any tissues or organs it has a specific affinity for whether it can be used to label specific cells and compounds Technetium-99m This is the most commonly used radioisotope for diagnosis Tc-99m decays to Tc-99 The 'm' indicates the nucleus is in an excited, but somewhat stable, state ( metastable ) A gamma photon with 140 keV of energy is emitted in this decay The half-life is 6.0 hours This is short enough to avoid prolonged irradiation of the body The chemical properties of Tc-99m allow it to be bonded to many molecules which have specific affinities for different organs and tissues This means it can be used to study: The skeleton The flow of blood The heart The brain The thyroid Tumours Iodine-131 Unlike Tc-99m, I-131 emits both beta-minus particles and gamma photons when decaying The gamma photons have energies of 360 keV, whereas the beta minus particles have energies of keV The half-life of this decay is 8.0 days Iodine can bond to thyroid hormones, so it is the most commonly used tracer for thyroid activity I-131's beta emission can be used to destroy parts of an overactive thyroid or kill remaining thyroid cells after a thyroid gland is removed (usually because it contains cancerous cells) In recent years, I-131 as a thyroid tracer has been replaced with I-132, as it doesn't emit beta and has a shorter half-life Indium-111 In-111 emits gamma photons at energies of 170 keV and 250 keV The half-life of this decay is 68 hours (2.8 days) In-111 is particularly useful for ' labelling ' certain cells, such as: Red blood cells and platelets (to identify issues in the blood) White blood cells, bone marrow and spinal fluid (to locate inflammation or infection) Tumours (to allow precise cancer detection) This makes it useful for diagnosing blood diseases or rare cancers Comparing Radioactive Tracers Different tracers are used for different purposes, but the essential properties of a tracer are: It must be a gamma emitter so that the radiation can be detected outside the body The gamma rays must be as low-energy as possible to reduce the risks of ionisation damage It must have a half-life which is short enough to reduce the total dose given to the patient but produces a high enough gamma intensity to be detected Technetium-99m Iodine-131 Indium-111 types of radiation emitted γ only β − , γ γ only half-life 6 hours 8 days 68 hours energy of gamma photons 140 keV 360 keV 170 keV & 250 keV common uses to investigate most organs, blood and tumours to treat overactive thyroids or thyroid cancer to label cells and diagnose blood disorders and rare cancers
+Properties of Radioactive Tracers
+Each radioactive tracer has a unique set of properties, making them ideal for different medical uses
+The main properties of radioactive tracers are: the types of radiation it emits the half-life of the isotope the energy of the gamma radiation it emits any tissues or organs it has a specific affinity for whether it can be used to label specific cells and compounds
+The main properties of radioactive tracers are:
+the types of radiation it emits
+the half-life of the isotope
+the energy of the gamma radiation it emits
+any tissues or organs it has a specific affinity for
+whether it can be used to label specific cells and compounds
+Technetium-99m
+This is the most commonly used radioisotope for diagnosis
+Tc-99m decays to Tc-99 The 'm' indicates the nucleus is in an excited, but somewhat stable, state ( metastable )
+Tc-99m decays to Tc-99
+The 'm' indicates the nucleus is in an excited, but somewhat stable, state ( metastable )
+A gamma photon with 140 keV of energy is emitted in this decay
+The half-life is 6.0 hours This is short enough to avoid prolonged irradiation of the body
+The half-life is 6.0 hours
+This is short enough to avoid prolonged irradiation of the body
+The chemical properties of Tc-99m allow it to be bonded to many molecules which have specific affinities for different organs and tissues
+This means it can be used to study: The skeleton The flow of blood The heart The brain The thyroid Tumours
+This means it can be used to study:
+The skeleton
+The flow of blood
+The heart
+The brain
+The thyroid
+Tumours
+Unlike Tc-99m, I-131 emits both beta-minus particles and gamma photons when decaying The gamma photons have energies of 360 keV, whereas the beta minus particles have energies of keV
+Unlike Tc-99m, I-131 emits both beta-minus particles and gamma photons when decaying
+The gamma photons have energies of 360 keV, whereas the beta minus particles have energies of keV
+The half-life of this decay is 8.0 days
+Iodine can bond to thyroid hormones, so it is the most commonly used tracer for thyroid activity I-131's beta emission can be used to destroy parts of an overactive thyroid or kill remaining thyroid cells after a thyroid gland is removed (usually because it contains cancerous cells)
+Iodine can bond to thyroid hormones, so it is the most commonly used tracer for thyroid activity
+I-131's beta emission can be used to destroy parts of an overactive thyroid or kill remaining thyroid cells after a thyroid gland is removed (usually because it contains cancerous cells)
+In recent years, I-131 as a thyroid tracer has been replaced with I-132, as it doesn't emit beta and has a shorter half-life
+In-111 emits gamma photons at energies of 170 keV and 250 keV
+The half-life of this decay is 68 hours (2.8 days)
+In-111 is particularly useful for ' labelling ' certain cells, such as: Red blood cells and platelets (to identify issues in the blood) White blood cells, bone marrow and spinal fluid (to locate inflammation or infection) Tumours (to allow precise cancer detection)
+In-111 is particularly useful for ' labelling ' certain cells, such as:
+Red blood cells and platelets (to identify issues in the blood)
+White blood cells, bone marrow and spinal fluid (to locate inflammation or infection)
+Tumours (to allow precise cancer detection)
+This makes it useful for diagnosing blood diseases or rare cancers
+Comparing Radioactive Tracers
+Different tracers are used for different purposes, but the essential properties of a tracer are: It must be a gamma emitter so that the radiation can be detected outside the body The gamma rays must be as low-energy as possible to reduce the risks of ionisation damage It must have a half-life which is short enough to reduce the total dose given to the patient but produces a high enough gamma intensity to be detected
+Different tracers are used for different purposes, but the essential properties of a tracer are:
+It must be a gamma emitter so that the radiation can be detected outside the body
+The gamma rays must be as low-energy as possible to reduce the risks of ionisation damage
+It must have a half-life which is short enough to reduce the total dose given to the patient but produces a high enough gamma intensity to be detected
+Technetium-99m Iodine-131 Indium-111 types of radiation emitted γ only β − , γ γ only half-life 6 hours 8 days 68 hours energy of gamma photons 140 keV 360 keV 170 keV & 250 keV common uses to investigate most organs, blood and tumours to treat overactive thyroids or thyroid cancer to label cells and diagnose blood disorders and rare cancers
+types of radiation emitted
+γ only
+β − , γ
+half-life
+6 hours
+8 days
+68 hours
+energy of gamma photons
+140 keV
+360 keV
+170 keV & 250 keV
+common uses
+to investigate most organs, blood and tumours
+to treat overactive thyroids or thyroid cancer
+to label cells and diagnose blood disorders and rare cancers
+Examiner Tips and Tricks While all these tracers emit gamma radiation, it is their chemical properties that make them appropriate for different scenarios. Different tracers label different radiopharmaceuticals which have an affinity for different organs.
+Examiner Tips and Tricks
+While all these tracers emit gamma radiation, it is their chemical properties that make them appropriate for different scenarios. Different tracers label different radiopharmaceuticals which have an affinity for different organs.

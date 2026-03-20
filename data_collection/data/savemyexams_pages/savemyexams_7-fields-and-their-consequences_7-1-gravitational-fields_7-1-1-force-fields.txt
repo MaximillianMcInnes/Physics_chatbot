@@ -1,0 +1,32 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-1-gravitational-fields/7-1-1-force-fields
+HEADING: Force Fields ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Concept of a Force Field A force field is any region of space where a body will experience a non-contact force This will cause the body to move, interact or be deformed in some way A non-contact force is a force that acts without physical contact Pushing a trolley is a contact force A fridge magnet being attracted to the metal on a fridge is a non-contact force Force fields arise from the interactions between bodies or particles Static or moving charged particles experience a force in an electric field Moving charged particles experience a force in a magnetic field Particles with mass experience a force in a gravitational field For example, the effects of the Moon and Sun's gravitational fields can be seen on Earth, such as the cause of tides Examples of contact and non-contact forces Direction of a Force Field The direction of a force field can be represented as a vector , the direction of which must be determined by inspection The direction of the vector shows the direction of the force that would be exerted on that body if it was placed in that position in the field The direction of a force field is shown by field lines (or 'lines of force'), which are represented by arrows A force field on a three-dimensional object is the force acting over the whole three-dimensional object For spherical objects, such as a planet, the object can be approximated to a point mass The direction of the gravitational force is shown by the vector field lines
+Concept of a Force Field A force field is any region of space where a body will experience a non-contact force This will cause the body to move, interact or be deformed in some way A non-contact force is a force that acts without physical contact Pushing a trolley is a contact force A fridge magnet being attracted to the metal on a fridge is a non-contact force Force fields arise from the interactions between bodies or particles Static or moving charged particles experience a force in an electric field Moving charged particles experience a force in a magnetic field Particles with mass experience a force in a gravitational field For example, the effects of the Moon and Sun's gravitational fields can be seen on Earth, such as the cause of tides Examples of contact and non-contact forces
+Concept of a Force Field
+A force field is any region of space where a body will experience a non-contact force This will cause the body to move, interact or be deformed in some way
+A force field is any region of space where a body will experience a non-contact force
+This will cause the body to move, interact or be deformed in some way
+A non-contact force is a force that acts without physical contact Pushing a trolley is a contact force A fridge magnet being attracted to the metal on a fridge is a non-contact force
+A non-contact force is a force that acts without physical contact
+Pushing a trolley is a contact force
+A fridge magnet being attracted to the metal on a fridge is a non-contact force
+Force fields arise from the interactions between bodies or particles Static or moving charged particles experience a force in an electric field Moving charged particles experience a force in a magnetic field Particles with mass experience a force in a gravitational field
+Force fields arise from the interactions between bodies or particles
+Static or moving charged particles experience a force in an electric field
+Moving charged particles experience a force in a magnetic field
+Particles with mass experience a force in a gravitational field
+For example, the effects of the Moon and Sun's gravitational fields can be seen on Earth, such as the cause of tides
+Examples of contact and non-contact forces
+Direction of a Force Field The direction of a force field can be represented as a vector , the direction of which must be determined by inspection The direction of the vector shows the direction of the force that would be exerted on that body if it was placed in that position in the field The direction of a force field is shown by field lines (or 'lines of force'), which are represented by arrows A force field on a three-dimensional object is the force acting over the whole three-dimensional object For spherical objects, such as a planet, the object can be approximated to a point mass The direction of the gravitational force is shown by the vector field lines
+Direction of a Force Field
+The direction of a force field can be represented as a vector , the direction of which must be determined by inspection
+vector
+The direction of the vector shows the direction of the force that would be exerted on that body if it was placed in that position in the field
+The direction of a force field is shown by field lines (or 'lines of force'), which are represented by arrows
+A force field on a three-dimensional object is the force acting over the whole three-dimensional object For spherical objects, such as a planet, the object can be approximated to a point mass
+A force field on a three-dimensional object is the force acting over the whole three-dimensional object
+For spherical objects, such as a planet, the object can be approximated to a point mass
+The direction of the gravitational force is shown by the vector field lines

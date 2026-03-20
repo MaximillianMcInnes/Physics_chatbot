@@ -1,0 +1,42 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-1-alpha-beta-and-gamma-radiation/8-1-4-inverse-square-law-of-gamma-radiation
+HEADING: Inverse-Square Law of Gamma Radiation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Inverse-Square Law of Gamma Radiation As gamma radiation is a part of the electromagnetic spectrum, it shares many of the same wave properties as light For example, light sources which are further away appear fainter because the light they emit has spread out over a greater area than a light source which is closer by The moment the light leaves the source, it begins to spread out uniformly as a sphere, according to an inverse square law When an EM wave spreads out, the area over which it spreads is proportional to the radius squared This applies to gamma radiation too, and can be calculated using the equation: Where: I = intensity of the gamma radiation (W m –2 ) k = constant of proportionality x = the distance from the source (m) Since k is a constant, this equation can be written for radiation at two different points as follows: Where: I 1 = intensity of the gamma radiation at x 1 (W m –2 ) I 2 = intensity of the gamma radiation at x 2 (W m –2 ) x 1 = the initial distance from the source (m) x 2 = the subsequent distance from the source (m) Worked Example A source of gamma radiation is placed at a distance of 0.2 m away from a small radiation detector. The detector records a corrected count rate of 200 Bq from the gamma source. Calculate the count rate that would be recorded when the detector is moved to a distance of 0.5 m away from the source. Answer: Step 1: List the known quantities Initial count rate, I 1 = 200 Bq Initial distance, x 1 = 0.2 m Final count rate = I 2 Final distance, x 2 = 0.5 m Step 2: Write down the inverse square law equation Step 3: Rearrange and calculate the count rate at 0.5 m Examiner Tips and Tricks As you can see from the worked example, the inverse square law applies to other quantities such as the activity, or count rate, of the gamma radiation as well as the intensity. However, you must remember that the inverse square law only applies to gamma radiation and not to alpha or beta radiation. This is because gamma radiation is not absorbed by matter easily, whereas alpha and beta are absorbed quickly before they can spread out.
+Inverse-Square Law of Gamma Radiation As gamma radiation is a part of the electromagnetic spectrum, it shares many of the same wave properties as light For example, light sources which are further away appear fainter because the light they emit has spread out over a greater area than a light source which is closer by The moment the light leaves the source, it begins to spread out uniformly as a sphere, according to an inverse square law When an EM wave spreads out, the area over which it spreads is proportional to the radius squared This applies to gamma radiation too, and can be calculated using the equation: Where: I = intensity of the gamma radiation (W m –2 ) k = constant of proportionality x = the distance from the source (m) Since k is a constant, this equation can be written for radiation at two different points as follows: Where: I 1 = intensity of the gamma radiation at x 1 (W m –2 ) I 2 = intensity of the gamma radiation at x 2 (W m –2 ) x 1 = the initial distance from the source (m) x 2 = the subsequent distance from the source (m)
+As gamma radiation is a part of the electromagnetic spectrum, it shares many of the same wave properties as light For example, light sources which are further away appear fainter because the light they emit has spread out over a greater area than a light source which is closer by
+As gamma radiation is a part of the electromagnetic spectrum, it shares many of the same wave properties as light
+For example, light sources which are further away appear fainter because the light they emit has spread out over a greater area than a light source which is closer by
+The moment the light leaves the source, it begins to spread out uniformly as a sphere, according to an inverse square law
+inverse square law
+When an EM wave spreads out, the area over which it spreads is proportional to the radius squared
+This applies to gamma radiation too, and can be calculated using the equation:
+Where: I = intensity of the gamma radiation (W m –2 ) k = constant of proportionality x = the distance from the source (m)
+Where:
+I = intensity of the gamma radiation (W m –2 )
+k = constant of proportionality
+x = the distance from the source (m)
+Since k is a constant, this equation can be written for radiation at two different points as follows:
+Where: I 1 = intensity of the gamma radiation at x 1 (W m –2 ) I 2 = intensity of the gamma radiation at x 2 (W m –2 ) x 1 = the initial distance from the source (m) x 2 = the subsequent distance from the source (m)
+I 1 = intensity of the gamma radiation at x 1 (W m –2 )
+I 2 = intensity of the gamma radiation at x 2 (W m –2 )
+x 1 = the initial distance from the source (m)
+x 2 = the subsequent distance from the source (m)
+Worked Example A source of gamma radiation is placed at a distance of 0.2 m away from a small radiation detector. The detector records a corrected count rate of 200 Bq from the gamma source. Calculate the count rate that would be recorded when the detector is moved to a distance of 0.5 m away from the source. Answer: Step 1: List the known quantities Initial count rate, I 1 = 200 Bq Initial distance, x 1 = 0.2 m Final count rate = I 2 Final distance, x 2 = 0.5 m Step 2: Write down the inverse square law equation Step 3: Rearrange and calculate the count rate at 0.5 m
+Worked Example
+A source of gamma radiation is placed at a distance of 0.2 m away from a small radiation detector.
+The detector records a corrected count rate of 200 Bq from the gamma source.
+Calculate the count rate that would be recorded when the detector is moved to a distance of 0.5 m away from the source.
+Answer:
+Step 1: List the known quantities
+Initial count rate, I 1 = 200 Bq
+Initial distance, x 1 = 0.2 m
+Final count rate = I 2
+Final distance, x 2 = 0.5 m
+Step 2: Write down the inverse square law equation
+Step 3: Rearrange and calculate the count rate at 0.5 m
+Examiner Tips and Tricks As you can see from the worked example, the inverse square law applies to other quantities such as the activity, or count rate, of the gamma radiation as well as the intensity. However, you must remember that the inverse square law only applies to gamma radiation and not to alpha or beta radiation. This is because gamma radiation is not absorbed by matter easily, whereas alpha and beta are absorbed quickly before they can spread out.
+Examiner Tips and Tricks
+As you can see from the worked example, the inverse square law applies to other quantities such as the activity, or count rate, of the gamma radiation as well as the intensity. However, you must remember that the inverse square law only applies to gamma radiation and not to alpha or beta radiation.
+This is because gamma radiation is not absorbed by matter easily, whereas alpha and beta are absorbed quickly before they can spread out.

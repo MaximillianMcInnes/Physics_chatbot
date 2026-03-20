@@ -1,0 +1,60 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-1-physics-of-the-eye/10-1-4-sensitivity-of-the-eye
+HEADING: Sensitivity of the Eye ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Sensitivity of the Eye Rods and Cones Light travels through the front of the retina to the rods and cones at the back Rods and cones are light-sensitive cells called photoreceptors They detect light and convert it into an electrical signal which allows the brain to visualise the image When light falls on the chemical pigments in the rods and cones they are bleached This stimulates the cell to send signals to the brain via the optic nerve The cells are reset / unbleached by vitamin A from the blood A Diagram to Show the Position of the Rods and Cones in the Retina The rods and cones are found at the back of the retina There are about twenty times more rods than cones in the retina Rods detect varying amounts of light They work well with low-intensity light levels Contribute little detail to the image Are not sensitive to different colours / wavelengths of light Cones can detect different colours Each cone is connected to the brain via one nerve fibre They are sensitive to high-intensity light but do not function well in low-intensity light They contribute greater detail to the image They provide information to the brain on the colours in the image An Image Showing the Difference in Size and Number between the Rods and the Cones The image shows that there are many more rods than cones found in the retina. The rods that detect light intensity are much longer than the cones that detect colour. There is one type of rod There are three types of cone Each type is sensitive to a different wavelength range of light: Red Green Blue The Graph Shows the Colours Detected by the Rods and Different Types of Cone The black peak on the graph shows that rods detect 100% of all wavelengths of light from 380 to 650 nm. When all the colours of the spectrum are not dispersed as their separate colours then they are all detected as white light. Blue cones detect 100% of blue wavelengths, green cones 100% of green wavelengths and red cones 100% of red wavelengths The eye responds to each colour differently : It is less responsive to blue light than red or green So blue light looks dimmer The brain processes signals from the three types of cone and interprets their weighted relative strengths as colour The Graph Shows the Relative Absorption by the Brain of Each Colour The sum of the relative absorption of blue, red and green wavelengths gives the total relative absorption of all the colours Any colour can be produced by combining different intensities of red, green and blue light For example, yellow light can be obtained by combining signals from the red and green cones Worked Example Explain what types of cones are used by the brain to detect purple light. Answer: Purple is made by mixing red and blue So the brain uses red and blue cones to detect purple light Examiner Tips and Tricks You will not be asked to draw any images of parts of the eye, such as the retina and rods or cones. You may be asked to sketch one of the graphs shown on this page.
+Sensitivity of the Eye Rods and Cones Light travels through the front of the retina to the rods and cones at the back Rods and cones are light-sensitive cells called photoreceptors They detect light and convert it into an electrical signal which allows the brain to visualise the image When light falls on the chemical pigments in the rods and cones they are bleached This stimulates the cell to send signals to the brain via the optic nerve The cells are reset / unbleached by vitamin A from the blood A Diagram to Show the Position of the Rods and Cones in the Retina The rods and cones are found at the back of the retina There are about twenty times more rods than cones in the retina Rods detect varying amounts of light They work well with low-intensity light levels Contribute little detail to the image Are not sensitive to different colours / wavelengths of light Cones can detect different colours Each cone is connected to the brain via one nerve fibre They are sensitive to high-intensity light but do not function well in low-intensity light They contribute greater detail to the image They provide information to the brain on the colours in the image An Image Showing the Difference in Size and Number between the Rods and the Cones The image shows that there are many more rods than cones found in the retina. The rods that detect light intensity are much longer than the cones that detect colour. There is one type of rod There are three types of cone Each type is sensitive to a different wavelength range of light: Red Green Blue The Graph Shows the Colours Detected by the Rods and Different Types of Cone The black peak on the graph shows that rods detect 100% of all wavelengths of light from 380 to 650 nm. When all the colours of the spectrum are not dispersed as their separate colours then they are all detected as white light. Blue cones detect 100% of blue wavelengths, green cones 100% of green wavelengths and red cones 100% of red wavelengths The eye responds to each colour differently : It is less responsive to blue light than red or green So blue light looks dimmer The brain processes signals from the three types of cone and interprets their weighted relative strengths as colour The Graph Shows the Relative Absorption by the Brain of Each Colour The sum of the relative absorption of blue, red and green wavelengths gives the total relative absorption of all the colours Any colour can be produced by combining different intensities of red, green and blue light For example, yellow light can be obtained by combining signals from the red and green cones
+Rods and Cones
+Light travels through the front of the retina to the rods and cones at the back
+Rods and cones are light-sensitive cells called photoreceptors They detect light and convert it into an electrical signal which allows the brain to visualise the image
+Rods and cones are light-sensitive cells called photoreceptors
+They detect light and convert it into an electrical signal which allows the brain to visualise the image
+When light falls on the chemical pigments in the rods and cones they are bleached
+This stimulates the cell to send signals to the brain via the optic nerve
+The cells are reset / unbleached by vitamin A from the blood
+A Diagram to Show the Position of the Rods and Cones in the Retina
+The rods and cones are found at the back of the retina
+There are about twenty times more rods than cones in the retina Rods detect varying amounts of light They work well with low-intensity light levels Contribute little detail to the image Are not sensitive to different colours / wavelengths of light Cones can detect different colours Each cone is connected to the brain via one nerve fibre They are sensitive to high-intensity light but do not function well in low-intensity light They contribute greater detail to the image They provide information to the brain on the colours in the image
+There are about twenty times more rods than cones in the retina
+Rods detect varying amounts of light They work well with low-intensity light levels Contribute little detail to the image Are not sensitive to different colours / wavelengths of light
+Rods detect varying amounts of light
+They work well with low-intensity light levels
+Contribute little detail to the image
+Are not sensitive to different colours / wavelengths of light
+Cones can detect different colours Each cone is connected to the brain via one nerve fibre They are sensitive to high-intensity light but do not function well in low-intensity light They contribute greater detail to the image They provide information to the brain on the colours in the image
+Cones can detect different colours
+Each cone is connected to the brain via one nerve fibre
+They are sensitive to high-intensity light but do not function well in low-intensity light
+They contribute greater detail to the image
+They provide information to the brain on the colours in the image
+An Image Showing the Difference in Size and Number between the Rods and the Cones
+The image shows that there are many more rods than cones found in the retina. The rods that detect light intensity are much longer than the cones that detect colour.
+There is one type of rod
+There are three types of cone Each type is sensitive to a different wavelength range of light: Red Green Blue
+There are three types of cone
+Each type is sensitive to a different wavelength range of light: Red Green Blue
+Each type is sensitive to a different wavelength range of light:
+Red
+Green
+Blue
+The Graph Shows the Colours Detected by the Rods and Different Types of Cone
+The black peak on the graph shows that rods detect 100% of all wavelengths of light from 380 to 650 nm. When all the colours of the spectrum are not dispersed as their separate colours then they are all detected as white light. Blue cones detect 100% of blue wavelengths, green cones 100% of green wavelengths and red cones 100% of red wavelengths
+The eye responds to each colour differently : It is less responsive to blue light than red or green So blue light looks dimmer
+The eye responds to each colour differently :
+It is less responsive to blue light than red or green
+So blue light looks dimmer
+The brain processes signals from the three types of cone and interprets their weighted relative strengths as colour
+The Graph Shows the Relative Absorption by the Brain of Each Colour
+The sum of the relative absorption of blue, red and green wavelengths gives the total relative absorption of all the colours
+Any colour can be produced by combining different intensities of red, green and blue light
+For example, yellow light can be obtained by combining signals from the red and green cones
+Worked Example Explain what types of cones are used by the brain to detect purple light. Answer: Purple is made by mixing red and blue So the brain uses red and blue cones to detect purple light
+Worked Example
+Explain what types of cones are used by the brain to detect purple light.
+Answer:
+Purple is made by mixing red and blue
+So the brain uses red and blue cones to detect purple light
+Examiner Tips and Tricks You will not be asked to draw any images of parts of the eye, such as the retina and rods or cones. You may be asked to sketch one of the graphs shown on this page.
+Examiner Tips and Tricks
+You will not be asked to draw any images of parts of the eye, such as the retina and rods or cones. You may be asked to sketch one of the graphs shown on this page.

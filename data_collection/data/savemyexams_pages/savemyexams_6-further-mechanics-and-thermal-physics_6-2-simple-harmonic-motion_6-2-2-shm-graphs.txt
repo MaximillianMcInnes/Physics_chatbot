@@ -1,0 +1,61 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-2-simple-harmonic-motion/6-2-2-shm-graphs
+HEADING: SHM Graphs ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+SHM Graphs The displacement, velocity and acceleration of an object in simple harmonic motion can be represented by graphs against time All undamped SHM graphs are represented by periodic functions This means they can all be described by sine and cosine curves You need to know what each graph looks like and how it relates to the other graphs Remember that: Velocity is the rate of change of displacement Acceleration is the rate of change of velocity Graphs that Start at the Equilibrium Position When oscillations start from the equilibrium position then: The displacement-time graph is a sine curve The velocity-time graph is the gradient of the displacement-time graph, so a cosine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative sine graph and 90 o out of phase with the velocity-time graph More information on this can be found in the A-level Maths revision notes on trigonometric differentiation The displacement, velocity and acceleration graphs in SHM are all 90° out of phase with each other Graphs that Start at the Amplitude Position When oscillations start from the amplitude position then: The displacement-time graph is a cosine curve The velocity-time graph is the gradient of the displacement-time graph, so a negative sine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative cosine graph and 90 o out of phase with the velocity-time graph Relationship Between Graphs Key features of the displacement-time graphs: The amplitude of oscillations A is the maximum value of x The time period of oscillations T is the time taken for one full wavelength cycle Key features of the velocity-time graphs: The velocity of an oscillator at any time can be determined from the gradient of the displacement-time graph: An oscillator moves the fastest at its equilibrium position Therefore, the velocity is at its maximum when the displacement is zero ( the amplitude of the graph is v max ) Key features of the acceleration-time graph: The acceleration graph is a reflection of the displacement graph in the x-axis This means when a mass has positive displacement (to the right) the acceleration is in the opposite direction (to the left) and vice versa (from a = − ω 2 x ) The acceleration of an oscillator at any time can be determined from the gradient of the velocity-time graph: The maximum value of the acceleration is when the oscillator is at its maximum displacement Worked Example A swing is pulled 5 cm and then released. The variation of the horizontal displacement x of the swing with time t is shown on the graph below. The swing exhibits simple harmonic motion. Use data from the graph to determine at what time the velocity of the swing is first at its maximum. Answer: Step 1: The velocity is at its maximum when the displacement x = 0 Step 2: Reading value of time when x = 0 From the graph, this is equal to 0.2 s Examiner Tips and Tricks These graphs might not look identical to what is in your textbook, because they depend on the starting position of the oscillation of the object when t = 0. If there is no damping, they will be a sine or cosine curve.
+SHM Graphs The displacement, velocity and acceleration of an object in simple harmonic motion can be represented by graphs against time All undamped SHM graphs are represented by periodic functions This means they can all be described by sine and cosine curves You need to know what each graph looks like and how it relates to the other graphs Remember that: Velocity is the rate of change of displacement Acceleration is the rate of change of velocity Graphs that Start at the Equilibrium Position When oscillations start from the equilibrium position then: The displacement-time graph is a sine curve The velocity-time graph is the gradient of the displacement-time graph, so a cosine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative sine graph and 90 o out of phase with the velocity-time graph More information on this can be found in the A-level Maths revision notes on trigonometric differentiation The displacement, velocity and acceleration graphs in SHM are all 90° out of phase with each other Graphs that Start at the Amplitude Position When oscillations start from the amplitude position then: The displacement-time graph is a cosine curve The velocity-time graph is the gradient of the displacement-time graph, so a negative sine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative cosine graph and 90 o out of phase with the velocity-time graph Relationship Between Graphs Key features of the displacement-time graphs: The amplitude of oscillations A is the maximum value of x The time period of oscillations T is the time taken for one full wavelength cycle Key features of the velocity-time graphs: The velocity of an oscillator at any time can be determined from the gradient of the displacement-time graph: An oscillator moves the fastest at its equilibrium position Therefore, the velocity is at its maximum when the displacement is zero ( the amplitude of the graph is v max ) Key features of the acceleration-time graph: The acceleration graph is a reflection of the displacement graph in the x-axis This means when a mass has positive displacement (to the right) the acceleration is in the opposite direction (to the left) and vice versa (from a = − ω 2 x ) The acceleration of an oscillator at any time can be determined from the gradient of the velocity-time graph: The maximum value of the acceleration is when the oscillator is at its maximum displacement
+The displacement, velocity and acceleration of an object in simple harmonic motion can be represented by graphs against time
+simple harmonic motion
+All undamped SHM graphs are represented by periodic functions This means they can all be described by sine and cosine curves
+All undamped SHM graphs are represented by periodic functions
+This means they can all be described by sine and cosine curves
+You need to know what each graph looks like and how it relates to the other graphs
+Remember that: Velocity is the rate of change of displacement Acceleration is the rate of change of velocity
+Remember that:
+Velocity is the rate of change of displacement
+Acceleration is the rate of change of velocity
+Graphs that Start at the Equilibrium Position
+When oscillations start from the equilibrium position then: The displacement-time graph is a sine curve The velocity-time graph is the gradient of the displacement-time graph, so a cosine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative sine graph and 90 o out of phase with the velocity-time graph
+When oscillations start from the equilibrium position then:
+The displacement-time graph is a sine curve
+The velocity-time graph is the gradient of the displacement-time graph, so a cosine graph and 90 o out of phase with the displacement-time graph
+phase
+The acceleration-time graph is the gradient of the velocity-time graph , so a negative sine graph and 90 o out of phase with the velocity-time graph
+More information on this can be found in the A-level Maths revision notes on trigonometric differentiation
+The displacement, velocity and acceleration graphs in SHM are all 90° out of phase with each other
+Graphs that Start at the Amplitude Position
+When oscillations start from the amplitude position then: The displacement-time graph is a cosine curve The velocity-time graph is the gradient of the displacement-time graph, so a negative sine graph and 90 o out of phase with the displacement-time graph The acceleration-time graph is the gradient of the velocity-time graph , so a negative cosine graph and 90 o out of phase with the velocity-time graph
+When oscillations start from the amplitude position then:
+The displacement-time graph is a cosine curve
+The velocity-time graph is the gradient of the displacement-time graph, so a negative sine graph and 90 o out of phase with the displacement-time graph
+The acceleration-time graph is the gradient of the velocity-time graph , so a negative cosine graph and 90 o out of phase with the velocity-time graph
+Relationship Between Graphs
+Key features of the displacement-time graphs: The amplitude of oscillations A is the maximum value of x The time period of oscillations T is the time taken for one full wavelength cycle
+Key features of the displacement-time graphs:
+The amplitude of oscillations A is the maximum value of x
+amplitude
+The time period of oscillations T is the time taken for one full wavelength cycle
+time period
+Key features of the velocity-time graphs: The velocity of an oscillator at any time can be determined from the gradient of the displacement-time graph: An oscillator moves the fastest at its equilibrium position Therefore, the velocity is at its maximum when the displacement is zero ( the amplitude of the graph is v max )
+Key features of the velocity-time graphs:
+The velocity of an oscillator at any time can be determined from the gradient of the displacement-time graph:
+An oscillator moves the fastest at its equilibrium position
+Therefore, the velocity is at its maximum when the displacement is zero ( the amplitude of the graph is v max )
+Key features of the acceleration-time graph: The acceleration graph is a reflection of the displacement graph in the x-axis This means when a mass has positive displacement (to the right) the acceleration is in the opposite direction (to the left) and vice versa (from a = − ω 2 x ) The acceleration of an oscillator at any time can be determined from the gradient of the velocity-time graph: The maximum value of the acceleration is when the oscillator is at its maximum displacement
+Key features of the acceleration-time graph:
+The acceleration graph is a reflection of the displacement graph in the x-axis
+This means when a mass has positive displacement (to the right) the acceleration is in the opposite direction (to the left) and vice versa (from a = − ω 2 x )
+The acceleration of an oscillator at any time can be determined from the gradient of the velocity-time graph:
+The maximum value of the acceleration is when the oscillator is at its maximum displacement
+Worked Example A swing is pulled 5 cm and then released. The variation of the horizontal displacement x of the swing with time t is shown on the graph below. The swing exhibits simple harmonic motion. Use data from the graph to determine at what time the velocity of the swing is first at its maximum. Answer: Step 1: The velocity is at its maximum when the displacement x = 0 Step 2: Reading value of time when x = 0 From the graph, this is equal to 0.2 s
+Worked Example
+A swing is pulled 5 cm and then released. The variation of the horizontal displacement x of the swing with time t is shown on the graph below.
+The swing exhibits simple harmonic motion. Use data from the graph to determine at what time the velocity of the swing is first at its maximum.
+Answer:
+Step 1: The velocity is at its maximum when the displacement x = 0
+Step 2: Reading value of time when x = 0
+From the graph, this is equal to 0.2 s
+Examiner Tips and Tricks These graphs might not look identical to what is in your textbook, because they depend on the starting position of the oscillation of the object when t = 0. If there is no damping, they will be a sine or cosine curve.
+Examiner Tips and Tricks
+These graphs might not look identical to what is in your textbook, because they depend on the starting position of the oscillation of the object when t = 0. If there is no damping, they will be a sine or cosine curve.

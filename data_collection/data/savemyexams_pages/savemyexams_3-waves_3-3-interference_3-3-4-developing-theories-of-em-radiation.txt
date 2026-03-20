@@ -1,0 +1,28 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/3-waves/3-3-interference/3-3-4-developing-theories-of-em-radiation
+HEADING: Developing Theories of EM Radiation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Developing Theories of EM Radiation Isaac Newton (1672) Newton proposed that visible light is a stream of microscopic particles called corpuscles However, these corpuscles could not explain interference or diffraction effects, therefore, the view of light as a wave was adopted instead Christiaan Huygens (1678) Huygens came up with the original Wave Theory of Light to explain the phenomena of diffraction and refraction This theory describes light as a series of wavefronts on which every point is a source of waves that spread out and travel at the same speed as the source wave These are known as Huygens' wavelets Thomas Young (1801) Young devised the famous double-slit experiment This provided experimental proof that light is a wave that can undergo constructive and destructive interference James Clerk Maxwell (1862) Maxwell showed that electric and magnetic fields obeyed the wave equation. This means that light was simply waves made up of electric and magnetic fields travelling perpendicular to one another Later, Maxwell and Hertz discovered the full electromagnetic spectrum Albert Einstein (1905) Einstein discovered that light behaves as a particle, as demonstrated by the photoelectric effect He described light in terms of packets of energy called photons Later the scientific community came to understand that light behaves both like a wave and a particle This is known as wave-particle duality
+Isaac Newton (1672)
+Newton proposed that visible light is a stream of microscopic particles called corpuscles
+However, these corpuscles could not explain interference or diffraction effects, therefore, the view of light as a wave was adopted instead
+Christiaan Huygens (1678)
+Huygens came up with the original Wave Theory of Light to explain the phenomena of diffraction and refraction
+This theory describes light as a series of wavefronts on which every point is a source of waves that spread out and travel at the same speed as the source wave These are known as Huygens' wavelets
+This theory describes light as a series of wavefronts on which every point is a source of waves that spread out and travel at the same speed as the source wave
+These are known as Huygens' wavelets
+Thomas Young (1801)
+Young devised the famous double-slit experiment
+double-slit experiment
+This provided experimental proof that light is a wave that can undergo constructive and destructive interference
+James Clerk Maxwell (1862)
+Maxwell showed that electric and magnetic fields obeyed the wave equation. This means that light was simply waves made up of electric and magnetic fields travelling perpendicular to one another
+Later, Maxwell and Hertz discovered the full electromagnetic spectrum
+Albert Einstein (1905)
+Einstein discovered that light behaves as a particle, as demonstrated by the photoelectric effect
+photoelectric effect
+He described light in terms of packets of energy called photons
+Later the scientific community came to understand that light behaves both like a wave and a particle This is known as wave-particle duality
+Later the scientific community came to understand that light behaves both like a wave and a particle
+This is known as wave-particle duality

@@ -1,0 +1,48 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-10-alternating-currents-and-transformers/7-10-3-the-operation-of-a-transformer
+HEADING: The Operation of a Transformer ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Transformer Equation A transformer is A device that changes high alternating voltage at low current to low alternating voltage at high current, and vice versa This is designed to reduce heat energy lost whilst electricity is transmitted down electrical power lines from power stations to the national grid A transformer is made up of: A primary coil A secondary coil An iron core The primary and secondary coils are wound around the soft iron core The soft iron core is necessary because it focuses and directs the magnetic field from the primary to the secondary coil Soft iron is used because it can easily be magnetised and demagnetised A step-up transformer has more turns in the secondary coil than primary In the primary coil, an alternating current producing an alternating voltage is applied This creates an alternating magnetic field inside the iron core and therefore a changing magnetic flux linkage A changing magnetic field passes through to the secondary coil through the iron core This results in a changing magnetic flux linkage in the secondary coil and from Faraday's Law, an e.m.f is induced An e.m.f produces an alternating output voltage from the secondary coil The output alternating voltage is at the same frequency as the input voltage The transformer equation is: Where: N s = number of turns in the secondary coil N p = number of turns in the primary coil V s = output voltage from the secondary coil (V) V p = input voltage in the primary coil (V) There are two types of transformers: Step-up transformer (increases the voltage of the power source) where N s > N p Step-down transformer (decreases the voltage of the power source) where N p > N s A step-up transformer is used between power stations and transmission wires A step-down transformer is used between the transmission wires and buildings Worked Example A step-down transformer turns a primary voltage of 0.5 kV into a secondary voltage of 100 V. Calculate the number of turns needed in the secondary coil if the primary coil contains 3000 turns of wire. Answer:
+The Transformer Equation A transformer is A device that changes high alternating voltage at low current to low alternating voltage at high current, and vice versa This is designed to reduce heat energy lost whilst electricity is transmitted down electrical power lines from power stations to the national grid A transformer is made up of: A primary coil A secondary coil An iron core The primary and secondary coils are wound around the soft iron core The soft iron core is necessary because it focuses and directs the magnetic field from the primary to the secondary coil Soft iron is used because it can easily be magnetised and demagnetised A step-up transformer has more turns in the secondary coil than primary In the primary coil, an alternating current producing an alternating voltage is applied This creates an alternating magnetic field inside the iron core and therefore a changing magnetic flux linkage A changing magnetic field passes through to the secondary coil through the iron core This results in a changing magnetic flux linkage in the secondary coil and from Faraday's Law, an e.m.f is induced An e.m.f produces an alternating output voltage from the secondary coil The output alternating voltage is at the same frequency as the input voltage The transformer equation is: Where: N s = number of turns in the secondary coil N p = number of turns in the primary coil V s = output voltage from the secondary coil (V) V p = input voltage in the primary coil (V) There are two types of transformers: Step-up transformer (increases the voltage of the power source) where N s > N p Step-down transformer (decreases the voltage of the power source) where N p > N s A step-up transformer is used between power stations and transmission wires A step-down transformer is used between the transmission wires and buildings
+The Transformer Equation
+A transformer is A device that changes high alternating voltage at low current to low alternating voltage at high current, and vice versa
+A transformer is
+A device that changes high alternating voltage at low current to low alternating voltage at high current, and vice versa
+This is designed to reduce heat energy lost whilst electricity is transmitted down electrical power lines from power stations to the national grid
+A transformer is made up of: A primary coil A secondary coil An iron core
+A transformer is made up of:
+A primary coil
+A secondary coil
+An iron core
+The primary and secondary coils are wound around the soft iron core The soft iron core is necessary because it focuses and directs the magnetic field from the primary to the secondary coil Soft iron is used because it can easily be magnetised and demagnetised
+The primary and secondary coils are wound around the soft iron core
+The soft iron core is necessary because it focuses and directs the magnetic field from the primary to the secondary coil
+Soft iron is used because it can easily be magnetised and demagnetised
+A step-up transformer has more turns in the secondary coil than primary
+In the primary coil, an alternating current producing an alternating voltage is applied This creates an alternating magnetic field inside the iron core and therefore a changing magnetic flux linkage
+In the primary coil, an alternating current producing an alternating voltage is applied
+This creates an alternating magnetic field inside the iron core and therefore a changing magnetic flux linkage
+magnetic flux linkage
+A changing magnetic field passes through to the secondary coil through the iron core This results in a changing magnetic flux linkage in the secondary coil and from Faraday's Law, an e.m.f is induced
+A changing magnetic field passes through to the secondary coil through the iron core
+This results in a changing magnetic flux linkage in the secondary coil and from Faraday's Law, an e.m.f is induced
+An e.m.f produces an alternating output voltage from the secondary coil
+The output alternating voltage is at the same frequency as the input voltage
+The transformer equation is:
+Where: N s = number of turns in the secondary coil N p = number of turns in the primary coil V s = output voltage from the secondary coil (V) V p = input voltage in the primary coil (V)
+Where:
+N s = number of turns in the secondary coil
+N p = number of turns in the primary coil
+V s = output voltage from the secondary coil (V)
+V p = input voltage in the primary coil (V)
+There are two types of transformers: Step-up transformer (increases the voltage of the power source) where N s > N p Step-down transformer (decreases the voltage of the power source) where N p > N s
+There are two types of transformers:
+Step-up transformer (increases the voltage of the power source) where N s > N p
+Step-down transformer (decreases the voltage of the power source) where N p > N s
+A step-up transformer is used between power stations and transmission wires
+A step-down transformer is used between the transmission wires and buildings
+Worked Example A step-down transformer turns a primary voltage of 0.5 kV into a secondary voltage of 100 V. Calculate the number of turns needed in the secondary coil if the primary coil contains 3000 turns of wire. Answer:
+Worked Example
+A step-down transformer turns a primary voltage of 0.5 kV into a secondary voltage of 100 V. Calculate the number of turns needed in the secondary coil if the primary coil contains 3000 turns of wire.
+Answer:

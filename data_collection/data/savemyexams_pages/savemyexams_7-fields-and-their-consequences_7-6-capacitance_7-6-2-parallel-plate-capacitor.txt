@@ -1,0 +1,58 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-6-capacitance/7-6-2-parallel-plate-capacitor
+HEADING: Parallel Plate Capacitor ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Relative Permittivity & Dielectric Constant Permittivity is the measure of how easy it is to generate an electric field in a certain material The relativity permittivity ε r is sometimes known as the dielectric constant For a given material, it is defined as: The ratio of the permittivity of a material to the permittivity of free space This can be expressed as: Where: ε r = relative permittivity ε = permittivity of a material (F m -1 ) ε 0 = permittivity of free space (F m -1 ) The relative permittivity has no units because it is a ratio of two values with the same unit Worked Example Calculate the permittivity of a material that has a relative permittivity of 4.5 × 10 11 .State an appropriate unit for your answer. Step 1: Write down the relative permittivity equation Step 2: Rearrange for permittivity of the material ε ε = ε r ε 0 Step 3: Substitute in the values ε = (4.5 × 10 11 ) × (8.85 × 10 -12 ) = 3.9825 = 4 F m -1 Dielectric Action in a Capacitor When the polar molecules in a dielectric align with the applied electric field from the plates, they each produce their own electric field This electric field opposes the electric field from the plates The electric field of the polar molecules opposes that of the electric field produced by the parallel plates The larger the opposing electric field from the polar molecules in the dielectric, the larger the permittivity In other words, the permittivity is how well the polar molecules in a dielectric align with an applied electric field The opposing electric field reduces the overall electric field, which decreases the potential difference between the plates Therefore, the capacitance of the plates increases The capacitance of a capacitor can also be written in terms of the relative permittivity: Where: C = capacitance (F) A = cross-sectional area of the plates (m 2 ) d = separation of the plates (m) ε r = relative permittivity of the dielectric between the plates ε 0 = permittivity of free space (F m -1 ) A parallel plate capacitor consists of conductive plates each with area A, a distance d apart and a dielectric ε between them Capacitor plates are general square, therefore if they have a length L on all sides then their cross-sectional area is L 2 Worked Example A parallel-plate capacitor has square plates of length L separated by distance d and is filled with a dielectric. A second capacitor has square plates of length 3L separated by distance 3 d and has air as its dielectric. Both capacitors have the same capacitance. Determine the relative permittivity of the dielectric in the first capacitor. Answer: Examiner Tips and Tricks Remember that A , the cross-sectional area, is only for one of the parallel plates. Don't multiply this by 2 for both the plates for the capacitance equation!
+Relative Permittivity & Dielectric Constant Permittivity is the measure of how easy it is to generate an electric field in a certain material The relativity permittivity ε r is sometimes known as the dielectric constant For a given material, it is defined as: The ratio of the permittivity of a material to the permittivity of free space This can be expressed as: Where: ε r = relative permittivity ε = permittivity of a material (F m -1 ) ε 0 = permittivity of free space (F m -1 ) The relative permittivity has no units because it is a ratio of two values with the same unit
+Relative Permittivity & Dielectric Constant
+Permittivity is the measure of how easy it is to generate an electric field in a certain material
+The relativity permittivity ε r is sometimes known as the dielectric constant
+For a given material, it is defined as:
+The ratio of the permittivity of a material to the permittivity of free space
+permittivity of free space
+This can be expressed as:
+Where: ε r = relative permittivity ε = permittivity of a material (F m -1 ) ε 0 = permittivity of free space (F m -1 )
+Where:
+ε r = relative permittivity
+ε = permittivity of a material (F m -1 )
+ε 0 = permittivity of free space (F m -1 )
+The relative permittivity has no units because it is a ratio of two values with the same unit
+Worked Example Calculate the permittivity of a material that has a relative permittivity of 4.5 × 10 11 .State an appropriate unit for your answer.
+Worked Example
+Calculate the permittivity of a material that has a relative permittivity of 4.5 × 10 11 .State an appropriate unit for your answer.
+Step 1: Write down the relative permittivity equation Step 2: Rearrange for permittivity of the material ε ε = ε r ε 0 Step 3: Substitute in the values ε = (4.5 × 10 11 ) × (8.85 × 10 -12 ) = 3.9825 = 4 F m -1
+Step 1: Write down the relative permittivity equation
+Step 2: Rearrange for permittivity of the material ε
+ε = ε r ε 0
+Step 3: Substitute in the values
+ε = (4.5 × 10 11 ) × (8.85 × 10 -12 ) = 3.9825 = 4 F m -1
+Dielectric Action in a Capacitor When the polar molecules in a dielectric align with the applied electric field from the plates, they each produce their own electric field This electric field opposes the electric field from the plates The electric field of the polar molecules opposes that of the electric field produced by the parallel plates The larger the opposing electric field from the polar molecules in the dielectric, the larger the permittivity In other words, the permittivity is how well the polar molecules in a dielectric align with an applied electric field The opposing electric field reduces the overall electric field, which decreases the potential difference between the plates Therefore, the capacitance of the plates increases The capacitance of a capacitor can also be written in terms of the relative permittivity: Where: C = capacitance (F) A = cross-sectional area of the plates (m 2 ) d = separation of the plates (m) ε r = relative permittivity of the dielectric between the plates ε 0 = permittivity of free space (F m -1 ) A parallel plate capacitor consists of conductive plates each with area A, a distance d apart and a dielectric ε between them Capacitor plates are general square, therefore if they have a length L on all sides then their cross-sectional area is L 2
+Dielectric Action in a Capacitor
+When the polar molecules in a dielectric align with the applied electric field from the plates, they each produce their own electric field This electric field opposes the electric field from the plates
+When the polar molecules in a dielectric align with the applied electric field from the plates, they each produce their own electric field
+dielectric
+This electric field opposes the electric field from the plates
+The electric field of the polar molecules opposes that of the electric field produced by the parallel plates
+The larger the opposing electric field from the polar molecules in the dielectric, the larger the permittivity In other words, the permittivity is how well the polar molecules in a dielectric align with an applied electric field
+The larger the opposing electric field from the polar molecules in the dielectric, the larger the permittivity
+In other words, the permittivity is how well the polar molecules in a dielectric align with an applied electric field
+The opposing electric field reduces the overall electric field, which decreases the potential difference between the plates Therefore, the capacitance of the plates increases
+The opposing electric field reduces the overall electric field, which decreases the potential difference between the plates
+Therefore, the capacitance of the plates increases
+The capacitance of a capacitor can also be written in terms of the relative permittivity:
+Where: C = capacitance (F) A = cross-sectional area of the plates (m 2 ) d = separation of the plates (m) ε r = relative permittivity of the dielectric between the plates ε 0 = permittivity of free space (F m -1 )
+C = capacitance (F)
+capacitance
+A = cross-sectional area of the plates (m 2 )
+d = separation of the plates (m)
+ε r = relative permittivity of the dielectric between the plates
+A parallel plate capacitor consists of conductive plates each with area A, a distance d apart and a dielectric ε between them
+Capacitor plates are general square, therefore if they have a length L on all sides then their cross-sectional area is L 2
+Worked Example A parallel-plate capacitor has square plates of length L separated by distance d and is filled with a dielectric. A second capacitor has square plates of length 3L separated by distance 3 d and has air as its dielectric. Both capacitors have the same capacitance. Determine the relative permittivity of the dielectric in the first capacitor. Answer:
+A parallel-plate capacitor has square plates of length L separated by distance d and is filled with a dielectric. A second capacitor has square plates of length 3L separated by distance 3 d and has air as its dielectric. Both capacitors have the same capacitance.
+Determine the relative permittivity of the dielectric in the first capacitor.
+Answer:
+Examiner Tips and Tricks Remember that A , the cross-sectional area, is only for one of the parallel plates. Don't multiply this by 2 for both the plates for the capacitance equation!
+Examiner Tips and Tricks
+Remember that A , the cross-sectional area, is only for one of the parallel plates. Don't multiply this by 2 for both the plates for the capacitance equation!

@@ -1,0 +1,91 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-3-nuclear-instability-and-radius/8-3-2-decay-equations
+HEADING: Decay Equations ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Changes in N and Z by Radioactive Decay There are four reasons why a nucleus might become unstable, and these determine which decay mode will occur Too many neutrons = beta-minus emission Too many protons = beta-plus emission or electron capture Too many nucleons = alpha emission Too much energy = gamma emission If there are too many neutrons... Beta-minus (β - ) emission occurs One of the neutrons in the nucleus changes into a proton and a β - particle (an electron) and antineutrino is released The nucleon number is constant The neutron number (N) decreases by 1 The proton number (Z) increases by 1 The general decay equation for β - emission is: Representing beta-minus decay graphically If there are too many protons... Beta-plus (β + ) emission or electron capture occurs In beta-plus decay: A proton changes into a neutron and a β + particle (a positron) and neutrino are released In electron capture: An orbiting electron is taken in by the nucleus and combined with a proton causing the formation of a neutron and neutrino In both types of decay, the nucleon number stays constant The neutron number (N) increases by 1 The proton number (Z) decreases by 1 The general decay equation for β + emission is: Representing beta-plus decay graphically The decay equation for electron capture is: If there are too many nucleons... Alpha (α) emission occurs An α particle is a helium nucleus The nucleon number decreases by 4 and the proton number decreases by 2 The neutron number (N) decreases by 2 The proton number (Z) decreases by 2 The general decay equation for α emission is: Representing alpha decay graphically If there is too much energy... Gamma (γ) emission occurs A gamma particle is a high-energy electromagnetic radiation This usually occurs after a different type of decay, such as alpha or beta decay This is because the nucleus becomes excited and has excess energy Representing Nuclear Processes Graphically In summary, alpha decay, beta decay and electron capture can be represented on an N–Z graph as follows: Representing nuclear processes graphically Worked Example Plutonium-239 is a radioactive isotope that contains 94 protons and emits α particles to form a radioactive isotope of uranium. This isotope of uranium emits α particles to form an isotope of thorium which is also radioactive. (a) Write two equations to represent the decay of plutonium-239 and the subsequent decay of uranium. (b) Predict the decay mode of the thorium isotope. (c) Draw the decay chain from plutonium-239 to the daughter product of thorium decay on an N–Z graph. Answer: Part (a) Step 1: Write down the general equation of alpha decay Step 2: Write down the decay equation of plutonium into uranium Step 3: Write down the decay equation of uranium into thorium Part (b) Plutonium, 239 Pu Number of neutrons : 239 – 94 = 145 Neutron-nucleon ratio : 145 / 239 = 0.607 Uranium, 235 U Number of neutrons: 235 – 92 = 143 Neutron-nucleon ratio : 143 / 235 = 0.609 Thorium, 231 Th Number of neutrons: 231 – 90 = 141 Neutron-nucleon ratio : 141 / 231 = 0.610 Thorium-231 is neutron-rich compared to uranium-235 and plutonium-239 Therefore, it must be a β – emitter Part (c) The key features to draw on an N–Z graph are: Values for neutron number (N) on the vertical axis Values for proton number (Z) on the horizontal axis Labels for the isotopes eg. 239 Pu, 235 U, 231 Th Arrows showing the direction of the decay Labels for the type of emission eg. α, β – Examiner Tips and Tricks Watch out for the vertical axis for the N-Z graph. Instead of N for number of neutrons this is sometimes labelled as N for nucleon number (total protons and neutrons) which means the decays will be represented slightly differently.
+Changes in N and Z by Radioactive Decay There are four reasons why a nucleus might become unstable, and these determine which decay mode will occur Too many neutrons = beta-minus emission Too many protons = beta-plus emission or electron capture Too many nucleons = alpha emission Too much energy = gamma emission If there are too many neutrons... Beta-minus (β - ) emission occurs One of the neutrons in the nucleus changes into a proton and a β - particle (an electron) and antineutrino is released The nucleon number is constant The neutron number (N) decreases by 1 The proton number (Z) increases by 1 The general decay equation for β - emission is: Representing beta-minus decay graphically If there are too many protons... Beta-plus (β + ) emission or electron capture occurs In beta-plus decay: A proton changes into a neutron and a β + particle (a positron) and neutrino are released In electron capture: An orbiting electron is taken in by the nucleus and combined with a proton causing the formation of a neutron and neutrino In both types of decay, the nucleon number stays constant The neutron number (N) increases by 1 The proton number (Z) decreases by 1 The general decay equation for β + emission is: Representing beta-plus decay graphically The decay equation for electron capture is: If there are too many nucleons... Alpha (α) emission occurs An α particle is a helium nucleus The nucleon number decreases by 4 and the proton number decreases by 2 The neutron number (N) decreases by 2 The proton number (Z) decreases by 2 The general decay equation for α emission is: Representing alpha decay graphically If there is too much energy... Gamma (γ) emission occurs A gamma particle is a high-energy electromagnetic radiation This usually occurs after a different type of decay, such as alpha or beta decay This is because the nucleus becomes excited and has excess energy Representing Nuclear Processes Graphically In summary, alpha decay, beta decay and electron capture can be represented on an N–Z graph as follows: Representing nuclear processes graphically
+Changes in N and Z by Radioactive Decay
+There are four reasons why a nucleus might become unstable, and these determine which decay mode will occur
+Too many neutrons = beta-minus emission
+Too many protons = beta-plus emission or electron capture
+Too many nucleons = alpha emission
+Too much energy = gamma emission
+If there are too many neutrons...
+Beta-minus (β - ) emission occurs
+One of the neutrons in the nucleus changes into a proton and a β - particle (an electron) and antineutrino is released
+The nucleon number is constant The neutron number (N) decreases by 1 The proton number (Z) increases by 1
+The nucleon number is constant
+The neutron number (N) decreases by 1
+The proton number (Z) increases by 1
+The general decay equation for β - emission is:
+Representing beta-minus decay graphically
+If there are too many protons...
+Beta-plus (β + ) emission or electron capture occurs
+In beta-plus decay: A proton changes into a neutron and a β + particle (a positron) and neutrino are released
+In beta-plus decay:
+A proton changes into a neutron and a β + particle (a positron) and neutrino are released
+In electron capture: An orbiting electron is taken in by the nucleus and combined with a proton causing the formation of a neutron and neutrino
+In electron capture:
+An orbiting electron is taken in by the nucleus and combined with a proton causing the formation of a neutron and neutrino
+In both types of decay, the nucleon number stays constant The neutron number (N) increases by 1 The proton number (Z) decreases by 1
+In both types of decay, the nucleon number stays constant
+The neutron number (N) increases by 1
+The proton number (Z) decreases by 1
+The general decay equation for β + emission is:
+Representing beta-plus decay graphically
+The decay equation for electron capture is:
+If there are too many nucleons...
+Alpha (α) emission occurs
+An α particle is a helium nucleus
+The nucleon number decreases by 4 and the proton number decreases by 2 The neutron number (N) decreases by 2 The proton number (Z) decreases by 2
+The nucleon number decreases by 4 and the proton number decreases by 2
+The neutron number (N) decreases by 2
+The proton number (Z) decreases by 2
+The general decay equation for α emission is:
+Representing alpha decay graphically
+If there is too much energy...
+Gamma (γ) emission occurs
+A gamma particle is a high-energy electromagnetic radiation
+This usually occurs after a different type of decay, such as alpha or beta decay
+This is because the nucleus becomes excited and has excess energy
+Representing Nuclear Processes Graphically
+In summary, alpha decay, beta decay and electron capture can be represented on an N–Z graph as follows:
+Representing nuclear processes graphically
+Worked Example Plutonium-239 is a radioactive isotope that contains 94 protons and emits α particles to form a radioactive isotope of uranium. This isotope of uranium emits α particles to form an isotope of thorium which is also radioactive. (a) Write two equations to represent the decay of plutonium-239 and the subsequent decay of uranium. (b) Predict the decay mode of the thorium isotope. (c) Draw the decay chain from plutonium-239 to the daughter product of thorium decay on an N–Z graph. Answer: Part (a) Step 1: Write down the general equation of alpha decay Step 2: Write down the decay equation of plutonium into uranium Step 3: Write down the decay equation of uranium into thorium Part (b) Plutonium, 239 Pu Number of neutrons : 239 – 94 = 145 Neutron-nucleon ratio : 145 / 239 = 0.607 Uranium, 235 U Number of neutrons: 235 – 92 = 143 Neutron-nucleon ratio : 143 / 235 = 0.609 Thorium, 231 Th Number of neutrons: 231 – 90 = 141 Neutron-nucleon ratio : 141 / 231 = 0.610 Thorium-231 is neutron-rich compared to uranium-235 and plutonium-239 Therefore, it must be a β – emitter Part (c) The key features to draw on an N–Z graph are: Values for neutron number (N) on the vertical axis Values for proton number (Z) on the horizontal axis Labels for the isotopes eg. 239 Pu, 235 U, 231 Th Arrows showing the direction of the decay Labels for the type of emission eg. α, β –
+Worked Example
+Plutonium-239 is a radioactive isotope that contains 94 protons and emits α particles to form a radioactive isotope of uranium. This isotope of uranium emits α particles to form an isotope of thorium which is also radioactive.
+(a) Write two equations to represent the decay of plutonium-239 and the subsequent decay of uranium.
+(b) Predict the decay mode of the thorium isotope.
+(c) Draw the decay chain from plutonium-239 to the daughter product of thorium decay on an N–Z graph.
+Answer:
+Part (a)
+Step 1: Write down the general equation of alpha decay
+Step 2: Write down the decay equation of plutonium into uranium
+Step 3: Write down the decay equation of uranium into thorium
+Part (b)
+Plutonium, 239 Pu Number of neutrons : 239 – 94 = 145 Neutron-nucleon ratio : 145 / 239 = 0.607
+Plutonium, 239 Pu
+Number of neutrons : 239 – 94 = 145
+Neutron-nucleon ratio : 145 / 239 = 0.607
+Uranium, 235 U Number of neutrons: 235 – 92 = 143 Neutron-nucleon ratio : 143 / 235 = 0.609
+Uranium, 235 U
+Number of neutrons: 235 – 92 = 143
+Neutron-nucleon ratio : 143 / 235 = 0.609
+Thorium, 231 Th Number of neutrons: 231 – 90 = 141 Neutron-nucleon ratio : 141 / 231 = 0.610
+Thorium, 231 Th
+Number of neutrons: 231 – 90 = 141
+Neutron-nucleon ratio : 141 / 231 = 0.610
+Thorium-231 is neutron-rich compared to uranium-235 and plutonium-239
+Therefore, it must be a β – emitter
+Part (c)
+The key features to draw on an N–Z graph are: Values for neutron number (N) on the vertical axis Values for proton number (Z) on the horizontal axis Labels for the isotopes eg. 239 Pu, 235 U, 231 Th Arrows showing the direction of the decay Labels for the type of emission eg. α, β –
+The key features to draw on an N–Z graph are:
+Values for neutron number (N) on the vertical axis
+Values for proton number (Z) on the horizontal axis
+Labels for the isotopes eg. 239 Pu, 235 U, 231 Th
+Arrows showing the direction of the decay
+Labels for the type of emission eg. α, β –
+Examiner Tips and Tricks Watch out for the vertical axis for the N-Z graph. Instead of N for number of neutrons this is sometimes labelled as N for nucleon number (total protons and neutrons) which means the decays will be represented slightly differently.
+Examiner Tips and Tricks
+Watch out for the vertical axis for the N-Z graph. Instead of N for number of neutrons this is sometimes labelled as N for nucleon number (total protons and neutrons) which means the decays will be represented slightly differently.

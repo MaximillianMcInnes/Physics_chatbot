@@ -1,0 +1,34 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-5-ideal-gases/6-5-3-ideal-gas-equation
+HEADING: Ideal Gas Equation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Ideal Gas Equation An ideal gas is a specific type of gas which: Has molecules with negligible volume Collisions which are elastic Cannot be liquified Has no interactions between the molecules (except during collisions) Obeys the (ideal) gas laws (Boyles law, Charles’ law and Pressure law) All of these can occur at any temperature or pressure The equation of state for an ideal gas (or the ideal gas equation) can be expressed as: The ideal gas equation can also be written in the form: An ideal gas is therefore defined as: A gas which obeys the equation of state pV = nRT at all pressures, volumes and temperatures Worked Example A storage cylinder of an ideal gas has a volume of 8.3 × 10 3 cm 3 .The gas is at a temperature of 15 °C and a pressure of 4.5 × 10 7 Pa. Calculate the amount of gas in the cylinder, in moles. Step 1: Write down the ideal gas equation Since the number of moles (n) is required, use the equation: pV = nRT Step 2: Rearrange for the number of moles n Step 3: Substitute in values V = 8.3 × 10 3 cm 3 = 8.3 × 10 3 × 10 -6 = 8.3 × 10 -3 m 3 T = 15 °C + 273.15 = 288.15 K Examiner Tips and Tricks Don’t worry about remembering the values of R and k, they will both be given in the equation sheet in your exam.
+Ideal Gas Equation An ideal gas is a specific type of gas which: Has molecules with negligible volume Collisions which are elastic Cannot be liquified Has no interactions between the molecules (except during collisions) Obeys the (ideal) gas laws (Boyles law, Charles’ law and Pressure law) All of these can occur at any temperature or pressure The equation of state for an ideal gas (or the ideal gas equation) can be expressed as: The ideal gas equation can also be written in the form: An ideal gas is therefore defined as: A gas which obeys the equation of state pV = nRT at all pressures, volumes and temperatures
+An ideal gas is a specific type of gas which: Has molecules with negligible volume Collisions which are elastic Cannot be liquified Has no interactions between the molecules (except during collisions) Obeys the (ideal) gas laws (Boyles law, Charles’ law and Pressure law)
+An ideal gas is a specific type of gas which:
+Has molecules with negligible volume
+Collisions which are elastic
+Cannot be liquified
+Has no interactions between the molecules (except during collisions)
+Obeys the (ideal) gas laws (Boyles law, Charles’ law and Pressure law)
+All of these can occur at any temperature or pressure
+The equation of state for an ideal gas (or the ideal gas equation) can be expressed as:
+The ideal gas equation can also be written in the form:
+An ideal gas is therefore defined as: A gas which obeys the equation of state pV = nRT at all pressures, volumes and temperatures
+An ideal gas is therefore defined as:
+A gas which obeys the equation of state pV = nRT at all pressures, volumes and temperatures
+Worked Example A storage cylinder of an ideal gas has a volume of 8.3 × 10 3 cm 3 .The gas is at a temperature of 15 °C and a pressure of 4.5 × 10 7 Pa. Calculate the amount of gas in the cylinder, in moles.
+Worked Example
+A storage cylinder of an ideal gas has a volume of 8.3 × 10 3 cm 3 .The gas is at a temperature of 15 °C and a pressure of 4.5 × 10 7 Pa. Calculate the amount of gas in the cylinder, in moles.
+Step 1: Write down the ideal gas equation Since the number of moles (n) is required, use the equation: pV = nRT Step 2: Rearrange for the number of moles n Step 3: Substitute in values V = 8.3 × 10 3 cm 3 = 8.3 × 10 3 × 10 -6 = 8.3 × 10 -3 m 3 T = 15 °C + 273.15 = 288.15 K
+Step 1: Write down the ideal gas equation
+Since the number of moles (n) is required, use the equation:
+pV = nRT
+Step 2: Rearrange for the number of moles n
+Step 3: Substitute in values
+V = 8.3 × 10 3 cm 3 = 8.3 × 10 3 × 10 -6 = 8.3 × 10 -3 m 3
+T = 15 °C + 273.15 = 288.15 K
+Examiner Tips and Tricks Don’t worry about remembering the values of R and k, they will both be given in the equation sheet in your exam.
+Examiner Tips and Tricks
+Don’t worry about remembering the values of R and k, they will both be given in the equation sheet in your exam.

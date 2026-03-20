@@ -1,0 +1,75 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-2-radioactive-decay/8-2-3-half-life
+HEADING: Half-Life ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Half-Life Half-life is defined as: The average time taken for a given number of nuclei of a particular isotope to halve Since activity is proportional to the number of undecayed nuclei , the activity of the sample will also halve When a time equal to the half-life passes, the activity falls by half, when two half-lives pass, the activity falls by another half (which is a quarter of the initial value) To find an expression for half-life, start with the equation for exponential decay : Where: N = number of nuclei remaining in a sample N 0 = the initial number of undecayed nuclei (when t = 0) λ = decay constant (s -1 ) t = time interval (s) When time is equal to the half-life , the activity of the sample will be half of its original value, so The formula can then be derived by first, dividing both sides by : Then, taking the natural log of both sides: Finally, applying properties of logarithms: Therefore, half-life can be calculated using the equation: This equation shows that half-life and the radioactive decay rate constant λ are inversely proportional Therefore, the shorter the half-life, the larger the decay constant and the faster the decay Worked Example Strontium-90 is a radioactive isotope with a half-life of 28.0 years. A sample of Strontium-90 has an activity of 6.4 × 10 9 Bq. Calculate the decay constant , in s –1 , of Strontium-90. Answer: Step 1: Convert the half-life into seconds = 28 years = 28 × (365 × 24 × 60 × 60) = 8.83 × 10 8 s Step 2: Write the equation for half-life Step 3: Rearrange for λ and calculate Examiner Tips and Tricks Although you may not be expected to derive the half-life equation, make sure you're comfortable with how to use it in calculations such as that in the worked example. Half-Life from Decay Curves The half-life of a radioactive substance can be determined from decay curves and log graphs Since half-life is the time taken for the initial number of nuclei (or activity) to reduce by half , it can be found by drawing a line to the curve at the point where the activity has dropped to half of its original value drawing a line from the curve to the time axis, this is the half-life Log Graphs Straight-line graphs tend to be more useful than curves for interpreting data Nuclei decay exponentially, therefore, to achieve a straight line plot, logarithms can be used Take the exponential decay equation for the number of nuclei Taking the natural logs of both sides In this form, this equation can be compared to the equation of a straight line Where: y-axis variable, x-axis variable, gradient, y-intercept, Half-lives can be found in a similar way to the decay curve but the intervals will be regular as shown below: Worked Example The radioisotope technetium is used extensively in medicine. The graph below shows how the activity of a sample varies with time. Determine: a) The decay constant for technetium b) The number of technetium atoms remaining in the sample after 24 hours Answer: Part (a) Step 1: Draw lines on the graph to determine the time it takes for technetium to drop to half of its original activity Step 2: Read the half-life from the graph and convert to seconds = 6 hours = 6 × 60 × 60 = 21 600 s Step 3: Write out the half life equation Step 4: Calculate the decay constant Part (b) Step 1: Draw lines on the graph to determine the activity after 24 hours At = 24 hours, = 0.5 × 10 7 Bq Step 2: Write out the activity equation Step 3: Calculate the number of atoms remaining in the sample
+Half-Life Half-life is defined as: The average time taken for a given number of nuclei of a particular isotope to halve Since activity is proportional to the number of undecayed nuclei , the activity of the sample will also halve When a time equal to the half-life passes, the activity falls by half, when two half-lives pass, the activity falls by another half (which is a quarter of the initial value) To find an expression for half-life, start with the equation for exponential decay : Where: N = number of nuclei remaining in a sample N 0 = the initial number of undecayed nuclei (when t = 0) λ = decay constant (s -1 ) t = time interval (s) When time is equal to the half-life , the activity of the sample will be half of its original value, so The formula can then be derived by first, dividing both sides by : Then, taking the natural log of both sides: Finally, applying properties of logarithms: Therefore, half-life can be calculated using the equation: This equation shows that half-life and the radioactive decay rate constant λ are inversely proportional Therefore, the shorter the half-life, the larger the decay constant and the faster the decay
+Half-life is defined as:
+The average time taken for a given number of nuclei of a particular isotope to halve
+Since activity is proportional to the number of undecayed nuclei , the activity of the sample will also halve
+When a time equal to the half-life passes, the activity falls by half, when two half-lives pass, the activity falls by another half (which is a quarter of the initial value)
+To find an expression for half-life, start with the equation for exponential decay :
+exponential decay
+Where: N = number of nuclei remaining in a sample N 0 = the initial number of undecayed nuclei (when t = 0) λ = decay constant (s -1 ) t = time interval (s)
+Where:
+N = number of nuclei remaining in a sample
+N 0 = the initial number of undecayed nuclei (when t = 0)
+λ = decay constant (s -1 )
+t = time interval (s)
+When time is equal to the half-life , the activity of the sample will be half of its original value, so
+The formula can then be derived by first, dividing both sides by :
+Then, taking the natural log of both sides:
+Finally, applying properties of logarithms:
+Therefore, half-life can be calculated using the equation:
+This equation shows that half-life and the radioactive decay rate constant λ are inversely proportional Therefore, the shorter the half-life, the larger the decay constant and the faster the decay
+This equation shows that half-life and the radioactive decay rate constant λ are inversely proportional
+Therefore, the shorter the half-life, the larger the decay constant and the faster the decay
+Worked Example Strontium-90 is a radioactive isotope with a half-life of 28.0 years. A sample of Strontium-90 has an activity of 6.4 × 10 9 Bq. Calculate the decay constant , in s –1 , of Strontium-90. Answer: Step 1: Convert the half-life into seconds = 28 years = 28 × (365 × 24 × 60 × 60) = 8.83 × 10 8 s Step 2: Write the equation for half-life Step 3: Rearrange for λ and calculate
+Worked Example
+Strontium-90 is a radioactive isotope with a half-life of 28.0 years. A sample of Strontium-90 has an activity of 6.4 × 10 9 Bq.
+Calculate the decay constant , in s –1 , of Strontium-90.
+Answer:
+Step 1: Convert the half-life into seconds
+= 28 years = 28 × (365 × 24 × 60 × 60) = 8.83 × 10 8 s
+Step 2: Write the equation for half-life
+Step 3: Rearrange for λ and calculate
+Examiner Tips and Tricks Although you may not be expected to derive the half-life equation, make sure you're comfortable with how to use it in calculations such as that in the worked example.
+Examiner Tips and Tricks
+Although you may not be expected to derive the half-life equation, make sure you're comfortable with how to use it in calculations such as that in the worked example.
+Half-Life from Decay Curves The half-life of a radioactive substance can be determined from decay curves and log graphs Since half-life is the time taken for the initial number of nuclei (or activity) to reduce by half , it can be found by drawing a line to the curve at the point where the activity has dropped to half of its original value drawing a line from the curve to the time axis, this is the half-life Log Graphs Straight-line graphs tend to be more useful than curves for interpreting data Nuclei decay exponentially, therefore, to achieve a straight line plot, logarithms can be used Take the exponential decay equation for the number of nuclei Taking the natural logs of both sides In this form, this equation can be compared to the equation of a straight line Where: y-axis variable, x-axis variable, gradient, y-intercept, Half-lives can be found in a similar way to the decay curve but the intervals will be regular as shown below:
+Half-Life from Decay Curves
+The half-life of a radioactive substance can be determined from decay curves and log graphs
+Since half-life is the time taken for the initial number of nuclei (or activity) to reduce by half , it can be found by drawing a line to the curve at the point where the activity has dropped to half of its original value drawing a line from the curve to the time axis, this is the half-life
+Since half-life is the time taken for the initial number of nuclei (or activity) to reduce by half , it can be found by
+drawing a line to the curve at the point where the activity has dropped to half of its original value
+drawing a line from the curve to the time axis, this is the half-life
+Log Graphs
+Straight-line graphs tend to be more useful than curves for interpreting data Nuclei decay exponentially, therefore, to achieve a straight line plot, logarithms can be used
+Straight-line graphs tend to be more useful than curves for interpreting data
+Nuclei decay exponentially, therefore, to achieve a straight line plot, logarithms can be used
+Take the exponential decay equation for the number of nuclei
+Taking the natural logs of both sides
+In this form, this equation can be compared to the equation of a straight line
+Where: y-axis variable, x-axis variable, gradient, y-intercept,
+y-axis variable,
+x-axis variable,
+gradient,
+y-intercept,
+Half-lives can be found in a similar way to the decay curve but the intervals will be regular as shown below:
+Worked Example The radioisotope technetium is used extensively in medicine. The graph below shows how the activity of a sample varies with time. Determine: a) The decay constant for technetium b) The number of technetium atoms remaining in the sample after 24 hours Answer: Part (a) Step 1: Draw lines on the graph to determine the time it takes for technetium to drop to half of its original activity Step 2: Read the half-life from the graph and convert to seconds = 6 hours = 6 × 60 × 60 = 21 600 s Step 3: Write out the half life equation Step 4: Calculate the decay constant Part (b) Step 1: Draw lines on the graph to determine the activity after 24 hours At = 24 hours, = 0.5 × 10 7 Bq Step 2: Write out the activity equation Step 3: Calculate the number of atoms remaining in the sample
+The radioisotope technetium is used extensively in medicine. The graph below shows how the activity of a sample varies with time.
+Determine:
+a) The decay constant for technetium
+b) The number of technetium atoms remaining in the sample after 24 hours
+Part (a)
+Step 1: Draw lines on the graph to determine the time it takes for technetium to drop to half of its original activity
+Step 2: Read the half-life from the graph and convert to seconds
+= 6 hours = 6 × 60 × 60 = 21 600 s
+Step 3: Write out the half life equation
+Step 4: Calculate the decay constant
+Part (b)
+Step 1: Draw lines on the graph to determine the activity after 24 hours
+At = 24 hours, = 0.5 × 10 7 Bq
+Step 2: Write out the activity equation
+Step 3: Calculate the number of atoms remaining in the sample

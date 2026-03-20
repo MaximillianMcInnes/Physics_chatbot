@@ -1,0 +1,92 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-7-bulk-properties-of-solids/4-7-3-stress-and-strain
+HEADING: Stress & Strain ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Tensile Stress & Strain Opposite forces can deform an object If the forces stretch the object, then they are tensile forces Tensile forces lead to the two properties of materials known as tensile stress and tensile strain Tensile Stress Tensile stress is defined as the force exerted per unit cross-sectional area of a material Where: σ = tensile stress (Pa) F = force applied (N) A = cross-sectional area (m 2 ) The ultimate tensile stress is the maximum force per original cross-sectional area a wire is able to support until it breaks σ is the greek letter lower-case 'sigma' σ has the units of pascals (Pa), which is the same units as pressure (also force ÷ area) Tensile Strain Strain is the extension per unit length This is a deformation of a solid due to stress in the form of elongation or contraction Where: Δ L = extension (m) L = original length (m) The strain is a dimensionless unit because it’s the ratio of lengths Sometimes strain might be written as a percentage For example, extending a 0.1 m wire by 0.005 m would produce a strain of (0.005 ÷ 0.1) × 100 = 5 % Worked Example A brass wire of length 4.50 m and a radius of 0.2 mm is extended to a total length of 4.53 when a tensile force of 50 N is applied. Calculate for the brass wire: (i) The tensile stress (ii) The tensile strain Answer: (i) Calculate the tensile stress Step 1: Write down the tensile stress equation Tensile stress = Force ÷ Cross-sectional area Step 2: Calculate the cross-sectional area, A of the wire A wire has a circular cross-sectional area = πr 2 Area = π × (0.2 × 10 -3 ) 2 =1.2566 × 10 -7 m 2 Step 3: Substitute values in the tensile stress equation Tensile stress = 50 ÷ (1.2566 × 10 -7 ) = 397.899 × 10 6 Pa = 400 MPa (ii) Calculate the tensile strain Step 1: Write down the tensile strain equation Tensile strain = Extension ÷ Original length Step 2: Determine the extension The extension is total length – the original length Extension = 4.53 – 4.50 = 0.03 m Step 3: Substitute values in the tensile strain equation Tensile strain = 0.03 ÷ 4.50 = 6.7 × 10 -3 Examiner Tips and Tricks Since strain is a ratio, the extension and original length do not have to be calculated in metres. As long as they both have the same units, the strain will be correct Stress-Strain Curves Stress-strain curves describe the properties of materials such as whether they are brittle, ductile and up to what stress and strain they obey Hooke's Law and have elastic and / or plastic behaviour Each material will have a unique stress-strain curve Stress-strain graph for different materials up to their breaking stress There are important points on the stress-strain graph, some are similar to the force-extension graph The important points shown on a stress-strain graph The key points that are unique to the stress-strain graph are: Yield Stress: The force per unit area at which the material extends plastically for no / a small increase in stress The elastic strain energy stored per unit volume is the area under the Hooke's Law (straight line) region of the graph Breaking point: The stress at this point is the breaking stress. This is the maximum stress a material can stand before it fractures Elastic region: The region of the graph up till the elastic limit . In this region, the material will return to its original shape when the applied force is removed Plastic region: The region of the graph after the elastic limit . In this region, the material has deformed permanently and will not return to its original shape when the applied force is removed Worked Example The graph below shows a stress-strain curve for a copper wire. From the graph state the value of: (i) The breaking stress (ii) The stress at which plastic deformation begins Answer: (i) The breaking stress Step 1: Define breaking stress The breaking stress is the maximum stress a material can stand before it fractures. This is the stress at the final point on the graph Step 2: Determine breaking stress from the graph Draw a line to the y axis at the point of fracture The breaking stress is 190 MPa (ii) The stress at which plastic deformation begins Step 1: Define plastic formation Plastic deformation is when the material is deformed permanently and will not return to its original shape once the applied force is removed. This is shown on the graph where it is curved Step 2: Determine the stress of where plastic deformation beings on the graph Draw a line to the y axis at the point where the graph starts to curve Plastic deformation begins at a stress of 130 MPa Examiner Tips and Tricks For graph questions where the reading is subjective, the mark scheme generally allows for an acceptable range. In the above graph, an acceptable range for the graph to start curving is 120 MPa - 135 MPa.
+Tensile Stress & Strain Opposite forces can deform an object If the forces stretch the object, then they are tensile forces Tensile forces lead to the two properties of materials known as tensile stress and tensile strain Tensile Stress Tensile stress is defined as the force exerted per unit cross-sectional area of a material Where: σ = tensile stress (Pa) F = force applied (N) A = cross-sectional area (m 2 ) The ultimate tensile stress is the maximum force per original cross-sectional area a wire is able to support until it breaks σ is the greek letter lower-case 'sigma' σ has the units of pascals (Pa), which is the same units as pressure (also force ÷ area) Tensile Strain Strain is the extension per unit length This is a deformation of a solid due to stress in the form of elongation or contraction Where: Δ L = extension (m) L = original length (m) The strain is a dimensionless unit because it’s the ratio of lengths Sometimes strain might be written as a percentage For example, extending a 0.1 m wire by 0.005 m would produce a strain of (0.005 ÷ 0.1) × 100 = 5 %
+Tensile Stress & Strain
+Opposite forces can deform an object
+If the forces stretch the object, then they are tensile forces
+Tensile forces lead to the two properties of materials known as tensile stress and tensile strain
+Tensile Stress
+Tensile stress is defined as the force exerted per unit cross-sectional area of a material
+Where: σ = tensile stress (Pa) F = force applied (N) A = cross-sectional area (m 2 )
+Where:
+σ = tensile stress (Pa)
+F = force applied (N)
+A = cross-sectional area (m 2 )
+The ultimate tensile stress is the maximum force per original cross-sectional area a wire is able to support until it breaks
+σ is the greek letter lower-case 'sigma'
+σ has the units of pascals (Pa), which is the same units as pressure (also force ÷ area)
+Tensile Strain
+Strain is the extension per unit length
+This is a deformation of a solid due to stress in the form of elongation or contraction
+Where: Δ L = extension (m) L = original length (m)
+Δ L = extension (m)
+L = original length (m)
+The strain is a dimensionless unit because it’s the ratio of lengths
+Sometimes strain might be written as a percentage For example, extending a 0.1 m wire by 0.005 m would produce a strain of (0.005 ÷ 0.1) × 100 = 5 %
+Sometimes strain might be written as a percentage
+For example, extending a 0.1 m wire by 0.005 m would produce a strain of (0.005 ÷ 0.1) × 100 = 5 %
+Worked Example A brass wire of length 4.50 m and a radius of 0.2 mm is extended to a total length of 4.53 when a tensile force of 50 N is applied. Calculate for the brass wire: (i) The tensile stress (ii) The tensile strain Answer: (i) Calculate the tensile stress Step 1: Write down the tensile stress equation Tensile stress = Force ÷ Cross-sectional area Step 2: Calculate the cross-sectional area, A of the wire A wire has a circular cross-sectional area = πr 2 Area = π × (0.2 × 10 -3 ) 2 =1.2566 × 10 -7 m 2 Step 3: Substitute values in the tensile stress equation Tensile stress = 50 ÷ (1.2566 × 10 -7 ) = 397.899 × 10 6 Pa = 400 MPa (ii) Calculate the tensile strain Step 1: Write down the tensile strain equation Tensile strain = Extension ÷ Original length Step 2: Determine the extension The extension is total length – the original length Extension = 4.53 – 4.50 = 0.03 m Step 3: Substitute values in the tensile strain equation Tensile strain = 0.03 ÷ 4.50 = 6.7 × 10 -3
+Worked Example
+A brass wire of length 4.50 m and a radius of 0.2 mm is extended to a total length of 4.53 when a tensile force of 50 N is applied.
+Calculate for the brass wire:
+(i) The tensile stress
+(ii) The tensile strain
+Answer:
+(i) Calculate the tensile stress
+Step 1: Write down the tensile stress equation
+Tensile stress = Force ÷ Cross-sectional area
+Step 2: Calculate the cross-sectional area, A of the wire
+A wire has a circular cross-sectional area = πr 2
+Area = π × (0.2 × 10 -3 ) 2 =1.2566 × 10 -7 m 2
+Step 3: Substitute values in the tensile stress equation
+Tensile stress = 50 ÷ (1.2566 × 10 -7 ) = 397.899 × 10 6 Pa = 400 MPa
+(ii) Calculate the tensile strain
+Step 1: Write down the tensile strain equation
+Tensile strain = Extension ÷ Original length
+Step 2: Determine the extension
+The extension is total length – the original length
+Extension = 4.53 – 4.50 = 0.03 m
+Step 3: Substitute values in the tensile strain equation
+Tensile strain = 0.03 ÷ 4.50 = 6.7 × 10 -3
+Examiner Tips and Tricks Since strain is a ratio, the extension and original length do not have to be calculated in metres. As long as they both have the same units, the strain will be correct
+Examiner Tips and Tricks
+Since strain is a ratio, the extension and original length do not have to be calculated in metres. As long as they both have the same units, the strain will be correct
+Stress-Strain Curves Stress-strain curves describe the properties of materials such as whether they are brittle, ductile and up to what stress and strain they obey Hooke's Law and have elastic and / or plastic behaviour Each material will have a unique stress-strain curve Stress-strain graph for different materials up to their breaking stress There are important points on the stress-strain graph, some are similar to the force-extension graph The important points shown on a stress-strain graph The key points that are unique to the stress-strain graph are: Yield Stress: The force per unit area at which the material extends plastically for no / a small increase in stress The elastic strain energy stored per unit volume is the area under the Hooke's Law (straight line) region of the graph Breaking point: The stress at this point is the breaking stress. This is the maximum stress a material can stand before it fractures Elastic region: The region of the graph up till the elastic limit . In this region, the material will return to its original shape when the applied force is removed Plastic region: The region of the graph after the elastic limit . In this region, the material has deformed permanently and will not return to its original shape when the applied force is removed
+Stress-Strain Curves
+Stress-strain curves describe the properties of materials such as whether they are brittle, ductile and up to what stress and strain they obey Hooke's Law and have elastic and / or plastic behaviour
+Each material will have a unique stress-strain curve
+Stress-strain graph for different materials up to their breaking stress
+There are important points on the stress-strain graph, some are similar to the force-extension graph
+The important points shown on a stress-strain graph
+The key points that are unique to the stress-strain graph are: Yield Stress: The force per unit area at which the material extends plastically for no / a small increase in stress The elastic strain energy stored per unit volume is the area under the Hooke's Law (straight line) region of the graph Breaking point: The stress at this point is the breaking stress. This is the maximum stress a material can stand before it fractures Elastic region: The region of the graph up till the elastic limit . In this region, the material will return to its original shape when the applied force is removed Plastic region: The region of the graph after the elastic limit . In this region, the material has deformed permanently and will not return to its original shape when the applied force is removed
+The key points that are unique to the stress-strain graph are:
+Yield Stress: The force per unit area at which the material extends plastically for no / a small increase in stress
+plastically
+The elastic strain energy stored per unit volume is the area under the Hooke's Law (straight line) region of the graph
+Breaking point: The stress at this point is the breaking stress. This is the maximum stress a material can stand before it fractures
+Elastic region: The region of the graph up till the elastic limit . In this region, the material will return to its original shape when the applied force is removed
+Elastic
+elastic limit
+Plastic region: The region of the graph after the elastic limit . In this region, the material has deformed permanently and will not return to its original shape when the applied force is removed
+Plastic
+Worked Example The graph below shows a stress-strain curve for a copper wire. From the graph state the value of: (i) The breaking stress (ii) The stress at which plastic deformation begins Answer: (i) The breaking stress Step 1: Define breaking stress The breaking stress is the maximum stress a material can stand before it fractures. This is the stress at the final point on the graph Step 2: Determine breaking stress from the graph Draw a line to the y axis at the point of fracture The breaking stress is 190 MPa (ii) The stress at which plastic deformation begins Step 1: Define plastic formation Plastic deformation is when the material is deformed permanently and will not return to its original shape once the applied force is removed. This is shown on the graph where it is curved Step 2: Determine the stress of where plastic deformation beings on the graph Draw a line to the y axis at the point where the graph starts to curve Plastic deformation begins at a stress of 130 MPa
+The graph below shows a stress-strain curve for a copper wire.
+From the graph state the value of:
+(i) The breaking stress
+(ii) The stress at which plastic deformation begins
+Step 1: Define breaking stress
+The breaking stress is the maximum stress a material can stand before it fractures. This is the stress at the final point on the graph
+Step 2: Determine breaking stress from the graph
+Draw a line to the y axis at the point of fracture
+The breaking stress is 190 MPa
+Step 1: Define plastic formation
+Plastic deformation is when the material is deformed permanently and will not return to its original shape once the applied force is removed. This is shown on the graph where it is curved
+Step 2: Determine the stress of where plastic deformation beings on the graph
+Draw a line to the y axis at the point where the graph starts to curve
+Plastic deformation begins at a stress of 130 MPa
+Examiner Tips and Tricks For graph questions where the reading is subjective, the mark scheme generally allows for an acceptable range. In the above graph, an acceptable range for the graph to start curving is 120 MPa - 135 MPa.
+For graph questions where the reading is subjective, the mark scheme generally allows for an acceptable range. In the above graph, an acceptable range for the graph to start curving is 120 MPa - 135 MPa.

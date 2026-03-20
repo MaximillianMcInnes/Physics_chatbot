@@ -1,0 +1,95 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-10-evolution-of-a-low-mass-star
+HEADING: Life Cycle of a Low Mass Star ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Evolution of a Low Mass Star The life cycle of a star follows predictable stages The exact route a star's development takes depends on its initial mass Initial stages for all masses The first four stages in the life cycle of stars are the same for stars of all masses After these stages, the life-cycle branches depending on whether the star is: Low mass : stars with a mass of less than about 8 times the mass of the Sun (< 8M Sun ) The Sun is assumed to be a low mass star and follows this evolution High mass : stars with a mass of more than about 8 times the mass of the Sun (> 8M Sun ) 1. Nebula All stars form from a giant cloud of hydrogen gas and dust called a nebula Gravitational attraction between individual atoms forms denser clumps of matter This inward movement of matter is called gravitational collapse 2. Protostar The gravitational collapse causes the gas to heat up and glow, forming a protostar Work done on the particles of gas and dust by collisions between the particles causes an increase in their kinetic energy, resulting in an increase in temperature Protostars can be detected by telescopes that can observe infrared radiation Eventually, the temperature will reach millions of degrees Kelvin and the fusion of hydrogen nuclei to helium nuclei begins The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur 3. Main Sequence Star The star reaches a stable state when the inward and outward forces are in equilibrium As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases The star joins the main sequence when fusion reactions begin in the star's core A main sequence star is one in which radiation pressure is produced by the thermonuclear fusion of hydrogen nuclei into helium nuclei Forces acting on a main sequence star The balanced inward and outward forces will remain that way for millions, or even billions of years A star will spend most of its life on the main sequence 90% of stars are on the main sequence Main sequence stars can vary in mass from ~10% of the mass of the Sun to 200 times the mass of the Sun The Sun has been on the main sequence for 4.6 billion years and will remain there for an estimated 6.5 billion years Next Stages for Low Mass Stars The fate of a star beyond the main sequence depends on its mass The cut-off point for a low-mass star is less than about 8 times the mass of the Sun A low-mass star will become a red giant before turning into a white dwarf Evolution of a Low-Mass Star The lifecycle of a low mass star 4. Red Giant Hydrogen fuelling the star begins to run out Most of the hydrogen nuclei in the core of the star have been fused into helium Nuclear fusion slows The energy released by fusion reactions decreases The star initially shrinks and compresses the core until fusion can continue in the shell around the core Once fusion reactions start again, the outer layers expand and cool as a red giant forms A red giant is a large, low-temperature, luminous star in which helium nuclei are fused into more massive nuclei such as beryllium, carbon and oxygen 5. Planetary Nebula The outer layers of the star are released Core helium burning releases massive amounts of energy in fusion reactions 6. White Dwarf The solid core collapses under its own mass, leaving the remnant of the core called a white dwarf A white dwarf is an extremely dense , hot star powered by the gravitational potential energy released as it contracts, rather than by nuclear fusion Worked Example Stars less massive than our Sun will leave the main sequence and become red giants. Describe and explain the next stages of evolution for such stars. Answer: Step 1: Plan your answer Make a list of the remaining stages in the evolution of a low-mass star adding any important points or keywords Red giant Planetary nebula White dwarf Fuel runs out Forces no longer balanced Expands and cools Fusion continues in shell Carbon-oxygen core not hot enough for further fusion Outer layers released Hot, dense remnant of the core Step 2: Use the plan to keep the answer concise and logically sequenced Low-mass stars leave the main sequence and become red giants when the hydrogen in the core runs out. Reduced energy released by fusion leads to radiation pressure decreasing Radiation pressure and gas pressure no longer balance the gravitational pressure and the core collapses. Fusion no longer takes place inside the core The outer layers expand and cool to form a red giant. Temperatures generated by the collapsing core are high enough for fusion to occur in the shell around the core. Contraction of the core produces temperatures great enough for the fusion of helium into carbon and oxygen. The carbon-oxygen core is not hot enough for further fusion, so the core collapses The outer layers are ejected forming a planetary nebula. The remnant core remains intact leaving a hot, dense, solid core called a white dwarf.
+Evolution of a Low Mass Star The life cycle of a star follows predictable stages The exact route a star's development takes depends on its initial mass Initial stages for all masses The first four stages in the life cycle of stars are the same for stars of all masses After these stages, the life-cycle branches depending on whether the star is: Low mass : stars with a mass of less than about 8 times the mass of the Sun (< 8M Sun ) The Sun is assumed to be a low mass star and follows this evolution High mass : stars with a mass of more than about 8 times the mass of the Sun (> 8M Sun ) 1. Nebula All stars form from a giant cloud of hydrogen gas and dust called a nebula Gravitational attraction between individual atoms forms denser clumps of matter This inward movement of matter is called gravitational collapse 2. Protostar The gravitational collapse causes the gas to heat up and glow, forming a protostar Work done on the particles of gas and dust by collisions between the particles causes an increase in their kinetic energy, resulting in an increase in temperature Protostars can be detected by telescopes that can observe infrared radiation Eventually, the temperature will reach millions of degrees Kelvin and the fusion of hydrogen nuclei to helium nuclei begins The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur 3. Main Sequence Star The star reaches a stable state when the inward and outward forces are in equilibrium As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases The star joins the main sequence when fusion reactions begin in the star's core A main sequence star is one in which radiation pressure is produced by the thermonuclear fusion of hydrogen nuclei into helium nuclei Forces acting on a main sequence star The balanced inward and outward forces will remain that way for millions, or even billions of years A star will spend most of its life on the main sequence 90% of stars are on the main sequence Main sequence stars can vary in mass from ~10% of the mass of the Sun to 200 times the mass of the Sun The Sun has been on the main sequence for 4.6 billion years and will remain there for an estimated 6.5 billion years Next Stages for Low Mass Stars The fate of a star beyond the main sequence depends on its mass The cut-off point for a low-mass star is less than about 8 times the mass of the Sun A low-mass star will become a red giant before turning into a white dwarf Evolution of a Low-Mass Star The lifecycle of a low mass star 4. Red Giant Hydrogen fuelling the star begins to run out Most of the hydrogen nuclei in the core of the star have been fused into helium Nuclear fusion slows The energy released by fusion reactions decreases The star initially shrinks and compresses the core until fusion can continue in the shell around the core Once fusion reactions start again, the outer layers expand and cool as a red giant forms A red giant is a large, low-temperature, luminous star in which helium nuclei are fused into more massive nuclei such as beryllium, carbon and oxygen 5. Planetary Nebula The outer layers of the star are released Core helium burning releases massive amounts of energy in fusion reactions 6. White Dwarf The solid core collapses under its own mass, leaving the remnant of the core called a white dwarf A white dwarf is an extremely dense , hot star powered by the gravitational potential energy released as it contracts, rather than by nuclear fusion
+Evolution of a Low Mass Star
+The life cycle of a star follows predictable stages
+The exact route a star's development takes depends on its initial mass
+Initial stages for all masses
+The first four stages in the life cycle of stars are the same for stars of all masses
+After these stages, the life-cycle branches depending on whether the star is: Low mass : stars with a mass of less than about 8 times the mass of the Sun (< 8M Sun ) The Sun is assumed to be a low mass star and follows this evolution High mass : stars with a mass of more than about 8 times the mass of the Sun (> 8M Sun )
+After these stages, the life-cycle branches depending on whether the star is:
+Low mass : stars with a mass of less than about 8 times the mass of the Sun (< 8M Sun ) The Sun is assumed to be a low mass star and follows this evolution
+Low mass : stars with a mass of less than about 8 times the mass of the Sun (< 8M Sun )
+The Sun is assumed to be a low mass star and follows this evolution
+High mass : stars with a mass of more than about 8 times the mass of the Sun (> 8M Sun )
+1. Nebula
+All stars form from a giant cloud of hydrogen gas and dust called a nebula Gravitational attraction between individual atoms forms denser clumps of matter This inward movement of matter is called gravitational collapse
+All stars form from a giant cloud of hydrogen gas and dust called a nebula
+Gravitational attraction between individual atoms forms denser clumps of matter
+This inward movement of matter is called gravitational collapse
+gravitational collapse
+2. Protostar
+The gravitational collapse causes the gas to heat up and glow, forming a protostar Work done on the particles of gas and dust by collisions between the particles causes an increase in their kinetic energy, resulting in an increase in temperature Protostars can be detected by telescopes that can observe infrared radiation
+The gravitational collapse causes the gas to heat up and glow, forming a protostar
+Work done on the particles of gas and dust by collisions between the particles causes an increase in their kinetic energy, resulting in an increase in temperature
+Protostars can be detected by telescopes that can observe infrared radiation
+Eventually, the temperature will reach millions of degrees Kelvin and the fusion of hydrogen nuclei to helium nuclei begins The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur
+Eventually, the temperature will reach millions of degrees Kelvin and the fusion of hydrogen nuclei to helium nuclei begins
+degrees Kelvin
+The protostar’s gravitational field continues to attract more gas and dust, increasing the temperature and pressure of the core
+With more frequent collisions, the kinetic energy of the particles increases, increasing the probability that fusion will occur
+3. Main Sequence Star
+The star reaches a stable state when the inward and outward forces are in equilibrium As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases
+The star reaches a stable state when the inward and outward forces are in equilibrium
+As the temperature of the star increases and its volume decreases due to gravitational collapse, the gas pressure increases
+The star joins the main sequence when fusion reactions begin in the star's core
+A main sequence star is one in which radiation pressure is produced by the thermonuclear fusion of hydrogen nuclei into helium nuclei
+Forces acting on a main sequence star
+The balanced inward and outward forces will remain that way for millions, or even billions of years
+A star will spend most of its life on the main sequence 90% of stars are on the main sequence Main sequence stars can vary in mass from ~10% of the mass of the Sun to 200 times the mass of the Sun The Sun has been on the main sequence for 4.6 billion years and will remain there for an estimated 6.5 billion years
+A star will spend most of its life on the main sequence
+90% of stars are on the main sequence
+Main sequence stars can vary in mass from ~10% of the mass of the Sun to 200 times the mass of the Sun
+The Sun has been on the main sequence for 4.6 billion years and will remain there for an estimated 6.5 billion years
+Next Stages for Low Mass Stars
+The fate of a star beyond the main sequence depends on its mass The cut-off point for a low-mass star is less than about 8 times the mass of the Sun A low-mass star will become a red giant before turning into a white dwarf
+The fate of a star beyond the main sequence depends on its mass
+The cut-off point for a low-mass star is less than about 8 times the mass of the Sun
+A low-mass star will become a red giant before turning into a white dwarf
+Evolution of a Low-Mass Star
+The lifecycle of a low mass star
+4. Red Giant
+Hydrogen fuelling the star begins to run out Most of the hydrogen nuclei in the core of the star have been fused into helium Nuclear fusion slows The energy released by fusion reactions decreases
+Hydrogen fuelling the star begins to run out
+Most of the hydrogen nuclei in the core of the star have been fused into helium
+Nuclear fusion slows
+Nuclear fusion
+The energy released by fusion reactions decreases
+The star initially shrinks and compresses the core until fusion can continue in the shell around the core
+Once fusion reactions start again, the outer layers expand and cool as a red giant forms
+A red giant is a large, low-temperature, luminous star in which helium nuclei are fused into more massive nuclei such as beryllium, carbon and oxygen
+5. Planetary Nebula
+The outer layers of the star are released
+Core helium burning releases massive amounts of energy in fusion reactions
+6. White Dwarf
+The solid core collapses under its own mass, leaving the remnant of the core called a white dwarf
+A white dwarf is an extremely dense , hot star powered by the gravitational potential energy released as it contracts, rather than by nuclear fusion
+Worked Example Stars less massive than our Sun will leave the main sequence and become red giants. Describe and explain the next stages of evolution for such stars. Answer: Step 1: Plan your answer Make a list of the remaining stages in the evolution of a low-mass star adding any important points or keywords Red giant Planetary nebula White dwarf Fuel runs out Forces no longer balanced Expands and cools Fusion continues in shell Carbon-oxygen core not hot enough for further fusion Outer layers released Hot, dense remnant of the core Step 2: Use the plan to keep the answer concise and logically sequenced Low-mass stars leave the main sequence and become red giants when the hydrogen in the core runs out. Reduced energy released by fusion leads to radiation pressure decreasing Radiation pressure and gas pressure no longer balance the gravitational pressure and the core collapses. Fusion no longer takes place inside the core The outer layers expand and cool to form a red giant. Temperatures generated by the collapsing core are high enough for fusion to occur in the shell around the core. Contraction of the core produces temperatures great enough for the fusion of helium into carbon and oxygen. The carbon-oxygen core is not hot enough for further fusion, so the core collapses The outer layers are ejected forming a planetary nebula. The remnant core remains intact leaving a hot, dense, solid core called a white dwarf.
+Worked Example
+Stars less massive than our Sun will leave the main sequence and become red giants.
+Describe and explain the next stages of evolution for such stars.
+Answer:
+Step 1: Plan your answer
+Make a list of the remaining stages in the evolution of a low-mass star adding any important points or keywords
+Red giant Planetary nebula White dwarf Fuel runs out Forces no longer balanced Expands and cools Fusion continues in shell Carbon-oxygen core not hot enough for further fusion Outer layers released Hot, dense remnant of the core
+Red giant
+Planetary nebula
+White dwarf
+Fuel runs out
+Forces no longer balanced
+Expands and cools
+Fusion continues in shell
+Carbon-oxygen core not hot enough for further fusion
+Outer layers released
+Hot, dense remnant of the core
+Step 2: Use the plan to keep the answer concise and logically sequenced
+Low-mass stars leave the main sequence and become red giants when the hydrogen in the core runs out. Reduced energy released by fusion leads to radiation pressure decreasing
+Radiation pressure and gas pressure no longer balance the gravitational pressure and the core collapses. Fusion no longer takes place inside the core
+The outer layers expand and cool to form a red giant. Temperatures generated by the collapsing core are high enough for fusion to occur in the shell around the core.
+Contraction of the core produces temperatures great enough for the fusion of helium into carbon and oxygen. The carbon-oxygen core is not hot enough for further fusion, so the core collapses
+The outer layers are ejected forming a planetary nebula.
+The remnant core remains intact leaving a hot, dense, solid core called a white dwarf.

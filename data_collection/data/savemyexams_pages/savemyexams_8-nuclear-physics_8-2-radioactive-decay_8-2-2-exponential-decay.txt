@@ -1,0 +1,99 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-2-radioactive-decay/8-2-2-exponential-decay
+HEADING: Exponential Decay ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Exponential Decay In radioactive decay, the number of undecayed nuclei falls very rapidly, without ever reaching zero Such a model is known as exponential decay The graph of number of undecayed nuclei against time has a very distinctive shape: Radioactive decay follows an exponential pattern. The graph shows three different isotopes each with a different rate of decay The key features of this graph are: The steeper the slope, the larger the decay constant λ (and vice versa) The decay curves always start on the y-axis at the initial number of undecayed nuclei (N 0 ) Equations for Radioactive Decay The number of undecayed nuclei N can be represented in exponential form by the equation: Where: N 0 = the initial number of undecayed nuclei (when t = 0) N = number of undecayed nuclei at a certain time t λ = decay constant (s -1 ) t = time interval (s) The number of nuclei can be substituted for other quantities. For example, the activity A is directly proportional to N , so it can also be represented in exponential form by the equation: Where: A = activity at a certain time t (Bq) A 0 = initial activity (Bq) The received count rate C is related to the activity of the sample, hence it can also be represented in exponential form by the equation: Where: C = count rate at a certain time t (counts per minute or cpm) C 0 = initial count rate (counts per minute or cpm) The exponential function e The symbol represents the exponential constant It is approximately equal to = 2.718 On a calculator it is shown by the button The inverse function of is , known as the natural logarithmic function This is because, if , then Worked Example Strontium-90 decays with the emission of a β-particle to form yttrium-90. The decay constant of strontium-90 is 0.025 year -1 . Determine the activity of the sample after 5.0 years, expressing the answer as a fraction of the initial activity . Answer: Step 1: Write out the known quantities Decay constant, λ = 0.025 year -1 Time interval, t = 5.0 years Both quantities have the same unit, so there is no need for conversion Step 2: Write the equation for activity in exponential form Step 3: Rearrange the equation for the ratio between A and A 0 Step 4: Calculate the ratio A / A 0 Therefore, the activity of strontium-90 decreases by a factor of 0.88, or 12%, after 5 years Using Molar Mass & The Avogadro Constant Molar mass The molar mass, or molecular mass, of a substance is the mass of a substance, in grams, in one mole Its unit is g mol -1 The number of moles from this can be calculated using the equation: Avogadro’s constant Avogadro’s constant is defined as: The number of atoms in one mole of a substance; equal to 6.02 × 10 23 mol -1 For example, 1 mole of sodium (Na) contains 6.02 × 10 23 atoms of sodium The number of atoms, or nuclei, can be determined using the equation: Worked Example Americium-241 is an artificially produced radioactive element that emits α-particles. In a smoke detector, a sample of americium-241 of mass 5.1 µg is found to have an activity of 5.9 × 10 5 Bq. The supplier’s website says the americium-241 in their smoke detectors initially has an activity level of 6.1 × 10 5 Bq. Determine: (a) the number of nuclei in the sample of americium-241 (b) the decay constant of americium-241 (c) the age of the smoke detector in years. Answer: Part (a) Step 1: Write down the known quantities Mass = 5.1 μg = 5.1 × 10 −6 g Molecular mass of americium = 241 Avogadro constant , = 6.02 × 10 23 mol −1 Step 2: Write down the equation relating number of nuclei, mass and molecular mass Step 3: Calculate the number of nuclei Number of nuclei: = 1.27 × 10 16 Part (b) Step 1: Write down the known quantities Activity, A = 5.9 × 10 5 Bq Number of nuclei, N = 1.27 × 10 16 Step 2: Write the equation for activity Activity: Step 3: Rearrange for decay constant λ and calculate the answer Part (c) Step 1: Write down the known quantities Activity, A = 5.9 × 10 5 Bq Initial activity, A 0 = 6.1 × 10 5 Bq Decay constant, λ = 4.65 × 10 –11 s –1 Step 2: Write the equation for activity in exponential form Step 3: Rearrange for time t Step 4: Calculate the age of the smoke detector and convert to years s = 22.7 years Therefore, the smoke detector is 22.7 years old
+Exponential Decay In radioactive decay, the number of undecayed nuclei falls very rapidly, without ever reaching zero Such a model is known as exponential decay The graph of number of undecayed nuclei against time has a very distinctive shape: Radioactive decay follows an exponential pattern. The graph shows three different isotopes each with a different rate of decay The key features of this graph are: The steeper the slope, the larger the decay constant λ (and vice versa) The decay curves always start on the y-axis at the initial number of undecayed nuclei (N 0 ) Equations for Radioactive Decay The number of undecayed nuclei N can be represented in exponential form by the equation: Where: N 0 = the initial number of undecayed nuclei (when t = 0) N = number of undecayed nuclei at a certain time t λ = decay constant (s -1 ) t = time interval (s) The number of nuclei can be substituted for other quantities. For example, the activity A is directly proportional to N , so it can also be represented in exponential form by the equation: Where: A = activity at a certain time t (Bq) A 0 = initial activity (Bq) The received count rate C is related to the activity of the sample, hence it can also be represented in exponential form by the equation: Where: C = count rate at a certain time t (counts per minute or cpm) C 0 = initial count rate (counts per minute or cpm) The exponential function e The symbol represents the exponential constant It is approximately equal to = 2.718 On a calculator it is shown by the button The inverse function of is , known as the natural logarithmic function This is because, if , then
+In radioactive decay, the number of undecayed nuclei falls very rapidly, without ever reaching zero Such a model is known as exponential decay
+In radioactive decay, the number of undecayed nuclei falls very rapidly, without ever reaching zero
+Such a model is known as exponential decay
+exponential decay
+The graph of number of undecayed nuclei against time has a very distinctive shape:
+Radioactive decay follows an exponential pattern. The graph shows three different isotopes each with a different rate of decay
+The key features of this graph are: The steeper the slope, the larger the decay constant λ (and vice versa) The decay curves always start on the y-axis at the initial number of undecayed nuclei (N 0 )
+The key features of this graph are:
+The steeper the slope, the larger the decay constant λ (and vice versa)
+The decay curves always start on the y-axis at the initial number of undecayed nuclei (N 0 )
+Equations for Radioactive Decay
+The number of undecayed nuclei N can be represented in exponential form by the equation:
+Where: N 0 = the initial number of undecayed nuclei (when t = 0) N = number of undecayed nuclei at a certain time t λ = decay constant (s -1 ) t = time interval (s)
+Where:
+N 0 = the initial number of undecayed nuclei (when t = 0)
+N = number of undecayed nuclei at a certain time t
+λ = decay constant (s -1 )
+t = time interval (s)
+The number of nuclei can be substituted for other quantities.
+For example, the activity A is directly proportional to N , so it can also be represented in exponential form by the equation:
+Where: A = activity at a certain time t (Bq) A 0 = initial activity (Bq)
+A = activity at a certain time t (Bq)
+A 0 = initial activity (Bq)
+The received count rate C is related to the activity of the sample, hence it can also be represented in exponential form by the equation:
+Where: C = count rate at a certain time t (counts per minute or cpm) C 0 = initial count rate (counts per minute or cpm)
+C = count rate at a certain time t (counts per minute or cpm)
+C 0 = initial count rate (counts per minute or cpm)
+The exponential function e
+The symbol represents the exponential constant It is approximately equal to = 2.718
+The symbol represents the exponential constant
+It is approximately equal to = 2.718
+On a calculator it is shown by the button
+The inverse function of is , known as the natural logarithmic function This is because, if , then
+The inverse function of is , known as the natural logarithmic function
+This is because, if , then
+Worked Example Strontium-90 decays with the emission of a β-particle to form yttrium-90. The decay constant of strontium-90 is 0.025 year -1 . Determine the activity of the sample after 5.0 years, expressing the answer as a fraction of the initial activity . Answer: Step 1: Write out the known quantities Decay constant, λ = 0.025 year -1 Time interval, t = 5.0 years Both quantities have the same unit, so there is no need for conversion Step 2: Write the equation for activity in exponential form Step 3: Rearrange the equation for the ratio between A and A 0 Step 4: Calculate the ratio A / A 0 Therefore, the activity of strontium-90 decreases by a factor of 0.88, or 12%, after 5 years
+Worked Example
+Strontium-90 decays with the emission of a β-particle to form yttrium-90.
+The decay constant of strontium-90 is 0.025 year -1 .
+Determine the activity of the sample after 5.0 years, expressing the answer as a fraction of the initial activity .
+Answer:
+Step 1: Write out the known quantities
+Decay constant, λ = 0.025 year -1
+Time interval, t = 5.0 years
+Both quantities have the same unit, so there is no need for conversion
+Step 2: Write the equation for activity in exponential form
+Step 3: Rearrange the equation for the ratio between A and A 0
+Step 4: Calculate the ratio A / A 0
+Therefore, the activity of strontium-90 decreases by a factor of 0.88, or 12%, after 5 years
+Using Molar Mass & The Avogadro Constant Molar mass The molar mass, or molecular mass, of a substance is the mass of a substance, in grams, in one mole Its unit is g mol -1 The number of moles from this can be calculated using the equation: Avogadro’s constant Avogadro’s constant is defined as: The number of atoms in one mole of a substance; equal to 6.02 × 10 23 mol -1 For example, 1 mole of sodium (Na) contains 6.02 × 10 23 atoms of sodium The number of atoms, or nuclei, can be determined using the equation:
+Using Molar Mass & The Avogadro Constant
+Molar mass
+The molar mass, or molecular mass, of a substance is the mass of a substance, in grams, in one mole Its unit is g mol -1
+The molar mass, or molecular mass, of a substance is the mass of a substance, in grams, in one mole
+Its unit is g mol -1
+The number of moles from this can be calculated using the equation:
+Avogadro’s constant
+Avogadro’s constant is defined as:
+The number of atoms in one mole of a substance; equal to 6.02 × 10 23 mol -1
+For example, 1 mole of sodium (Na) contains 6.02 × 10 23 atoms of sodium
+The number of atoms, or nuclei, can be determined using the equation:
+Worked Example Americium-241 is an artificially produced radioactive element that emits α-particles. In a smoke detector, a sample of americium-241 of mass 5.1 µg is found to have an activity of 5.9 × 10 5 Bq. The supplier’s website says the americium-241 in their smoke detectors initially has an activity level of 6.1 × 10 5 Bq. Determine: (a) the number of nuclei in the sample of americium-241 (b) the decay constant of americium-241 (c) the age of the smoke detector in years. Answer: Part (a) Step 1: Write down the known quantities Mass = 5.1 μg = 5.1 × 10 −6 g Molecular mass of americium = 241 Avogadro constant , = 6.02 × 10 23 mol −1 Step 2: Write down the equation relating number of nuclei, mass and molecular mass Step 3: Calculate the number of nuclei Number of nuclei: = 1.27 × 10 16 Part (b) Step 1: Write down the known quantities Activity, A = 5.9 × 10 5 Bq Number of nuclei, N = 1.27 × 10 16 Step 2: Write the equation for activity Activity: Step 3: Rearrange for decay constant λ and calculate the answer Part (c) Step 1: Write down the known quantities Activity, A = 5.9 × 10 5 Bq Initial activity, A 0 = 6.1 × 10 5 Bq Decay constant, λ = 4.65 × 10 –11 s –1 Step 2: Write the equation for activity in exponential form Step 3: Rearrange for time t Step 4: Calculate the age of the smoke detector and convert to years s = 22.7 years Therefore, the smoke detector is 22.7 years old
+Americium-241 is an artificially produced radioactive element that emits α-particles.
+In a smoke detector, a sample of americium-241 of mass 5.1 µg is found to have an activity of 5.9 × 10 5 Bq. The supplier’s website says the americium-241 in their smoke detectors initially has an activity level of 6.1 × 10 5 Bq.
+Determine:
+(a) the number of nuclei in the sample of americium-241
+(b) the decay constant of americium-241
+(c) the age of the smoke detector in years.
+Part (a)
+Step 1: Write down the known quantities
+Mass = 5.1 μg = 5.1 × 10 −6 g Molecular mass of americium = 241 Avogadro constant , = 6.02 × 10 23 mol −1
+Mass = 5.1 μg = 5.1 × 10 −6 g
+Molecular mass of americium = 241
+Avogadro constant , = 6.02 × 10 23 mol −1
+Avogadro constant
+Step 2: Write down the equation relating number of nuclei, mass and molecular mass
+Step 3: Calculate the number of nuclei
+Number of nuclei: = 1.27 × 10 16
+Part (b)
+Activity, A = 5.9 × 10 5 Bq
+Number of nuclei, N = 1.27 × 10 16
+Step 2: Write the equation for activity
+Activity:
+Step 3: Rearrange for decay constant λ and calculate the answer
+Part (c)
+Initial activity, A 0 = 6.1 × 10 5 Bq
+Decay constant, λ = 4.65 × 10 –11 s –1
+Step 3: Rearrange for time t
+Step 4: Calculate the age of the smoke detector and convert to years
+s
+= 22.7 years
+Therefore, the smoke detector is 22.7 years old

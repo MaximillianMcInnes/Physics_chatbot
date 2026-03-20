@@ -1,0 +1,172 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-5-x-ray-imaging/10-5-5-attenuation-of-x-rays
+HEADING: Attenuation of X-rays ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Attenuation of X-rays in Matter When a collimated beam of X-rays passes through a patient’s body, the X-ray photons are absorbed and scattered Different materials absorb X-rays by different amounts For example, bones absorb a large proportion of X-ray photons which is why they appear bright white on an X-ray image As the X-rays pass through a material, the intensity of the beam is found to decay exponentially This decrease in intensity is known as attenuation The attenuation of X-rays can be calculated using the equation: Where: = the intensity of the incident beam (W m -2 ) = the intensity of the transmitted beam (W m -2 ) = the linear absorption coefficient (m -1 ) = distance travelled through the material (m) The linear attenuation coefficient is defined as The fraction of X-rays removed per unit thickness of the material for a specified energy of the X-rays The value of μ depends on the density of a substance and the energy of the X-ray photons The greater the density of a material, the greater the value of μ For example, bone absorbs a greater proportion of X-rays than soft tissue due to its higher density Absorption of X-rays by flesh and bone Bone is denser than soft tissues, such as flesh, so X-rays are absorbed more over a shorter distance Half-value thickness Similar to half-life in radioactivity, a material's ability to absorb X-rays is known as its half-value thickness The half-value thickness of a material can be defined as: The thickness of the material which will reduce the intensity of X-rays to half its original level for a specified energy of the X-rays If the half-value thickness is , then intensity has a value of , so substituting this into the attenuation equation gives: Taking natural logarithms of both sides gives Hence, the half-value thickness of a substance is given by: Worked Example A student investigates the absorption of X-ray radiation in a model arm. A cross-section of the model arm is shown in the diagram. Parallel X-ray beams are directed along line MM and line BB. The linear absorption coefficients of the muscle and the bone are 0.20 cm −1 and 12 cm −1 respectively. Calculate the ratio: for a parallel X-ray beam directed along (a) line MM (b) line BB and state whether the X-ray images have good contrast. Answer: Part (a) Step 1: Write out the known quantities Linear absorption coefficient for muscle, = 0.20 cm -1 Distance travelled through the muscle, = 8.0 cm Step 2: Write out the equation for attenuation and rearrange Where = the intensity of the incident X-ray beam from the model And = the intensity of the incident X-ray beam on the model Step 3: Substitute in values and calculate the ratio Part (b) Step 1: Write out the known quantities Linear absorption coefficient for muscle, = 0.20 cm -1 Linear absorption coefficient for bone, = 12 cm -1 Distance travelled through the muscle, = 4.0 cm Distance travelled through the bone, = 4.0 cm Step 2: Write out the equation for attenuation for two media and rearrange Step 3: Substitute in values and calculate the ratio Step 4: Write a concluding statement Each ratio gives a measure of the amount of transmission of the beam from the model A good contrast is when: There is a large difference between the intensities The ratio is much less than 1.0 Therefore, both images have a good contrast Differential Tissue Absorption The amount of attenuation of a beam of X-rays depends on the density of the absorbing tissue the energy of the X-ray photons The linear attenuation coefficient μ of an absorber is proportional to the density ρ of the absorbing substance The higher the density of a material, the more X-ray energy that it absorbs This is because the photons interact with more atoms, or a larger mass of atoms, in the same volume Therefore, dividing the value of μ of a material by its density gives a constant value for that particular substance This constant is known as the mass attenuation coefficient Where: = mass attenuation coefficient (m 2 kg –1 ) = linear attenuation coefficient (m –1 ) = density of the absorbing material (kg m –3 ) The mass attenuation coefficient of a substance describes how easily a beam of X-rays of a certain energy can penetrate it The greater the mass attenuation coefficient, the stronger the absorption of X-rays by the material The lower the mass attenuation coefficient, the greater the penetration of X-rays through the material Mass attenuation coefficients for common elements At very high and very low X-ray energies, differences in attenuation are very small. The optimum range for distinguishing different tissues is 30 keV to 100 keV Photons of energies less than 30 keV... are absorbed by soft tissue and bone Therefore, these photons are removed from the X-ray beam by placing a suitable metal filter (e.g. lead or tin) in the path of the X-ray beam Photons of energies between 30 keV and 100 keV... are absorbed more readily by bone than by soft tissue This is because the elements in bone have higher atomic numbers than the elements in soft tissues so bone can absorb photons in this energy range more readily Therefore, these photons are used to distinguish between soft tissue and bone Photons of energies greater than 100 keV... are absorbed more equally in all types of tissue, including bone This means they produce no distinction between any tissues Therefore, these photons are not used in diagnostic X-ray imaging Attenuation in different elements The graph of mass attenuation coefficient and X-ray photon energy for elements with different values of atomic number Z shows that Elements with lower Z values tend to absorb a lower proportion of X-rays Elements with higher Z values tend to absorb a greater proportion of X-rays The table below shows the composition of different substances and the effect of atomic number on attenuation Substance Elements Effect on attenuation soft tissue hydrogen , carbon and oxygen lower Z values, less attenuation bone hydrogen , carbon , oxygen , calcium and phosphorus higher Z values, more attenuation contrast media iodine and barium very high Z values, very large attenuation ideal for improving contrast heavy metals lead and tin very high Z values, high attenuation at lower energies ideal for use as metal filters Worked Example A monochromatic beam of X-rays passes through an aluminium sheet of thickness 2.5 mm. The intensity of the beam is reduced by 25%. Calculate the mass attenuation coefficient for these X-rays. The density of aluminium is 2700 kg m −3 Answer: Step 1: List the known quantities: Intensity of X-ray beam, Thickness of aluminium sheet, = 2.5 mm = 0.0025 m Density of aluminium, = 2700 kg m −3 Step 2: Determine the linear attenuation coefficient of the X-rays Take natural logs of both sides: linear attenuation coefficient: = 115 m −1 Step 3: Determine the mass attenuation coefficient of the X-rays mass attenuation coefficient: = 0.043 m 2 kg −1 Worked Example The table shows the linear attenuation coefficients for bone and muscle at three different X-ray photon energies. Photon energy / keV Bone μ / cm –1 Muscle μ / cm –1 30 2.13 0.41 50 0.68 0.24 80 0.36 0.20 100 0.30 0.18 Determine the energy of X-ray photons that would produce an image of muscle next to bone with the best contrast. Answer: Step 1: Recall the factor that determines the quality of contrast Contrast depends on the difference in attenuation The smaller the difference in attenuation, the poorer the contrast The larger the difference in attenuation, the better the contrast Step 2: Determine the difference between the values of attenuation at each energy At 30 keV, the difference in attenuation is 2.13 − 0.41 = 1.72 cm –1 At 50 keV, the difference in attenuation is 0.68 − 0.24 = 0.44 cm –1 At 80 keV, the difference in attenuation is 0.36 − 0.20 = 0.16 cm –1 At 100 keV, the difference in attenuation is 0.30 − 0.18 = 0.12 cm –1 The difference between µ of bone and muscle is greatest using 30 keV X-rays hence this energy would produce an image with the best contrast
+Attenuation of X-rays in Matter When a collimated beam of X-rays passes through a patient’s body, the X-ray photons are absorbed and scattered Different materials absorb X-rays by different amounts For example, bones absorb a large proportion of X-ray photons which is why they appear bright white on an X-ray image As the X-rays pass through a material, the intensity of the beam is found to decay exponentially This decrease in intensity is known as attenuation The attenuation of X-rays can be calculated using the equation: Where: = the intensity of the incident beam (W m -2 ) = the intensity of the transmitted beam (W m -2 ) = the linear absorption coefficient (m -1 ) = distance travelled through the material (m) The linear attenuation coefficient is defined as The fraction of X-rays removed per unit thickness of the material for a specified energy of the X-rays The value of μ depends on the density of a substance and the energy of the X-ray photons The greater the density of a material, the greater the value of μ For example, bone absorbs a greater proportion of X-rays than soft tissue due to its higher density Absorption of X-rays by flesh and bone Bone is denser than soft tissues, such as flesh, so X-rays are absorbed more over a shorter distance Half-value thickness Similar to half-life in radioactivity, a material's ability to absorb X-rays is known as its half-value thickness The half-value thickness of a material can be defined as: The thickness of the material which will reduce the intensity of X-rays to half its original level for a specified energy of the X-rays If the half-value thickness is , then intensity has a value of , so substituting this into the attenuation equation gives: Taking natural logarithms of both sides gives Hence, the half-value thickness of a substance is given by:
+Attenuation of X-rays in Matter
+When a collimated beam of X-rays passes through a patient’s body, the X-ray photons are absorbed and scattered
+collimated beam
+Different materials absorb X-rays by different amounts For example, bones absorb a large proportion of X-ray photons which is why they appear bright white on an X-ray image
+Different materials absorb X-rays by different amounts
+For example, bones absorb a large proportion of X-ray photons which is why they appear bright white on an X-ray image
+As the X-rays pass through a material, the intensity of the beam is found to decay exponentially This decrease in intensity is known as attenuation
+As the X-rays pass through a material, the intensity of the beam is found to decay exponentially
+decay exponentially
+This decrease in intensity is known as attenuation
+The attenuation of X-rays can be calculated using the equation:
+Where: = the intensity of the incident beam (W m -2 ) = the intensity of the transmitted beam (W m -2 ) = the linear absorption coefficient (m -1 ) = distance travelled through the material (m)
+Where:
+= the intensity of the incident beam (W m -2 )
+= the intensity of the transmitted beam (W m -2 )
+= the linear absorption coefficient (m -1 )
+= distance travelled through the material (m)
+The linear attenuation coefficient is defined as
+The fraction of X-rays removed per unit thickness of the material for a specified energy of the X-rays
+The value of μ depends on the density of a substance and the energy of the X-ray photons The greater the density of a material, the greater the value of μ For example, bone absorbs a greater proportion of X-rays than soft tissue due to its higher density
+The value of μ depends on the density of a substance and the energy of the X-ray photons
+The greater the density of a material, the greater the value of μ
+For example, bone absorbs a greater proportion of X-rays than soft tissue due to its higher density
+Absorption of X-rays by flesh and bone
+Bone is denser than soft tissues, such as flesh, so X-rays are absorbed more over a shorter distance
+Half-value thickness
+Similar to half-life in radioactivity, a material's ability to absorb X-rays is known as its half-value thickness
+The half-value thickness of a material can be defined as:
+The thickness of the material which will reduce the intensity of X-rays to half its original level for a specified energy of the X-rays
+If the half-value thickness is , then intensity has a value of , so substituting this into the attenuation equation gives:
+Taking natural logarithms of both sides gives
+Hence, the half-value thickness of a substance is given by:
+Worked Example A student investigates the absorption of X-ray radiation in a model arm. A cross-section of the model arm is shown in the diagram. Parallel X-ray beams are directed along line MM and line BB. The linear absorption coefficients of the muscle and the bone are 0.20 cm −1 and 12 cm −1 respectively. Calculate the ratio: for a parallel X-ray beam directed along (a) line MM (b) line BB and state whether the X-ray images have good contrast. Answer: Part (a) Step 1: Write out the known quantities Linear absorption coefficient for muscle, = 0.20 cm -1 Distance travelled through the muscle, = 8.0 cm Step 2: Write out the equation for attenuation and rearrange Where = the intensity of the incident X-ray beam from the model And = the intensity of the incident X-ray beam on the model Step 3: Substitute in values and calculate the ratio Part (b) Step 1: Write out the known quantities Linear absorption coefficient for muscle, = 0.20 cm -1 Linear absorption coefficient for bone, = 12 cm -1 Distance travelled through the muscle, = 4.0 cm Distance travelled through the bone, = 4.0 cm Step 2: Write out the equation for attenuation for two media and rearrange Step 3: Substitute in values and calculate the ratio Step 4: Write a concluding statement Each ratio gives a measure of the amount of transmission of the beam from the model A good contrast is when: There is a large difference between the intensities The ratio is much less than 1.0 Therefore, both images have a good contrast
+Worked Example
+A student investigates the absorption of X-ray radiation in a model arm. A cross-section of the model arm is shown in the diagram.
+Parallel X-ray beams are directed along line MM and line BB. The linear absorption coefficients of the muscle and the bone are 0.20 cm −1 and 12 cm −1 respectively.
+Calculate the ratio:
+for a parallel X-ray beam directed along
+(a) line MM
+(b) line BB
+and state whether the X-ray images have good contrast.
+Answer:
+Part (a)
+Step 1: Write out the known quantities
+Linear absorption coefficient for muscle, = 0.20 cm -1
+Distance travelled through the muscle, = 8.0 cm
+Step 2: Write out the equation for attenuation and rearrange
+Where = the intensity of the incident X-ray beam from the model
+And = the intensity of the incident X-ray beam on the model
+Step 3: Substitute in values and calculate the ratio
+Part (b)
+Linear absorption coefficient for bone, = 12 cm -1
+Distance travelled through the muscle, = 4.0 cm
+Distance travelled through the bone, = 4.0 cm
+Step 2: Write out the equation for attenuation for two media and rearrange
+Step 4: Write a concluding statement
+Each ratio gives a measure of the amount of transmission of the beam from the model
+A good contrast is when: There is a large difference between the intensities The ratio is much less than 1.0
+A good contrast is when:
+There is a large difference between the intensities
+The ratio is much less than 1.0
+Therefore, both images have a good contrast
+Differential Tissue Absorption The amount of attenuation of a beam of X-rays depends on the density of the absorbing tissue the energy of the X-ray photons The linear attenuation coefficient μ of an absorber is proportional to the density ρ of the absorbing substance The higher the density of a material, the more X-ray energy that it absorbs This is because the photons interact with more atoms, or a larger mass of atoms, in the same volume Therefore, dividing the value of μ of a material by its density gives a constant value for that particular substance This constant is known as the mass attenuation coefficient Where: = mass attenuation coefficient (m 2 kg –1 ) = linear attenuation coefficient (m –1 ) = density of the absorbing material (kg m –3 ) The mass attenuation coefficient of a substance describes how easily a beam of X-rays of a certain energy can penetrate it The greater the mass attenuation coefficient, the stronger the absorption of X-rays by the material The lower the mass attenuation coefficient, the greater the penetration of X-rays through the material Mass attenuation coefficients for common elements At very high and very low X-ray energies, differences in attenuation are very small. The optimum range for distinguishing different tissues is 30 keV to 100 keV Photons of energies less than 30 keV... are absorbed by soft tissue and bone Therefore, these photons are removed from the X-ray beam by placing a suitable metal filter (e.g. lead or tin) in the path of the X-ray beam Photons of energies between 30 keV and 100 keV... are absorbed more readily by bone than by soft tissue This is because the elements in bone have higher atomic numbers than the elements in soft tissues so bone can absorb photons in this energy range more readily Therefore, these photons are used to distinguish between soft tissue and bone Photons of energies greater than 100 keV... are absorbed more equally in all types of tissue, including bone This means they produce no distinction between any tissues Therefore, these photons are not used in diagnostic X-ray imaging Attenuation in different elements The graph of mass attenuation coefficient and X-ray photon energy for elements with different values of atomic number Z shows that Elements with lower Z values tend to absorb a lower proportion of X-rays Elements with higher Z values tend to absorb a greater proportion of X-rays The table below shows the composition of different substances and the effect of atomic number on attenuation Substance Elements Effect on attenuation soft tissue hydrogen , carbon and oxygen lower Z values, less attenuation bone hydrogen , carbon , oxygen , calcium and phosphorus higher Z values, more attenuation contrast media iodine and barium very high Z values, very large attenuation ideal for improving contrast heavy metals lead and tin very high Z values, high attenuation at lower energies ideal for use as metal filters
+Differential Tissue Absorption
+The amount of attenuation of a beam of X-rays depends on the density of the absorbing tissue the energy of the X-ray photons
+The amount of attenuation of a beam of X-rays depends on
+the density of the absorbing tissue
+the energy of the X-ray photons
+The linear attenuation coefficient μ of an absorber is proportional to the density ρ of the absorbing substance The higher the density of a material, the more X-ray energy that it absorbs This is because the photons interact with more atoms, or a larger mass of atoms, in the same volume
+The linear attenuation coefficient μ of an absorber is proportional to the density ρ of the absorbing substance
+The higher the density of a material, the more X-ray energy that it absorbs
+This is because the photons interact with more atoms, or a larger mass of atoms, in the same volume
+Therefore, dividing the value of μ of a material by its density gives a constant value for that particular substance
+This constant is known as the mass attenuation coefficient
+Where: = mass attenuation coefficient (m 2 kg –1 ) = linear attenuation coefficient (m –1 ) = density of the absorbing material (kg m –3 )
+= mass attenuation coefficient (m 2 kg –1 )
+= linear attenuation coefficient (m –1 )
+= density of the absorbing material (kg m –3 )
+The mass attenuation coefficient of a substance describes how easily a beam of X-rays of a certain energy can penetrate it The greater the mass attenuation coefficient, the stronger the absorption of X-rays by the material The lower the mass attenuation coefficient, the greater the penetration of X-rays through the material
+The mass attenuation coefficient of a substance describes how easily a beam of X-rays of a certain energy can penetrate it
+The greater the mass attenuation coefficient, the stronger the absorption of X-rays by the material
+The lower the mass attenuation coefficient, the greater the penetration of X-rays through the material
+Mass attenuation coefficients for common elements
+At very high and very low X-ray energies, differences in attenuation are very small. The optimum range for distinguishing different tissues is 30 keV to 100 keV
+Photons of energies less than 30 keV...
+are absorbed by soft tissue and bone Therefore, these photons are removed from the X-ray beam by placing a suitable metal filter (e.g. lead or tin) in the path of the X-ray beam
+are absorbed by soft tissue and bone
+Therefore, these photons are removed from the X-ray beam by placing a suitable metal filter (e.g. lead or tin) in the path of the X-ray beam
+Photons of energies between 30 keV and 100 keV...
+are absorbed more readily by bone than by soft tissue This is because the elements in bone have higher atomic numbers than the elements in soft tissues so bone can absorb photons in this energy range more readily Therefore, these photons are used to distinguish between soft tissue and bone
+are absorbed more readily by bone than by soft tissue
+This is because the elements in bone have higher atomic numbers than the elements in soft tissues so bone can absorb photons in this energy range more readily
+Therefore, these photons are used to distinguish between soft tissue and bone
+Photons of energies greater than 100 keV...
+are absorbed more equally in all types of tissue, including bone This means they produce no distinction between any tissues Therefore, these photons are not used in diagnostic X-ray imaging
+are absorbed more equally in all types of tissue, including bone
+This means they produce no distinction between any tissues
+Therefore, these photons are not used in diagnostic X-ray imaging
+Attenuation in different elements
+The graph of mass attenuation coefficient and X-ray photon energy for elements with different values of atomic number Z shows that Elements with lower Z values tend to absorb a lower proportion of X-rays Elements with higher Z values tend to absorb a greater proportion of X-rays
+The graph of mass attenuation coefficient and X-ray photon energy for elements with different values of atomic number Z shows that
+Elements with lower Z values tend to absorb a lower proportion of X-rays
+Elements with higher Z values tend to absorb a greater proportion of X-rays
+The table below shows the composition of different substances and the effect of atomic number on attenuation
+Substance Elements Effect on attenuation soft tissue hydrogen , carbon and oxygen lower Z values, less attenuation bone hydrogen , carbon , oxygen , calcium and phosphorus higher Z values, more attenuation contrast media iodine and barium very high Z values, very large attenuation ideal for improving contrast heavy metals lead and tin very high Z values, high attenuation at lower energies ideal for use as metal filters
+Substance
+Elements
+Effect on attenuation
+soft tissue
+hydrogen , carbon and oxygen
+lower Z values, less attenuation
+bone
+hydrogen , carbon , oxygen , calcium and phosphorus
+higher Z values, more attenuation
+contrast media
+iodine and barium
+very high Z values, very large attenuation
+ideal for improving contrast
+heavy metals
+lead and tin
+very high Z values, high attenuation at lower energies
+ideal for use as metal filters
+Worked Example A monochromatic beam of X-rays passes through an aluminium sheet of thickness 2.5 mm. The intensity of the beam is reduced by 25%. Calculate the mass attenuation coefficient for these X-rays. The density of aluminium is 2700 kg m −3 Answer: Step 1: List the known quantities: Intensity of X-ray beam, Thickness of aluminium sheet, = 2.5 mm = 0.0025 m Density of aluminium, = 2700 kg m −3 Step 2: Determine the linear attenuation coefficient of the X-rays Take natural logs of both sides: linear attenuation coefficient: = 115 m −1 Step 3: Determine the mass attenuation coefficient of the X-rays mass attenuation coefficient: = 0.043 m 2 kg −1
+A monochromatic beam of X-rays passes through an aluminium sheet of thickness 2.5 mm. The intensity of the beam is reduced by 25%.
+Calculate the mass attenuation coefficient for these X-rays.
+The density of aluminium is 2700 kg m −3
+Step 1: List the known quantities:
+Intensity of X-ray beam,
+Thickness of aluminium sheet, = 2.5 mm = 0.0025 m
+Density of aluminium, = 2700 kg m −3
+Step 2: Determine the linear attenuation coefficient of the X-rays
+Take natural logs of both sides:
+linear attenuation coefficient: = 115 m −1
+Step 3: Determine the mass attenuation coefficient of the X-rays
+mass attenuation coefficient: = 0.043 m 2 kg −1
+Worked Example The table shows the linear attenuation coefficients for bone and muscle at three different X-ray photon energies. Photon energy / keV Bone μ / cm –1 Muscle μ / cm –1 30 2.13 0.41 50 0.68 0.24 80 0.36 0.20 100 0.30 0.18 Determine the energy of X-ray photons that would produce an image of muscle next to bone with the best contrast. Answer: Step 1: Recall the factor that determines the quality of contrast Contrast depends on the difference in attenuation The smaller the difference in attenuation, the poorer the contrast The larger the difference in attenuation, the better the contrast Step 2: Determine the difference between the values of attenuation at each energy At 30 keV, the difference in attenuation is 2.13 − 0.41 = 1.72 cm –1 At 50 keV, the difference in attenuation is 0.68 − 0.24 = 0.44 cm –1 At 80 keV, the difference in attenuation is 0.36 − 0.20 = 0.16 cm –1 At 100 keV, the difference in attenuation is 0.30 − 0.18 = 0.12 cm –1 The difference between µ of bone and muscle is greatest using 30 keV X-rays hence this energy would produce an image with the best contrast
+The table shows the linear attenuation coefficients for bone and muscle at three different X-ray photon energies.
+Photon energy / keV Bone μ / cm –1 Muscle μ / cm –1 30 2.13 0.41 50 0.68 0.24 80 0.36 0.20 100 0.30 0.18
+Photon energy / keV
+Bone μ / cm –1
+Muscle μ / cm –1
+30
+2.13
+0.41
+50
+0.68
+0.24
+80
+0.36
+0.20
+100
+0.30
+0.18
+Determine the energy of X-ray photons that would produce an image of muscle next to bone with the best contrast.
+Step 1: Recall the factor that determines the quality of contrast
+Contrast depends on the difference in attenuation The smaller the difference in attenuation, the poorer the contrast The larger the difference in attenuation, the better the contrast
+Contrast depends on the difference in attenuation
+The smaller the difference in attenuation, the poorer the contrast
+The larger the difference in attenuation, the better the contrast
+Step 2: Determine the difference between the values of attenuation at each energy
+At 30 keV, the difference in attenuation is 2.13 − 0.41 = 1.72 cm –1
+At 50 keV, the difference in attenuation is 0.68 − 0.24 = 0.44 cm –1
+At 80 keV, the difference in attenuation is 0.36 − 0.20 = 0.16 cm –1
+At 100 keV, the difference in attenuation is 0.30 − 0.18 = 0.12 cm –1
+The difference between µ of bone and muscle is greatest using 30 keV X-rays hence this energy would produce an image with the best contrast

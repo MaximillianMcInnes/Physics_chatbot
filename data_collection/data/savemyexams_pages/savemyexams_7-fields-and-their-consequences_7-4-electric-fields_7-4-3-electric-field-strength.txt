@@ -1,0 +1,37 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-4-electric-fields/7-4-3-electric-field-strength
+HEADING: Electric Field Strength ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Electric Field Strength An electric field is a region of space in which an electric charge experiences a force The electric field strength at a point is defined as: The force per unit charge experienced by a small positive test charge placed at that point The electric field strength can be calculated using the equation: Where: E = electric field strength (N C −1 ) F = electric force on the charge (N) Q = magnitude of the charge (C) Note that the definition specifies that a positive test charge is used This sets a clear convention for the direction of an electric field, for example, in a field of strength : A positive charge experiences a force in the direction of the field A negative charge experiences a force in the opposite direction Hence, electric field strength is a vector quantity and is always directed: Away from a positive charge Towards a negative charge Worked Example A charged particle experiences a force of 0.3 N at a point where the magnitude of electric field strength is 3.5 × 10 4 N C −1 . Calculate the magnitude of the charge on the particle. Answer: Step 1: Write down the equation for electric field strength Step 2: Rearrange for charge Q Step 3: Substitute in the values and calculate: C (2 s.f.) The particle has a charge of 8.6 × 10 −6 C or 8.6 μC
+Electric Field Strength An electric field is a region of space in which an electric charge experiences a force The electric field strength at a point is defined as: The force per unit charge experienced by a small positive test charge placed at that point The electric field strength can be calculated using the equation: Where: E = electric field strength (N C −1 ) F = electric force on the charge (N) Q = magnitude of the charge (C) Note that the definition specifies that a positive test charge is used This sets a clear convention for the direction of an electric field, for example, in a field of strength : A positive charge experiences a force in the direction of the field A negative charge experiences a force in the opposite direction Hence, electric field strength is a vector quantity and is always directed: Away from a positive charge Towards a negative charge
+An electric field is a region of space in which an electric charge experiences a force
+The electric field strength at a point is defined as: The force per unit charge experienced by a small positive test charge placed at that point
+The electric field strength at a point is defined as:
+The force per unit charge experienced by a small positive test charge placed at that point
+The electric field strength can be calculated using the equation:
+Where: E = electric field strength (N C −1 ) F = electric force on the charge (N) Q = magnitude of the charge (C)
+Where:
+E = electric field strength (N C −1 )
+F = electric force on the charge (N)
+Q = magnitude of the charge (C)
+Note that the definition specifies that a positive test charge is used
+test charge
+This sets a clear convention for the direction of an electric field, for example, in a field of strength : A positive charge experiences a force in the direction of the field A negative charge experiences a force in the opposite direction
+This sets a clear convention for the direction of an electric field, for example, in a field of strength :
+A positive charge experiences a force in the direction of the field
+A negative charge experiences a force in the opposite direction
+Hence, electric field strength is a vector quantity and is always directed: Away from a positive charge Towards a negative charge
+Hence, electric field strength is a vector quantity and is always directed:
+Away from a positive charge
+Towards a negative charge
+Worked Example A charged particle experiences a force of 0.3 N at a point where the magnitude of electric field strength is 3.5 × 10 4 N C −1 . Calculate the magnitude of the charge on the particle. Answer: Step 1: Write down the equation for electric field strength Step 2: Rearrange for charge Q Step 3: Substitute in the values and calculate: C (2 s.f.) The particle has a charge of 8.6 × 10 −6 C or 8.6 μC
+Worked Example
+A charged particle experiences a force of 0.3 N at a point where the magnitude of electric field strength is 3.5 × 10 4 N C −1 .
+Calculate the magnitude of the charge on the particle.
+Answer:
+Step 1: Write down the equation for electric field strength
+Step 2: Rearrange for charge Q
+Step 3: Substitute in the values and calculate:
+C (2 s.f.)
+The particle has a charge of 8.6 × 10 −6 C or 8.6 μC

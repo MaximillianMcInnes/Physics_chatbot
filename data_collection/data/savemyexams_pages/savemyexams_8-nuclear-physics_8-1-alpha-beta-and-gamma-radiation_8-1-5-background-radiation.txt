@@ -1,0 +1,71 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-1-alpha-beta-and-gamma-radiation/8-1-5-background-radiation
+HEADING: Background Radiation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Background Radiation Background radiation is defined as: The ionising radiation present in the environment The sources of background radiation can be separated into: Natural sources Artificial sources In the UK, radon gas is by far the largest proportion of background radiation, whereas radiation due to nuclear waste and fallout accounts for less than 1% Natural Sources of Background Radiation Radon gas from rocks and buildings Airborne radon gas comes from rocks in the ground, as well as building materials e.g. stone and brick This is due to the presence of radioactive elements, such as uranium, which occur naturally in small amounts in all rocks and soils Uranium decays into radon gas, which is an alpha emitter This is particularly dangerous if inhaled into the lungs in large quantities Radon gas is tasteless, colourless and odourless so it can only be detected using a Geiger counter Levels of radon gas are generally very low and are not a health concern, but they can vary significantly from place to place For example, some areas may contain rocks and soil which emit higher concentrations of radon gas, such as Wales and Cornwall Radon Concentration Map of the UK Radon gas occurs naturally in all rocks and soils. The concentration of radon gas varies from region to region in the UK. The darker red regions show where higher radon concentrations are more likely to occur Cosmic rays from space The sun emits an enormous number of protons every second Some of these enter the Earth’s atmosphere at high speeds When they collide with molecules in the air, this leads to the production of gamma radiation Other sources of cosmic rays are supernovae and other high-energy cosmic events Carbon-14 in biological material All organic matter contains a tiny amount of carbon-14 Living plants and animals constantly replace the supply of carbon in their systems hence the amount of carbon-14 in the system stays almost constant Radioactive material in food and drink Naturally occurring radioactive elements can get into food and water since they are in contact with rocks and soil containing these elements Some foods contain higher amounts such as potassium-40 in bananas However, the amount of radioactive material is minuscule and is not a cause for concern Artificial Sources of Background Radiation Nuclear medicine In medical settings, nuclear radiation is utilised all the time For example, X-rays, CT scans, radioactive tracers, and radiation therapy all use radiation Nuclear waste While nuclear waste itself does not contribute much to background radiation, it can be dangerous for the people handling it Nuclear fallout from nuclear weapons Fallout is the residue radioactive material that is thrown into the air after a nuclear explosion, such as the bomb that exploded at Hiroshima While the amount of fallout in the environment is presently very low, it would increase significantly in areas where nuclear weapons are tested Nuclear accidents Nuclear accidents, such as the incident at Chernobyl, contribute a large dose of radiation to the environment While these accidents are now extremely rare, they can be catastrophic and render areas devastated for centuries Accounting for Background Radiation Background radiation must be accounted for when taking readings in a laboratory This can be done by taking readings with no radioactive source present and then subtracting this from readings with the source present This is known as the corrected count rate Measuring Background Count Rate The background count rate can be measured using a Geiger-Müller (GM) tube with no source present For example, if a Geiger counter records 24 counts in 1 minute when no source is present, the background radiation count rate would be: 24 counts per minute (cpm) 24/60 = 0.4 counts per second (cps) Measuring Corrected Count Rate of a Source The corrected count rate can be determined by measuring the count rate of a source and subtracting the background count rate Then, if the Geiger counter records, for example, 285 counts in 1 minute when a source is present, the corrected count rate would be: 285 − 24 = 261 counts per minute (cpm) 261/60 = 4.35 counts per second (cps) When measuring count rates, the accuracy of results can be improved by: Repeating readings and taking averages Taking readings over a long period of time
+Background radiation is defined as: The ionising radiation present in the environment
+Background radiation is defined as:
+The ionising radiation present in the environment
+The sources of background radiation can be separated into: Natural sources Artificial sources
+The sources of background radiation can be separated into:
+Natural sources
+Artificial sources
+In the UK, radon gas is by far the largest proportion of background radiation, whereas radiation due to nuclear waste and fallout accounts for less than 1%
+Natural Sources of Background Radiation
+Radon gas from rocks and buildings
+Airborne radon gas comes from rocks in the ground, as well as building materials e.g. stone and brick
+This is due to the presence of radioactive elements, such as uranium, which occur naturally in small amounts in all rocks and soils Uranium decays into radon gas, which is an alpha emitter This is particularly dangerous if inhaled into the lungs in large quantities
+This is due to the presence of radioactive elements, such as uranium, which occur naturally in small amounts in all rocks and soils
+Uranium decays into radon gas, which is an alpha emitter
+This is particularly dangerous if inhaled into the lungs in large quantities
+Radon gas is tasteless, colourless and odourless so it can only be detected using a Geiger counter
+Levels of radon gas are generally very low and are not a health concern, but they can vary significantly from place to place For example, some areas may contain rocks and soil which emit higher concentrations of radon gas, such as Wales and Cornwall
+Levels of radon gas are generally very low and are not a health concern, but they can vary significantly from place to place
+For example, some areas may contain rocks and soil which emit higher concentrations of radon gas, such as Wales and Cornwall
+Radon Concentration Map of the UK
+Radon gas occurs naturally in all rocks and soils. The concentration of radon gas varies from region to region in the UK. The darker red regions show where higher radon concentrations are more likely to occur
+Cosmic rays from space
+The sun emits an enormous number of protons every second
+Some of these enter the Earth’s atmosphere at high speeds
+When they collide with molecules in the air, this leads to the production of gamma radiation
+Other sources of cosmic rays are supernovae and other high-energy cosmic events
+Carbon-14 in biological material
+All organic matter contains a tiny amount of carbon-14
+Living plants and animals constantly replace the supply of carbon in their systems hence the amount of carbon-14 in the system stays almost constant
+Radioactive material in food and drink
+Naturally occurring radioactive elements can get into food and water since they are in contact with rocks and soil containing these elements
+Some foods contain higher amounts such as potassium-40 in bananas
+However, the amount of radioactive material is minuscule and is not a cause for concern
+Artificial Sources of Background Radiation
+Nuclear medicine
+In medical settings, nuclear radiation is utilised all the time
+For example, X-rays, CT scans, radioactive tracers, and radiation therapy all use radiation
+Nuclear waste
+While nuclear waste itself does not contribute much to background radiation, it can be dangerous for the people handling it
+Nuclear fallout from nuclear weapons
+Fallout is the residue radioactive material that is thrown into the air after a nuclear explosion, such as the bomb that exploded at Hiroshima
+While the amount of fallout in the environment is presently very low, it would increase significantly in areas where nuclear weapons are tested
+Nuclear accidents
+Nuclear accidents, such as the incident at Chernobyl, contribute a large dose of radiation to the environment
+While these accidents are now extremely rare, they can be catastrophic and render areas devastated for centuries
+Accounting for Background Radiation
+Background radiation must be accounted for when taking readings in a laboratory
+This can be done by taking readings with no radioactive source present and then subtracting this from readings with the source present
+This is known as the corrected count rate
+Measuring Background Count Rate
+The background count rate can be measured using a Geiger-Müller (GM) tube with no source present
+For example, if a Geiger counter records 24 counts in 1 minute when no source is present, the background radiation count rate would be: 24 counts per minute (cpm) 24/60 = 0.4 counts per second (cps)
+For example, if a Geiger counter records 24 counts in 1 minute when no source is present, the background radiation count rate would be:
+24 counts per minute (cpm)
+24/60 = 0.4 counts per second (cps)
+Measuring Corrected Count Rate of a Source
+The corrected count rate can be determined by measuring the count rate of a source and subtracting the background count rate
+Then, if the Geiger counter records, for example, 285 counts in 1 minute when a source is present, the corrected count rate would be: 285 − 24 = 261 counts per minute (cpm) 261/60 = 4.35 counts per second (cps)
+Then, if the Geiger counter records, for example, 285 counts in 1 minute when a source is present, the corrected count rate would be:
+285 − 24 = 261 counts per minute (cpm)
+261/60 = 4.35 counts per second (cps)
+When measuring count rates, the accuracy of results can be improved by: Repeating readings and taking averages Taking readings over a long period of time
+When measuring count rates, the accuracy of results can be improved by:
+Repeating readings and taking averages
+Taking readings over a long period of time

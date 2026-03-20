@@ -1,0 +1,78 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/1-measurements-and-their-errors/1-1-use-of-si-units-and-their-prefixes/1-1-2-powers-of-ten
+HEADING: Powers of Ten ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Powers of Ten Physical quantities can span a huge range of values For example, the diameter of an atom is about 10 –10 m (0.0000000001 m), whereas the width of a galaxy may be about 10 21 m (1,000,000,000,000,000,000,000 m) This is a difference of 31 powers of ten Powers of ten are numbers that can be achieved by multiplying 10 times itself It is useful to know the prefixes for certain powers of ten Powers of Ten Table Prefix Abbreviation Value tera T 10 12 giga G 10 9 mega M 10 6 kilo k 10 3 centi c 10 −2 milli m 10 −3 micro μ 10 −6 nano n 10 −9 pico p 10 −12 femto f 10 −15 Examples 5 kN = 5 kilonewtons= 5 × 10 3 N (5000 N) 7 nC = 7 nanocoulombs = 7 × 10 -9 C (0.000000007 C) Examiner Tips and Tricks You will often see very large or very small numbers categorised by powers of ten, so it is very important you become familiar with these as getting these prefixes wrong is a very common exam mistake! Common Unit Conversions J & eV A common unit conversion in physics is between Joules (J) and electronvolts (eV) The electronvolt is derived from the equation work done (or energy transferred) W = qV 1 eV = 1.6 × 10 –19 C × 1 V = 1.6 × 10 –19 J To convert from J → eV, divide by 1.6 × 10 –19 To convert from eV → J, multiply by 1.6 × 10 –19 J & kW h Another common unit conversion in physics is between Joules (J) and kilowatt-hours (kW h) To convert between J and kW h, expand the derived units and re-collect terms as follows: 1 kW h = 3600 kW s (since 1 hour = 3600 s) 3600 kW s = 3 600 000 W s (since 1 kW = 1000 W) 3 600 000 W s = 3 600 000 J = 3.6 MJ (since power = energy / time or 1 W = 1 J s –1 ) To convert from J → kW h, divide by 3.6 × 10 6 To convert from kW h → J, multiply by 3.6 × 10 6 Worked Example The ionisation energy of hydrogen is 2.176 × 10 –18 J. Calculate this energy in eV. Answer: To convert from J → eV, divide by 1.6 × 10 –19 J
+Powers of Ten Physical quantities can span a huge range of values For example, the diameter of an atom is about 10 –10 m (0.0000000001 m), whereas the width of a galaxy may be about 10 21 m (1,000,000,000,000,000,000,000 m) This is a difference of 31 powers of ten Powers of ten are numbers that can be achieved by multiplying 10 times itself It is useful to know the prefixes for certain powers of ten Powers of Ten Table Prefix Abbreviation Value tera T 10 12 giga G 10 9 mega M 10 6 kilo k 10 3 centi c 10 −2 milli m 10 −3 micro μ 10 −6 nano n 10 −9 pico p 10 −12 femto f 10 −15 Examples 5 kN = 5 kilonewtons= 5 × 10 3 N (5000 N) 7 nC = 7 nanocoulombs = 7 × 10 -9 C (0.000000007 C)
+Physical quantities can span a huge range of values
+For example, the diameter of an atom is about 10 –10 m (0.0000000001 m), whereas the width of a galaxy may be about 10 21 m (1,000,000,000,000,000,000,000 m) This is a difference of 31 powers of ten
+For example, the diameter of an atom is about 10 –10 m (0.0000000001 m), whereas the width of a galaxy may be about 10 21 m (1,000,000,000,000,000,000,000 m)
+This is a difference of 31 powers of ten
+Powers of ten are numbers that can be achieved by multiplying 10 times itself
+It is useful to know the prefixes for certain powers of ten
+Powers of Ten Table
+Prefix Abbreviation Value tera T 10 12 giga G 10 9 mega M 10 6 kilo k 10 3 centi c 10 −2 milli m 10 −3 micro μ 10 −6 nano n 10 −9 pico p 10 −12 femto f 10 −15
+Prefix
+Abbreviation
+Value
+tera
+T
+10 12
+giga
+G
+10 9
+mega
+M
+10 6
+kilo
+k
+10 3
+centi
+c
+10 −2
+milli
+m
+10 −3
+micro
+μ
+10 −6
+nano
+n
+10 −9
+pico
+p
+10 −12
+femto
+f
+10 −15
+Examples
+5 kN = 5 kilonewtons= 5 × 10 3 N (5000 N)
+7 nC = 7 nanocoulombs = 7 × 10 -9 C (0.000000007 C)
+Examiner Tips and Tricks You will often see very large or very small numbers categorised by powers of ten, so it is very important you become familiar with these as getting these prefixes wrong is a very common exam mistake!
+Examiner Tips and Tricks
+You will often see very large or very small numbers categorised by powers of ten, so it is very important you become familiar with these as getting these prefixes wrong is a very common exam mistake!
+Common Unit Conversions J & eV A common unit conversion in physics is between Joules (J) and electronvolts (eV) The electronvolt is derived from the equation work done (or energy transferred) W = qV 1 eV = 1.6 × 10 –19 C × 1 V = 1.6 × 10 –19 J To convert from J → eV, divide by 1.6 × 10 –19 To convert from eV → J, multiply by 1.6 × 10 –19 J & kW h Another common unit conversion in physics is between Joules (J) and kilowatt-hours (kW h) To convert between J and kW h, expand the derived units and re-collect terms as follows: 1 kW h = 3600 kW s (since 1 hour = 3600 s) 3600 kW s = 3 600 000 W s (since 1 kW = 1000 W) 3 600 000 W s = 3 600 000 J = 3.6 MJ (since power = energy / time or 1 W = 1 J s –1 ) To convert from J → kW h, divide by 3.6 × 10 6 To convert from kW h → J, multiply by 3.6 × 10 6
+Common Unit Conversions
+J & eV
+A common unit conversion in physics is between Joules (J) and electronvolts (eV)
+electronvolts (eV)
+The electronvolt is derived from the equation work done (or energy transferred) W = qV 1 eV = 1.6 × 10 –19 C × 1 V = 1.6 × 10 –19 J
+The electronvolt is derived from the equation work done (or energy transferred) W = qV
+1 eV = 1.6 × 10 –19 C × 1 V = 1.6 × 10 –19 J
+To convert from J → eV, divide by 1.6 × 10 –19
+To convert from eV → J, multiply by 1.6 × 10 –19
+J & kW h
+Another common unit conversion in physics is between Joules (J) and kilowatt-hours (kW h)
+To convert between J and kW h, expand the derived units and re-collect terms as follows: 1 kW h = 3600 kW s (since 1 hour = 3600 s) 3600 kW s = 3 600 000 W s (since 1 kW = 1000 W) 3 600 000 W s = 3 600 000 J = 3.6 MJ (since power = energy / time or 1 W = 1 J s –1 )
+To convert between J and kW h, expand the derived units and re-collect terms as follows:
+1 kW h = 3600 kW s (since 1 hour = 3600 s)
+3600 kW s = 3 600 000 W s (since 1 kW = 1000 W)
+3 600 000 W s = 3 600 000 J = 3.6 MJ (since power = energy / time or 1 W = 1 J s –1 )
+To convert from J → kW h, divide by 3.6 × 10 6
+To convert from kW h → J, multiply by 3.6 × 10 6
+Worked Example The ionisation energy of hydrogen is 2.176 × 10 –18 J. Calculate this energy in eV. Answer: To convert from J → eV, divide by 1.6 × 10 –19 J
+Worked Example
+The ionisation energy of hydrogen is 2.176 × 10 –18 J. Calculate this energy in eV.
+Answer:
+To convert from J → eV, divide by 1.6 × 10 –19 J

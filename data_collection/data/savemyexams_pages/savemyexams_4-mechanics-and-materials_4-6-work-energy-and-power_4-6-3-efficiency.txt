@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-6-work-energy-and-power/4-6-3-efficiency
+HEADING: Efficiency ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Efficiency The efficiency of a system is a measure of how successfully energy is transferred in a system Efficiency is defined as: The ratio of the useful power output from a system to its total power input If a system has high efficiency, this means most of the energy transferred is useful If a system has low efficiency, this means most of the energy transferred is wasted Determining which type of energy is useful or wasted depends on the system When electrical energy is converted to light in a lightbulb, the light energy is useful , and the heat energy produced is wasted When electrical energy is converted to thermal energy in a heater, the heat energy is useful , and the sound energy produced is wasted Efficiency is represented as a percentage, and can be calculated using the equation: Where power is defined as the energy transferred per unit of time The efficiency equation can also be written in terms of energy: The energy can be of any form e.g. gravitational potential energy, kinetic energy Worked Example An electric motor has an efficiency of 35 %. It lifts a 7.2 kg load through a height of 5 m in 3 s. Calculate the power of the motor. Answer: Step 1: Write down the efficiency equation Step 2: Rearrange for the power input Step 3: Calculate the power out The power output is the energy ÷ time The electric motor transferred electric energy into gravitational potential energy to lift the load Gravitational potential energy = mgh = 7.2 × 9.81 × 5 = 353.16 J Power = 353.16 ÷ 3 = 117.72 W Step 4: Substitute values into power input equation Examiner Tips and Tricks Efficiency can be in a ratio (between 0 and 1) or percentage format (between 0% and 100%). If the question asks for efficiency as a ratio, give your answer as a fraction or decimal . If the answer is required as a percentage, remember to multiply the ratio by 100 to convert it: if the ratio = 0.25, percentage = 0.25 × 100 = 25 %. Remember that efficiency has no units . It is a ratio with both the numerator and denominator with the same units.
+Efficiency The efficiency of a system is a measure of how successfully energy is transferred in a system Efficiency is defined as: The ratio of the useful power output from a system to its total power input If a system has high efficiency, this means most of the energy transferred is useful If a system has low efficiency, this means most of the energy transferred is wasted Determining which type of energy is useful or wasted depends on the system When electrical energy is converted to light in a lightbulb, the light energy is useful , and the heat energy produced is wasted When electrical energy is converted to thermal energy in a heater, the heat energy is useful , and the sound energy produced is wasted Efficiency is represented as a percentage, and can be calculated using the equation: Where power is defined as the energy transferred per unit of time The efficiency equation can also be written in terms of energy: The energy can be of any form e.g. gravitational potential energy, kinetic energy
+The efficiency of a system is a measure of how successfully energy is transferred in a system
+Efficiency is defined as: The ratio of the useful power output from a system to its total power input
+Efficiency is defined as:
+The ratio of the useful power output from a system to its total power input
+If a system has high efficiency, this means most of the energy transferred is useful
+If a system has low efficiency, this means most of the energy transferred is wasted
+Determining which type of energy is useful or wasted depends on the system When electrical energy is converted to light in a lightbulb, the light energy is useful , and the heat energy produced is wasted When electrical energy is converted to thermal energy in a heater, the heat energy is useful , and the sound energy produced is wasted
+Determining which type of energy is useful or wasted depends on the system
+When electrical energy is converted to light in a lightbulb, the light energy is useful , and the heat energy produced is wasted
+When electrical energy is converted to thermal energy in a heater, the heat energy is useful , and the sound energy produced is wasted
+Efficiency is represented as a percentage, and can be calculated using the equation:
+Where power is defined as the energy transferred per unit of time
+The efficiency equation can also be written in terms of energy:
+The energy can be of any form e.g. gravitational potential energy, kinetic energy
+Worked Example An electric motor has an efficiency of 35 %. It lifts a 7.2 kg load through a height of 5 m in 3 s. Calculate the power of the motor. Answer: Step 1: Write down the efficiency equation Step 2: Rearrange for the power input Step 3: Calculate the power out The power output is the energy ÷ time The electric motor transferred electric energy into gravitational potential energy to lift the load Gravitational potential energy = mgh = 7.2 × 9.81 × 5 = 353.16 J Power = 353.16 ÷ 3 = 117.72 W Step 4: Substitute values into power input equation
+Worked Example
+An electric motor has an efficiency of 35 %. It lifts a 7.2 kg load through a height of 5 m in 3 s.
+Calculate the power of the motor.
+Answer:
+Step 1: Write down the efficiency equation
+Step 2: Rearrange for the power input
+Step 3: Calculate the power out
+The power output is the energy ÷ time
+The electric motor transferred electric energy into gravitational potential energy to lift the load
+Gravitational potential energy = mgh = 7.2 × 9.81 × 5 = 353.16 J
+Power = 353.16 ÷ 3 = 117.72 W
+Step 4: Substitute values into power input equation
+Examiner Tips and Tricks Efficiency can be in a ratio (between 0 and 1) or percentage format (between 0% and 100%). If the question asks for efficiency as a ratio, give your answer as a fraction or decimal . If the answer is required as a percentage, remember to multiply the ratio by 100 to convert it: if the ratio = 0.25, percentage = 0.25 × 100 = 25 %. Remember that efficiency has no units . It is a ratio with both the numerator and denominator with the same units.
+Examiner Tips and Tricks
+Efficiency can be in a ratio (between 0 and 1) or percentage format (between 0% and 100%).
+If the question asks for efficiency as a ratio, give your answer as a fraction or decimal . If the answer is required as a percentage, remember to multiply the ratio by 100 to convert it: if the ratio = 0.25, percentage = 0.25 × 100 = 25 %.
+Remember that efficiency has no units . It is a ratio with both the numerator and denominator with the same units.

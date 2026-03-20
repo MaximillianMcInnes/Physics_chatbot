@@ -1,0 +1,29 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-6-comparing-petrol-and-diesel-engines
+HEADING: Comparing Petrol & Diesel Engines ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Comparing Petrol & Diesel Engines Diesel engines are more efficient than petrol engines, and this can be seen from their indicator diagrams Efficiency is directly proportional to the compression ratio of an engine, which is defined as: The compression stroke of the engine is when the volume of the gas decreases, as the piston moves upwards This is when work is done on the gas On an indicator diagram, this is the ratio The area under this line is the work done on the gas A diesel engine can achieve a much higher compression ratio, typically 16, whilst a petrol engine is about 10 This is an indication that diesel engines are more efficient Diesel engines require this higher compression ratio to get the pressure and temperature of the air high enough for the diesel fuel to self-ignite The petrol-air mixture in a petrol engine is ignited by a spark at lower pressures (and temperatures) Petrol engines are limited in their compression ratio If the compression ratio is too high, the petrol-air mixture could self-ignite before the spark (pre-ignition), due to the higher temperatures and pressures This can also happen if there has been a build-up of carbon in the cylinder (from burnt oil accidentally inside). This can also ignite the petrol-air mixture before the spark The disadvantage of diesel engines is that they operate at higher working pressures , which makes them more expensive to produce as they have to be more robust and stable They have a lower power-to-weight ratio Petrol engines produce more carbon monoxide, hydrocarbons, and carbon dioxide than diesel engines This can be improved using a catalytic converter, which oxidised the pollutants and reduces the harmful emissions However, they are still not reduced below the levels of a diesel engine
+Diesel engines are more efficient than petrol engines, and this can be seen from their indicator diagrams
+Efficiency is directly proportional to the compression ratio of an engine, which is defined as:
+The compression stroke of the engine is when the volume of the gas decreases, as the piston moves upwards This is when work is done on the gas
+The compression stroke of the engine is when the volume of the gas decreases, as the piston moves upwards
+This is when work is done on the gas
+On an indicator diagram, this is the ratio
+The area under this line is the work done on the gas
+A diesel engine can achieve a much higher compression ratio, typically 16, whilst a petrol engine is about 10 This is an indication that diesel engines are more efficient
+A diesel engine can achieve a much higher compression ratio, typically 16, whilst a petrol engine is about 10
+This is an indication that diesel engines are more efficient
+Diesel engines require this higher compression ratio to get the pressure and temperature of the air high enough for the diesel fuel to self-ignite The petrol-air mixture in a petrol engine is ignited by a spark at lower pressures (and temperatures)
+Diesel engines require this higher compression ratio to get the pressure and temperature of the air high enough for the diesel fuel to self-ignite
+The petrol-air mixture in a petrol engine is ignited by a spark at lower pressures (and temperatures)
+Petrol engines are limited in their compression ratio If the compression ratio is too high, the petrol-air mixture could self-ignite before the spark (pre-ignition), due to the higher temperatures and pressures This can also happen if there has been a build-up of carbon in the cylinder (from burnt oil accidentally inside). This can also ignite the petrol-air mixture before the spark
+Petrol engines are limited in their compression ratio
+If the compression ratio is too high, the petrol-air mixture could self-ignite before the spark (pre-ignition), due to the higher temperatures and pressures
+This can also happen if there has been a build-up of carbon in the cylinder (from burnt oil accidentally inside). This can also ignite the petrol-air mixture before the spark
+The disadvantage of diesel engines is that they operate at higher working pressures , which makes them more expensive to produce as they have to be more robust and stable
+They have a lower power-to-weight ratio
+Petrol engines produce more carbon monoxide, hydrocarbons, and carbon dioxide than diesel engines This can be improved using a catalytic converter, which oxidised the pollutants and reduces the harmful emissions However, they are still not reduced below the levels of a diesel engine
+Petrol engines produce more carbon monoxide, hydrocarbons, and carbon dioxide than diesel engines
+This can be improved using a catalytic converter, which oxidised the pollutants and reduces the harmful emissions
+However, they are still not reduced below the levels of a diesel engine

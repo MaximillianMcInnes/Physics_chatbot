@@ -1,0 +1,81 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-2-radioactive-decay/8-2-1-radioactive-decay
+HEADING: Radioactive Decay ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Radioactive Decay Radioactive decay is defined as: The spontaneous disintegration of a nucleus to form a more stable nucleus, resulting in the emission of an alpha, beta, or gamma particle Radioactive decay is a random process, which means: there is an equal probability of any nucleus decaying it cannot be known which particular nucleus will decay next it cannot be known at what time a particular nucleus will decay the rate of decay is unaffected by the surrounding conditions it is only possible to estimate the proportion of nuclei decaying in a given time period The random nature of radioactive decay can be demonstrated by observing the count rate of a Geiger-Muller (GM) tube When a GM tube is placed near a radioactive source, the counts are found to be irregular and cannot be predicted Each count represents a decay of an unstable nucleus These fluctuations in count rate on the GM tube provide evidence for the randomness of radioactive decay The variation of count rate over time of a sample radioactive gas. The fluctuations show the randomness of radioactive decay Activity & The Decay Constant Since radioactive decay is spontaneous and random, it is useful to consider the average number of nuclei that are expected to decay per unit time This is known as the average decay rate As a result, each radioactive element can be assigned a decay constant The decay constant λ is defined as: The probability that an individual nucleus will decay per unit of time When a sample is highly radioactive, this means the number of decays per unit time is very high This suggests it has a high level of activity The activity A of a radioactive sample is defined as: The average number of nuclei that decay per unit of time It can be calculated using: Where: A = activity of the sample (Bq) Δ N = number of decayed nuclei Δ t = time interval (s) λ = decay constant (s -1 ) N = number of nuclei remaining in a sample The activity of a sample is measured in Becquerels (Bq) An activity of 1 Bq is equal to one decay per second, or 1 s -1 This equation shows: the greater the decay constant, the greater the activity of the sample the activity depends on the number of undecayed nuclei remaining in the sample the minus sign indicates that the number of nuclei remaining decreases with time Worked Example Radium is a radioactive element first discovered by Marie and Pierre Curie. They used the radiation emitted from radium-226 to define a unit called the Curie (Ci) which they defined as the activity of 1 gram of radium. In a 1 g sample of radium-226, 2.22 × 10 12 atoms decayed in 1 minute. Another sample of radium-226 containing 3.2 × 10 22 atoms had an activity of 12 Ci. Calculate: (a) the value of 1 Ci (b) the decay constant of radium-226. Answer: Part (a) Step 1: Write down the known quantities Number of atoms decayed, Δ N = 2.22 × 10 12 decays Time, Δ t = 1 minutes = 60 s Step 2: Write down the activity equation Step 3: Calculate the value of 1 Ci decays s −1 Therefore, 1 Ci = 3.7 × 10 10 Bq Part (b) Step 1: Write down the known quantities Number of atoms, N = 3.2 × 10 22 Activity, A = 12 Ci = 12 × (3.7 × 10 10 ) Step 2: Write down the activity equation Step 3: Calculate the decay constant of radium s −1 Therefore, the decay constant of radium-226 is 1.4 × 10 –11 s –1 (2 s.f.) Examiner Tips and Tricks A quantity with a "change in" symbol over change in time represents a rate of change of that quantity, where: a positive rate of change means the quantity is increasing with time a negative rate of change means it is decreasing with time In radioactivity, the quantity represents the rate of decay of the radioactive nuclei in a substance, and the minus sign indicates a negative rate of change, i.e. the number of nuclei decreases with time. When carrying out calculations, you don't need to include the minus sign to describe the decay constant or activity, you just need to remember that the activity and number of undecayed nuclei remaining decrease with time.
+Radioactive Decay Radioactive decay is defined as: The spontaneous disintegration of a nucleus to form a more stable nucleus, resulting in the emission of an alpha, beta, or gamma particle Radioactive decay is a random process, which means: there is an equal probability of any nucleus decaying it cannot be known which particular nucleus will decay next it cannot be known at what time a particular nucleus will decay the rate of decay is unaffected by the surrounding conditions it is only possible to estimate the proportion of nuclei decaying in a given time period The random nature of radioactive decay can be demonstrated by observing the count rate of a Geiger-Muller (GM) tube When a GM tube is placed near a radioactive source, the counts are found to be irregular and cannot be predicted Each count represents a decay of an unstable nucleus These fluctuations in count rate on the GM tube provide evidence for the randomness of radioactive decay The variation of count rate over time of a sample radioactive gas. The fluctuations show the randomness of radioactive decay
+Radioactive decay is defined as:
+The spontaneous disintegration of a nucleus to form a more stable nucleus, resulting in the emission of an alpha, beta, or gamma particle
+Radioactive decay is a random process, which means: there is an equal probability of any nucleus decaying it cannot be known which particular nucleus will decay next it cannot be known at what time a particular nucleus will decay the rate of decay is unaffected by the surrounding conditions it is only possible to estimate the proportion of nuclei decaying in a given time period
+Radioactive decay is a random process, which means:
+there is an equal probability of any nucleus decaying
+it cannot be known which particular nucleus will decay next
+it cannot be known at what time a particular nucleus will decay
+the rate of decay is unaffected by the surrounding conditions
+it is only possible to estimate the proportion of nuclei decaying in a given time period
+The random nature of radioactive decay can be demonstrated by observing the count rate of a Geiger-Muller (GM) tube When a GM tube is placed near a radioactive source, the counts are found to be irregular and cannot be predicted Each count represents a decay of an unstable nucleus These fluctuations in count rate on the GM tube provide evidence for the randomness of radioactive decay
+The random nature of radioactive decay can be demonstrated by observing the count rate of a Geiger-Muller (GM) tube
+When a GM tube is placed near a radioactive source, the counts are found to be irregular and cannot be predicted
+Each count represents a decay of an unstable nucleus
+These fluctuations in count rate on the GM tube provide evidence for the randomness of radioactive decay
+The variation of count rate over time of a sample radioactive gas. The fluctuations show the randomness of radioactive decay
+Activity & The Decay Constant Since radioactive decay is spontaneous and random, it is useful to consider the average number of nuclei that are expected to decay per unit time This is known as the average decay rate As a result, each radioactive element can be assigned a decay constant The decay constant λ is defined as: The probability that an individual nucleus will decay per unit of time When a sample is highly radioactive, this means the number of decays per unit time is very high This suggests it has a high level of activity The activity A of a radioactive sample is defined as: The average number of nuclei that decay per unit of time It can be calculated using: Where: A = activity of the sample (Bq) Δ N = number of decayed nuclei Δ t = time interval (s) λ = decay constant (s -1 ) N = number of nuclei remaining in a sample The activity of a sample is measured in Becquerels (Bq) An activity of 1 Bq is equal to one decay per second, or 1 s -1 This equation shows: the greater the decay constant, the greater the activity of the sample the activity depends on the number of undecayed nuclei remaining in the sample the minus sign indicates that the number of nuclei remaining decreases with time
+Activity & The Decay Constant
+Since radioactive decay is spontaneous and random, it is useful to consider the average number of nuclei that are expected to decay per unit time This is known as the average decay rate
+Since radioactive decay is spontaneous and random, it is useful to consider the average number of nuclei that are expected to decay per unit time
+This is known as the average decay rate
+As a result, each radioactive element can be assigned a decay constant
+The decay constant λ is defined as:
+The probability that an individual nucleus will decay per unit of time
+When a sample is highly radioactive, this means the number of decays per unit time is very high This suggests it has a high level of activity
+When a sample is highly radioactive, this means the number of decays per unit time is very high
+This suggests it has a high level of activity
+The activity A of a radioactive sample is defined as:
+The average number of nuclei that decay per unit of time
+It can be calculated using:
+Where: A = activity of the sample (Bq) Δ N = number of decayed nuclei Δ t = time interval (s) λ = decay constant (s -1 ) N = number of nuclei remaining in a sample
+Where:
+A = activity of the sample (Bq)
+Δ N = number of decayed nuclei
+Δ t = time interval (s)
+λ = decay constant (s -1 )
+N = number of nuclei remaining in a sample
+The activity of a sample is measured in Becquerels (Bq) An activity of 1 Bq is equal to one decay per second, or 1 s -1
+The activity of a sample is measured in Becquerels (Bq)
+An activity of 1 Bq is equal to one decay per second, or 1 s -1
+This equation shows: the greater the decay constant, the greater the activity of the sample the activity depends on the number of undecayed nuclei remaining in the sample the minus sign indicates that the number of nuclei remaining decreases with time
+This equation shows:
+the greater the decay constant, the greater the activity of the sample
+the activity depends on the number of undecayed nuclei remaining in the sample
+the minus sign indicates that the number of nuclei remaining decreases with time
+Worked Example Radium is a radioactive element first discovered by Marie and Pierre Curie. They used the radiation emitted from radium-226 to define a unit called the Curie (Ci) which they defined as the activity of 1 gram of radium. In a 1 g sample of radium-226, 2.22 × 10 12 atoms decayed in 1 minute. Another sample of radium-226 containing 3.2 × 10 22 atoms had an activity of 12 Ci. Calculate: (a) the value of 1 Ci (b) the decay constant of radium-226. Answer: Part (a) Step 1: Write down the known quantities Number of atoms decayed, Δ N = 2.22 × 10 12 decays Time, Δ t = 1 minutes = 60 s Step 2: Write down the activity equation Step 3: Calculate the value of 1 Ci decays s −1 Therefore, 1 Ci = 3.7 × 10 10 Bq Part (b) Step 1: Write down the known quantities Number of atoms, N = 3.2 × 10 22 Activity, A = 12 Ci = 12 × (3.7 × 10 10 ) Step 2: Write down the activity equation Step 3: Calculate the decay constant of radium s −1 Therefore, the decay constant of radium-226 is 1.4 × 10 –11 s –1 (2 s.f.)
+Worked Example
+Radium is a radioactive element first discovered by Marie and Pierre Curie. They used the radiation emitted from radium-226 to define a unit called the Curie (Ci) which they defined as the activity of 1 gram of radium.
+In a 1 g sample of radium-226, 2.22 × 10 12 atoms decayed in 1 minute.
+Another sample of radium-226 containing 3.2 × 10 22 atoms had an activity of 12 Ci.
+Calculate:
+(a) the value of 1 Ci
+(b) the decay constant of radium-226.
+Answer:
+Part (a)
+Step 1: Write down the known quantities
+Number of atoms decayed, Δ N = 2.22 × 10 12 decays
+Time, Δ t = 1 minutes = 60 s
+Step 2: Write down the activity equation
+Step 3: Calculate the value of 1 Ci
+decays s −1
+Therefore, 1 Ci = 3.7 × 10 10 Bq
+Part (b)
+Number of atoms, N = 3.2 × 10 22
+Activity, A = 12 Ci = 12 × (3.7 × 10 10 )
+Step 3: Calculate the decay constant of radium
+s −1
+Therefore, the decay constant of radium-226 is 1.4 × 10 –11 s –1 (2 s.f.)
+Examiner Tips and Tricks A quantity with a "change in" symbol over change in time represents a rate of change of that quantity, where: a positive rate of change means the quantity is increasing with time a negative rate of change means it is decreasing with time In radioactivity, the quantity represents the rate of decay of the radioactive nuclei in a substance, and the minus sign indicates a negative rate of change, i.e. the number of nuclei decreases with time. When carrying out calculations, you don't need to include the minus sign to describe the decay constant or activity, you just need to remember that the activity and number of undecayed nuclei remaining decrease with time.
+Examiner Tips and Tricks
+A quantity with a "change in" symbol over change in time represents a rate of change of that quantity, where:
+a positive rate of change means the quantity is increasing with time
+a negative rate of change means it is decreasing with time
+In radioactivity, the quantity represents the rate of decay of the radioactive nuclei in a substance, and the minus sign indicates a negative rate of change, i.e. the number of nuclei decreases with time.
+When carrying out calculations, you don't need to include the minus sign to describe the decay constant or activity, you just need to remember that the activity and number of undecayed nuclei remaining decrease with time.

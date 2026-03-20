@@ -1,0 +1,41 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-3-cosmology/9-3-8-exoplanets
+HEADING: Exoplanets ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Exoplanets An exoplanet is: A planet found outside our Solar System, in orbit around another star Exoplanets are difficult to detect directly because: Light from the host star is much brighter than the reflected light from the planet They subtend extremely small angles compared to the resolution of telescopes Astronomers must use indirect detection techniques to observe exoplanets, such as: the transit method the radial velocity method The Transit Method When a planet passes in front of a star (as seen from Earth), some of the light from the star is obscured Therefore, the total amount of light reaching the Earth is reduced By measuring the apparent magnitude, or intensity of light received from the star over time, a light curve can be obtained Light Curve using the Transit Method The transit method can tell us about both the size of the exoplanet and its orbital period The dip in brightness can be used to determine the size of the planet The duration of the dip can be used to determine the orbital period of the planet Some of the limitations of this technique are: the accuracy can be reduced if the Earth, planet and star are not aligned in the same plane only planets with a short orbital period can be detected The Radial Velocity Method As a planet orbits its host star, they both orbit around a common centre of mass During the orbit, the star will move slightly towards, or away from the Earth as the planet moves to different positions in the orbit The line spectrum of the star will show blueshift when it moves towards the Earth, then redshift when it moves away Doppler Shift of an Exoplanet How to determine the orbital period of an exoplanet using the radial velocity method This causes very small, but measurable, periodic shifts in the wavelength of the light received from the star The time period of the planet’s orbit is equal to the time period of the Doppler shift The main limitation of this technique is that low-mass, or Earth-like, planets do not cause as much 'wobble' as high-mass planets since they have a greater gravitational pull on the star
+An exoplanet is:
+A planet found outside our Solar System, in orbit around another star
+Exoplanets are difficult to detect directly because: Light from the host star is much brighter than the reflected light from the planet They subtend extremely small angles compared to the resolution of telescopes
+Exoplanets are difficult to detect directly because:
+Light from the host star is much brighter than the reflected light from the planet
+They subtend extremely small angles compared to the resolution of telescopes
+Astronomers must use indirect detection techniques to observe exoplanets, such as: the transit method the radial velocity method
+Astronomers must use indirect detection techniques to observe exoplanets, such as:
+the transit method
+the radial velocity method
+The Transit Method
+When a planet passes in front of a star (as seen from Earth), some of the light from the star is obscured
+Therefore, the total amount of light reaching the Earth is reduced
+By measuring the apparent magnitude, or intensity of light received from the star over time, a light curve can be obtained
+Light Curve using the Transit Method
+The transit method can tell us about both the size of the exoplanet and its orbital period
+The dip in brightness can be used to determine the size of the planet
+The duration of the dip can be used to determine the orbital period of the planet
+Some of the limitations of this technique are: the accuracy can be reduced if the Earth, planet and star are not aligned in the same plane only planets with a short orbital period can be detected
+Some of the limitations of this technique are:
+the accuracy can be reduced if the Earth, planet and star are not aligned in the same plane
+only planets with a short orbital period can be detected
+The Radial Velocity Method
+As a planet orbits its host star, they both orbit around a common centre of mass
+During the orbit, the star will move slightly towards, or away from the Earth as the planet moves to different positions in the orbit The line spectrum of the star will show blueshift when it moves towards the Earth, then redshift when it moves away
+During the orbit, the star will move slightly towards, or away from the Earth as the planet moves to different positions in the orbit
+The line spectrum of the star will show blueshift when it moves towards the Earth, then redshift when it moves away
+Doppler Shift of an Exoplanet
+How to determine the orbital period of an exoplanet using the radial velocity method
+This causes very small, but measurable, periodic shifts in the wavelength of the light received from the star The time period of the planet’s orbit is equal to the time period of the Doppler shift
+This causes very small, but measurable, periodic shifts in the wavelength of the light received from the star
+The time period of the planet’s orbit is equal to the time period of the Doppler shift
+The main limitation of this technique is that low-mass, or Earth-like, planets do not cause as much 'wobble' as high-mass planets since they have a greater gravitational pull on the star
+The main limitation of this technique is that
+low-mass, or Earth-like, planets do not cause as much 'wobble' as high-mass planets since they have a greater gravitational pull on the star

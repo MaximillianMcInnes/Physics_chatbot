@@ -1,0 +1,66 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-5-newtons-second-law-for-rotation
+HEADING: Newton’s Second Law for Rotation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Newton’s Second Law for Rotation In linear motion, the force required to give an object a certain acceleration depends on its mass This is Newton's Second Law of linear motion , where: F = force (N) m = mass (kg) a = linear acceleration (m s −2 ) In rotational motion, the torque required to give a rotating object a certain angular acceleration depends on its moment of inertia This is Newton's Second Law of rotational motion , where: = torque (N m) = moment of inertia (kg m 2 ) = angular acceleration (rad s −2 ) Newton's second law for rotating bodies is equivalent to Newton's second law for linear motion This equation comes from the fact that torque is the rotational equivalent of force : Force: Torque: Where: = perpendicular distance from the axis of rotation (m) Combining these equations gives: The moment of inertia of a rotating body can be thought of as analogous to (the same as) mass The inertia of a mass describes its ability to resist changes to linear motion, which is referring to linear acceleration Similarly, the moment of inertia of a mass describes its ability to resist changes to rotational motion, which is referring to angular acceleration Angular acceleration: Moment of inertia (point mass): Using these equations with the equations for force and torque leads to: Comparison of linear and rotational variables in Newton's Second Law Linear variable Rotational variable Force, Torque, Mass, Moment of inertia, Acceleration, Angular acceleration, Newton's Second Law, Newton's Second Law, Worked Example A block of mass m is attached to a string that is wrapped around a cylindrical pulley of mass M and radius R , as shown in the diagram. The moment of inertia of the cylindrical pulley about its axis is . When the block is released, the pulley begins to turn as the block falls. Write an expression for the acceleration of the block. Answer: Step 1: Identify the forces acting on the block Step 2: Apply Newton's second law to the motion of the block eq. (1) Step 3: Apply Newton's second law to the rotation of the pulley Step 4: Write the equation for the pulley in terms of acceleration a The angular acceleration of the pulley is: Substitute this into the previous equation: Substitute in the expression for the moment of inertia and simplify: Moment of inertia of the cylinder: eq. (2) Step 5: Substitute eq. (2) into eq. (1) and rearrange for acceleration a Acceleration of the block:
+Newton’s Second Law for Rotation In linear motion, the force required to give an object a certain acceleration depends on its mass This is Newton's Second Law of linear motion , where: F = force (N) m = mass (kg) a = linear acceleration (m s −2 ) In rotational motion, the torque required to give a rotating object a certain angular acceleration depends on its moment of inertia This is Newton's Second Law of rotational motion , where: = torque (N m) = moment of inertia (kg m 2 ) = angular acceleration (rad s −2 ) Newton's second law for rotating bodies is equivalent to Newton's second law for linear motion This equation comes from the fact that torque is the rotational equivalent of force : Force: Torque: Where: = perpendicular distance from the axis of rotation (m) Combining these equations gives: The moment of inertia of a rotating body can be thought of as analogous to (the same as) mass The inertia of a mass describes its ability to resist changes to linear motion, which is referring to linear acceleration Similarly, the moment of inertia of a mass describes its ability to resist changes to rotational motion, which is referring to angular acceleration Angular acceleration: Moment of inertia (point mass): Using these equations with the equations for force and torque leads to: Comparison of linear and rotational variables in Newton's Second Law Linear variable Rotational variable Force, Torque, Mass, Moment of inertia, Acceleration, Angular acceleration, Newton's Second Law, Newton's Second Law,
+In linear motion, the force required to give an object a certain acceleration depends on its mass
+This is Newton's Second Law of linear motion , where: F = force (N) m = mass (kg) a = linear acceleration (m s −2 )
+This is Newton's Second Law of linear motion , where:
+F = force (N)
+m = mass (kg)
+a = linear acceleration (m s −2 )
+In rotational motion, the torque required to give a rotating object a certain angular acceleration depends on its moment of inertia
+This is Newton's Second Law of rotational motion , where: = torque (N m) = moment of inertia (kg m 2 ) = angular acceleration (rad s −2 )
+This is Newton's Second Law of rotational motion , where:
+= torque (N m)
+= moment of inertia (kg m 2 )
+= angular acceleration (rad s −2 )
+Newton's second law for rotating bodies is equivalent to Newton's second law for linear motion
+This equation comes from the fact that torque is the rotational equivalent of force :
+Force:
+Torque:
+Where: = perpendicular distance from the axis of rotation (m)
+Where:
+= perpendicular distance from the axis of rotation (m)
+Combining these equations gives:
+The moment of inertia of a rotating body can be thought of as analogous to (the same as) mass The inertia of a mass describes its ability to resist changes to linear motion, which is referring to linear acceleration Similarly, the moment of inertia of a mass describes its ability to resist changes to rotational motion, which is referring to angular acceleration
+The moment of inertia of a rotating body can be thought of as analogous to (the same as) mass
+The inertia of a mass describes its ability to resist changes to linear motion, which is referring to linear acceleration
+inertia
+Similarly, the moment of inertia of a mass describes its ability to resist changes to rotational motion, which is referring to angular acceleration
+moment of inertia
+Angular acceleration:
+Moment of inertia (point mass):
+Using these equations with the equations for force and torque leads to:
+Comparison of linear and rotational variables in Newton's Second Law
+Linear variable Rotational variable Force, Torque, Mass, Moment of inertia, Acceleration, Angular acceleration, Newton's Second Law, Newton's Second Law,
+Linear variable
+Rotational variable
+Force,
+Torque,
+Mass,
+Moment of inertia,
+Acceleration,
+Angular acceleration,
+Newton's Second Law,
+Worked Example A block of mass m is attached to a string that is wrapped around a cylindrical pulley of mass M and radius R , as shown in the diagram. The moment of inertia of the cylindrical pulley about its axis is . When the block is released, the pulley begins to turn as the block falls. Write an expression for the acceleration of the block. Answer: Step 1: Identify the forces acting on the block Step 2: Apply Newton's second law to the motion of the block eq. (1) Step 3: Apply Newton's second law to the rotation of the pulley Step 4: Write the equation for the pulley in terms of acceleration a The angular acceleration of the pulley is: Substitute this into the previous equation: Substitute in the expression for the moment of inertia and simplify: Moment of inertia of the cylinder: eq. (2) Step 5: Substitute eq. (2) into eq. (1) and rearrange for acceleration a Acceleration of the block:
+Worked Example
+A block of mass m is attached to a string that is wrapped around a cylindrical pulley of mass M and radius R , as shown in the diagram.
+The moment of inertia of the cylindrical pulley about its axis is .
+When the block is released, the pulley begins to turn as the block falls.
+Write an expression for the acceleration of the block.
+Answer:
+Step 1: Identify the forces acting on the block
+Step 2: Apply Newton's second law to the motion of the block
+eq. (1)
+Step 3: Apply Newton's second law to the rotation of the pulley
+Step 4: Write the equation for the pulley in terms of acceleration a
+The angular acceleration of the pulley is:
+Substitute this into the previous equation:
+Substitute in the expression for the moment of inertia and simplify:
+Moment of inertia of the cylinder:
+eq. (2)
+Step 5: Substitute eq. (2) into eq. (1) and rearrange for acceleration a
+Acceleration of the block:

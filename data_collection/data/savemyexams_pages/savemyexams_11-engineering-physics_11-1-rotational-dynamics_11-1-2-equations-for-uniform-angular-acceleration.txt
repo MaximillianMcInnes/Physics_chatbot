@@ -1,0 +1,51 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-2-equations-for-uniform-angular-acceleration
+HEADING: Angular Acceleration Equations ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Equations for Uniform Angular Acceleration The kinematic equations of motion for uniform linear acceleration can also be re-written for rotational motion The four kinematic equations for uniform linear acceleration are This leads to the four kinematic equations for uniform rotational acceleration The five linear variables have been swapped for the rotational equivalents, as shown in the table below Variable Linear Rotational displacement s θ initial velocity u ω 1 final velocity v ω 2 acceleration a α time t t Worked Example The turntable of a record player is spinning at an angular velocity of 45 RPM just before it is turned off. It then decelerates at a constant rate of 0.8 rad s −2 . Determine the number of rotations the turntable completes before coming to a stop. Answer: Step 1: List the known quantities Initial angular velocity, = 45 RPM Final angular velocity, = 0 Angular acceleration, = −0.8 rad s −2 Angular displacement, = ? Step 2: Convert the angular velocity from RPM to rad s −1 One revolution corresponds to 2π radians, and RPM = revolutions per minute, so and (to convert to seconds) Step 3: Select the most appropriate kinematic equation We know the values of , and , and we are looking for angular displacement , so the best equation to use would be Step 4: Rearrange and calculate the angular displacement Angular displacement, = 13.88 rad Step 5: Determine the number of rotations in There are 2π radians in 1 rotation Therefore, the number of rotations = = 2.2 This means the turntable spins 2.2 times before coming to a stop
+Equations for Uniform Angular Acceleration The kinematic equations of motion for uniform linear acceleration can also be re-written for rotational motion The four kinematic equations for uniform linear acceleration are This leads to the four kinematic equations for uniform rotational acceleration The five linear variables have been swapped for the rotational equivalents, as shown in the table below Variable Linear Rotational displacement s θ initial velocity u ω 1 final velocity v ω 2 acceleration a α time t t
+Equations for Uniform Angular Acceleration
+The kinematic equations of motion for uniform linear acceleration can also be re-written for rotational motion
+The four kinematic equations for uniform linear acceleration are
+This leads to the four kinematic equations for uniform rotational acceleration
+The five linear variables have been swapped for the rotational equivalents, as shown in the table below
+Variable Linear Rotational displacement s θ initial velocity u ω 1 final velocity v ω 2 acceleration a α time t t
+Variable
+Linear
+Rotational
+displacement
+s
+θ
+initial velocity
+u
+ω 1
+final velocity
+v
+ω 2
+acceleration
+a
+α
+time
+t
+Worked Example The turntable of a record player is spinning at an angular velocity of 45 RPM just before it is turned off. It then decelerates at a constant rate of 0.8 rad s −2 . Determine the number of rotations the turntable completes before coming to a stop. Answer: Step 1: List the known quantities Initial angular velocity, = 45 RPM Final angular velocity, = 0 Angular acceleration, = −0.8 rad s −2 Angular displacement, = ? Step 2: Convert the angular velocity from RPM to rad s −1 One revolution corresponds to 2π radians, and RPM = revolutions per minute, so and (to convert to seconds) Step 3: Select the most appropriate kinematic equation We know the values of , and , and we are looking for angular displacement , so the best equation to use would be Step 4: Rearrange and calculate the angular displacement Angular displacement, = 13.88 rad Step 5: Determine the number of rotations in There are 2π radians in 1 rotation Therefore, the number of rotations = = 2.2 This means the turntable spins 2.2 times before coming to a stop
+Worked Example
+The turntable of a record player is spinning at an angular velocity of 45 RPM just before it is turned off. It then decelerates at a constant rate of 0.8 rad s −2 .
+Determine the number of rotations the turntable completes before coming to a stop.
+Answer:
+Step 1: List the known quantities
+Initial angular velocity, = 45 RPM
+Final angular velocity, = 0
+Angular acceleration, = −0.8 rad s −2
+Angular displacement, = ?
+Step 2: Convert the angular velocity from RPM to rad s −1
+One revolution corresponds to 2π radians, and RPM = revolutions per minute, so
+and (to convert to seconds)
+Step 3: Select the most appropriate kinematic equation
+We know the values of , and , and we are looking for angular displacement , so the best equation to use would be
+Step 4: Rearrange and calculate the angular displacement
+Angular displacement, = 13.88 rad
+Step 5: Determine the number of rotations in
+There are 2π radians in 1 rotation
+Therefore, the number of rotations = = 2.2
+This means the turntable spins 2.2 times before coming to a stop

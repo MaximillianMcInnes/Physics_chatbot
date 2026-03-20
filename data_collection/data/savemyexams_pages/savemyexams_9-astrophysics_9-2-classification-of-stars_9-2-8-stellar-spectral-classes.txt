@@ -1,0 +1,120 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-8-stellar-spectral-classes
+HEADING: Stellar Spectral Classes ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Stellar Spectral Classes The spectral classes used today were categorised by the astronomer Annie Jump-Cannon She reordered the original alphabetical system into seven temperature classes: O B A F G K M The table shows how the spectra of stars can be categorised based on their Intrinsic colour Temperature Prominent absorption lines Spectral class Intrinsic colour Temperature / K Prominent absorption lines O blue 25 000 – 50 000 He + , He, H B blue 11 000 – 25 000 He, H A blue-white 7500 – 11 000 H (strongest), ionised metals F white 6000 – 7500 ionised metals G yellow-white 5000 – 6000 ionised and neutral metals K orange 3500 – 5000 neutral metals M red < 3500 neutral atoms, TiO The intrinsic colour of a star is related to its peak emission wavelength which is attributed to its temperature, as described by Wien's law Relationship between colour and temperature of stars The colour of a star correlates to its temperature The relationship between temperature and absorption spectra is related to the effect of the energy on the state of the atoms or molecules present in the atmospheres of stars At low temperatures: There may not be enough energy to excite atoms or break molecular bonds This results in the TiO and neutral atoms, as seen in classes K and M At higher temperatures: Atoms have too much energy to form molecules As a result, ionisation can take place, as seen in classes F and G At the hottest temperatures: Hydrogen and helium are found to be in higher abundance in the atmospheres of the hottest stars This means that their spectral lines start to dominate, as seen in classes O, B and A The Balmer Series of Hydrogen The absorption and emission spectra of hydrogen and helium are of particular importance to astronomers due to their abundance in the universe Spectra of Different Spectral Classes Spectral classes in terms of the prominence of their Balmer lines There are many series of spectra, but the most important is the Balmer series, which involves Electron transitions either to or from the second energy level The Balmer series is of great importance because the wavelengths of photons created are in the visible spectrum The prominence of Balmer lines in a star's atmosphere varies depending on the surface temperature, as shown in the table: Spectral class Prominence of Balmer lines Explanation O weak star’s atmosphere too hot hydrogen likely to be ionised B slightly stronger A strongest high abundance of hydrogen in n = 2 state F weak star’s atmosphere too cool hydrogen unlikely to be excited G very weak / none too little atomic hydrogen far too cool to be excited K M Worked Example The Winter Triangle consists of three stars, Procyon, Betelgeuse and Sirius. Procyon and Sirius are binary systems both containing a main sequence star (denoted by A) and a white dwarf (denoted by B) The surface temperature of these stars is shown in the table. Star Surface temperature / K Betelgeuse 3500 Procyon A 6500 Sirius A 9900 (a) State and explain the spectral classes that each star belongs to. (b) State and explain which star has the most prominent Hydrogen Balmer absorption lines. Answer: Part (a) Spectral class is related to a star's surface temperature, so: Betelgeuse is a type M star The temperature range for class M is < 3500 K Procyon A is a type F star The temperature range for class F is 6000 – 7500 K Sirius A is a type A star The temperature range for class A is 7500 – 11 000 K Part (b) Sirius A has the strongest Balmer absorption lines This is because A class stars have hot enough atmospheres for electrons in hydrogen atoms to be excited to the n = 2 state Whereas, the atmospheres of class F and M stars are cooler, so may not be hot enough for electrons in hydrogen atoms to be excited to the n = 2 state Examiner Tips and Tricks A common mnemonic for remembering the order of the spectral classes, developed by Annie Jump Cannon herself, is ‘Oh be a fine girl, kiss me!’
+Stellar Spectral Classes The spectral classes used today were categorised by the astronomer Annie Jump-Cannon She reordered the original alphabetical system into seven temperature classes: O B A F G K M The table shows how the spectra of stars can be categorised based on their Intrinsic colour Temperature Prominent absorption lines Spectral class Intrinsic colour Temperature / K Prominent absorption lines O blue 25 000 – 50 000 He + , He, H B blue 11 000 – 25 000 He, H A blue-white 7500 – 11 000 H (strongest), ionised metals F white 6000 – 7500 ionised metals G yellow-white 5000 – 6000 ionised and neutral metals K orange 3500 – 5000 neutral metals M red < 3500 neutral atoms, TiO The intrinsic colour of a star is related to its peak emission wavelength which is attributed to its temperature, as described by Wien's law Relationship between colour and temperature of stars The colour of a star correlates to its temperature The relationship between temperature and absorption spectra is related to the effect of the energy on the state of the atoms or molecules present in the atmospheres of stars At low temperatures: There may not be enough energy to excite atoms or break molecular bonds This results in the TiO and neutral atoms, as seen in classes K and M At higher temperatures: Atoms have too much energy to form molecules As a result, ionisation can take place, as seen in classes F and G At the hottest temperatures: Hydrogen and helium are found to be in higher abundance in the atmospheres of the hottest stars This means that their spectral lines start to dominate, as seen in classes O, B and A The Balmer Series of Hydrogen The absorption and emission spectra of hydrogen and helium are of particular importance to astronomers due to their abundance in the universe Spectra of Different Spectral Classes Spectral classes in terms of the prominence of their Balmer lines There are many series of spectra, but the most important is the Balmer series, which involves Electron transitions either to or from the second energy level The Balmer series is of great importance because the wavelengths of photons created are in the visible spectrum The prominence of Balmer lines in a star's atmosphere varies depending on the surface temperature, as shown in the table: Spectral class Prominence of Balmer lines Explanation O weak star’s atmosphere too hot hydrogen likely to be ionised B slightly stronger A strongest high abundance of hydrogen in n = 2 state F weak star’s atmosphere too cool hydrogen unlikely to be excited G very weak / none too little atomic hydrogen far too cool to be excited K M
+The spectral classes used today were categorised by the astronomer Annie Jump-Cannon
+She reordered the original alphabetical system into seven temperature classes:
+O B A F G K M
+The table shows how the spectra of stars can be categorised based on their Intrinsic colour Temperature Prominent absorption lines
+The table shows how the spectra of stars can be categorised based on their
+Intrinsic colour
+Temperature
+Prominent absorption lines
+Spectral class Intrinsic colour Temperature / K Prominent absorption lines O blue 25 000 – 50 000 He + , He, H B blue 11 000 – 25 000 He, H A blue-white 7500 – 11 000 H (strongest), ionised metals F white 6000 – 7500 ionised metals G yellow-white 5000 – 6000 ionised and neutral metals K orange 3500 – 5000 neutral metals M red < 3500 neutral atoms, TiO
+Spectral class
+Temperature / K
+O
+blue
+25 000 – 50 000
+He + , He, H
+B
+11 000 – 25 000
+He, H
+A
+blue-white
+7500 – 11 000
+H (strongest), ionised metals
+F
+white
+6000 – 7500
+ionised metals
+G
+yellow-white
+5000 – 6000
+ionised and neutral metals
+K
+orange
+3500 – 5000
+neutral metals
+M
+red
+< 3500
+neutral atoms, TiO
+The intrinsic colour of a star is related to its peak emission wavelength which is attributed to its temperature, as described by Wien's law
+Relationship between colour and temperature of stars
+The colour of a star correlates to its temperature
+The relationship between temperature and absorption spectra is related to the effect of the energy on the state of the atoms or molecules present in the atmospheres of stars
+At low temperatures: There may not be enough energy to excite atoms or break molecular bonds This results in the TiO and neutral atoms, as seen in classes K and M
+At low temperatures:
+There may not be enough energy to excite atoms or break molecular bonds
+This results in the TiO and neutral atoms, as seen in classes K and M
+At higher temperatures: Atoms have too much energy to form molecules As a result, ionisation can take place, as seen in classes F and G
+At higher temperatures:
+Atoms have too much energy to form molecules
+As a result, ionisation can take place, as seen in classes F and G
+At the hottest temperatures: Hydrogen and helium are found to be in higher abundance in the atmospheres of the hottest stars This means that their spectral lines start to dominate, as seen in classes O, B and A
+At the hottest temperatures:
+Hydrogen and helium are found to be in higher abundance in the atmospheres of the hottest stars
+This means that their spectral lines start to dominate, as seen in classes O, B and A
+The Balmer Series of Hydrogen
+The absorption and emission spectra of hydrogen and helium are of particular importance to astronomers due to their abundance in the universe
+Spectra of Different Spectral Classes
+Spectral classes in terms of the prominence of their Balmer lines
+There are many series of spectra, but the most important is the Balmer series, which involves Electron transitions either to or from the second energy level
+There are many series of spectra, but the most important is the Balmer series, which involves
+Electron transitions either to or from the second energy level
+The Balmer series is of great importance because the wavelengths of photons created are in the visible spectrum
+The prominence of Balmer lines in a star's atmosphere varies depending on the surface temperature, as shown in the table:
+Spectral class Prominence of Balmer lines Explanation O weak star’s atmosphere too hot hydrogen likely to be ionised B slightly stronger A strongest high abundance of hydrogen in n = 2 state F weak star’s atmosphere too cool hydrogen unlikely to be excited G very weak / none too little atomic hydrogen far too cool to be excited K M
+Prominence of Balmer lines
+Explanation
+weak
+star’s atmosphere too hot
+hydrogen likely to be ionised
+slightly stronger
+strongest
+high abundance of hydrogen in n = 2 state
+star’s atmosphere too cool
+hydrogen unlikely to be excited
+very weak / none
+too little atomic hydrogen
+far too cool to be excited
+Worked Example The Winter Triangle consists of three stars, Procyon, Betelgeuse and Sirius. Procyon and Sirius are binary systems both containing a main sequence star (denoted by A) and a white dwarf (denoted by B) The surface temperature of these stars is shown in the table. Star Surface temperature / K Betelgeuse 3500 Procyon A 6500 Sirius A 9900 (a) State and explain the spectral classes that each star belongs to. (b) State and explain which star has the most prominent Hydrogen Balmer absorption lines. Answer: Part (a) Spectral class is related to a star's surface temperature, so: Betelgeuse is a type M star The temperature range for class M is < 3500 K Procyon A is a type F star The temperature range for class F is 6000 – 7500 K Sirius A is a type A star The temperature range for class A is 7500 – 11 000 K Part (b) Sirius A has the strongest Balmer absorption lines This is because A class stars have hot enough atmospheres for electrons in hydrogen atoms to be excited to the n = 2 state Whereas, the atmospheres of class F and M stars are cooler, so may not be hot enough for electrons in hydrogen atoms to be excited to the n = 2 state
+Worked Example
+The Winter Triangle consists of three stars, Procyon, Betelgeuse and Sirius.
+Procyon and Sirius are binary systems both containing a main sequence star (denoted by A) and a white dwarf (denoted by B)
+The surface temperature of these stars is shown in the table.
+Star Surface temperature / K Betelgeuse 3500 Procyon A 6500 Sirius A 9900
+Star
+Surface temperature / K
+Betelgeuse
+3500
+Procyon A
+6500
+Sirius A
+9900
+(a) State and explain the spectral classes that each star belongs to.
+(b) State and explain which star has the most prominent Hydrogen Balmer absorption lines.
+Answer:
+Part (a)
+Spectral class is related to a star's surface temperature, so:
+Betelgeuse is a type M star The temperature range for class M is < 3500 K
+Betelgeuse is a type M star
+The temperature range for class M is < 3500 K
+Procyon A is a type F star The temperature range for class F is 6000 – 7500 K
+Procyon A is a type F star
+The temperature range for class F is 6000 – 7500 K
+Sirius A is a type A star The temperature range for class A is 7500 – 11 000 K
+Sirius A is a type A star
+The temperature range for class A is 7500 – 11 000 K
+Part (b)
+Sirius A has the strongest Balmer absorption lines
+This is because A class stars have hot enough atmospheres for electrons in hydrogen atoms to be excited to the n = 2 state
+Whereas, the atmospheres of class F and M stars are cooler, so may not be hot enough for electrons in hydrogen atoms to be excited to the n = 2 state
+Examiner Tips and Tricks A common mnemonic for remembering the order of the spectral classes, developed by Annie Jump Cannon herself, is ‘Oh be a fine girl, kiss me!’
+Examiner Tips and Tricks
+A common mnemonic for remembering the order of the spectral classes, developed by Annie Jump Cannon herself, is
+‘Oh be a fine girl, kiss me!’

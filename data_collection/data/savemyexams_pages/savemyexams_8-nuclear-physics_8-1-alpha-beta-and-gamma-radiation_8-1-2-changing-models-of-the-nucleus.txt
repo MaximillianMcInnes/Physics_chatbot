@@ -1,0 +1,41 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-1-alpha-beta-and-gamma-radiation/8-1-2-changing-models-of-the-nucleus
+HEADING: Changing Models of the Nucleus ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Changing Models of the Nucleus John Dalton’s Model (1803) Dalton imagined that all matter was made of tiny solid particles called atoms Dalton’s model proposed that: atoms are the smallest constituents of matter and cannot be broken down any further atoms of a given element are identical to each other and atoms of different elements are different from one another when chemical reactions occur, the atoms rearrange to make different substances J.J. Thomson’s Model (1897) Thomson discovered the electron He then went on to propose the ‘plum pudding’ model of the atom which proposed that: the atom consists of positive and negative charges in equal amounts so that it is neutral overall atoms can be modelled as spheres of positive charge with uniformly distributed charge and density. The negatively charged electrons were thought to be stuck to the sphere like currants in a plum pudding Rutherford’s Gold Foil Experiment (1909 – 1911) Ernest Rutherford, Hans Geiger, and Ernest Marsden set out to test the plum pudding model They aimed beams of positively charged particles (alpha particles) at very thin gold foil According to the plum pudding model, these particles should have passed straight through, however, many of them were deflected, or even backscattered The Rutherford model was developed as a result of this experiment, which states: atoms are mostly empty space atoms have a central, positively charged nucleus containing the majority of the mass Neils Bohr’s Model (1913) Neils Bohr improved upon Rutherford’s model Bohr used mathematical ideas to develop the ‘planetary model of the atom’ which states: electrons orbit the nucleus, like planets around a star electrons occupy well-defined shells or energy levels around the nucleus Quantum Mechanical Model (1926) Erwin Schrödinger took Bohr's model further and used equations to calculate the likelihood of finding an electron in a certain position This model can be portrayed as a nucleus surrounded by an electron cloud Where the cloud is most dense, the probability of finding the electron is greatest, and vice versa The atom was thought to only have a positively charged nucleus surrounded by negatively charged electrons James Chadwick then discovered the neutron in 1932, which completed the model of the atom we know today Timeline of the changing models of the nucleus
+John Dalton’s Model (1803)
+Dalton imagined that all matter was made of tiny solid particles called atoms
+Dalton’s model proposed that: atoms are the smallest constituents of matter and cannot be broken down any further atoms of a given element are identical to each other and atoms of different elements are different from one another when chemical reactions occur, the atoms rearrange to make different substances
+Dalton’s model proposed that:
+atoms are the smallest constituents of matter and cannot be broken down any further
+atoms of a given element are identical to each other and atoms of different elements are different from one another
+when chemical reactions occur, the atoms rearrange to make different substances
+J.J. Thomson’s Model (1897)
+Thomson discovered the electron
+He then went on to propose the ‘plum pudding’ model of the atom which proposed that: the atom consists of positive and negative charges in equal amounts so that it is neutral overall atoms can be modelled as spheres of positive charge with uniformly distributed charge and density. The negatively charged electrons were thought to be stuck to the sphere like currants in a plum pudding
+He then went on to propose the ‘plum pudding’ model of the atom which proposed that:
+the atom consists of positive and negative charges in equal amounts so that it is neutral overall
+atoms can be modelled as spheres of positive charge with uniformly distributed charge and density. The negatively charged electrons were thought to be stuck to the sphere like currants in a plum pudding
+Rutherford’s Gold Foil Experiment (1909 – 1911)
+Ernest Rutherford, Hans Geiger, and Ernest Marsden set out to test the plum pudding model
+They aimed beams of positively charged particles (alpha particles) at very thin gold foil
+According to the plum pudding model, these particles should have passed straight through, however, many of them were deflected, or even backscattered
+The Rutherford model was developed as a result of this experiment, which states: atoms are mostly empty space atoms have a central, positively charged nucleus containing the majority of the mass
+The Rutherford model was developed as a result of this experiment, which states:
+atoms are mostly empty space
+atoms have a central, positively charged nucleus containing the majority of the mass
+Neils Bohr’s Model (1913)
+Neils Bohr improved upon Rutherford’s model
+Bohr used mathematical ideas to develop the ‘planetary model of the atom’ which states: electrons orbit the nucleus, like planets around a star electrons occupy well-defined shells or energy levels around the nucleus
+Bohr used mathematical ideas to develop the ‘planetary model of the atom’ which states:
+electrons orbit the nucleus, like planets around a star
+electrons occupy well-defined shells or energy levels around the nucleus
+Quantum Mechanical Model (1926)
+Erwin Schrödinger took Bohr's model further and used equations to calculate the likelihood of finding an electron in a certain position
+This model can be portrayed as a nucleus surrounded by an electron cloud Where the cloud is most dense, the probability of finding the electron is greatest, and vice versa
+This model can be portrayed as a nucleus surrounded by an electron cloud
+Where the cloud is most dense, the probability of finding the electron is greatest, and vice versa
+The atom was thought to only have a positively charged nucleus surrounded by negatively charged electrons
+James Chadwick then discovered the neutron in 1932, which completed the model of the atom we know today
+Timeline of the changing models of the nucleus

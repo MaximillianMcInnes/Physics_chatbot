@@ -1,0 +1,46 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-1-circular-motion/6-1-5-centripetal-force
+HEADING: Centripetal Force ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+Did this video help you? Calculating Centripetal Force An object moving in a circle is not in equilibrium, it has a resultant force acting upon it This is known as the centripetal force and is what keeps the object moving in a circle The centripetal force ( F ) is defined as: The resultant force towards the centre of the circle required to keep a body in uniform circular motion. It is always directed towards the centre of the body's rotation. Centripetal force can be calculated using: Centripetal force is always perpendicular to the direction of travel Where: F = centripetal force (N) v = linear velocity (m s -1 ) ⍵ = angular speed (rad s -1 ) r = radius of the orbit (m) Note: centripetal force and centripetal acceleration act in the same direction This is due to Newton’s Second Law The centripetal force is not a separate force of its own It can be any type of force, depending on the situation, which keeps an object moving in a circular path Examples of centripetal force When solving circular motion problems involving one of these forces, the equation for centripetal force can be equated to the relevant force equation For example, for a mass orbiting a planet in a circular path, the centripetal force is provided by the gravitational force When an object travels in circular motion, there is no work done This is because there is no change in kinetic energy Worked Example A 300 g ball is made to travel in a circle of radius 0.8 m on the end of a string. If the maximum force the ball can withstand before breaking is 60 N, what is the maximum speed of the ball? Answer: Step 1: List the known quantities Mass, m = 300 g = 300 × 10 -3 kg Radius, r = 0.8 m Resultant force, F = 60 N Step 2: Rearrange the centripetal force equation for v Step 3: Substitute in the values 12.6 m s –1
+Did this video help you?
+Calculating Centripetal Force An object moving in a circle is not in equilibrium, it has a resultant force acting upon it This is known as the centripetal force and is what keeps the object moving in a circle The centripetal force ( F ) is defined as: The resultant force towards the centre of the circle required to keep a body in uniform circular motion. It is always directed towards the centre of the body's rotation. Centripetal force can be calculated using: Centripetal force is always perpendicular to the direction of travel Where: F = centripetal force (N) v = linear velocity (m s -1 ) ⍵ = angular speed (rad s -1 ) r = radius of the orbit (m) Note: centripetal force and centripetal acceleration act in the same direction This is due to Newton’s Second Law The centripetal force is not a separate force of its own It can be any type of force, depending on the situation, which keeps an object moving in a circular path Examples of centripetal force When solving circular motion problems involving one of these forces, the equation for centripetal force can be equated to the relevant force equation For example, for a mass orbiting a planet in a circular path, the centripetal force is provided by the gravitational force When an object travels in circular motion, there is no work done This is because there is no change in kinetic energy
+Calculating Centripetal Force
+An object moving in a circle is not in equilibrium, it has a resultant force acting upon it This is known as the centripetal force and is what keeps the object moving in a circle
+An object moving in a circle is not in equilibrium, it has a resultant force acting upon it
+This is known as the centripetal force and is what keeps the object moving in a circle
+The centripetal force ( F ) is defined as: The resultant force towards the centre of the circle required to keep a body in uniform circular motion. It is always directed towards the centre of the body's rotation.
+The centripetal force ( F ) is defined as:
+The resultant force towards the centre of the circle required to keep a body in uniform circular motion. It is always directed towards the centre of the body's rotation.
+Centripetal force can be calculated using:
+Centripetal force is always perpendicular to the direction of travel
+Where: F = centripetal force (N) v = linear velocity (m s -1 ) ⍵ = angular speed (rad s -1 ) r = radius of the orbit (m)
+Where:
+F = centripetal force (N)
+v = linear velocity (m s -1 )
+⍵ = angular speed (rad s -1 )
+r = radius of the orbit (m)
+Note: centripetal force and centripetal acceleration act in the same direction This is due to Newton’s Second Law
+Note: centripetal force and centripetal acceleration act in the same direction
+This is due to Newton’s Second Law
+Newton’s Second Law
+The centripetal force is not a separate force of its own It can be any type of force, depending on the situation, which keeps an object moving in a circular path
+The centripetal force is not a separate force of its own
+It can be any type of force, depending on the situation, which keeps an object moving in a circular path
+Examples of centripetal force
+When solving circular motion problems involving one of these forces, the equation for centripetal force can be equated to the relevant force equation
+For example, for a mass orbiting a planet in a circular path, the centripetal force is provided by the gravitational force
+When an object travels in circular motion, there is no work done This is because there is no change in kinetic energy
+When an object travels in circular motion, there is no work done
+This is because there is no change in kinetic energy
+Worked Example A 300 g ball is made to travel in a circle of radius 0.8 m on the end of a string. If the maximum force the ball can withstand before breaking is 60 N, what is the maximum speed of the ball? Answer: Step 1: List the known quantities Mass, m = 300 g = 300 × 10 -3 kg Radius, r = 0.8 m Resultant force, F = 60 N Step 2: Rearrange the centripetal force equation for v Step 3: Substitute in the values 12.6 m s –1
+Worked Example
+A 300 g ball is made to travel in a circle of radius 0.8 m on the end of a string. If the maximum force the ball can withstand before breaking is 60 N, what is the maximum speed of the ball?
+Answer:
+Step 1: List the known quantities
+Mass, m = 300 g = 300 × 10 -3 kg
+Radius, r = 0.8 m
+Resultant force, F = 60 N
+Step 2: Rearrange the centripetal force equation for v
+Step 3: Substitute in the values
+12.6 m s –1

@@ -1,0 +1,60 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-3-special-relativity/12-3-8-relativistic-mass
+HEADING: Relativistic Mass ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Equivalence of Mass & Energy Einstein showed in a 1905 paper that matter can be considered a form of energy, and hence, he proposed: mass can be converted into energy energy can be converted into mass This is known as mass-energy equivalence , and can be summarised by the equation: Where: E = energy (J) m = mass (kg) c = the speed of light (m s -1 ) Scenarios where mass is converted to energy or energy to mass include: the fusion of hydrogen into helium in the centre of the Sun the fission of uranium in nuclear power plants nuclear weapons high-energy particle collisions in particle accelerators Relativistic Mass An object's proper mass (that is, its mass measured by an observer at rest relative to the object) is also called its rest mass , m 0 An observer in an inertial reference frame moving at speed v relative to the object measures the object's mass as m , which is given by: This can also be written as: Because γ > 1, when an object is moving relative to your frame of reference, you measure its mass as larger than its rest mass The derivation for this relativistic mass is a good deal more complex than the derivation for relativistic time and length, and is not examinable, so it is omitted from this revision note One interesting outcome of this relativistic mass is the speed limit imposed on objects As an object's speed nears the speed of light, its mass gets larger and larger Very close to the speed of light, an object's mass tends towards an infinite mass Graph showing how relativistic mass changes with velocity The effect of speed, as a fraction of c, on an object's mass, in multiples of rest mass. Mass increases rapidly as the object's speed approaches c. Relativistic Energy Let's reconsider Einstein's famous equation, taking relativistic effects into account: The mass of a stationary object is its rest mass , m 0 , so it has a rest energy of E = m 0 c 2 Worked Example A particle in a particle accelerator has a rest mass of M 0 and is accelerated to a maximum speed of 0.998 c . Calculate the total energy of the particle at its maximum speed, as a multiple of its proper energy, from the reference frame of an observer who is stationary relative to the accelerator. Answer: Step 1: List the known quantities: Maximum speed, v = 0.998 c Step 2: Write down the relevant equations: Rest energy, E 0 = m 0 c 2 Relativistic energy, E = γm 0 c 2 Write the equation with the gamma term out in full Step 3: Substitute the known quantities: The relativistic energy in terms of rest mass M 0 is Step 4: Give the answer as a multiple of proper energy: Proper energy is another way of saying rest energy, which is M 0 c 2 The particle's energy is 15.8 times larger than the rest energy, according to the observer Examiner Tips and Tricks When you see a speed and a mass, it's tempting to go into autopilot and stick everything into the equation E k = ½ mv 2 , but this would gain you no marks in this worked example! The trick is to look at how large the speed is; if it is close to the speed of light, the relativistic effects are significant, and you need to account for them. The context of the question can also provide clues, such as mentioning frames of reference or rest mass.
+Equivalence of Mass & Energy Einstein showed in a 1905 paper that matter can be considered a form of energy, and hence, he proposed: mass can be converted into energy energy can be converted into mass This is known as mass-energy equivalence , and can be summarised by the equation: Where: E = energy (J) m = mass (kg) c = the speed of light (m s -1 ) Scenarios where mass is converted to energy or energy to mass include: the fusion of hydrogen into helium in the centre of the Sun the fission of uranium in nuclear power plants nuclear weapons high-energy particle collisions in particle accelerators
+Equivalence of Mass & Energy
+Einstein showed in a 1905 paper that matter can be considered a form of energy, and hence, he proposed: mass can be converted into energy energy can be converted into mass
+Einstein showed in a 1905 paper that matter can be considered a form of energy, and hence, he proposed:
+mass can be converted into energy
+energy can be converted into mass
+This is known as mass-energy equivalence , and can be summarised by the equation:
+Where: E = energy (J) m = mass (kg) c = the speed of light (m s -1 )
+Where:
+E = energy (J)
+m = mass (kg)
+c = the speed of light (m s -1 )
+the speed of light
+Scenarios where mass is converted to energy or energy to mass include: the fusion of hydrogen into helium in the centre of the Sun the fission of uranium in nuclear power plants nuclear weapons high-energy particle collisions in particle accelerators
+Scenarios where mass is converted to energy or energy to mass include:
+the fusion of hydrogen into helium in the centre of the Sun
+the fission of uranium in nuclear power plants
+nuclear weapons
+high-energy particle collisions in particle accelerators
+Relativistic Mass An object's proper mass (that is, its mass measured by an observer at rest relative to the object) is also called its rest mass , m 0 An observer in an inertial reference frame moving at speed v relative to the object measures the object's mass as m , which is given by: This can also be written as: Because γ > 1, when an object is moving relative to your frame of reference, you measure its mass as larger than its rest mass The derivation for this relativistic mass is a good deal more complex than the derivation for relativistic time and length, and is not examinable, so it is omitted from this revision note One interesting outcome of this relativistic mass is the speed limit imposed on objects As an object's speed nears the speed of light, its mass gets larger and larger Very close to the speed of light, an object's mass tends towards an infinite mass Graph showing how relativistic mass changes with velocity The effect of speed, as a fraction of c, on an object's mass, in multiples of rest mass. Mass increases rapidly as the object's speed approaches c. Relativistic Energy Let's reconsider Einstein's famous equation, taking relativistic effects into account: The mass of a stationary object is its rest mass , m 0 , so it has a rest energy of E = m 0 c 2
+An object's proper mass (that is, its mass measured by an observer at rest relative to the object) is also called its rest mass , m 0
+An observer in an inertial reference frame moving at speed v relative to the object measures the object's mass as m , which is given by:
+This can also be written as:
+Because γ > 1, when an object is moving relative to your frame of reference, you measure its mass as larger than its rest mass The derivation for this relativistic mass is a good deal more complex than the derivation for relativistic time and length, and is not examinable, so it is omitted from this revision note
+Because γ > 1, when an object is moving relative to your frame of reference, you measure its mass as larger than its rest mass
+The derivation for this relativistic mass is a good deal more complex than the derivation for relativistic time and length, and is not examinable, so it is omitted from this revision note
+One interesting outcome of this relativistic mass is the speed limit imposed on objects As an object's speed nears the speed of light, its mass gets larger and larger Very close to the speed of light, an object's mass tends towards an infinite mass
+One interesting outcome of this relativistic mass is the speed limit imposed on objects
+As an object's speed nears the speed of light, its mass gets larger and larger
+Very close to the speed of light, an object's mass tends towards an infinite mass
+Graph showing how relativistic mass changes with velocity
+The effect of speed, as a fraction of c, on an object's mass, in multiples of rest mass. Mass increases rapidly as the object's speed approaches c.
+Relativistic Energy
+Let's reconsider Einstein's famous equation, taking relativistic effects into account:
+The mass of a stationary object is its rest mass , m 0 , so it has a rest energy of E = m 0 c 2
+Worked Example A particle in a particle accelerator has a rest mass of M 0 and is accelerated to a maximum speed of 0.998 c . Calculate the total energy of the particle at its maximum speed, as a multiple of its proper energy, from the reference frame of an observer who is stationary relative to the accelerator. Answer: Step 1: List the known quantities: Maximum speed, v = 0.998 c Step 2: Write down the relevant equations: Rest energy, E 0 = m 0 c 2 Relativistic energy, E = γm 0 c 2 Write the equation with the gamma term out in full Step 3: Substitute the known quantities: The relativistic energy in terms of rest mass M 0 is Step 4: Give the answer as a multiple of proper energy: Proper energy is another way of saying rest energy, which is M 0 c 2 The particle's energy is 15.8 times larger than the rest energy, according to the observer
+Worked Example
+A particle in a particle accelerator has a rest mass of M 0 and is accelerated to a maximum speed of 0.998 c .
+Calculate the total energy of the particle at its maximum speed, as a multiple of its proper energy, from the reference frame of an observer who is stationary relative to the accelerator.
+Answer:
+Step 1: List the known quantities:
+Maximum speed, v = 0.998 c
+Step 2: Write down the relevant equations:
+Rest energy, E 0 = m 0 c 2
+Relativistic energy, E = γm 0 c 2
+Write the equation with the gamma term out in full
+Step 3: Substitute the known quantities:
+The relativistic energy in terms of rest mass M 0 is
+Step 4: Give the answer as a multiple of proper energy:
+Proper energy is another way of saying rest energy, which is M 0 c 2
+The particle's energy is 15.8 times larger than the rest energy, according to the observer
+Examiner Tips and Tricks When you see a speed and a mass, it's tempting to go into autopilot and stick everything into the equation E k = ½ mv 2 , but this would gain you no marks in this worked example! The trick is to look at how large the speed is; if it is close to the speed of light, the relativistic effects are significant, and you need to account for them. The context of the question can also provide clues, such as mentioning frames of reference or rest mass.
+Examiner Tips and Tricks
+When you see a speed and a mass, it's tempting to go into autopilot and stick everything into the equation E k = ½ mv 2 , but this would gain you no marks in this worked example! The trick is to look at how large the speed is; if it is close to the speed of light, the relativistic effects are significant, and you need to account for them. The context of the question can also provide clues, such as mentioning frames of reference or rest mass.

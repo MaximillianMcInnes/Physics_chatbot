@@ -1,0 +1,52 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/5-electricity/5-2-resistance-and-resistivity/5-2-3-superconductivity
+HEADING: Superconductivity ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Superconductivity All materials have some resistivity - even good electrical conductors such as copper and silver Resistance means that when electricity flows through a material, it heats up and the electrical energy is wasted as thermal energy The resistivity of a material can be lowered by lowering its temperature If a material is cooled below a temperature called the critical temperature, its resistivity disappears entirely. It is now a superconductor Therefore, a superconductor (or superconducting material) is defined as A material with no resistance below a critical temperature The critical temperature is defined as The temperature at which a material becomes superconducting A common superconducting material is mercury Mercury has a critical temperature of 4.2 K The electrical resistivity against temperature for a normal metal compared to a superconductor can be shown on the following graph: Resistivity against Temperature graph for a superconductor vs. a normal metal Superconductivity is a property of only certain materials that have the characteristics above This temperature threshold is sometimes referred to as the transition temperature Examiner Tips and Tricks Superconductivity occurs when there is no resistance. Avoid writing that there is a 'little' resistance or 'thermal' conductivity, which are not entirely correct Applications of Superconductors Superconductors are useful for applications that require large electric currents Therefore, they are useful for: The production of strong magnetic fields The reduction of energy loss / dissipation in the transmission of electric power Such applications which require these could be: MRI scanners Transformers & generators - for fewer fire risks Motors Monorail trains Maglev (magnetic levitation) trains Particle accelerators - need large magnetic fields to accelerate particles Fusion reactors Electromagnets Power / electrical cables Microchips Maglev trains require extremely strong electromagnets to levitate the train due to such a large mass This means they can travel at extremely high speeds up to 603 km / h Maglev train systems currently only exist in Japan, South Korea and China Maglev trains use strong electromagnets attached to the train and rails to levitate
+Superconductivity All materials have some resistivity - even good electrical conductors such as copper and silver Resistance means that when electricity flows through a material, it heats up and the electrical energy is wasted as thermal energy The resistivity of a material can be lowered by lowering its temperature If a material is cooled below a temperature called the critical temperature, its resistivity disappears entirely. It is now a superconductor Therefore, a superconductor (or superconducting material) is defined as A material with no resistance below a critical temperature The critical temperature is defined as The temperature at which a material becomes superconducting A common superconducting material is mercury Mercury has a critical temperature of 4.2 K The electrical resistivity against temperature for a normal metal compared to a superconductor can be shown on the following graph: Resistivity against Temperature graph for a superconductor vs. a normal metal Superconductivity is a property of only certain materials that have the characteristics above This temperature threshold is sometimes referred to as the transition temperature
+All materials have some resistivity - even good electrical conductors such as copper and silver
+Resistance means that when electricity flows through a material, it heats up and the electrical energy is wasted as thermal energy The resistivity of a material can be lowered by lowering its temperature
+Resistance means that when electricity flows through a material, it heats up and the electrical energy is wasted as thermal energy
+The resistivity of a material can be lowered by lowering its temperature
+If a material is cooled below a temperature called the critical temperature, its resistivity disappears entirely. It is now a superconductor
+Therefore, a superconductor (or superconducting material) is defined as A material with no resistance below a critical temperature
+Therefore, a superconductor (or superconducting material) is defined as
+A material with no resistance below a critical temperature
+The critical temperature is defined as The temperature at which a material becomes superconducting
+The critical temperature is defined as
+The temperature at which a material becomes superconducting
+A common superconducting material is mercury Mercury has a critical temperature of 4.2 K
+A common superconducting material is mercury
+Mercury has a critical temperature of 4.2 K
+The electrical resistivity against temperature for a normal metal compared to a superconductor can be shown on the following graph:
+Resistivity against Temperature graph for a superconductor vs. a normal metal
+Superconductivity is a property of only certain materials that have the characteristics above
+This temperature threshold is sometimes referred to as the transition temperature
+Examiner Tips and Tricks Superconductivity occurs when there is no resistance. Avoid writing that there is a 'little' resistance or 'thermal' conductivity, which are not entirely correct
+Examiner Tips and Tricks
+Superconductivity occurs when there is no resistance. Avoid writing that there is a 'little' resistance or 'thermal' conductivity, which are not entirely correct
+Applications of Superconductors Superconductors are useful for applications that require large electric currents Therefore, they are useful for: The production of strong magnetic fields The reduction of energy loss / dissipation in the transmission of electric power Such applications which require these could be: MRI scanners Transformers & generators - for fewer fire risks Motors Monorail trains Maglev (magnetic levitation) trains Particle accelerators - need large magnetic fields to accelerate particles Fusion reactors Electromagnets Power / electrical cables Microchips Maglev trains require extremely strong electromagnets to levitate the train due to such a large mass This means they can travel at extremely high speeds up to 603 km / h Maglev train systems currently only exist in Japan, South Korea and China Maglev trains use strong electromagnets attached to the train and rails to levitate
+Applications of Superconductors
+Superconductors are useful for applications that require large electric currents
+Therefore, they are useful for: The production of strong magnetic fields The reduction of energy loss / dissipation in the transmission of electric power
+Therefore, they are useful for:
+The production of strong magnetic fields
+The reduction of energy loss / dissipation in the transmission of electric power
+Such applications which require these could be: MRI scanners Transformers & generators - for fewer fire risks Motors Monorail trains Maglev (magnetic levitation) trains Particle accelerators - need large magnetic fields to accelerate particles Fusion reactors Electromagnets Power / electrical cables Microchips
+Such applications which require these could be:
+MRI scanners
+Transformers & generators - for fewer fire risks
+Motors
+Monorail trains
+Maglev (magnetic levitation) trains
+Particle accelerators - need large magnetic fields to accelerate particles
+Fusion reactors
+Electromagnets
+Power / electrical cables
+Microchips
+Maglev trains require extremely strong electromagnets to levitate the train due to such a large mass This means they can travel at extremely high speeds up to 603 km / h Maglev train systems currently only exist in Japan, South Korea and China
+Maglev trains require extremely strong electromagnets to levitate the train due to such a large mass
+This means they can travel at extremely high speeds up to 603 km / h
+Maglev train systems currently only exist in Japan, South Korea and China
+Maglev trains use strong electromagnets attached to the train and rails to levitate

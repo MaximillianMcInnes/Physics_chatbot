@@ -1,0 +1,99 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/3-waves/3-5-refraction/3-5-2-snells-law
+HEADING: Snell's Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Snell's Law Snell’s law relates the angle of incidence to the angle of refraction at a boundary between two media and is given by: Where: n 1 = the refractive index of material 1 n 2 = the refractive index of material 2 θ 1 = the angle of incidence of the ray in material 1 θ 2 = the angle of refraction of the ray in material 2 Angles θ 1 and θ 2 are always measured from the normal The ray of light passes from Material 1 to Material 2 Worked Example A light ray is directed at a vertical face of a glass cube. The angle of incidence at the vertical face is 39°, and the angle of refraction is 25°, as shown in the diagram. Show that the refractive index of the glass is about 1.5. Answer: Step 1: Write down the known quantities Refractive index of air, Refractive index of glass = Angle of incidence, Angle of refraction, Step 2: Write out Snell's law Step 3: Calculate the refractive index of glass Note: In a "show that" question, the answer should be given to at least one more significant figure than the value given in the question Examiner Tips and Tricks Always check that the angle of incidence and refraction are the angles between the normal and the light ray. If the angle between the light ray and the boundary is calculated instead, calculate 90 – θ (since the normal is perpendicular to the boundary) to get the correct angle. Also check that your calculator is in degrees and not radians. Keeping track of which angles are θ 1 and which are θ 2 can be tricky. To help label each angle as the angle for the material Total Internal Reflection Critical angle The larger the refractive index of a material, the smaller the critical angle For a larger n then θ C is smaller When light is shone at a boundary between a denser and a less dense material, different angles of incidence result in different angles of refraction As the angle of incidence is increased, the angle of refraction also increases Until the angle of incidence reaches the critical angle When the angle of incidence = critical angle then: Angle of refraction = 90° The refracted ray is refracted along the boundary between the two materials When the angle of incidence < critical angle then: the ray is refracted and exits the material When the angle of incidence > critical angle then: the ray undergoes total internal reflection As the angle of incidence increases it will eventually exceed the critical angle and lead to the total internal reflection of the light Critical angle equation The critical angle of material 1 is found using the equation: Where: n 1 = refractive index of material 1 n 2 = refractive index of material 2 θ c = critical angle of material 1 The formula finds the critical angle of the denominator of the fraction The critical angle can also be calculated using the angles of incidence and refraction: Total internal reflection Total internal reflection is a special case of refraction that occurs when: The angle of incidence within the denser medium is greater than the critical angle ( I > θ c ) The incident refractive index n 1 is greater than the refractive index of the material at the boundary n 2 ( n 1 > n 2 ) Total internal reflection follows the law of reflection angle of incidence = angle of reflection A denser medium has a higher refractive index For example, the refractive index of glass, n g > the refractive index of air, n a Light rays inside a material with a higher refractive index are more likely to be totally internally reflected Angles of incidence, reflection and refraction to satisfy the conditions for total internal reflection Worked Example A glass cube is held in contact with a liquid, and a light ray is directed at the vertical face of the cube. When the angle of incidence at the vertical face is 39° and the angle of refraction is 25°, as shown in the diagram, the light ray is totally internally reflected at X for the first time. (i) Complete the diagram to show the path of the ray beyond X to the air and calculate the critical angle for the glass-liquid boundary. (ii) The refractive index of the glass is 1.489. Calculate the refractive index of the liquid. Answer: (i) Step 1: Draw the reflected angle at the glass-liquid boundary When a light ray is reflected, the angle of incidence = angle of reflection Therefore, the angle of incidence (or reflection) is 90° – 25° = 65° Step 2: Draw the refracted angle at the glass-air boundary At the glass-air boundary, the light ray refracts away from the normal when the ray leaves to air (as air is less dense) Due to the reflection, the light rays are symmetrical on either side of the glass (39°) Step 3: Calculate the critical angle for the glass-liquid boundary The question states the ray is “totally internally reflected for the first time” meaning that this is the smallest angle at which TIR occurs Therefore, 65° is the critical angle (ii) Step 1: Write down the known quantities Refractive index of glass, n 1 = 1.489 Refractive index of liquid = n 2 Angle of incidence / critical angle, θ 1 = θ c = 65° Angle of refraction, θ 2 = 90° When the angle of incidence = critical angle, the ray travels along the boundary between the media, making it perpendicular to the normal Step 2: Write out Snell’s law or the equation for critical angle or Step 3: Calculate the refractive index of the liquid
+Snell's Law Snell’s law relates the angle of incidence to the angle of refraction at a boundary between two media and is given by: Where: n 1 = the refractive index of material 1 n 2 = the refractive index of material 2 θ 1 = the angle of incidence of the ray in material 1 θ 2 = the angle of refraction of the ray in material 2 Angles θ 1 and θ 2 are always measured from the normal The ray of light passes from Material 1 to Material 2
+Snell’s law relates the angle of incidence to the angle of refraction at a boundary between two media and is given by:
+Where: n 1 = the refractive index of material 1 n 2 = the refractive index of material 2 θ 1 = the angle of incidence of the ray in material 1 θ 2 = the angle of refraction of the ray in material 2
+Where:
+n 1 = the refractive index of material 1
+n 2 = the refractive index of material 2
+θ 1 = the angle of incidence of the ray in material 1
+θ 2 = the angle of refraction of the ray in material 2
+Angles θ 1 and θ 2 are always measured from the normal
+The ray of light passes from Material 1 to Material 2
+Worked Example A light ray is directed at a vertical face of a glass cube. The angle of incidence at the vertical face is 39°, and the angle of refraction is 25°, as shown in the diagram. Show that the refractive index of the glass is about 1.5. Answer: Step 1: Write down the known quantities Refractive index of air, Refractive index of glass = Angle of incidence, Angle of refraction, Step 2: Write out Snell's law Step 3: Calculate the refractive index of glass Note: In a "show that" question, the answer should be given to at least one more significant figure than the value given in the question
+Worked Example
+A light ray is directed at a vertical face of a glass cube. The angle of incidence at the vertical face is 39°, and the angle of refraction is 25°, as shown in the diagram.
+Show that the refractive index of the glass is about 1.5.
+Answer:
+Step 1: Write down the known quantities
+Refractive index of air,
+Refractive index of glass =
+Angle of incidence,
+Angle of refraction,
+Step 2: Write out Snell's law
+Step 3: Calculate the refractive index of glass
+Note: In a "show that" question, the answer should be given to at least one more significant figure than the value given in the question
+Examiner Tips and Tricks Always check that the angle of incidence and refraction are the angles between the normal and the light ray. If the angle between the light ray and the boundary is calculated instead, calculate 90 – θ (since the normal is perpendicular to the boundary) to get the correct angle. Also check that your calculator is in degrees and not radians. Keeping track of which angles are θ 1 and which are θ 2 can be tricky. To help label each angle as the angle for the material
+Examiner Tips and Tricks
+Always check that the angle of incidence and refraction are the angles between the normal and the light ray. If the angle between the light ray and the boundary is calculated instead, calculate 90 – θ (since the normal is perpendicular to the boundary) to get the correct angle.
+Also check that your calculator is in degrees and not radians.
+Keeping track of which angles are θ 1 and which are θ 2 can be tricky. To help label each angle as the angle for the material
+Total Internal Reflection Critical angle The larger the refractive index of a material, the smaller the critical angle For a larger n then θ C is smaller When light is shone at a boundary between a denser and a less dense material, different angles of incidence result in different angles of refraction As the angle of incidence is increased, the angle of refraction also increases Until the angle of incidence reaches the critical angle When the angle of incidence = critical angle then: Angle of refraction = 90° The refracted ray is refracted along the boundary between the two materials When the angle of incidence < critical angle then: the ray is refracted and exits the material When the angle of incidence > critical angle then: the ray undergoes total internal reflection As the angle of incidence increases it will eventually exceed the critical angle and lead to the total internal reflection of the light Critical angle equation The critical angle of material 1 is found using the equation: Where: n 1 = refractive index of material 1 n 2 = refractive index of material 2 θ c = critical angle of material 1 The formula finds the critical angle of the denominator of the fraction The critical angle can also be calculated using the angles of incidence and refraction: Total internal reflection Total internal reflection is a special case of refraction that occurs when: The angle of incidence within the denser medium is greater than the critical angle ( I > θ c ) The incident refractive index n 1 is greater than the refractive index of the material at the boundary n 2 ( n 1 > n 2 ) Total internal reflection follows the law of reflection angle of incidence = angle of reflection A denser medium has a higher refractive index For example, the refractive index of glass, n g > the refractive index of air, n a Light rays inside a material with a higher refractive index are more likely to be totally internally reflected Angles of incidence, reflection and refraction to satisfy the conditions for total internal reflection
+Total Internal Reflection
+Critical angle
+The larger the refractive index of a material, the smaller the critical angle For a larger n then θ C is smaller
+The larger the refractive index of a material, the smaller the critical angle
+For a larger n then θ C is smaller
+When light is shone at a boundary between a denser and a less dense material, different angles of incidence result in different angles of refraction As the angle of incidence is increased, the angle of refraction also increases Until the angle of incidence reaches the critical angle
+When light is shone at a boundary between a denser and a less dense material, different angles of incidence result in different angles of refraction
+As the angle of incidence is increased, the angle of refraction also increases
+Until the angle of incidence reaches the critical angle
+When the angle of incidence = critical angle then: Angle of refraction = 90° The refracted ray is refracted along the boundary between the two materials
+When the angle of incidence = critical angle then:
+Angle of refraction = 90°
+The refracted ray is refracted along the boundary between the two materials
+When the angle of incidence < critical angle then: the ray is refracted and exits the material
+When the angle of incidence < critical angle then:
+the ray is refracted and exits the material
+When the angle of incidence > critical angle then: the ray undergoes total internal reflection
+When the angle of incidence > critical angle then:
+the ray undergoes total internal reflection
+As the angle of incidence increases it will eventually exceed the critical angle and lead to the total internal reflection of the light
+Critical angle equation
+The critical angle of material 1 is found using the equation:
+Where: n 1 = refractive index of material 1 n 2 = refractive index of material 2 θ c = critical angle of material 1
+n 1 = refractive index of material 1
+n 2 = refractive index of material 2
+θ c = critical angle of material 1
+The formula finds the critical angle of the denominator of the fraction
+The critical angle can also be calculated using the angles of incidence and refraction:
+Total internal reflection
+Total internal reflection is a special case of refraction that occurs when: The angle of incidence within the denser medium is greater than the critical angle ( I > θ c ) The incident refractive index n 1 is greater than the refractive index of the material at the boundary n 2 ( n 1 > n 2 )
+Total internal reflection is a special case of refraction that occurs when:
+The angle of incidence within the denser medium is greater than the critical angle ( I > θ c )
+The incident refractive index n 1 is greater than the refractive index of the material at the boundary n 2 ( n 1 > n 2 )
+Total internal reflection follows the law of reflection
+angle of incidence = angle of reflection
+A denser medium has a higher refractive index For example, the refractive index of glass, n g > the refractive index of air, n a
+A denser medium has a higher refractive index
+For example, the refractive index of glass, n g > the refractive index of air, n a
+Light rays inside a material with a higher refractive index are more likely to be totally internally reflected
+Angles of incidence, reflection and refraction to satisfy the conditions for total internal reflection
+Worked Example A glass cube is held in contact with a liquid, and a light ray is directed at the vertical face of the cube. When the angle of incidence at the vertical face is 39° and the angle of refraction is 25°, as shown in the diagram, the light ray is totally internally reflected at X for the first time. (i) Complete the diagram to show the path of the ray beyond X to the air and calculate the critical angle for the glass-liquid boundary. (ii) The refractive index of the glass is 1.489. Calculate the refractive index of the liquid. Answer: (i) Step 1: Draw the reflected angle at the glass-liquid boundary When a light ray is reflected, the angle of incidence = angle of reflection Therefore, the angle of incidence (or reflection) is 90° – 25° = 65° Step 2: Draw the refracted angle at the glass-air boundary At the glass-air boundary, the light ray refracts away from the normal when the ray leaves to air (as air is less dense) Due to the reflection, the light rays are symmetrical on either side of the glass (39°) Step 3: Calculate the critical angle for the glass-liquid boundary The question states the ray is “totally internally reflected for the first time” meaning that this is the smallest angle at which TIR occurs Therefore, 65° is the critical angle (ii) Step 1: Write down the known quantities Refractive index of glass, n 1 = 1.489 Refractive index of liquid = n 2 Angle of incidence / critical angle, θ 1 = θ c = 65° Angle of refraction, θ 2 = 90° When the angle of incidence = critical angle, the ray travels along the boundary between the media, making it perpendicular to the normal Step 2: Write out Snell’s law or the equation for critical angle or Step 3: Calculate the refractive index of the liquid
+A glass cube is held in contact with a liquid, and a light ray is directed at the vertical face of the cube. When the angle of incidence at the vertical face is 39° and the angle of refraction is 25°, as shown in the diagram, the light ray is totally internally reflected at X for the first time.
+(i) Complete the diagram to show the path of the ray beyond X to the air and calculate the critical angle for the glass-liquid boundary.
+(ii) The refractive index of the glass is 1.489. Calculate the refractive index of the liquid.
+(i)
+Step 1: Draw the reflected angle at the glass-liquid boundary
+When a light ray is reflected, the angle of incidence = angle of reflection
+Therefore, the angle of incidence (or reflection) is 90° – 25° = 65°
+Step 2: Draw the refracted angle at the glass-air boundary
+At the glass-air boundary, the light ray refracts away from the normal when the ray leaves to air (as air is less dense)
+Due to the reflection, the light rays are symmetrical on either side of the glass (39°)
+Step 3: Calculate the critical angle for the glass-liquid boundary
+The question states the ray is “totally internally reflected for the first time” meaning that this is the smallest angle at which TIR occurs
+Therefore, 65° is the critical angle
+(ii)
+Refractive index of glass, n 1 = 1.489
+Refractive index of liquid = n 2
+Angle of incidence / critical angle, θ 1 = θ c = 65°
+Angle of refraction, θ 2 = 90° When the angle of incidence = critical angle, the ray travels along the boundary between the media, making it perpendicular to the normal
+Angle of refraction, θ 2 = 90°
+When the angle of incidence = critical angle, the ray travels along the boundary between the media, making it perpendicular to the normal
+Step 2: Write out Snell’s law or the equation for critical angle
+or
+Step 3: Calculate the refractive index of the liquid

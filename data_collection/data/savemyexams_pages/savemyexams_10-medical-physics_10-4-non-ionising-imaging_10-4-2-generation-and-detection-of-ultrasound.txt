@@ -1,0 +1,62 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-4-non-ionising-imaging/10-4-2-generation-and-detection-of-ultrasound
+HEADING: Generation & Detection of Ultrasound ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Generation & Detection of Ultrasound An ultrasound is defined as: A high frequency sound above the range of human hearing This is above 20 kHz, although in medical applications the frequencies can be up to the MHz range An ultrasound transducer is made up of a piezoelectric crystal and electrodes which produce an alternating p.d. The crystal is heavily damped , usually with epoxy resin, to stop the crystal from vibrating too much This produces short pulses and increases the resolution of the ultrasound device An Ultrasound Transducer The structure of an ultrasound transducer A piezoelectric crystal can act as both a receiver or transmitter of ultrasound When it is receiving ultrasound, it converts the sound waves into an alternating p.d. When it is transmitting ultrasound, it converts an alternating p.d. into sound waves A Piezoelectric Crystal Emitting and Receiving Ultrasound A piezoelectric crystal can act as both a receiver or transmitter of ultrasound Using Ultrasound to Obtain Diagnostic Information In an ultrasound scanner, the transducer sends out a beam of sound waves into the body The sound waves are reflected back to the transducer by boundaries between tissues in the path of the beam For example, the boundary between fluid and soft tissue or tissue and bone When these echoes hit the transducer, they generate electrical signals that are sent to the ultrasound scanner Using the speed of sound and the time of each echo’s return, the scanner calculates the distance from the transducer to the tissue boundary These distances can be used to generate two-dimensional images of tissues and organs The frequency of the ultrasound is important because: The higher the frequency of the ultrasound, the higher the resolution and the smaller structures that can be distinguished Obtaining an Ultrasound of a Baby Using ultrasound to obtain information about an unborn child The ultrasound gives two main pieces of information about the boundary: Depth : the time between transmission and receipt of the pulse (the time delay) Nature : amount of transmitted intensity received (will vary depending on the type of tissue) Worked Example Explain the principles of the generation and detection of ultrasound waves. Answer: Generation: An alternating p.d. is applied across a piezo-electric crystal, causing it to change shape The alternating p.d. causes the crystal to vibrate and produce ultrasound waves The crystal vibrates at the frequency of the alternating p.d., so, the crystal must be cut to a specific size in order to produce resonance Detection: When the ultrasound wave returns, the crystal vibrates which produces an alternating p.d. across the crystal This received signal can then be processed and used for medical diagnosis Worked Example Explain the main principles behind the use of ultrasound to obtain diagnostic information about internal body structures. Answer: A pulse of ultrasound is emitted by the piezo-electric crystal This is reflected by the boundaries between media The reflected pulse is detected by the ultrasound transmitter The signal is then processed and displayed on the screen for the healthcare worker to analyse and use for medical diagnosis The intensity of the reflection gives information about the nature of the boundary The time between transmission and receipt of the pulse ( the time delay ) gives information about the depth of the boundary Examiner Tips and Tricks 6 mark exam questions about this topic are very common, make sure you practice writing about using and detecting ultrasounds in full, coherent sentences with correct spelling and grammar. Writing short or vague answers could lose you marks, as well as misspelling words!
+Generation & Detection of Ultrasound An ultrasound is defined as: A high frequency sound above the range of human hearing This is above 20 kHz, although in medical applications the frequencies can be up to the MHz range An ultrasound transducer is made up of a piezoelectric crystal and electrodes which produce an alternating p.d. The crystal is heavily damped , usually with epoxy resin, to stop the crystal from vibrating too much This produces short pulses and increases the resolution of the ultrasound device An Ultrasound Transducer The structure of an ultrasound transducer A piezoelectric crystal can act as both a receiver or transmitter of ultrasound When it is receiving ultrasound, it converts the sound waves into an alternating p.d. When it is transmitting ultrasound, it converts an alternating p.d. into sound waves A Piezoelectric Crystal Emitting and Receiving Ultrasound A piezoelectric crystal can act as both a receiver or transmitter of ultrasound Using Ultrasound to Obtain Diagnostic Information In an ultrasound scanner, the transducer sends out a beam of sound waves into the body The sound waves are reflected back to the transducer by boundaries between tissues in the path of the beam For example, the boundary between fluid and soft tissue or tissue and bone When these echoes hit the transducer, they generate electrical signals that are sent to the ultrasound scanner Using the speed of sound and the time of each echo’s return, the scanner calculates the distance from the transducer to the tissue boundary These distances can be used to generate two-dimensional images of tissues and organs The frequency of the ultrasound is important because: The higher the frequency of the ultrasound, the higher the resolution and the smaller structures that can be distinguished Obtaining an Ultrasound of a Baby Using ultrasound to obtain information about an unborn child The ultrasound gives two main pieces of information about the boundary: Depth : the time between transmission and receipt of the pulse (the time delay) Nature : amount of transmitted intensity received (will vary depending on the type of tissue)
+An ultrasound is defined as:
+A high frequency sound above the range of human hearing
+This is above 20 kHz, although in medical applications the frequencies can be up to the MHz range
+An ultrasound transducer is made up of a piezoelectric crystal and electrodes which produce an alternating p.d.
+The crystal is heavily damped , usually with epoxy resin, to stop the crystal from vibrating too much This produces short pulses and increases the resolution of the ultrasound device
+The crystal is heavily damped , usually with epoxy resin, to stop the crystal from vibrating too much
+damped
+This produces short pulses and increases the resolution of the ultrasound device
+resolution
+An Ultrasound Transducer
+The structure of an ultrasound transducer
+A piezoelectric crystal can act as both a receiver or transmitter of ultrasound When it is receiving ultrasound, it converts the sound waves into an alternating p.d. When it is transmitting ultrasound, it converts an alternating p.d. into sound waves
+A piezoelectric crystal can act as both a receiver or transmitter of ultrasound
+When it is receiving ultrasound, it converts the sound waves into an alternating p.d.
+When it is transmitting ultrasound, it converts an alternating p.d. into sound waves
+A Piezoelectric Crystal Emitting and Receiving Ultrasound
+Using Ultrasound to Obtain Diagnostic Information
+In an ultrasound scanner, the transducer sends out a beam of sound waves into the body
+The sound waves are reflected back to the transducer by boundaries between tissues in the path of the beam For example, the boundary between fluid and soft tissue or tissue and bone
+The sound waves are reflected back to the transducer by boundaries between tissues in the path of the beam
+For example, the boundary between fluid and soft tissue or tissue and bone
+When these echoes hit the transducer, they generate electrical signals that are sent to the ultrasound scanner
+Using the speed of sound and the time of each echo’s return, the scanner calculates the distance from the transducer to the tissue boundary
+These distances can be used to generate two-dimensional images of tissues and organs
+The frequency of the ultrasound is important because: The higher the frequency of the ultrasound, the higher the resolution and the smaller structures that can be distinguished
+The frequency of the ultrasound is important because:
+The higher the frequency of the ultrasound, the higher the resolution and the smaller structures that can be distinguished
+Obtaining an Ultrasound of a Baby
+Using ultrasound to obtain information about an unborn child
+The ultrasound gives two main pieces of information about the boundary: Depth : the time between transmission and receipt of the pulse (the time delay) Nature : amount of transmitted intensity received (will vary depending on the type of tissue)
+The ultrasound gives two main pieces of information about the boundary:
+Depth : the time between transmission and receipt of the pulse (the time delay)
+Nature : amount of transmitted intensity received (will vary depending on the type of tissue)
+Worked Example Explain the principles of the generation and detection of ultrasound waves. Answer: Generation: An alternating p.d. is applied across a piezo-electric crystal, causing it to change shape The alternating p.d. causes the crystal to vibrate and produce ultrasound waves The crystal vibrates at the frequency of the alternating p.d., so, the crystal must be cut to a specific size in order to produce resonance Detection: When the ultrasound wave returns, the crystal vibrates which produces an alternating p.d. across the crystal This received signal can then be processed and used for medical diagnosis
+Worked Example
+Explain the principles of the generation and detection of ultrasound waves.
+Answer:
+Generation:
+An alternating p.d. is applied across a piezo-electric crystal, causing it to change shape
+The alternating p.d. causes the crystal to vibrate and produce ultrasound waves
+The crystal vibrates at the frequency of the alternating p.d., so, the crystal must be cut to a specific size in order to produce resonance
+Detection:
+When the ultrasound wave returns, the crystal vibrates which produces an alternating p.d. across the crystal
+This received signal can then be processed and used for medical diagnosis
+Worked Example Explain the main principles behind the use of ultrasound to obtain diagnostic information about internal body structures. Answer: A pulse of ultrasound is emitted by the piezo-electric crystal This is reflected by the boundaries between media The reflected pulse is detected by the ultrasound transmitter The signal is then processed and displayed on the screen for the healthcare worker to analyse and use for medical diagnosis The intensity of the reflection gives information about the nature of the boundary The time between transmission and receipt of the pulse ( the time delay ) gives information about the depth of the boundary
+Explain the main principles behind the use of ultrasound to obtain diagnostic information about internal body structures.
+A pulse of ultrasound is emitted by the piezo-electric crystal
+This is reflected by the boundaries between media
+The reflected pulse is detected by the ultrasound transmitter
+The signal is then processed and displayed on the screen for the healthcare worker to analyse and use for medical diagnosis
+The intensity of the reflection gives information about the nature of the boundary
+The time between transmission and receipt of the pulse ( the time delay ) gives information about the depth of the boundary
+Examiner Tips and Tricks 6 mark exam questions about this topic are very common, make sure you practice writing about using and detecting ultrasounds in full, coherent sentences with correct spelling and grammar. Writing short or vague answers could lose you marks, as well as misspelling words!
+Examiner Tips and Tricks
+6 mark exam questions about this topic are very common, make sure you practice writing about using and detecting ultrasounds in full, coherent sentences with correct spelling and grammar. Writing short or vague answers could lose you marks, as well as misspelling words!

@@ -1,0 +1,54 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-5-energy-levels-and-photon-emission/2-5-5-diffraction-effects-of-momentum
+HEADING: Diffraction Effects of Momentum ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Diffraction Effects of Momentum When electrons pass through a slit similar in size to their de Broglie wavelength , they exhibit diffraction , a property of waves The regular spacing of atoms in a crystalline solid acts as a diffraction grating , scattering the electrons in a predictable manner The observed diffraction pattern can be used to deduce the structure of the crystal producing that pattern High energy electrons have a shorter wavelength and can therefore be used to look at the size of the nucleus of an atom (as opposed to the arrangement of atoms in a crystal) The de Broglie wavelength tells us about the wave-particle relationship: Where: λ = the de Broglie wavelength (m) h = Planck’s Constant (J s) m = mass of the electron (kg) v = velocity of the electron (m s –1 ) Comparison of electron diffraction patterns at different values of momentum Momentum of electrons Momentum is equal to p = mv , so, from de Broglie's equation: A smaller momentum will result in a longer wavelength A larger momentum will result in a shorter wavelength Kinetic energy of electrons The speed of an electron can be increased by increasing the accelerating voltage (or potential difference) If the electron speed, and therefore kinetic energy is increased, then: The wavelength of the wave will decrease The diffraction rings will appear closer together The higher the kinetic energy of the electron, the higher its momentum hence the shorter its de Broglie wavelength Radius of the diffraction pattern The radius of the diffraction pattern depends on the wavelength: The longer the wavelength, the more the light spreads out hence a larger radius is produced The shorter the wavelength, the smaller the radius produced Therefore, electrons with smaller momentum will produce a more diffuse diffraction pattern Worked Example Electrons are accelerated through a film of graphite. The electrons are accelerated through a potential difference of 4 kV. The spacing between the graphite atoms is 1.4 × 10 −10 m. Calculate the angle of the first minimum of the diffraction pattern. Answer: Step 1: Determine the kinetic energy gained by an electron Kinetic energy gained through a potential difference of 4 kV = 4 keV = 4000 eV Step 2: Determine the speed of the electron Step 3: Determine the de Broglie wavelength of the electron Step 4: Determine the angle of the first minimum The diffraction grating equation is given by For the first minimum, Examiner Tips and Tricks Take a look at the revision note on diffraction gratings if you aren't sure where the equation used in the final step of the worked example comes from
+Diffraction Effects of Momentum When electrons pass through a slit similar in size to their de Broglie wavelength , they exhibit diffraction , a property of waves The regular spacing of atoms in a crystalline solid acts as a diffraction grating , scattering the electrons in a predictable manner The observed diffraction pattern can be used to deduce the structure of the crystal producing that pattern High energy electrons have a shorter wavelength and can therefore be used to look at the size of the nucleus of an atom (as opposed to the arrangement of atoms in a crystal) The de Broglie wavelength tells us about the wave-particle relationship: Where: λ = the de Broglie wavelength (m) h = Planck’s Constant (J s) m = mass of the electron (kg) v = velocity of the electron (m s –1 ) Comparison of electron diffraction patterns at different values of momentum Momentum of electrons Momentum is equal to p = mv , so, from de Broglie's equation: A smaller momentum will result in a longer wavelength A larger momentum will result in a shorter wavelength Kinetic energy of electrons The speed of an electron can be increased by increasing the accelerating voltage (or potential difference) If the electron speed, and therefore kinetic energy is increased, then: The wavelength of the wave will decrease The diffraction rings will appear closer together The higher the kinetic energy of the electron, the higher its momentum hence the shorter its de Broglie wavelength Radius of the diffraction pattern The radius of the diffraction pattern depends on the wavelength: The longer the wavelength, the more the light spreads out hence a larger radius is produced The shorter the wavelength, the smaller the radius produced Therefore, electrons with smaller momentum will produce a more diffuse diffraction pattern
+When electrons pass through a slit similar in size to their de Broglie wavelength , they exhibit diffraction , a property of waves
+diffraction
+The regular spacing of atoms in a crystalline solid acts as a diffraction grating , scattering the electrons in a predictable manner
+The observed diffraction pattern can be used to deduce the structure of the crystal producing that pattern
+High energy electrons have a shorter wavelength and can therefore be used to look at the size of the nucleus of an atom (as opposed to the arrangement of atoms in a crystal)
+The de Broglie wavelength tells us about the wave-particle relationship:
+Where: λ = the de Broglie wavelength (m) h = Planck’s Constant (J s) m = mass of the electron (kg) v = velocity of the electron (m s –1 )
+Where:
+λ = the de Broglie wavelength (m)
+h = Planck’s Constant (J s)
+Planck’s Constant
+m = mass of the electron (kg)
+v = velocity of the electron (m s –1 )
+Comparison of electron diffraction patterns at different values of momentum
+Momentum of electrons
+Momentum is equal to p = mv , so, from de Broglie's equation: A smaller momentum will result in a longer wavelength A larger momentum will result in a shorter wavelength
+Momentum is equal to p = mv , so, from de Broglie's equation:
+A smaller momentum will result in a longer wavelength
+A larger momentum will result in a shorter wavelength
+Kinetic energy of electrons
+The speed of an electron can be increased by increasing the accelerating voltage (or potential difference)
+If the electron speed, and therefore kinetic energy is increased, then: The wavelength of the wave will decrease The diffraction rings will appear closer together
+If the electron speed, and therefore kinetic energy is increased, then:
+The wavelength of the wave will decrease
+The diffraction rings will appear closer together
+The higher the kinetic energy of the electron, the higher its momentum hence the shorter its de Broglie wavelength
+Radius of the diffraction pattern
+The radius of the diffraction pattern depends on the wavelength: The longer the wavelength, the more the light spreads out hence a larger radius is produced The shorter the wavelength, the smaller the radius produced
+The radius of the diffraction pattern depends on the wavelength:
+The longer the wavelength, the more the light spreads out hence a larger radius is produced
+The shorter the wavelength, the smaller the radius produced
+Therefore, electrons with smaller momentum will produce a more diffuse diffraction pattern
+Worked Example Electrons are accelerated through a film of graphite. The electrons are accelerated through a potential difference of 4 kV. The spacing between the graphite atoms is 1.4 × 10 −10 m. Calculate the angle of the first minimum of the diffraction pattern. Answer: Step 1: Determine the kinetic energy gained by an electron Kinetic energy gained through a potential difference of 4 kV = 4 keV = 4000 eV Step 2: Determine the speed of the electron Step 3: Determine the de Broglie wavelength of the electron Step 4: Determine the angle of the first minimum The diffraction grating equation is given by For the first minimum,
+Worked Example
+Electrons are accelerated through a film of graphite. The electrons are accelerated through a potential difference of 4 kV. The spacing between the graphite atoms is 1.4 × 10 −10 m.
+Calculate the angle of the first minimum of the diffraction pattern.
+Answer:
+Step 1: Determine the kinetic energy gained by an electron
+Kinetic energy gained through a potential difference of 4 kV = 4 keV = 4000 eV
+Step 2: Determine the speed of the electron
+Step 3: Determine the de Broglie wavelength of the electron
+Step 4: Determine the angle of the first minimum
+The diffraction grating equation is given by
+For the first minimum,
+Examiner Tips and Tricks Take a look at the revision note on diffraction gratings if you aren't sure where the equation used in the final step of the worked example comes from
+Examiner Tips and Tricks
+Take a look at the revision note on diffraction gratings if you aren't sure where the equation used in the final step of the worked example comes from

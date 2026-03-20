@@ -1,0 +1,101 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-3-thermodynamic-processes
+HEADING: Thermodynamic Processes ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Thermodynamic Processes The four main thermodynamic processes are constant volume constant pressure isothermal adiabatic Constant pressure An isobaric (constant pressure) process is defined as: A process in which no change in pressure occurs This occurs when gases are allowed to expand or contract freely during a change in temperature When there is a change in volume Δ V at a constant pressure p , work done W is equal to From the first law of thermodynamics: The ± sign reflects whether work has been done on or by the gas as a result of the change in volume The solid blue line represents an isobaric process at constant pressure on a p-V diagram Constant volume An isovolumetric (constant volume) process is defined as: A process where no change in volume occurs and the system does no work If there is no change in volume, then there is no work done on or by the gas, so Therefore, from the first law of thermodynamics: The solid blue line represents an isovolumetric process at constant volume on a p-V diagram Constant temperature (isothermal) An isothermal process is defined as: A process in which no change in temperature occurs If the temperature does not change, then the internal energy of the gas will not change, so Therefore, from the first law of thermodynamics: The solid blue line represents an isothermal process with constant temperature on a p-V diagram Constant thermal energy (adiabatic) An adiabatic process is defined as: A process where no heat is transferred into or out of the system If there is no heat entering or leaving the system then Therefore, from the first law of thermodynamics: This means that all the work done is at the expense of the system's internal energy Hence, an adiabatic process will usually be accompanied by a change in temperature The solid blue line represents an adiabatic process with constant thermal energy on a p-V diagram Adiabatic Processes Adiabatic processes in ideal gases can be modelled by the equation Where: p = pressure of the gas (Pa) V = volume occupied by the gas (m 3 ) This equation can be used for calculating changes in pressure, volume and temperature, e.g. for monatomic ideal gases, where Where: = initial pressure (Pa) = final pressure (Pa) = initial volume (m 3 ) = final volume (m 3 ) Worked Example A quantity of energy Q is supplied to three ideal gases X , Y and Z . Gas X absorbs Q isothermally, gas Y isovolumetrically and gas Z isobarically. Complete the table by inserting the words ‘positive’, ‘zero’ or ‘negative’ for the work done W , the change in internal energy Δ U and the temperature change Δ T for each gas. X Y Z Answer: X : Isothermal = constant temperature, no change in internal energy Temperature: Internal energy: , so, Work done: Y : Isovolumetric = constant volume, no work done Work done: , so, Internal energy: Temperature: , so, Z : Isobaric = constant pressure Work done: , so , so Internal energy: , so Temperature: , so X positive 0 0 Y 0 positive positive Z positive positive positive Worked Example A heat engine operates on the cycle shown in the pressure-volume diagram. One step in the cycle consists of an isothermal expansion of an ideal gas from state A of volume V to state B of volume 2 V . On the graph, complete the cycle ABCA by drawing curves to show a change at constant volume from state B to state C an adiabatic compression from state C to state A Answer: Constant volume = no work done Next step is a compression (where pressure increases), so this step should involve a pressure drop Hence, B to C: line drawn vertically down Adiabatic = no heat supplied or removed, compression = work is done on the gas, volume decreases Hence, C to A: line curves up to meet A Worked Example An ideal monatomic gas expands adiabatically from a state with pressure 7.5 × 10 5 Pa and volume 1.8 × 10 −3 m 3 to a state of volume 4.2 × 10 −3 m 3 . Calculate the new pressure of the gas. Answer: For an ideal monatomic gas undergoing an adiabatic change: Where: Initial pressure, = 7.5 × 10 5 Pa Final pressure = Initial volume, = 1.8 × 10 −3 m 3 Final volume, = 4.2 × 10 −3 m 3 New pressure: = 1.8 × 10 5 Pa
+Thermodynamic Processes The four main thermodynamic processes are constant volume constant pressure isothermal adiabatic Constant pressure An isobaric (constant pressure) process is defined as: A process in which no change in pressure occurs This occurs when gases are allowed to expand or contract freely during a change in temperature When there is a change in volume Δ V at a constant pressure p , work done W is equal to From the first law of thermodynamics: The ± sign reflects whether work has been done on or by the gas as a result of the change in volume The solid blue line represents an isobaric process at constant pressure on a p-V diagram Constant volume An isovolumetric (constant volume) process is defined as: A process where no change in volume occurs and the system does no work If there is no change in volume, then there is no work done on or by the gas, so Therefore, from the first law of thermodynamics: The solid blue line represents an isovolumetric process at constant volume on a p-V diagram Constant temperature (isothermal) An isothermal process is defined as: A process in which no change in temperature occurs If the temperature does not change, then the internal energy of the gas will not change, so Therefore, from the first law of thermodynamics: The solid blue line represents an isothermal process with constant temperature on a p-V diagram Constant thermal energy (adiabatic) An adiabatic process is defined as: A process where no heat is transferred into or out of the system If there is no heat entering or leaving the system then Therefore, from the first law of thermodynamics: This means that all the work done is at the expense of the system's internal energy Hence, an adiabatic process will usually be accompanied by a change in temperature The solid blue line represents an adiabatic process with constant thermal energy on a p-V diagram Adiabatic Processes Adiabatic processes in ideal gases can be modelled by the equation Where: p = pressure of the gas (Pa) V = volume occupied by the gas (m 3 ) This equation can be used for calculating changes in pressure, volume and temperature, e.g. for monatomic ideal gases, where Where: = initial pressure (Pa) = final pressure (Pa) = initial volume (m 3 ) = final volume (m 3 )
+The four main thermodynamic processes are constant volume constant pressure isothermal adiabatic
+The four main thermodynamic processes are
+constant volume
+constant pressure
+isothermal
+adiabatic
+Constant pressure
+An isobaric (constant pressure) process is defined as:
+A process in which no change in pressure occurs
+This occurs when gases are allowed to expand or contract freely during a change in temperature
+When there is a change in volume Δ V at a constant pressure p , work done W is equal to
+From the first law of thermodynamics:
+The ± sign reflects whether work has been done on or by the gas as a result of the change in volume
+The solid blue line represents an isobaric process at constant pressure on a p-V diagram
+Constant volume
+An isovolumetric (constant volume) process is defined as:
+A process where no change in volume occurs and the system does no work
+If there is no change in volume, then there is no work done on or by the gas, so
+Therefore, from the first law of thermodynamics:
+The solid blue line represents an isovolumetric process at constant volume on a p-V diagram
+Constant temperature (isothermal)
+An isothermal process is defined as:
+A process in which no change in temperature occurs
+If the temperature does not change, then the internal energy of the gas will not change, so
+The solid blue line represents an isothermal process with constant temperature on a p-V diagram
+Constant thermal energy (adiabatic)
+An adiabatic process is defined as:
+A process where no heat is transferred into or out of the system
+If there is no heat entering or leaving the system then
+This means that all the work done is at the expense of the system's internal energy
+Hence, an adiabatic process will usually be accompanied by a change in temperature
+The solid blue line represents an adiabatic process with constant thermal energy on a p-V diagram
+Adiabatic Processes
+Adiabatic processes in ideal gases can be modelled by the equation
+Where: p = pressure of the gas (Pa) V = volume occupied by the gas (m 3 )
+Where:
+p = pressure of the gas (Pa)
+V = volume occupied by the gas (m 3 )
+This equation can be used for calculating changes in pressure, volume and temperature, e.g. for monatomic ideal gases, where
+Where: = initial pressure (Pa) = final pressure (Pa) = initial volume (m 3 ) = final volume (m 3 )
+= initial pressure (Pa)
+= final pressure (Pa)
+= initial volume (m 3 )
+= final volume (m 3 )
+Worked Example A quantity of energy Q is supplied to three ideal gases X , Y and Z . Gas X absorbs Q isothermally, gas Y isovolumetrically and gas Z isobarically. Complete the table by inserting the words ‘positive’, ‘zero’ or ‘negative’ for the work done W , the change in internal energy Δ U and the temperature change Δ T for each gas. X Y Z Answer: X : Isothermal = constant temperature, no change in internal energy Temperature: Internal energy: , so, Work done: Y : Isovolumetric = constant volume, no work done Work done: , so, Internal energy: Temperature: , so, Z : Isobaric = constant pressure Work done: , so , so Internal energy: , so Temperature: , so X positive 0 0 Y 0 positive positive Z positive positive positive
+Worked Example
+A quantity of energy Q is supplied to three ideal gases X , Y and Z .
+Gas X absorbs Q isothermally, gas Y isovolumetrically and gas Z isobarically.
+Complete the table by inserting the words ‘positive’, ‘zero’ or ‘negative’ for the work done W , the change in internal energy Δ U and the temperature change Δ T for each gas.
+X Y Z
+X
+Y
+Z
+Answer:
+X : Isothermal = constant temperature, no change in internal energy Temperature: Internal energy: , so, Work done:
+X : Isothermal = constant temperature, no change in internal energy
+Temperature:
+Internal energy: , so,
+Work done:
+Y : Isovolumetric = constant volume, no work done Work done: , so, Internal energy: Temperature: , so,
+Y : Isovolumetric = constant volume, no work done
+Work done: , so,
+Internal energy:
+Temperature: , so,
+Z : Isobaric = constant pressure Work done: , so , so Internal energy: , so Temperature: , so
+Z : Isobaric = constant pressure
+Work done: , so , so
+Internal energy: , so
+Temperature: , so
+X positive 0 0 Y 0 positive positive Z positive positive positive
+positive
+0
+Worked Example A heat engine operates on the cycle shown in the pressure-volume diagram. One step in the cycle consists of an isothermal expansion of an ideal gas from state A of volume V to state B of volume 2 V . On the graph, complete the cycle ABCA by drawing curves to show a change at constant volume from state B to state C an adiabatic compression from state C to state A Answer: Constant volume = no work done Next step is a compression (where pressure increases), so this step should involve a pressure drop Hence, B to C: line drawn vertically down Adiabatic = no heat supplied or removed, compression = work is done on the gas, volume decreases Hence, C to A: line curves up to meet A
+A heat engine operates on the cycle shown in the pressure-volume diagram. One step in the cycle consists of an isothermal expansion of an ideal gas from state A of volume V to state B of volume 2 V .
+On the graph, complete the cycle ABCA by drawing curves to show
+a change at constant volume from state B to state C
+an adiabatic compression from state C to state A
+Constant volume = no work done
+Next step is a compression (where pressure increases), so this step should involve a pressure drop Hence, B to C: line drawn vertically down
+Next step is a compression (where pressure increases), so this step should involve a pressure drop
+Hence, B to C: line drawn vertically down
+Adiabatic = no heat supplied or removed, compression = work is done on the gas, volume decreases Hence, C to A: line curves up to meet A
+Adiabatic = no heat supplied or removed, compression = work is done on the gas, volume decreases
+Hence, C to A: line curves up to meet A
+Worked Example An ideal monatomic gas expands adiabatically from a state with pressure 7.5 × 10 5 Pa and volume 1.8 × 10 −3 m 3 to a state of volume 4.2 × 10 −3 m 3 . Calculate the new pressure of the gas. Answer: For an ideal monatomic gas undergoing an adiabatic change: Where: Initial pressure, = 7.5 × 10 5 Pa Final pressure = Initial volume, = 1.8 × 10 −3 m 3 Final volume, = 4.2 × 10 −3 m 3 New pressure: = 1.8 × 10 5 Pa
+An ideal monatomic gas expands adiabatically from a state with pressure 7.5 × 10 5 Pa and volume 1.8 × 10 −3 m 3 to a state of volume 4.2 × 10 −3 m 3 .
+Calculate the new pressure of the gas.
+For an ideal monatomic gas undergoing an adiabatic change:
+Where: Initial pressure, = 7.5 × 10 5 Pa Final pressure = Initial volume, = 1.8 × 10 −3 m 3 Final volume, = 4.2 × 10 −3 m 3
+Initial pressure, = 7.5 × 10 5 Pa
+Final pressure =
+Initial volume, = 1.8 × 10 −3 m 3
+Final volume, = 4.2 × 10 −3 m 3
+New pressure: = 1.8 × 10 5 Pa

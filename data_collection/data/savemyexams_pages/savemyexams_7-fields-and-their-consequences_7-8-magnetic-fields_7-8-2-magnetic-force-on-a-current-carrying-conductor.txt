@@ -1,0 +1,64 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-8-magnetic-fields/7-8-2-magnetic-force-on-a-current-carrying-conductor
+HEADING: Magnetic Force on a Current-Carrying Conductor ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Magnetic Force on a Current-Carrying Conductor A current-carrying conductor produces its own magnetic field When interacting with an external magnetic field, it will experience a force The force F on a conductor carrying current I at an angle θ to a magnetic field with flux density B is defined by the equation Where: F = force on a current-carrying conductor in a B field (N) B = magnetic flux density of applied B field (T) I = current in the conductor (A) L = length of the conductor (m) θ = angle between the conductor and applied B field (degrees) This equation shows that the force on the conductor can be increased by: Increasing the strength of the magnetic field Increasing the current flowing through the conductor Increasing the length of the conductor in the field Note : The length L represents the length of the conductor that is within the field The magnitude of the force on a current-carrying conductor depends on the angle of the conductor to the external B field A current-carrying conductor (e.g. a wire) will experience the maximum magnetic force if the current through it is perpendicular to the direction of the magnetic field lines It experiences no force if it is parallel to magnetic field lines The maximum force occurs when sin θ = 1 This means θ = 90° and the conductor is perpendicular to the B field The equation for the magnetic force becomes: The minimum force, i.e. F = 0 N, is when sin θ = 0° This means θ = 0° and the conductor is parallel to the B field It is important to note that a current-carrying conductor will experience no force if the current in the conductor is parallel to the field This is because the F , B and I must be perpendicular to each other Observing the Force on a Current-Carrying Conductor The force due to a magnetic field can be observed by placing a copper rod in a uniform magnetic field connecting the copper rod to a circuit When current is passed through the copper rod, it experiences a force This causes it to accelerate in the direction of the force A copper rod moves within a magnetic field when current is passed through it Worked Example A current of 0.87 A flows in a wire of length 1.4 m placed at 30° to a magnetic field of flux density 80 mT. Calculate the force on the wire. Answer: Step 1: Write down the known quantities Magnetic flux density, B = 80 mT = 80 × 10 −3 T Current, I = 0.87 A Length of wire, L = 1.4 m Angle between the wire and the magnetic field, θ = 30° Step 2: Write down the equation for force on a current-carrying conductor Step 3: Substitute in values and calculate F = (80 × 10 -3 ) × (0.87) × (1.4) × sin(30) = 0.04872 = 0.049 N (2 s.f) Examiner Tips and Tricks Remember that the direction of current flow is the flow of positive charge (positive to negative), and this is in the opposite direction to the flow of electrons
+Magnetic Force on a Current-Carrying Conductor A current-carrying conductor produces its own magnetic field When interacting with an external magnetic field, it will experience a force The force F on a conductor carrying current I at an angle θ to a magnetic field with flux density B is defined by the equation Where: F = force on a current-carrying conductor in a B field (N) B = magnetic flux density of applied B field (T) I = current in the conductor (A) L = length of the conductor (m) θ = angle between the conductor and applied B field (degrees) This equation shows that the force on the conductor can be increased by: Increasing the strength of the magnetic field Increasing the current flowing through the conductor Increasing the length of the conductor in the field Note : The length L represents the length of the conductor that is within the field The magnitude of the force on a current-carrying conductor depends on the angle of the conductor to the external B field A current-carrying conductor (e.g. a wire) will experience the maximum magnetic force if the current through it is perpendicular to the direction of the magnetic field lines It experiences no force if it is parallel to magnetic field lines The maximum force occurs when sin θ = 1 This means θ = 90° and the conductor is perpendicular to the B field The equation for the magnetic force becomes: The minimum force, i.e. F = 0 N, is when sin θ = 0° This means θ = 0° and the conductor is parallel to the B field It is important to note that a current-carrying conductor will experience no force if the current in the conductor is parallel to the field This is because the F , B and I must be perpendicular to each other Observing the Force on a Current-Carrying Conductor The force due to a magnetic field can be observed by placing a copper rod in a uniform magnetic field connecting the copper rod to a circuit When current is passed through the copper rod, it experiences a force This causes it to accelerate in the direction of the force A copper rod moves within a magnetic field when current is passed through it
+A current-carrying conductor produces its own magnetic field When interacting with an external magnetic field, it will experience a force
+A current-carrying conductor produces its own magnetic field
+magnetic field
+When interacting with an external magnetic field, it will experience a force
+The force F on a conductor carrying current I at an angle θ to a magnetic field with flux density B is defined by the equation
+Where: F = force on a current-carrying conductor in a B field (N) B = magnetic flux density of applied B field (T) I = current in the conductor (A) L = length of the conductor (m) θ = angle between the conductor and applied B field (degrees)
+Where:
+F = force on a current-carrying conductor in a B field (N)
+B = magnetic flux density of applied B field (T)
+I = current in the conductor (A)
+L = length of the conductor (m)
+θ = angle between the conductor and applied B field (degrees)
+This equation shows that the force on the conductor can be increased by: Increasing the strength of the magnetic field Increasing the current flowing through the conductor Increasing the length of the conductor in the field
+This equation shows that the force on the conductor can be increased by:
+Increasing the strength of the magnetic field
+Increasing the current flowing through the conductor
+Increasing the length of the conductor in the field
+Note : The length L represents the length of the conductor that is within the field
+The magnitude of the force on a current-carrying conductor depends on the angle of the conductor to the external B field
+A current-carrying conductor (e.g. a wire) will experience the maximum magnetic force if the current through it is perpendicular to the direction of the magnetic field lines It experiences no force if it is parallel to magnetic field lines
+A current-carrying conductor (e.g. a wire) will experience the maximum magnetic force if the current through it is perpendicular to the direction of the magnetic field lines
+It experiences no force if it is parallel to magnetic field lines
+The maximum force occurs when sin θ = 1 This means θ = 90° and the conductor is perpendicular to the B field
+The maximum force occurs when sin θ = 1
+This means θ = 90° and the conductor is perpendicular to the B field
+The equation for the magnetic force becomes:
+The minimum force, i.e. F = 0 N, is when sin θ = 0° This means θ = 0° and the conductor is parallel to the B field
+The minimum force, i.e. F = 0 N, is when sin θ = 0°
+This means θ = 0° and the conductor is parallel to the B field
+It is important to note that a current-carrying conductor will experience no force if the current in the conductor is parallel to the field This is because the F , B and I must be perpendicular to each other
+It is important to note that a current-carrying conductor will experience no force if the current in the conductor is parallel to the field
+This is because the F , B and I must be perpendicular to each other
+Observing the Force on a Current-Carrying Conductor
+The force due to a magnetic field can be observed by placing a copper rod in a uniform magnetic field connecting the copper rod to a circuit
+The force due to a magnetic field can be observed by
+placing a copper rod in a uniform magnetic field
+connecting the copper rod to a circuit
+When current is passed through the copper rod, it experiences a force This causes it to accelerate in the direction of the force
+When current is passed through the copper rod, it experiences a force
+This causes it to accelerate in the direction of the force
+A copper rod moves within a magnetic field when current is passed through it
+Worked Example A current of 0.87 A flows in a wire of length 1.4 m placed at 30° to a magnetic field of flux density 80 mT. Calculate the force on the wire. Answer: Step 1: Write down the known quantities Magnetic flux density, B = 80 mT = 80 × 10 −3 T Current, I = 0.87 A Length of wire, L = 1.4 m Angle between the wire and the magnetic field, θ = 30° Step 2: Write down the equation for force on a current-carrying conductor Step 3: Substitute in values and calculate F = (80 × 10 -3 ) × (0.87) × (1.4) × sin(30) = 0.04872 = 0.049 N (2 s.f)
+Worked Example
+A current of 0.87 A flows in a wire of length 1.4 m placed at 30° to a magnetic field of flux density 80 mT.
+Calculate the force on the wire.
+Answer:
+Step 1: Write down the known quantities
+Magnetic flux density, B = 80 mT = 80 × 10 −3 T
+Current, I = 0.87 A
+Length of wire, L = 1.4 m
+Angle between the wire and the magnetic field, θ = 30°
+Step 2: Write down the equation for force on a current-carrying conductor
+Step 3: Substitute in values and calculate
+F = (80 × 10 -3 ) × (0.87) × (1.4) × sin(30) = 0.04872 = 0.049 N (2 s.f)
+Examiner Tips and Tricks Remember that the direction of current flow is the flow of positive charge (positive to negative), and this is in the opposite direction to the flow of electrons
+Examiner Tips and Tricks
+Remember that the direction of current flow is the flow of positive charge (positive to negative), and this is in the opposite direction to the flow of electrons

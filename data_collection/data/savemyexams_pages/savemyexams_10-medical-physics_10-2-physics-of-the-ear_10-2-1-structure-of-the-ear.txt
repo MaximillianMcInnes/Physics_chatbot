@@ -1,0 +1,131 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-2-physics-of-the-ear/10-2-1-structure-of-the-ear
+HEADING: Structure of the Ear ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Structure of the Ear The human ear can be divided into three main regions The outer ear The middle ear The inner ear The Outer, Middle & Inner Ear Sound is received by the outer ear, amplified by the middle ear and converted to electrical impulses by the inner ear The Outer Ear The purpose of the outer ear is to receive sound waves and relay them to the eardrum The main components of the outer ear are: The ear flap, or pinna The ear canal, or external auditory canal The ear drum, or tympanic membrane Structure of the Outer Ear The outer ear comprises the pinna, the auditory canal and the tympanic membrane Pinna The function of the pinna is to reflect sound waves into the ear canal This concentrates the energy onto a smaller area which increases the intensity of the waves As a result, it enables very quiet sounds to be detected Auditory canal The function of the auditory canal is to relay sound waves to the ear drum and cause it to vibrate The effects of resonance on sound in the auditory canal are responsible for the range of human hearing which, on average, is 20 to 20,000 Hz Tympanic membrane The function of the tympanic membrane (ear drum) is to transfer vibrations into mechanical oscillations It forms a boundary between the outer ear and the ossicles of the middle ear The Middle Ear The purpose of the middle ear is to amplify vibrations on the eardrum and transmit them to the inner ear The main components of the middle ear are: The Eustachian tube Three small bones called ossicles Structure of the Middle Ear The middle ear comprises the Eustachian tube which connects to the throat, and the ossicles (malleus, incus and stapes) which connect the ear drum to the oval window Eustachian tube The function of the Eustachian tube is to equalise pressure differences between air in the middle ear and outside the ear The Eustachian tube connects the cavity in the middle ear to the nasopharynx, or throat Ossicles The function of the ossicles is to transmit, and amplify , vibrations of the tympanic membrane to the oval window in the inner ear The ossicles comprise three small bones, which are named after their shapes: The malleus (hammer) The incus (anvil) The stapes (stirrup) The three bones act as a system of levers which can achieve a multiplication of force, or amplification , of vibrations by about 1.5 times, or 50% The ossicles tighten under quiet conditions and loosen under loud conditions This loosening of muscle is a protective measure which prevents hearing loss The Inner Ear The purpose of the inner ear is to convert vibrations to electrical signals to be processed by the brain The main components of the inner ear are: The oval window The round window The cochlea The semi-circular canals Structure of the Inner Ear The inner ear comprises the oval window, round window, the cochlea and the semicircular canals Oval window The function of the oval window is to allow vibrations to enter the fluid of the cochlea The oval window is a thin membrane which connects the stapes bone in the middle ear to the apex (top) of the cochlea The amplification of sound occurs here as the oval window has a smaller area (about 20 times smaller) than the tympanic membrane Round window The function of the round window is to allow the movement of fluid in the cochlea by relieving the pressure The round window is a thin membrane below the oval window As the stapes presses the oval window inwards, the pressure in the fluid causes the round window to be pushed outwards Cochlea The function of the cochlea is to convert vibrations into electrical signals to be processed by the brain The cochlea is a helical, spiral-shaped cavity filled with fluid One end connects to the oval window and the lower end connects to the round window The cochlea contains the basilar membrane which is lined with rows of hair cells The distortion of the hair cells produces electrical impulses which travel along the auditory nerve to the brain Semi-circular canals The function of the semi-circular canals is to maintain balance and detect changes in velocity There are three semi-circular canals, each containing fluid which detects acceleration in the three perpendicular planes Examiner Tips and Tricks Make sure you can label all the structures of the ear and succinctly summarise their functions Transmission Processes of Sound The transmission of sound from the outer ear to the brain is shown below: Transmission of Sound in the Ear The process by which sound produces vibrations in the outer ear, middle ear and inner ear before reaching the brain Transmission of Sound in the Outer Ear Sound waves are reflected into the auditory canal by the pinna The intensity of the sound increases as energy is concentrated onto a smaller area The sound wave travels down the auditory canal towards the tympanic membrane (ear drum) The pressure variations created by the longitudinal sound wave exert a force on the ear drum, causing it to vibrate The vibration pattern of the sound waves creates the same pattern of vibration in the ear drum Transmission of Sound in the Middle Ear The vibration of the ear drum is transferred to the ossicles The malleus (hammer) transfers the vibration to the incus (anvil) and stapes (stirrup) The action of the ossicles amplifies the vibrations and reduces any energy which is reflected back The stapes bone transfers the vibrations to the oval window The oval window has an area which is only 1/15 of that of the eardrum, and a force of 1.5 times greater, hence there is an increase in the pressure by about 20 times Transmission of Sound in the Inner Ear The oval window transfers the vibrations to the fluid in the cochlea in the inner ear As the pressure pushes the oval window inwards, the round window bulges out to compensate for the pressure change As vibrations are transmitted along the cochlea, movement in the basilar membrane causes small hairs to bend backwards and forwards Different regions of the basilar membrane have different natural frequencies This means different frequencies of sound resonate in different parts of the cochlea High frequencies are detected at the base Lower frequencies are detected at the apex The tiny hairs produce electrical impulses which correspond to the different frequencies These impulses travel along neurones in the auditory nerve to the brain, which is interpreted as the sensation of sound An Uncoiled View of the Cochlea This uncoiled view of the cochlea shows how the ear detects different frequencies Worked Example The oval window has an area which is about 15 times less than the area of the ear drum. The force exerted on the oval window is about 1.5 times the force exerted on the ear drum. Show that the pressure on the oval window is over 20 times greater than the pressure on the ear drum. Answer: Step 1: List the known quantities: Area: Force: Step 2: Write down the relationship between force, pressure and area: pressure: Step 3: Determine the ratio of pressure on the oval window to the ear drum:
+Structure of the Ear The human ear can be divided into three main regions The outer ear The middle ear The inner ear The Outer, Middle & Inner Ear Sound is received by the outer ear, amplified by the middle ear and converted to electrical impulses by the inner ear The Outer Ear The purpose of the outer ear is to receive sound waves and relay them to the eardrum The main components of the outer ear are: The ear flap, or pinna The ear canal, or external auditory canal The ear drum, or tympanic membrane Structure of the Outer Ear The outer ear comprises the pinna, the auditory canal and the tympanic membrane Pinna The function of the pinna is to reflect sound waves into the ear canal This concentrates the energy onto a smaller area which increases the intensity of the waves As a result, it enables very quiet sounds to be detected Auditory canal The function of the auditory canal is to relay sound waves to the ear drum and cause it to vibrate The effects of resonance on sound in the auditory canal are responsible for the range of human hearing which, on average, is 20 to 20,000 Hz Tympanic membrane The function of the tympanic membrane (ear drum) is to transfer vibrations into mechanical oscillations It forms a boundary between the outer ear and the ossicles of the middle ear The Middle Ear The purpose of the middle ear is to amplify vibrations on the eardrum and transmit them to the inner ear The main components of the middle ear are: The Eustachian tube Three small bones called ossicles Structure of the Middle Ear The middle ear comprises the Eustachian tube which connects to the throat, and the ossicles (malleus, incus and stapes) which connect the ear drum to the oval window Eustachian tube The function of the Eustachian tube is to equalise pressure differences between air in the middle ear and outside the ear The Eustachian tube connects the cavity in the middle ear to the nasopharynx, or throat Ossicles The function of the ossicles is to transmit, and amplify , vibrations of the tympanic membrane to the oval window in the inner ear The ossicles comprise three small bones, which are named after their shapes: The malleus (hammer) The incus (anvil) The stapes (stirrup) The three bones act as a system of levers which can achieve a multiplication of force, or amplification , of vibrations by about 1.5 times, or 50% The ossicles tighten under quiet conditions and loosen under loud conditions This loosening of muscle is a protective measure which prevents hearing loss The Inner Ear The purpose of the inner ear is to convert vibrations to electrical signals to be processed by the brain The main components of the inner ear are: The oval window The round window The cochlea The semi-circular canals Structure of the Inner Ear The inner ear comprises the oval window, round window, the cochlea and the semicircular canals Oval window The function of the oval window is to allow vibrations to enter the fluid of the cochlea The oval window is a thin membrane which connects the stapes bone in the middle ear to the apex (top) of the cochlea The amplification of sound occurs here as the oval window has a smaller area (about 20 times smaller) than the tympanic membrane Round window The function of the round window is to allow the movement of fluid in the cochlea by relieving the pressure The round window is a thin membrane below the oval window As the stapes presses the oval window inwards, the pressure in the fluid causes the round window to be pushed outwards Cochlea The function of the cochlea is to convert vibrations into electrical signals to be processed by the brain The cochlea is a helical, spiral-shaped cavity filled with fluid One end connects to the oval window and the lower end connects to the round window The cochlea contains the basilar membrane which is lined with rows of hair cells The distortion of the hair cells produces electrical impulses which travel along the auditory nerve to the brain Semi-circular canals The function of the semi-circular canals is to maintain balance and detect changes in velocity There are three semi-circular canals, each containing fluid which detects acceleration in the three perpendicular planes
+The human ear can be divided into three main regions The outer ear The middle ear The inner ear
+The human ear can be divided into three main regions
+The outer ear
+The middle ear
+The inner ear
+The Outer, Middle & Inner Ear
+Sound is received by the outer ear, amplified by the middle ear and converted to electrical impulses by the inner ear
+The Outer Ear
+The purpose of the outer ear is to receive sound waves and relay them to the eardrum
+The main components of the outer ear are: The ear flap, or pinna The ear canal, or external auditory canal The ear drum, or tympanic membrane
+The main components of the outer ear are:
+The ear flap, or pinna
+The ear canal, or external auditory canal
+The ear drum, or tympanic membrane
+Structure of the Outer Ear
+The outer ear comprises the pinna, the auditory canal and the tympanic membrane
+Pinna
+The function of the pinna is to reflect sound waves into the ear canal
+This concentrates the energy onto a smaller area which increases the intensity of the waves
+As a result, it enables very quiet sounds to be detected
+Auditory canal
+The function of the auditory canal is to relay sound waves to the ear drum and cause it to vibrate
+The effects of resonance on sound in the auditory canal are responsible for the range of human hearing which, on average, is 20 to 20,000 Hz
+Tympanic membrane
+The function of the tympanic membrane (ear drum) is to transfer vibrations into mechanical oscillations
+It forms a boundary between the outer ear and the ossicles of the middle ear
+The Middle Ear
+The purpose of the middle ear is to amplify vibrations on the eardrum and transmit them to the inner ear
+The main components of the middle ear are: The Eustachian tube Three small bones called ossicles
+The main components of the middle ear are:
+The Eustachian tube
+Three small bones called ossicles
+Structure of the Middle Ear
+The middle ear comprises the Eustachian tube which connects to the throat, and the ossicles (malleus, incus and stapes) which connect the ear drum to the oval window
+Eustachian tube
+The function of the Eustachian tube is to equalise pressure differences between air in the middle ear and outside the ear
+The Eustachian tube connects the cavity in the middle ear to the nasopharynx, or throat
+Ossicles
+The function of the ossicles is to transmit, and amplify , vibrations of the tympanic membrane to the oval window in the inner ear
+The ossicles comprise three small bones, which are named after their shapes: The malleus (hammer) The incus (anvil) The stapes (stirrup)
+The ossicles comprise three small bones, which are named after their shapes:
+The malleus (hammer)
+The incus (anvil)
+The stapes (stirrup)
+The three bones act as a system of levers which can achieve a multiplication of force, or amplification , of vibrations by about 1.5 times, or 50%
+The ossicles tighten under quiet conditions and loosen under loud conditions
+This loosening of muscle is a protective measure which prevents hearing loss
+The Inner Ear
+The purpose of the inner ear is to convert vibrations to electrical signals to be processed by the brain
+The main components of the inner ear are: The oval window The round window The cochlea The semi-circular canals
+The main components of the inner ear are:
+The oval window
+The round window
+The cochlea
+The semi-circular canals
+Structure of the Inner Ear
+The inner ear comprises the oval window, round window, the cochlea and the semicircular canals
+Oval window
+The function of the oval window is to allow vibrations to enter the fluid of the cochlea
+The oval window is a thin membrane which connects the stapes bone in the middle ear to the apex (top) of the cochlea
+The amplification of sound occurs here as the oval window has a smaller area (about 20 times smaller) than the tympanic membrane
+Round window
+The function of the round window is to allow the movement of fluid in the cochlea by relieving the pressure
+The round window is a thin membrane below the oval window
+As the stapes presses the oval window inwards, the pressure in the fluid causes the round window to be pushed outwards
+Cochlea
+The function of the cochlea is to convert vibrations into electrical signals to be processed by the brain
+The cochlea is a helical, spiral-shaped cavity filled with fluid
+One end connects to the oval window and the lower end connects to the round window
+The cochlea contains the basilar membrane which is lined with rows of hair cells
+The distortion of the hair cells produces electrical impulses which travel along the auditory nerve to the brain
+Semi-circular canals
+The function of the semi-circular canals is to maintain balance and detect changes in velocity
+There are three semi-circular canals, each containing fluid which detects acceleration in the three perpendicular planes
+Examiner Tips and Tricks Make sure you can label all the structures of the ear and succinctly summarise their functions
+Examiner Tips and Tricks
+Make sure you can label all the structures of the ear and succinctly summarise their functions
+Transmission Processes of Sound The transmission of sound from the outer ear to the brain is shown below: Transmission of Sound in the Ear The process by which sound produces vibrations in the outer ear, middle ear and inner ear before reaching the brain Transmission of Sound in the Outer Ear Sound waves are reflected into the auditory canal by the pinna The intensity of the sound increases as energy is concentrated onto a smaller area The sound wave travels down the auditory canal towards the tympanic membrane (ear drum) The pressure variations created by the longitudinal sound wave exert a force on the ear drum, causing it to vibrate The vibration pattern of the sound waves creates the same pattern of vibration in the ear drum Transmission of Sound in the Middle Ear The vibration of the ear drum is transferred to the ossicles The malleus (hammer) transfers the vibration to the incus (anvil) and stapes (stirrup) The action of the ossicles amplifies the vibrations and reduces any energy which is reflected back The stapes bone transfers the vibrations to the oval window The oval window has an area which is only 1/15 of that of the eardrum, and a force of 1.5 times greater, hence there is an increase in the pressure by about 20 times Transmission of Sound in the Inner Ear The oval window transfers the vibrations to the fluid in the cochlea in the inner ear As the pressure pushes the oval window inwards, the round window bulges out to compensate for the pressure change As vibrations are transmitted along the cochlea, movement in the basilar membrane causes small hairs to bend backwards and forwards Different regions of the basilar membrane have different natural frequencies This means different frequencies of sound resonate in different parts of the cochlea High frequencies are detected at the base Lower frequencies are detected at the apex The tiny hairs produce electrical impulses which correspond to the different frequencies These impulses travel along neurones in the auditory nerve to the brain, which is interpreted as the sensation of sound An Uncoiled View of the Cochlea This uncoiled view of the cochlea shows how the ear detects different frequencies
+Transmission Processes of Sound
+The transmission of sound from the outer ear to the brain is shown below:
+Transmission of Sound in the Ear
+The process by which sound produces vibrations in the outer ear, middle ear and inner ear before reaching the brain
+Transmission of Sound in the Outer Ear
+Sound waves are reflected into the auditory canal by the pinna
+The intensity of the sound increases as energy is concentrated onto a smaller area
+intensity
+The sound wave travels down the auditory canal towards the tympanic membrane (ear drum) The pressure variations created by the longitudinal sound wave exert a force on the ear drum, causing it to vibrate The vibration pattern of the sound waves creates the same pattern of vibration in the ear drum
+The sound wave travels down the auditory canal towards the tympanic membrane (ear drum)
+The pressure variations created by the longitudinal sound wave exert a force on the ear drum, causing it to vibrate
+The vibration pattern of the sound waves creates the same pattern of vibration in the ear drum
+Transmission of Sound in the Middle Ear
+The vibration of the ear drum is transferred to the ossicles The malleus (hammer) transfers the vibration to the incus (anvil) and stapes (stirrup)
+The vibration of the ear drum is transferred to the ossicles
+The malleus (hammer) transfers the vibration to the incus (anvil) and stapes (stirrup)
+The action of the ossicles amplifies the vibrations and reduces any energy which is reflected back
+The stapes bone transfers the vibrations to the oval window The oval window has an area which is only 1/15 of that of the eardrum, and a force of 1.5 times greater, hence there is an increase in the pressure by about 20 times
+The stapes bone transfers the vibrations to the oval window
+The oval window has an area which is only 1/15 of that of the eardrum, and a force of 1.5 times greater, hence there is an increase in the pressure by about 20 times
+Transmission of Sound in the Inner Ear
+The oval window transfers the vibrations to the fluid in the cochlea in the inner ear As the pressure pushes the oval window inwards, the round window bulges out to compensate for the pressure change
+The oval window transfers the vibrations to the fluid in the cochlea in the inner ear
+As the pressure pushes the oval window inwards, the round window bulges out to compensate for the pressure change
+As vibrations are transmitted along the cochlea, movement in the basilar membrane causes small hairs to bend backwards and forwards
+Different regions of the basilar membrane have different natural frequencies
+This means different frequencies of sound resonate in different parts of the cochlea High frequencies are detected at the base Lower frequencies are detected at the apex
+This means different frequencies of sound resonate in different parts of the cochlea
+High frequencies are detected at the base
+Lower frequencies are detected at the apex
+The tiny hairs produce electrical impulses which correspond to the different frequencies
+These impulses travel along neurones in the auditory nerve to the brain, which is interpreted as the sensation of sound
+An Uncoiled View of the Cochlea
+This uncoiled view of the cochlea shows how the ear detects different frequencies
+Worked Example The oval window has an area which is about 15 times less than the area of the ear drum. The force exerted on the oval window is about 1.5 times the force exerted on the ear drum. Show that the pressure on the oval window is over 20 times greater than the pressure on the ear drum. Answer: Step 1: List the known quantities: Area: Force: Step 2: Write down the relationship between force, pressure and area: pressure: Step 3: Determine the ratio of pressure on the oval window to the ear drum:
+Worked Example
+The oval window has an area which is about 15 times less than the area of the ear drum.
+The force exerted on the oval window is about 1.5 times the force exerted on the ear drum.
+Show that the pressure on the oval window is over 20 times greater than the pressure on the ear drum.
+Answer:
+Step 1: List the known quantities:
+Area:
+Force:
+Step 2: Write down the relationship between force, pressure and area:
+pressure:
+Step 3: Determine the ratio of pressure on the oval window to the ear drum:

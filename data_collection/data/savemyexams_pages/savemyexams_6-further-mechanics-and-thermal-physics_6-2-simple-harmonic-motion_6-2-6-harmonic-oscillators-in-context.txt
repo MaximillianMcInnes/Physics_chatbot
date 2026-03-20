@@ -1,0 +1,29 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-2-simple-harmonic-motion/6-2-6-harmonic-oscillators-in-context
+HEADING: Harmonic Oscillators in Context ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Harmonic Oscillators in Context Any oscillations about an equilibrium where its restoring force is proportional to its displacement will be simple harmonic For example, liquid in a U-tube Liquid in a U-tube is a type of simple harmonic oscillator with a displacement x from the equilibrium position and length L The time period for these oscillations is found using the same equation as the time period of a simple pendulum Where l is the known length of the liquid column Worked Example Water of length 20 cm is added to a U-tube. When added the water oscillates in simple harmonic motion in a time period T. Calculate the frequency of the oscillations. Answer: Step 1: List the known quantities L = 20 cm = 0.20 m Step 2: From the data booklet T = Step 3: Rearrange time period equation for the frequency f = f = Step 4: Substitute values into the frequency equation, to calculate f : f = 1.11 Hz Examiner Tips and Tricks Don't let these slightly unusual situations confuse you. Try to model each part with each part against a conventional spring or pendulum system.
+Harmonic Oscillators in Context Any oscillations about an equilibrium where its restoring force is proportional to its displacement will be simple harmonic For example, liquid in a U-tube Liquid in a U-tube is a type of simple harmonic oscillator with a displacement x from the equilibrium position and length L The time period for these oscillations is found using the same equation as the time period of a simple pendulum Where l is the known length of the liquid column
+Any oscillations about an equilibrium where its restoring force is proportional to its displacement will be simple harmonic For example, liquid in a U-tube
+Any oscillations about an equilibrium where its restoring force is proportional to its displacement will be simple harmonic
+For example, liquid in a U-tube
+Liquid in a U-tube is a type of simple harmonic oscillator with a displacement x from the equilibrium position and length L
+The time period for these oscillations is found using the same equation as the time period of a simple pendulum
+Where l is the known length of the liquid column
+Worked Example Water of length 20 cm is added to a U-tube. When added the water oscillates in simple harmonic motion in a time period T. Calculate the frequency of the oscillations. Answer: Step 1: List the known quantities L = 20 cm = 0.20 m Step 2: From the data booklet T = Step 3: Rearrange time period equation for the frequency f = f = Step 4: Substitute values into the frequency equation, to calculate f : f = 1.11 Hz
+Worked Example
+Water of length 20 cm is added to a U-tube. When added the water oscillates in simple harmonic motion in a time period T.
+Calculate the frequency of the oscillations.
+Answer:
+Step 1: List the known quantities
+L = 20 cm = 0.20 m
+Step 2: From the data booklet
+T =
+Step 3: Rearrange time period equation for the frequency
+f =
+Step 4: Substitute values into the frequency equation, to calculate f :
+f = 1.11 Hz
+Examiner Tips and Tricks Don't let these slightly unusual situations confuse you. Try to model each part with each part against a conventional spring or pendulum system.
+Examiner Tips and Tricks
+Don't let these slightly unusual situations confuse you. Try to model each part with each part against a conventional spring or pendulum system.

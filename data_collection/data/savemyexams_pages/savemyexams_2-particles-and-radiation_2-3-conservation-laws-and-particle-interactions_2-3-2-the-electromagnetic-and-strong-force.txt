@@ -1,0 +1,33 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-3-conservation-laws-and-particle-interactions/2-3-2-the-electromagnetic-and-strong-force
+HEADING: The Electromagnetic & Strong Force ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Electromagnetic Force The electromagnetic force is only between charged particles The exchange particle that carries this force is the virtual photon, γ Properties of the photon are: It has no mass It has no charge It is its own antiparticle Electromagnetic interactions occur whenever two charged particles interact with each other For example, when two charged particles, such as electrons, are repelled by each other, a virtual photon is exchanged between them to produce this repulsion Feynman diagram of electromagnetic repulsion between two electrons shown by the exchange of a virtual photon The electromagnetic force is also responsible for binding electrons to atoms This is due to the attractive force between the negative electrons and positive nucleus Hadrons & The Strong Nuclear Force Hadrons are particles that are made up of quarks Hence they are subject to the strong interaction The exchange particle of the strong interaction is either: The pion (between nucleons) The gluon (between quarks) This means that leptons cannot interact with the strong force, since they are not made up of quarks Feynman diagram of the interaction between an up and down quark. The gluon is the exchange particle between them.
+The Electromagnetic Force The electromagnetic force is only between charged particles The exchange particle that carries this force is the virtual photon, γ Properties of the photon are: It has no mass It has no charge It is its own antiparticle Electromagnetic interactions occur whenever two charged particles interact with each other For example, when two charged particles, such as electrons, are repelled by each other, a virtual photon is exchanged between them to produce this repulsion Feynman diagram of electromagnetic repulsion between two electrons shown by the exchange of a virtual photon The electromagnetic force is also responsible for binding electrons to atoms This is due to the attractive force between the negative electrons and positive nucleus
+The Electromagnetic Force
+The electromagnetic force is only between charged particles
+The exchange particle that carries this force is the virtual photon, γ
+Properties of the photon are: It has no mass It has no charge It is its own antiparticle
+Properties of the photon are:
+It has no mass
+It has no charge
+It is its own antiparticle
+Electromagnetic interactions occur whenever two charged particles interact with each other
+For example, when two charged particles, such as electrons, are repelled by each other, a virtual photon is exchanged between them to produce this repulsion
+Feynman diagram of electromagnetic repulsion between two electrons shown by the exchange of a virtual photon
+The electromagnetic force is also responsible for binding electrons to atoms This is due to the attractive force between the negative electrons and positive nucleus
+The electromagnetic force is also responsible for binding electrons to atoms
+This is due to the attractive force between the negative electrons and positive nucleus
+Hadrons & The Strong Nuclear Force Hadrons are particles that are made up of quarks Hence they are subject to the strong interaction The exchange particle of the strong interaction is either: The pion (between nucleons) The gluon (between quarks) This means that leptons cannot interact with the strong force, since they are not made up of quarks Feynman diagram of the interaction between an up and down quark. The gluon is the exchange particle between them.
+Hadrons & The Strong Nuclear Force
+Hadrons are particles that are made up of quarks Hence they are subject to the strong interaction
+Hadrons are particles that are made up of quarks
+Hence they are subject to the strong interaction
+The exchange particle of the strong interaction is either: The pion (between nucleons) The gluon (between quarks)
+The exchange particle of the strong interaction is either:
+The pion (between nucleons)
+The gluon (between quarks)
+This means that leptons cannot interact with the strong force, since they are not made up of quarks
+leptons
+Feynman diagram of the interaction between an up and down quark. The gluon is the exchange particle between them.

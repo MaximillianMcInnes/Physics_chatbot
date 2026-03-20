@@ -1,0 +1,43 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-3-special-relativity/12-3-9-relativistic-energy
+HEADING: Relativistic Energy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Relativistic Energy Relativistic Kinetic Energy We know that an object in motion relative to an observer has energy E = ( γm 0 )c 2 and its rest energy is E 0 = m 0 c 2 The kinetic store is the energy store associated with motion If an object in motion has a total energy E which is greater than its rest mass E 0 , the additional energy must be in the kinetic store Where: E k is energy in the kinetic store m is relativistic mass m 0 is the object's rest mass c is the speed of light This can be rearranged for an expression for the total energy, E , of a particle: The total energy of an object increases at a rapidly increasing rate as it's speed approaches the speed of light Graph showing how total energy increases as an object's speed approaches the speed of light As with mass on the previous page, the asymptote on this graph shows that an infinite amount of energy is needed to make an object with mass reach the speed of light Worked Example A spacecraft with a proper mass of 450 kg accelerates to a speed of 0.7 c . Calculate the difference in its relativistic kinetic energy and its kinetic energy calculated using Newtonian physics. Answer: Step 1: List the known quantities: Rest mass, m 0 = 450 kg Speed, v = 0.7 c Speed of light, c = 3.0 × 10 8 ms -1 Step 2: List the relevant equations: Newtonian kinetic energy, E kn = ½ m 0 v 2 Relativistic kinetic energy, E kr = γm 0 c 2 − m 0 c 2 Step 3: Calculate the Newtonian kinetic energy: Substitute the known quantities: Step 4: Calculate the gamma term: Substitute the speed into the gamma term: Step 5: Substitute the gamma term into the relativistic kinetic energy equation: Substitute the rest mass, speed of light and speed as well: Step 6: Calculate the difference between the two kinetic energies: Subtract the smaller Newtonian kinetic energy from the larger relativistic energy As you can see, the relativistic kinetic energy is almost twice as large as the Newtonian kinetic energy!
+Relativistic Energy Relativistic Kinetic Energy We know that an object in motion relative to an observer has energy E = ( γm 0 )c 2 and its rest energy is E 0 = m 0 c 2 The kinetic store is the energy store associated with motion If an object in motion has a total energy E which is greater than its rest mass E 0 , the additional energy must be in the kinetic store Where: E k is energy in the kinetic store m is relativistic mass m 0 is the object's rest mass c is the speed of light This can be rearranged for an expression for the total energy, E , of a particle: The total energy of an object increases at a rapidly increasing rate as it's speed approaches the speed of light Graph showing how total energy increases as an object's speed approaches the speed of light As with mass on the previous page, the asymptote on this graph shows that an infinite amount of energy is needed to make an object with mass reach the speed of light
+Relativistic Kinetic Energy
+We know that an object in motion relative to an observer has energy E = ( γm 0 )c 2 and its rest energy is E 0 = m 0 c 2 The kinetic store is the energy store associated with motion If an object in motion has a total energy E which is greater than its rest mass E 0 , the additional energy must be in the kinetic store
+We know that an object in motion relative to an observer has energy E = ( γm 0 )c 2 and its rest energy is E 0 = m 0 c 2
+The kinetic store is the energy store associated with motion
+If an object in motion has a total energy E which is greater than its rest mass E 0 , the additional energy must be in the kinetic store
+Where: E k is energy in the kinetic store m is relativistic mass m 0 is the object's rest mass c is the speed of light
+Where:
+E k is energy in the kinetic store
+m is relativistic mass
+m 0 is the object's rest mass
+c is the speed of light
+This can be rearranged for an expression for the total energy, E , of a particle:
+The total energy of an object increases at a rapidly increasing rate as it's speed approaches the speed of light
+Graph showing how total energy increases as an object's speed approaches the speed of light
+As with mass on the previous page, the asymptote on this graph shows that an infinite amount of energy is needed to make an object with mass reach the speed of light
+asymptote
+Worked Example A spacecraft with a proper mass of 450 kg accelerates to a speed of 0.7 c . Calculate the difference in its relativistic kinetic energy and its kinetic energy calculated using Newtonian physics. Answer: Step 1: List the known quantities: Rest mass, m 0 = 450 kg Speed, v = 0.7 c Speed of light, c = 3.0 × 10 8 ms -1 Step 2: List the relevant equations: Newtonian kinetic energy, E kn = ½ m 0 v 2 Relativistic kinetic energy, E kr = γm 0 c 2 − m 0 c 2 Step 3: Calculate the Newtonian kinetic energy: Substitute the known quantities: Step 4: Calculate the gamma term: Substitute the speed into the gamma term: Step 5: Substitute the gamma term into the relativistic kinetic energy equation: Substitute the rest mass, speed of light and speed as well: Step 6: Calculate the difference between the two kinetic energies: Subtract the smaller Newtonian kinetic energy from the larger relativistic energy As you can see, the relativistic kinetic energy is almost twice as large as the Newtonian kinetic energy!
+Worked Example
+A spacecraft with a proper mass of 450 kg accelerates to a speed of 0.7 c . Calculate the difference in its relativistic kinetic energy and its kinetic energy calculated using Newtonian physics.
+Answer:
+Step 1: List the known quantities:
+Rest mass, m 0 = 450 kg
+Speed, v = 0.7 c
+Speed of light, c = 3.0 × 10 8 ms -1
+Step 2: List the relevant equations:
+Newtonian kinetic energy, E kn = ½ m 0 v 2
+Relativistic kinetic energy, E kr = γm 0 c 2 − m 0 c 2
+Step 3: Calculate the Newtonian kinetic energy:
+Substitute the known quantities:
+Step 4: Calculate the gamma term:
+Substitute the speed into the gamma term:
+Step 5: Substitute the gamma term into the relativistic kinetic energy equation:
+Substitute the rest mass, speed of light and speed as well:
+Step 6: Calculate the difference between the two kinetic energies:
+Subtract the smaller Newtonian kinetic energy from the larger relativistic energy
+As you can see, the relativistic kinetic energy is almost twice as large as the Newtonian kinetic energy!

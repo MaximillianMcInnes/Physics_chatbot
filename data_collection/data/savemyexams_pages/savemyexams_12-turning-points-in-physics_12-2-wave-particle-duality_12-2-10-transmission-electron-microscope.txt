@@ -1,0 +1,43 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-2-wave-particle-duality/12-2-10-transmission-electron-microscope
+HEADING: Transmission Electron Microscope ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Transmission Electron Microscope (TEM) How does a TEM work? In the 1930s, experimental scientists realised that the much shorter wavelengths that electron waves offered could be used to construct microscopes with a higher resolving power The first to be constructed were transmission electron microscopes (TEMs) Where light microscopes had used convex optical lenses, these microscopes focused beams of electrons using magnetic lenses The electrons passed through a sample and formed an image on a fluorescent screen A diagram showing the path of electrons through magnetic lenses A cross-sectional diagram of a TEM. The dotted lines represent the paths of electrons - those travelling along the microscope's axis (the middle vertical line) are not deflected. Each magnetic lens has a different purpose. The electron gun emits electrons through thermionic emission These are then accelerated to high speeds (and therefore short wavelengths) by a large potential difference The function of the condenser lens: The condenser lens' magnetic field deflects the electrons into a wide beam travelling parallel to the axis of the microscope This parallel beam is uniformly incident on the sample The function of the objective lens: This lens forms an image of the sample It deflects the outer electrons in the beam towards the central axis, much like a convex optical lens does for light Electrons travelling along the microscope's axis are not deflected, again similarly to light in a convex lens The function of the projector lens: This lens causes the beams from the objective lens to spread out, magnifying the image created by the objective lens This magnified image is directed onto a fluorescent screen, emitting light where electrons are incident Drawbacks of the TEM The level of detail available in an image depends on the resolving power In an electron microscope, electrons need to be travelling as fast as possible to have the shortest wavelength and therefore highest resolving power In the TEM the electrons must pass through the sample This reduces the speed of electrons, increasing wavelength and reducing resolving power so electron waves are unable to resolve as much detail as their short wavelength would allow Additionally, not all electrons emitted by thermionic emission have the same speed, and not all electrons are slowed by the sample to the same degree This means electrons in the beam have a range of speeds Electrons travelling at different velocities through a magnetic field are deflected by different amounts This means electrons passing through a single point in the sample are projected onto a range of locations on the fluorescent screen instead, forming a blurrier image
+Transmission Electron Microscope (TEM)
+How does a TEM work?
+In the 1930s, experimental scientists realised that the much shorter wavelengths that electron waves offered could be used to construct microscopes with a higher resolving power
+The first to be constructed were transmission electron microscopes (TEMs) Where light microscopes had used convex optical lenses, these microscopes focused beams of electrons using magnetic lenses The electrons passed through a sample and formed an image on a fluorescent screen
+The first to be constructed were transmission electron microscopes (TEMs)
+Where light microscopes had used convex optical lenses, these microscopes focused beams of electrons using magnetic lenses
+The electrons passed through a sample and formed an image on a fluorescent screen
+A diagram showing the path of electrons through magnetic lenses
+A cross-sectional diagram of a TEM. The dotted lines represent the paths of electrons - those travelling along the microscope's axis (the middle vertical line) are not deflected. Each magnetic lens has a different purpose.
+The electron gun emits electrons through thermionic emission These are then accelerated to high speeds (and therefore short wavelengths) by a large potential difference
+The electron gun emits electrons through thermionic emission
+These are then accelerated to high speeds (and therefore short wavelengths) by a large potential difference
+The function of the condenser lens: The condenser lens' magnetic field deflects the electrons into a wide beam travelling parallel to the axis of the microscope This parallel beam is uniformly incident on the sample
+The function of the condenser lens:
+The condenser lens' magnetic field deflects the electrons into a wide beam travelling parallel to the axis of the microscope
+This parallel beam is uniformly incident on the sample
+The function of the objective lens: This lens forms an image of the sample It deflects the outer electrons in the beam towards the central axis, much like a convex optical lens does for light Electrons travelling along the microscope's axis are not deflected, again similarly to light in a convex lens
+The function of the objective lens:
+This lens forms an image of the sample
+It deflects the outer electrons in the beam towards the central axis, much like a convex optical lens does for light
+Electrons travelling along the microscope's axis are not deflected, again similarly to light in a convex lens
+The function of the projector lens: This lens causes the beams from the objective lens to spread out, magnifying the image created by the objective lens This magnified image is directed onto a fluorescent screen, emitting light where electrons are incident
+The function of the projector lens:
+This lens causes the beams from the objective lens to spread out, magnifying the image created by the objective lens
+This magnified image is directed onto a fluorescent screen, emitting light where electrons are incident
+Drawbacks of the TEM
+The level of detail available in an image depends on the resolving power In an electron microscope, electrons need to be travelling as fast as possible to have the shortest wavelength and therefore highest resolving power
+The level of detail available in an image depends on the resolving power
+In an electron microscope, electrons need to be travelling as fast as possible to have the shortest wavelength and therefore highest resolving power
+In the TEM the electrons must pass through the sample This reduces the speed of electrons, increasing wavelength and reducing resolving power so electron waves are unable to resolve as much detail as their short wavelength would allow
+In the TEM the electrons must pass through the sample
+This reduces the speed of electrons, increasing wavelength and reducing resolving power so electron waves are unable to resolve as much detail as their short wavelength would allow
+Additionally, not all electrons emitted by thermionic emission have the same speed, and not all electrons are slowed by the sample to the same degree
+This means electrons in the beam have a range of speeds Electrons travelling at different velocities through a magnetic field are deflected by different amounts This means electrons passing through a single point in the sample are projected onto a range of locations on the fluorescent screen instead, forming a blurrier image
+This means electrons in the beam have a range of speeds
+Electrons travelling at different velocities through a magnetic field are deflected by different amounts
+This means electrons passing through a single point in the sample are projected onto a range of locations on the fluorescent screen instead, forming a blurrier image

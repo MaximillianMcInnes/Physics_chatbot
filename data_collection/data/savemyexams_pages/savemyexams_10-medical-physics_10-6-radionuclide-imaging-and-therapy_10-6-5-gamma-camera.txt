@@ -1,0 +1,50 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-6-radionuclide-imaging-and-therapy/10-6-5-gamma-camera
+HEADING: Gamma Camera ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Gamma Camera The progress of a medical tracer around the body can be detected using a gamma camera Images obtained by a gamma camera can be used for diagnosing issues in specific organs A gamma camera is comprised of four major components: Collimator Scintillator Photomultiplier tubes Computer and display Structure of the Gamma Camera A gamma camera detects the gamma rays emitted by a radioactive tracer in the body using a large scintillator crystal connected to an array of photomultipliers Collimator Images of slices of the body can be taken to show the position of the gamma-emitting radioactive tracers Once injected with a tracer, the patient lies stationary in a tube surrounded by a ring of detectors When gamma rays are emitted, they may be absorbed by thin lead tubes known as collimators Collimators are the key to producing the sharpest and highest resolution images Photons moving parallel to the collimator will not be absorbed, which means only these photons reach the scintillator crystal Photons moving in any other direction will be absorbed The narrower and longer the collimators, the more effectively they filter out scattered gamma rays This improves the image resolution as excluding scattered photons allows for sharper images to be produced The Collimator The collimator ensures high resolution images are produced by only allowing photons travelling parallel to the lead plates to pass through Scintillator When the gamma-ray ( γ -ray) photon is incident on a crystal scintillator , an electron in the crystal is excited to a higher energy state As the excited electron travels through the crystal, it excites more electrons When the excited electrons move back down to their original state, the lost energy is transmitted as visible light photons These visible light photons then travel through the light guide into photomultiplier tubes The Scintillator The scintillator crystal converts the energy from gamma photons into visible light photons Photomultiplier Tubes The photons produced by the scintillator are very faint Hence, they need to be converted to an electrical signal and amplified by a photomultiplier tube When photons from the scintillator reach the photomultiplier, electrons are released from a photocathode The liberated electrons accelerate through a series of dynodes, each at a progressively higher potential difference, before reaching an anode at the end of the tube Energy gained by the acceleration of the electrons triggers the release of more electrons at each dynode, resulting in a stronger electrical signal A photomultiplier tube A photomultiplier detects the faint flashes of light from the scintillator, converts them into voltage pulses, and amplifies the signals Image formation on a computer The signals produced by the photomultiplier tubes are used to produce an image using the electrical signals from the detectors The tracers will emit lots of γ rays simultaneously, and the computers will use this information to create an image The more photons formed at a particular point, the more tracer that is present in the tissue being studied, and this will appear as a bright point on the image An image of the tracer concentration in the tissue can be created by processing the arrival times of the gamma-ray photons
+The progress of a medical tracer around the body can be detected using a gamma camera
+medical tracer
+Images obtained by a gamma camera can be used for diagnosing issues in specific organs
+A gamma camera is comprised of four major components: Collimator Scintillator Photomultiplier tubes Computer and display
+A gamma camera is comprised of four major components:
+Collimator
+Scintillator
+Photomultiplier tubes
+Computer and display
+Structure of the Gamma Camera
+A gamma camera detects the gamma rays emitted by a radioactive tracer in the body using a large scintillator crystal connected to an array of photomultipliers
+Images of slices of the body can be taken to show the position of the gamma-emitting radioactive tracers
+Once injected with a tracer, the patient lies stationary in a tube surrounded by a ring of detectors
+When gamma rays are emitted, they may be absorbed by thin lead tubes known as collimators
+Collimators are the key to producing the sharpest and highest resolution images Photons moving parallel to the collimator will not be absorbed, which means only these photons reach the scintillator crystal Photons moving in any other direction will be absorbed The narrower and longer the collimators, the more effectively they filter out scattered gamma rays This improves the image resolution as excluding scattered photons allows for sharper images to be produced
+Collimators are the key to producing the sharpest and highest resolution images
+Photons moving parallel to the collimator will not be absorbed, which means only these photons reach the scintillator crystal
+Photons moving in any other direction will be absorbed
+The narrower and longer the collimators, the more effectively they filter out scattered gamma rays
+This improves the image resolution as excluding scattered photons allows for sharper images to be produced
+The Collimator
+The collimator ensures high resolution images are produced by only allowing photons travelling parallel to the lead plates to pass through
+When the gamma-ray ( γ -ray) photon is incident on a crystal scintillator , an electron in the crystal is excited to a higher energy state As the excited electron travels through the crystal, it excites more electrons When the excited electrons move back down to their original state, the lost energy is transmitted as visible light photons
+When the gamma-ray ( γ -ray) photon is incident on a crystal scintillator , an electron in the crystal is excited to a higher energy state
+scintillator
+As the excited electron travels through the crystal, it excites more electrons
+When the excited electrons move back down to their original state, the lost energy is transmitted as visible light photons
+These visible light photons then travel through the light guide into photomultiplier tubes
+The Scintillator
+The scintillator crystal converts the energy from gamma photons into visible light photons
+Photomultiplier Tubes
+The photons produced by the scintillator are very faint
+Hence, they need to be converted to an electrical signal and amplified by a photomultiplier tube
+photomultiplier
+When photons from the scintillator reach the photomultiplier, electrons are released from a photocathode
+The liberated electrons accelerate through a series of dynodes, each at a progressively higher potential difference, before reaching an anode at the end of the tube
+Energy gained by the acceleration of the electrons triggers the release of more electrons at each dynode, resulting in a stronger electrical signal
+A photomultiplier tube
+A photomultiplier detects the faint flashes of light from the scintillator, converts them into voltage pulses, and amplifies the signals
+Image formation on a computer
+The signals produced by the photomultiplier tubes are used to produce an image using the electrical signals from the detectors
+The tracers will emit lots of γ rays simultaneously, and the computers will use this information to create an image
+The more photons formed at a particular point, the more tracer that is present in the tissue being studied, and this will appear as a bright point on the image
+An image of the tracer concentration in the tissue can be created by processing the arrival times of the gamma-ray photons

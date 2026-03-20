@@ -1,0 +1,95 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-3-conservation-laws-and-particle-interactions/2-3-4-feynman-diagrams
+HEADING: Feynman Diagrams ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Feynman Diagrams Particle interactions and decays can be represented using Feynman diagrams They are a way of visualising particle equations and the exchange particles involved Rules for Feynman diagrams The y-axis represents time and the x-axis represents space A vertex is where particles and exchange particles meet - these represent points of interaction (e.g. electromagnetic, weak or strong) Incoming particles come in at the bottom, and outgoing particles leave at the top Particles are represented by straight lines which have arrows Each straight line must have an arrow with its direction forward in time Exchange particles are represented by wavy lines which have no arrows The transfer of exchange particles is from left to right unless indicated by an arrow above the wavy line Hadrons/quarks are present on the left and leptons on the right, they must never meet at a vertex Charge, baryon number and lepton number must be conserved at each vertex Lines must not cross over Features of Feynman diagrams Feynman diagrams follow a set of rules which are needed to draw and interpret them accurately Exchange particles Exchange particles act as a force carrier between particles in an interaction In electromagnetic interactions, the exchange particle is a virtual photon In weak interactions, the exchange particle is the W boson Exchange particles are represented as wavy lines Charged exchange particles, such as W + and W – , sometimes have an arrow above the wavy line to indicate their direction Electromagnetic Interactions When two electrons approach each other, they experience repulsion due to the electromagnetic force This can be represented on a Feynman diagram to show the exchange of a virtual photon Electrostatic repulsion between electrons Two electrons approach each other and exchange a virtual photon before moving apart due to electrostatic repulsion Beta-minus decay Beta-minus decay is an example of the weak interaction The exchange particle is a W − boson This is because the β − particle (electron) has a negative charge During beta-minus decay: A neutron decays into a proton and a W − boson Then, the W − boson decays into an electron and anti-electron neutrino Feynman diagram for beta-minus decay Beta-minus decay can be represented on a Feynman diagram with the W − boson as the exchange particle Beta-plus decay Beta-plus decay is another example of the weak interaction The exchange particle is a W + boson This is because the β + particle (positron) has a positive charge During beta-plus decay: A proton decays into a neutron and a W + boson Then, the W + boson decays into a positron and electron neutrino Feynman diagram for beta-plus decay Beta-plus decay can be represented on a Feynman diagram with the W + boson as the exchange particle Electron Capture Electron capture is another example of the weak interaction The exchange particle is a W + boson This is because the proton acts on the electron During electron capture: A proton absorbs an electron and decays into a neutron and W + boson Then, the interaction between the electron and W + boson forms an electron neutrino Feynman diagram for electron capture The proton acts on the electron during electron capture. This is shown by an arrow indicating the W + particle is exchanged from left to right Electron-proton collision When an electron and proton collide, they transfer a W − boson This is because the electron acts on the proton The equation for an electron-proton collision is the same as for electron capture During an electron-proton collision: An electron collides with a proton and decays into a neutron and W − boson Then, the interaction between the electron and W − boson forms an electron neutrino Feynman diagram for an electron-proton collision An electron collides with a proton. This is shown by an arrow indicating the W − particle is exchanged from right to left Examiner Tips and Tricks The most common exam mistakes when asked to draw Feynman diagrams are missing out arrows indicating the direction of charged gauge bosons or particles. Although you are not required to sketch and label the space and time axes, all particles must be labelled accurately. Quark Transformation in β decay β decay occurs because of the weak interaction between quarks Quark Composition: β – decay β – decay is when a neutron turns into a proton emitting an electron and anti-electron neutrino More specifically, a neutron turns into a proton because a down quark turns into an up quark Beta minus decay is when a down quark turns into an up quark The W – boson ‘carries away’ the negative charge of the down quark which provides the negative charge for the electron and anti-neutrino In beta minus decay, the weak interaction turns a down quark into an up quark Quark Composition: β + decay β + decay is when a proton turns into a neutron emitting an positron and an electron neutrino More specifically, a proton turns into a neutron because an up quark turns into a down quark Beta plus decay is when an up quark turns into a down quark The W + boson ‘carries away’ the positive charge of the up quark which provides the positive charge for the positron and neutrino In beta plus decay, the weak interaction turns an up quark into a down quark
+Feynman Diagrams Particle interactions and decays can be represented using Feynman diagrams They are a way of visualising particle equations and the exchange particles involved Rules for Feynman diagrams The y-axis represents time and the x-axis represents space A vertex is where particles and exchange particles meet - these represent points of interaction (e.g. electromagnetic, weak or strong) Incoming particles come in at the bottom, and outgoing particles leave at the top Particles are represented by straight lines which have arrows Each straight line must have an arrow with its direction forward in time Exchange particles are represented by wavy lines which have no arrows The transfer of exchange particles is from left to right unless indicated by an arrow above the wavy line Hadrons/quarks are present on the left and leptons on the right, they must never meet at a vertex Charge, baryon number and lepton number must be conserved at each vertex Lines must not cross over Features of Feynman diagrams Feynman diagrams follow a set of rules which are needed to draw and interpret them accurately Exchange particles Exchange particles act as a force carrier between particles in an interaction In electromagnetic interactions, the exchange particle is a virtual photon In weak interactions, the exchange particle is the W boson Exchange particles are represented as wavy lines Charged exchange particles, such as W + and W – , sometimes have an arrow above the wavy line to indicate their direction Electromagnetic Interactions When two electrons approach each other, they experience repulsion due to the electromagnetic force This can be represented on a Feynman diagram to show the exchange of a virtual photon Electrostatic repulsion between electrons Two electrons approach each other and exchange a virtual photon before moving apart due to electrostatic repulsion Beta-minus decay Beta-minus decay is an example of the weak interaction The exchange particle is a W − boson This is because the β − particle (electron) has a negative charge During beta-minus decay: A neutron decays into a proton and a W − boson Then, the W − boson decays into an electron and anti-electron neutrino Feynman diagram for beta-minus decay Beta-minus decay can be represented on a Feynman diagram with the W − boson as the exchange particle Beta-plus decay Beta-plus decay is another example of the weak interaction The exchange particle is a W + boson This is because the β + particle (positron) has a positive charge During beta-plus decay: A proton decays into a neutron and a W + boson Then, the W + boson decays into a positron and electron neutrino Feynman diagram for beta-plus decay Beta-plus decay can be represented on a Feynman diagram with the W + boson as the exchange particle Electron Capture Electron capture is another example of the weak interaction The exchange particle is a W + boson This is because the proton acts on the electron During electron capture: A proton absorbs an electron and decays into a neutron and W + boson Then, the interaction between the electron and W + boson forms an electron neutrino Feynman diagram for electron capture The proton acts on the electron during electron capture. This is shown by an arrow indicating the W + particle is exchanged from left to right Electron-proton collision When an electron and proton collide, they transfer a W − boson This is because the electron acts on the proton The equation for an electron-proton collision is the same as for electron capture During an electron-proton collision: An electron collides with a proton and decays into a neutron and W − boson Then, the interaction between the electron and W − boson forms an electron neutrino Feynman diagram for an electron-proton collision An electron collides with a proton. This is shown by an arrow indicating the W − particle is exchanged from right to left
+Particle interactions and decays can be represented using Feynman diagrams
+They are a way of visualising particle equations and the exchange particles involved
+Rules for Feynman diagrams
+The y-axis represents time and the x-axis represents space
+A vertex is where particles and exchange particles meet - these represent points of interaction (e.g. electromagnetic, weak or strong)
+Incoming particles come in at the bottom, and outgoing particles leave at the top
+Particles are represented by straight lines which have arrows
+Each straight line must have an arrow with its direction forward in time
+Exchange particles are represented by wavy lines which have no arrows
+The transfer of exchange particles is from left to right unless indicated by an arrow above the wavy line
+Hadrons/quarks are present on the left and leptons on the right, they must never meet at a vertex
+Charge, baryon number and lepton number must be conserved at each vertex
+Lines must not cross over
+Features of Feynman diagrams
+Feynman diagrams follow a set of rules which are needed to draw and interpret them accurately
+Exchange particles
+Exchange particles act as a force carrier between particles in an interaction In electromagnetic interactions, the exchange particle is a virtual photon In weak interactions, the exchange particle is the W boson
+Exchange particles act as a force carrier between particles in an interaction
+In electromagnetic interactions, the exchange particle is a virtual photon
+In weak interactions, the exchange particle is the W boson
+Exchange particles are represented as wavy lines
+Charged exchange particles, such as W + and W – , sometimes have an arrow above the wavy line to indicate their direction
+Electromagnetic Interactions
+When two electrons approach each other, they experience repulsion due to the electromagnetic force
+This can be represented on a Feynman diagram to show the exchange of a virtual photon
+Electrostatic repulsion between electrons
+Two electrons approach each other and exchange a virtual photon before moving apart due to electrostatic repulsion
+Beta-minus decay
+Beta-minus decay is an example of the weak interaction The exchange particle is a W − boson This is because the β − particle (electron) has a negative charge
+Beta-minus decay is an example of the weak interaction
+The exchange particle is a W − boson
+This is because the β − particle (electron) has a negative charge
+During beta-minus decay: A neutron decays into a proton and a W − boson Then, the W − boson decays into an electron and anti-electron neutrino
+During beta-minus decay:
+A neutron decays into a proton and a W − boson
+Then, the W − boson decays into an electron and anti-electron neutrino
+Feynman diagram for beta-minus decay
+Beta-minus decay can be represented on a Feynman diagram with the W − boson as the exchange particle
+Beta-plus decay
+Beta-plus decay is another example of the weak interaction The exchange particle is a W + boson This is because the β + particle (positron) has a positive charge
+Beta-plus decay is another example of the weak interaction
+The exchange particle is a W + boson
+This is because the β + particle (positron) has a positive charge
+During beta-plus decay: A proton decays into a neutron and a W + boson Then, the W + boson decays into a positron and electron neutrino
+During beta-plus decay:
+A proton decays into a neutron and a W + boson
+Then, the W + boson decays into a positron and electron neutrino
+Feynman diagram for beta-plus decay
+Beta-plus decay can be represented on a Feynman diagram with the W + boson as the exchange particle
+Electron Capture
+Electron capture is another example of the weak interaction The exchange particle is a W + boson This is because the proton acts on the electron
+Electron capture is another example of the weak interaction
+This is because the proton acts on the electron
+During electron capture: A proton absorbs an electron and decays into a neutron and W + boson Then, the interaction between the electron and W + boson forms an electron neutrino
+During electron capture:
+A proton absorbs an electron and decays into a neutron and W + boson
+Then, the interaction between the electron and W + boson forms an electron neutrino
+Feynman diagram for electron capture
+The proton acts on the electron during electron capture. This is shown by an arrow indicating the W + particle is exchanged from left to right
+Electron-proton collision
+When an electron and proton collide, they transfer a W − boson This is because the electron acts on the proton The equation for an electron-proton collision is the same as for electron capture
+When an electron and proton collide, they transfer a W − boson
+This is because the electron acts on the proton
+The equation for an electron-proton collision is the same as for electron capture
+During an electron-proton collision: An electron collides with a proton and decays into a neutron and W − boson Then, the interaction between the electron and W − boson forms an electron neutrino
+During an electron-proton collision:
+An electron collides with a proton and decays into a neutron and W − boson
+Then, the interaction between the electron and W − boson forms an electron neutrino
+Feynman diagram for an electron-proton collision
+An electron collides with a proton. This is shown by an arrow indicating the W − particle is exchanged from right to left
+Examiner Tips and Tricks The most common exam mistakes when asked to draw Feynman diagrams are missing out arrows indicating the direction of charged gauge bosons or particles. Although you are not required to sketch and label the space and time axes, all particles must be labelled accurately.
+Examiner Tips and Tricks
+The most common exam mistakes when asked to draw Feynman diagrams are missing out arrows indicating the direction of charged gauge bosons or particles. Although you are not required to sketch and label the space and time axes, all particles must be labelled accurately.
+Quark Transformation in β decay β decay occurs because of the weak interaction between quarks Quark Composition: β – decay β – decay is when a neutron turns into a proton emitting an electron and anti-electron neutrino More specifically, a neutron turns into a proton because a down quark turns into an up quark Beta minus decay is when a down quark turns into an up quark The W – boson ‘carries away’ the negative charge of the down quark which provides the negative charge for the electron and anti-neutrino In beta minus decay, the weak interaction turns a down quark into an up quark Quark Composition: β + decay β + decay is when a proton turns into a neutron emitting an positron and an electron neutrino More specifically, a proton turns into a neutron because an up quark turns into a down quark Beta plus decay is when an up quark turns into a down quark The W + boson ‘carries away’ the positive charge of the up quark which provides the positive charge for the positron and neutrino In beta plus decay, the weak interaction turns an up quark into a down quark
+Quark Transformation in β decay
+β decay occurs because of the weak interaction between quarks
+Quark Composition: β – decay
+β – decay is when a neutron turns into a proton emitting an electron and anti-electron neutrino
+More specifically, a neutron turns into a proton because a down quark turns into an up quark
+Beta minus decay is when a down quark turns into an up quark
+The W – boson ‘carries away’ the negative charge of the down quark which provides the negative charge for the electron and anti-neutrino
+In beta minus decay, the weak interaction turns a down quark into an up quark
+Quark Composition: β + decay
+β + decay is when a proton turns into a neutron emitting an positron and an electron neutrino
+More specifically, a proton turns into a neutron because an up quark turns into a down quark
+Beta plus decay is when an up quark turns into a down quark
+The W + boson ‘carries away’ the positive charge of the up quark which provides the positive charge for the positron and neutrino
+In beta plus decay, the weak interaction turns an up quark into a down quark

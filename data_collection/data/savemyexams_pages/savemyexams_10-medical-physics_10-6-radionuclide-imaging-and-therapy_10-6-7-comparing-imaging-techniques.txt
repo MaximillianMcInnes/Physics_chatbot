@@ -1,0 +1,83 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-6-radionuclide-imaging-and-therapy/10-6-7-comparing-imaging-techniques
+HEADING: Comparing Imaging Techniques ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Comparing Imaging Techniques All imaging techniques are beneficial in their own context, but often the positive outcomes of the scan must be balanced against the potential risks The scan must have a level of resolution high enough to image the target clearly, while minimising risk Performing an X-ray scan on a foetus is too risky, when other types of scans provide a good enough resolution However, when identifying a potential tumour, resolution must be high and the risks associated with the scan are much smaller than the risks associated with not catching cancer in its early stages A table of advantage, disadvantage and resolution of each method Imaging Method Advantage Disadvantage Resolution (mm) CT Scan Show different tissue types High resolution Expensive Large radiation dose 0.5 External X-rays Cheap, fast and easy operation High resolution Cannot distinguish different tissues Cannot image some organs 0.5 MRI Distinguish types of tissue No radiation risk Expensive and time-consuming Uncomfortable for some patients 1 PET Shows the function of organs Good for imaging the brain Expensive and time-consuming Does not work for every organ 1 Ultrasound No radiation danger Safe for use on a foetus Cannot show certain organs (e.g. brain) Lower resolution, hard to operate 2 Ingested gamma source Shows function of organs Relatively simple to use Lowest resolution Radiation risk associated 6 Worked Example Three patients visit a hospital. Patient 1 has a lower-body injury, patient 2 has a suspected tumour in their lung and patient 3 is suspected to have a hyperactive thyroid. The hospital has the following facilities: Ultrasound imaging Gamma sources for ingestion External X-ray imaging CT scanner For each patient, select an appropriate imaging method, explaining why this method is appropriate while the others are not. Answer: Patient 1 (lower body injury) Step 1: Select an appropriate imaging method, explaining your answer External X-ray imaging is most appropriate Step 2: Compare this method to alternative imaging methods This is quick and easy and shows potential bone damage in the injury Whereas a CT scan has a higher radiation dose and an image that detailed is unnecessary Real-time scanning is not needed, so an ultrasound would be inappropriate The function of organs is not needed, so gamma imaging would be inappropriate Patient 2 (lung tumour) Step 1: Select an appropriate imaging method A CT scan is best for this patient Step 2: Compare this method to alternative imaging methods This highlights cancer tissue against healthy tissue Cross sections throughout the lungs can show all potential tumour locations Ultrasound is absorbed by air in the lungs and the detail is not great enough X-ray scanning may not differentiate tissues and the ribcage may obscure the view of a tumour An ingested gamma source may not provide a detailed enough image Patient 3 (hyperactive thyroid) Step 1: Select an appropriate imaging method An ingested gamma source Step 2: Compare this method to alternative imaging methods This shows the function of tissues and therefore if the thyroid is performing at a higher than normal rate Ultrasound, X-ray and CT scans show structures and tissues but not the level of their function Examiner Tips and Tricks You will only be asked to compare image resolution, convenience and safety issues. Make sure you use clear comparative language in these answers.
+Comparing Imaging Techniques All imaging techniques are beneficial in their own context, but often the positive outcomes of the scan must be balanced against the potential risks The scan must have a level of resolution high enough to image the target clearly, while minimising risk Performing an X-ray scan on a foetus is too risky, when other types of scans provide a good enough resolution However, when identifying a potential tumour, resolution must be high and the risks associated with the scan are much smaller than the risks associated with not catching cancer in its early stages A table of advantage, disadvantage and resolution of each method Imaging Method Advantage Disadvantage Resolution (mm) CT Scan Show different tissue types High resolution Expensive Large radiation dose 0.5 External X-rays Cheap, fast and easy operation High resolution Cannot distinguish different tissues Cannot image some organs 0.5 MRI Distinguish types of tissue No radiation risk Expensive and time-consuming Uncomfortable for some patients 1 PET Shows the function of organs Good for imaging the brain Expensive and time-consuming Does not work for every organ 1 Ultrasound No radiation danger Safe for use on a foetus Cannot show certain organs (e.g. brain) Lower resolution, hard to operate 2 Ingested gamma source Shows function of organs Relatively simple to use Lowest resolution Radiation risk associated 6
+All imaging techniques are beneficial in their own context, but often the positive outcomes of the scan must be balanced against the potential risks
+The scan must have a level of resolution high enough to image the target clearly, while minimising risk Performing an X-ray scan on a foetus is too risky, when other types of scans provide a good enough resolution However, when identifying a potential tumour, resolution must be high and the risks associated with the scan are much smaller than the risks associated with not catching cancer in its early stages
+The scan must have a level of resolution high enough to image the target clearly, while minimising risk
+Performing an X-ray scan on a foetus is too risky, when other types of scans provide a good enough resolution
+However, when identifying a potential tumour, resolution must be high and the risks associated with the scan are much smaller than the risks associated with not catching cancer in its early stages
+A table of advantage, disadvantage and resolution of each method
+Imaging Method Advantage Disadvantage Resolution (mm) CT Scan Show different tissue types High resolution Expensive Large radiation dose 0.5 External X-rays Cheap, fast and easy operation High resolution Cannot distinguish different tissues Cannot image some organs 0.5 MRI Distinguish types of tissue No radiation risk Expensive and time-consuming Uncomfortable for some patients 1 PET Shows the function of organs Good for imaging the brain Expensive and time-consuming Does not work for every organ 1 Ultrasound No radiation danger Safe for use on a foetus Cannot show certain organs (e.g. brain) Lower resolution, hard to operate 2 Ingested gamma source Shows function of organs Relatively simple to use Lowest resolution Radiation risk associated 6
+Imaging Method
+Advantage
+Disadvantage
+Resolution (mm)
+CT Scan
+Show different tissue types
+High resolution
+Expensive
+Large radiation dose
+0.5
+External X-rays
+Cheap, fast and easy operation
+Cannot distinguish different tissues
+Cannot image some organs
+MRI
+Distinguish types of tissue
+No radiation risk
+Expensive and time-consuming
+Uncomfortable for some patients
+1
+PET
+Shows the function of organs
+Good for imaging the brain
+Does not work for every organ
+Ultrasound
+No radiation danger
+Safe for use on a foetus
+Cannot show certain organs (e.g. brain)
+Lower resolution, hard to operate
+2
+Ingested gamma source
+Shows function of organs
+Relatively simple to use
+Lowest resolution
+Radiation risk associated
+6
+Worked Example Three patients visit a hospital. Patient 1 has a lower-body injury, patient 2 has a suspected tumour in their lung and patient 3 is suspected to have a hyperactive thyroid. The hospital has the following facilities: Ultrasound imaging Gamma sources for ingestion External X-ray imaging CT scanner For each patient, select an appropriate imaging method, explaining why this method is appropriate while the others are not. Answer: Patient 1 (lower body injury) Step 1: Select an appropriate imaging method, explaining your answer External X-ray imaging is most appropriate Step 2: Compare this method to alternative imaging methods This is quick and easy and shows potential bone damage in the injury Whereas a CT scan has a higher radiation dose and an image that detailed is unnecessary Real-time scanning is not needed, so an ultrasound would be inappropriate The function of organs is not needed, so gamma imaging would be inappropriate Patient 2 (lung tumour) Step 1: Select an appropriate imaging method A CT scan is best for this patient Step 2: Compare this method to alternative imaging methods This highlights cancer tissue against healthy tissue Cross sections throughout the lungs can show all potential tumour locations Ultrasound is absorbed by air in the lungs and the detail is not great enough X-ray scanning may not differentiate tissues and the ribcage may obscure the view of a tumour An ingested gamma source may not provide a detailed enough image Patient 3 (hyperactive thyroid) Step 1: Select an appropriate imaging method An ingested gamma source Step 2: Compare this method to alternative imaging methods This shows the function of tissues and therefore if the thyroid is performing at a higher than normal rate Ultrasound, X-ray and CT scans show structures and tissues but not the level of their function
+Worked Example
+Three patients visit a hospital. Patient 1 has a lower-body injury, patient 2 has a suspected tumour in their lung and patient 3 is suspected to have a hyperactive thyroid.
+The hospital has the following facilities:
+Ultrasound imaging
+Gamma sources for ingestion
+External X-ray imaging
+CT scanner
+For each patient, select an appropriate imaging method, explaining why this method is appropriate while the others are not.
+Answer:
+Patient 1 (lower body injury)
+Step 1: Select an appropriate imaging method, explaining your answer
+External X-ray imaging is most appropriate
+Step 2: Compare this method to alternative imaging methods
+This is quick and easy and shows potential bone damage in the injury
+Whereas a CT scan has a higher radiation dose and an image that detailed is unnecessary
+Real-time scanning is not needed, so an ultrasound would be inappropriate
+The function of organs is not needed, so gamma imaging would be inappropriate
+Patient 2 (lung tumour)
+Step 1: Select an appropriate imaging method
+A CT scan is best for this patient
+This highlights cancer tissue against healthy tissue
+Cross sections throughout the lungs can show all potential tumour locations
+Ultrasound is absorbed by air in the lungs and the detail is not great enough
+X-ray scanning may not differentiate tissues and the ribcage may obscure the view of a tumour
+An ingested gamma source may not provide a detailed enough image
+Patient 3 (hyperactive thyroid)
+An ingested gamma source
+This shows the function of tissues and therefore if the thyroid is performing at a higher than normal rate
+Ultrasound, X-ray and CT scans show structures and tissues but not the level of their function
+Examiner Tips and Tricks You will only be asked to compare image resolution, convenience and safety issues. Make sure you use clear comparative language in these answers.
+Examiner Tips and Tricks
+You will only be asked to compare image resolution, convenience and safety issues. Make sure you use clear comparative language in these answers.

@@ -1,0 +1,56 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-5-energy-levels-and-photon-emission/2-5-4-the-de-broglie-wavelength
+HEADING: The de Broglie Wavelength ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The de Broglie Wavelength The de Broglie equation relates wavelength (a property of waves) to momentum (a property of matter) In the electron diffraction experiment: Increasing the speed of electrons, and hence their momentum , causes the angle of diffraction to decrease (as seen by the decrease in the diameter of the diffraction rings) This is in agreement with wave theory, where the angle of diffraction decreases as the wavelength decreases Therefore, the greater the momentum of the particle, the smaller the de Broglie wavelength Using ideas based on quantum theory and Einstein’s theory of relativity, de Broglie suggested that the momentum (p) of a particle and its associated wavelength (λ) are related by the equation: Using momentum , the de Broglie wavelength can be written in terms of the speed of a moving particle: Using kinetic energy , momentum and kinetic energy can be related by: Energy: Momentum: Combining this with the de Broglie equation gives a form which relates the de Broglie wavelength of a particle to its kinetic energy: Where: λ = the de Broglie wavelength (m) h = Planck’s constant (J s) p = momentum of the particle (kg m s -1 ) E = kinetic energy of the particle (J) m = mass of the particle (kg) v = speed of the particle (m s -1 ) Worked Example A proton and an electron are each accelerated from rest through the same potential difference. Determine the ratio: Mass of a proton = 1.67 × 10 –27 kg Mass of an electron = 9.11 × 10 –31 kg Answer: Step 1: Determine how the proton and electron can be related via their mass The only information we are given is the mass of the proton and the electron When the proton and electron are accelerated through a potential difference, their kinetic energy will increase Therefore, we can use kinetic energy to relate them via their mass Step 2: Write out the equation for the de Broglie wavelength in terms of the kinetic energy of the particle The de Broglie wavelength Kinetic energy Kinetic energy in terms of momentum Substitute the expression for momentum into the de Broglie wavelength equation Step 3: Find the proportional relationship between the de Broglie wavelength and the mass of the particle Where k is a constant Since h is constant, and E is equal, then: Step 4: Calculate the ratio This means that the de Broglie wavelength of the proton is 0.0234 times smaller than that of the electron Or that the de Broglie wavelength of the electron is about 40 times larger than that of the proton Examiner Tips and Tricks Particles with a greater mass, such as a proton, have a greater momentum. The greater the momentum, the smaller the de Broglie wavelength. Always perform a logic check on your answer to check that makes sense.
+The de Broglie Wavelength The de Broglie equation relates wavelength (a property of waves) to momentum (a property of matter) In the electron diffraction experiment: Increasing the speed of electrons, and hence their momentum , causes the angle of diffraction to decrease (as seen by the decrease in the diameter of the diffraction rings) This is in agreement with wave theory, where the angle of diffraction decreases as the wavelength decreases Therefore, the greater the momentum of the particle, the smaller the de Broglie wavelength Using ideas based on quantum theory and Einstein’s theory of relativity, de Broglie suggested that the momentum (p) of a particle and its associated wavelength (λ) are related by the equation: Using momentum , the de Broglie wavelength can be written in terms of the speed of a moving particle: Using kinetic energy , momentum and kinetic energy can be related by: Energy: Momentum: Combining this with the de Broglie equation gives a form which relates the de Broglie wavelength of a particle to its kinetic energy: Where: λ = the de Broglie wavelength (m) h = Planck’s constant (J s) p = momentum of the particle (kg m s -1 ) E = kinetic energy of the particle (J) m = mass of the particle (kg) v = speed of the particle (m s -1 )
+The de Broglie equation relates wavelength (a property of waves) to momentum (a property of matter)
+In the electron diffraction experiment: Increasing the speed of electrons, and hence their momentum , causes the angle of diffraction to decrease (as seen by the decrease in the diameter of the diffraction rings)
+In the electron diffraction experiment:
+Increasing the speed of electrons, and hence their momentum , causes the angle of diffraction to decrease (as seen by the decrease in the diameter of the diffraction rings)
+This is in agreement with wave theory, where the angle of diffraction decreases as the wavelength decreases Therefore, the greater the momentum of the particle, the smaller the de Broglie wavelength
+This is in agreement with wave theory, where the angle of diffraction decreases as the wavelength decreases
+Therefore, the greater the momentum of the particle, the smaller the de Broglie wavelength
+Using ideas based on quantum theory and Einstein’s theory of relativity, de Broglie suggested that the momentum (p) of a particle and its associated wavelength (λ) are related by the equation:
+momentum
+Using momentum , the de Broglie wavelength can be written in terms of the speed of a moving particle:
+Using kinetic energy , momentum and kinetic energy can be related by:
+Energy:
+Momentum:
+Combining this with the de Broglie equation gives a form which relates the de Broglie wavelength of a particle to its kinetic energy:
+Where: λ = the de Broglie wavelength (m) h = Planck’s constant (J s) p = momentum of the particle (kg m s -1 ) E = kinetic energy of the particle (J) m = mass of the particle (kg) v = speed of the particle (m s -1 )
+Where:
+λ = the de Broglie wavelength (m)
+h = Planck’s constant (J s)
+Planck’s constant
+p = momentum of the particle (kg m s -1 )
+E = kinetic energy of the particle (J)
+m = mass of the particle (kg)
+v = speed of the particle (m s -1 )
+Worked Example A proton and an electron are each accelerated from rest through the same potential difference. Determine the ratio: Mass of a proton = 1.67 × 10 –27 kg Mass of an electron = 9.11 × 10 –31 kg Answer: Step 1: Determine how the proton and electron can be related via their mass The only information we are given is the mass of the proton and the electron When the proton and electron are accelerated through a potential difference, their kinetic energy will increase Therefore, we can use kinetic energy to relate them via their mass Step 2: Write out the equation for the de Broglie wavelength in terms of the kinetic energy of the particle The de Broglie wavelength Kinetic energy Kinetic energy in terms of momentum Substitute the expression for momentum into the de Broglie wavelength equation Step 3: Find the proportional relationship between the de Broglie wavelength and the mass of the particle Where k is a constant Since h is constant, and E is equal, then: Step 4: Calculate the ratio This means that the de Broglie wavelength of the proton is 0.0234 times smaller than that of the electron Or that the de Broglie wavelength of the electron is about 40 times larger than that of the proton
+Worked Example
+A proton and an electron are each accelerated from rest through the same potential difference.
+Determine the ratio:
+Mass of a proton = 1.67 × 10 –27 kg
+Mass of an electron = 9.11 × 10 –31 kg
+Answer:
+Step 1: Determine how the proton and electron can be related via their mass
+The only information we are given is the mass of the proton and the electron
+When the proton and electron are accelerated through a potential difference, their kinetic energy will increase
+Therefore, we can use kinetic energy to relate them via their mass
+Step 2: Write out the equation for the de Broglie wavelength in terms of the kinetic energy of the particle
+The de Broglie wavelength
+Kinetic energy
+Kinetic energy in terms of momentum
+Substitute the expression for momentum into the de Broglie wavelength equation
+Step 3: Find the proportional relationship between the de Broglie wavelength and the mass of the particle
+Where k is a constant Since h is constant, and E is equal, then:
+Where k is a constant
+Since h is constant, and E is equal, then:
+Step 4: Calculate the ratio
+This means that the de Broglie wavelength of the proton is 0.0234 times smaller than that of the electron
+Or that the de Broglie wavelength of the electron is about 40 times larger than that of the proton
+Examiner Tips and Tricks Particles with a greater mass, such as a proton, have a greater momentum. The greater the momentum, the smaller the de Broglie wavelength. Always perform a logic check on your answer to check that makes sense.
+Examiner Tips and Tricks
+Particles with a greater mass, such as a proton, have a greater momentum. The greater the momentum, the smaller the de Broglie wavelength. Always perform a logic check on your answer to check that makes sense.

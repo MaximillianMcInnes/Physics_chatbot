@@ -1,0 +1,83 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-3-astronomical-distances
+HEADING: Astronomical Distances ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Astronomical Distances Astronomical distances are very large and, as a result, are usually measured using: Astronomical Units (AU) Light–years (ly) Parsecs (pc) Astronomical Unit (AU) The astronomical unit (AU) is defined as: The mean distance from the centre of the Earth to the centre of the Sun As the Earth’s orbit around the Sun is elliptical , it will be Slightly closer to the Sun in January (1.471 × 10 11 m) Slightly further away from the Sun in July (1.521 × 10 11 m) Calculating the mean of these two values gives: Therefore, 1 astronomical unit (AU) is approximately 1.5 × 10 11 m The astronomical unit is useful for studying distances on the scale of the solar system How Far is an Astronomical Unit? An astronomical unit (AU) is the mean distance between the Earth and the Sun Light–year (ly) A light-year is defined as: The distance travelled by light in one year This can be calculated using: distance = speed × time Where: The speed of light is 3 × 10 8 m s –1 1 year = 60 × 60 × 24 × 365 = 3.15 × 10 7 s Hence, the distance travelled by light in one year is: 1 ly = (3 × 10 8 ) × (3.15 × 10 7 ) = 9.46 × 10 15 m Therefore, 1 light–year is approximately 9.5 × 10 15 m Parsec (pc) Angles smaller than 1 degree can be measured in arcminutes or arcseconds 1 degree = 60 arcminutes 1 arcminute = 60 arcseconds Therefore, 1 degree = 60 × 60 = 3600 arcseconds 1 arcsecond = 1/3600 degree The parsec is defined as: The distance at which the radius of the Earth's orbit (1 AU) around the Sun subtends at an angle of 1 arcsecond How Far is a Parsec? A parsec is defined using parallax angles Given that 1 AU = 1.496 × 10 11 m, trigonometry can be used to express 1 parsec in metres: Therefore, 1 parsec is approximately 3.1 × 10 16 m The parsec (1 pc = 3.1 × 10 16 m) and the light-year (1 ly = 9.5 × 10 15 m) are much greater in size than the astronomical unit (1 AU = 1.496 × 10 11 m) This makes them useful for studying interstellar distances For example, on the scale of distances between the Earth and stars, or neighbouring galaxies Worked Example The closest star to Earth is a triple–star system called Alpha Centauri, which is approximately 4.35 light-years from Earth. Calculate the distance between the Earth and Alpha Centauri in: (a) astronomical units (AU) (b) parsecs (pc) 1 astronomical unit (AU) = 1.496 × 10 11 m. Answer: List the known quantities: Distance to Alpha Centauri = 4.35 ly 1 AU = 1.496 × 10 11 m 1 light-year ≈ 9.5 × 10 15 m (from data booklet) 1 parsec ≈ 3.1 × 10 16 m (from data booklet) Convert 4.35 light–years into metres: distance = 4.35 ly = 4.35 × (9.5 × 10 15 ) distance = 4.13 × 10 16 m Part (a) Convert from metres into AU: distance (AU) = distance (AU) = 2.8 × 10 5 AU (2 s.f) Part (b) Convert from metres into parsecs: distance (pc) = distance (pc) = 1.3 pc (2 s.f) Examiner Tips and Tricks You do not need to learn these conversion factors for astronomical distances, you just need to know how to use them. The following are given in the data booklet: 1 astronomical unit = 1.50 × 10 11 m 1 light year = 9.46 × 10 15 m 1 parsec = 2.06 × 10 5 AU = 3.08 × 10 16 m = 3.26 ly
+Astronomical Distances Astronomical distances are very large and, as a result, are usually measured using: Astronomical Units (AU) Light–years (ly) Parsecs (pc) Astronomical Unit (AU) The astronomical unit (AU) is defined as: The mean distance from the centre of the Earth to the centre of the Sun As the Earth’s orbit around the Sun is elliptical , it will be Slightly closer to the Sun in January (1.471 × 10 11 m) Slightly further away from the Sun in July (1.521 × 10 11 m) Calculating the mean of these two values gives: Therefore, 1 astronomical unit (AU) is approximately 1.5 × 10 11 m The astronomical unit is useful for studying distances on the scale of the solar system How Far is an Astronomical Unit? An astronomical unit (AU) is the mean distance between the Earth and the Sun Light–year (ly) A light-year is defined as: The distance travelled by light in one year This can be calculated using: distance = speed × time Where: The speed of light is 3 × 10 8 m s –1 1 year = 60 × 60 × 24 × 365 = 3.15 × 10 7 s Hence, the distance travelled by light in one year is: 1 ly = (3 × 10 8 ) × (3.15 × 10 7 ) = 9.46 × 10 15 m Therefore, 1 light–year is approximately 9.5 × 10 15 m Parsec (pc) Angles smaller than 1 degree can be measured in arcminutes or arcseconds 1 degree = 60 arcminutes 1 arcminute = 60 arcseconds Therefore, 1 degree = 60 × 60 = 3600 arcseconds 1 arcsecond = 1/3600 degree The parsec is defined as: The distance at which the radius of the Earth's orbit (1 AU) around the Sun subtends at an angle of 1 arcsecond How Far is a Parsec? A parsec is defined using parallax angles Given that 1 AU = 1.496 × 10 11 m, trigonometry can be used to express 1 parsec in metres: Therefore, 1 parsec is approximately 3.1 × 10 16 m The parsec (1 pc = 3.1 × 10 16 m) and the light-year (1 ly = 9.5 × 10 15 m) are much greater in size than the astronomical unit (1 AU = 1.496 × 10 11 m) This makes them useful for studying interstellar distances For example, on the scale of distances between the Earth and stars, or neighbouring galaxies
+Astronomical distances are very large and, as a result, are usually measured using: Astronomical Units (AU) Light–years (ly) Parsecs (pc)
+Astronomical distances are very large and, as a result, are usually measured using:
+Astronomical Units (AU)
+Light–years (ly)
+Parsecs (pc)
+Astronomical Unit (AU)
+The astronomical unit (AU) is defined as:
+The mean distance from the centre of the Earth to the centre of the Sun
+As the Earth’s orbit around the Sun is elliptical , it will be Slightly closer to the Sun in January (1.471 × 10 11 m) Slightly further away from the Sun in July (1.521 × 10 11 m)
+As the Earth’s orbit around the Sun is elliptical , it will be
+Slightly closer to the Sun in January (1.471 × 10 11 m)
+Slightly further away from the Sun in July (1.521 × 10 11 m)
+Calculating the mean of these two values gives:
+Therefore, 1 astronomical unit (AU) is approximately 1.5 × 10 11 m
+The astronomical unit is useful for studying distances on the scale of the solar system
+How Far is an Astronomical Unit?
+An astronomical unit (AU) is the mean distance between the Earth and the Sun
+Light–year (ly)
+A light-year is defined as:
+The distance travelled by light in one year
+This can be calculated using:
+distance = speed × time
+Where: The speed of light is 3 × 10 8 m s –1 1 year = 60 × 60 × 24 × 365 = 3.15 × 10 7 s
+Where:
+The speed of light is 3 × 10 8 m s –1
+1 year = 60 × 60 × 24 × 365 = 3.15 × 10 7 s
+Hence, the distance travelled by light in one year is:
+1 ly = (3 × 10 8 ) × (3.15 × 10 7 ) = 9.46 × 10 15 m
+Therefore, 1 light–year is approximately 9.5 × 10 15 m
+Parsec (pc)
+Angles smaller than 1 degree can be measured in arcminutes or arcseconds 1 degree = 60 arcminutes 1 arcminute = 60 arcseconds Therefore, 1 degree = 60 × 60 = 3600 arcseconds 1 arcsecond = 1/3600 degree
+Angles smaller than 1 degree can be measured in arcminutes or arcseconds
+1 degree = 60 arcminutes
+1 arcminute = 60 arcseconds
+Therefore, 1 degree = 60 × 60 = 3600 arcseconds
+1 arcsecond = 1/3600 degree
+The parsec is defined as:
+The distance at which the radius of the Earth's orbit (1 AU) around the Sun subtends at an angle of 1 arcsecond
+How Far is a Parsec?
+A parsec is defined using parallax angles
+Given that 1 AU = 1.496 × 10 11 m, trigonometry can be used to express 1 parsec in metres:
+Therefore, 1 parsec is approximately 3.1 × 10 16 m
+The parsec (1 pc = 3.1 × 10 16 m) and the light-year (1 ly = 9.5 × 10 15 m) are much greater in size than the astronomical unit (1 AU = 1.496 × 10 11 m)
+This makes them useful for studying interstellar distances For example, on the scale of distances between the Earth and stars, or neighbouring galaxies
+This makes them useful for studying interstellar distances
+For example, on the scale of distances between the Earth and stars, or neighbouring galaxies
+Worked Example The closest star to Earth is a triple–star system called Alpha Centauri, which is approximately 4.35 light-years from Earth. Calculate the distance between the Earth and Alpha Centauri in: (a) astronomical units (AU) (b) parsecs (pc) 1 astronomical unit (AU) = 1.496 × 10 11 m. Answer: List the known quantities: Distance to Alpha Centauri = 4.35 ly 1 AU = 1.496 × 10 11 m 1 light-year ≈ 9.5 × 10 15 m (from data booklet) 1 parsec ≈ 3.1 × 10 16 m (from data booklet) Convert 4.35 light–years into metres: distance = 4.35 ly = 4.35 × (9.5 × 10 15 ) distance = 4.13 × 10 16 m Part (a) Convert from metres into AU: distance (AU) = distance (AU) = 2.8 × 10 5 AU (2 s.f) Part (b) Convert from metres into parsecs: distance (pc) = distance (pc) = 1.3 pc (2 s.f)
+Worked Example
+The closest star to Earth is a triple–star system called Alpha Centauri, which is approximately 4.35 light-years from Earth.
+Calculate the distance between the Earth and Alpha Centauri in:
+(a) astronomical units (AU)
+(b) parsecs (pc)
+1 astronomical unit (AU) = 1.496 × 10 11 m.
+Answer:
+List the known quantities:
+Distance to Alpha Centauri = 4.35 ly
+1 AU = 1.496 × 10 11 m
+1 light-year ≈ 9.5 × 10 15 m (from data booklet)
+1 parsec ≈ 3.1 × 10 16 m (from data booklet)
+Convert 4.35 light–years into metres:
+distance = 4.35 ly = 4.35 × (9.5 × 10 15 )
+distance = 4.13 × 10 16 m
+Part (a)
+Convert from metres into AU:
+distance (AU) =
+distance (AU) = 2.8 × 10 5 AU (2 s.f)
+Part (b)
+Convert from metres into parsecs:
+distance (pc) =
+distance (pc) = 1.3 pc (2 s.f)
+Examiner Tips and Tricks You do not need to learn these conversion factors for astronomical distances, you just need to know how to use them. The following are given in the data booklet: 1 astronomical unit = 1.50 × 10 11 m 1 light year = 9.46 × 10 15 m 1 parsec = 2.06 × 10 5 AU = 3.08 × 10 16 m = 3.26 ly
+Examiner Tips and Tricks
+You do not need to learn these conversion factors for astronomical distances, you just need to know how to use them. The following are given in the data booklet:
+1 astronomical unit = 1.50 × 10 11 m
+1 light year = 9.46 × 10 15 m
+1 parsec = 2.06 × 10 5 AU = 3.08 × 10 16 m = 3.26 ly

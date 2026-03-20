@@ -1,0 +1,63 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-7-bulk-properties-of-solids/4-7-2-hookes-law
+HEADING: Hooke's Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Hooke's Law When a force is applied to each end of a spring or wire, it stretches This phenomenon occurs for any material with elasticity , such as a wire or a bungee rope A material obeys Hooke’s Law if: The extension of the material is directly proportional to the applied force (load) up to the limit of proportionality This linear relationship is represented by the Hooke’s law equation: F = k Δ L Where: F = force (N) k = spring constant (N m –1 ) Δ L = extension (m) The spring constant is a property of the material being stretched and measures the stiffness of a material The larger the spring constant, the stiffer the material Hooke's Law applies to both extensions and compressions : The extension of an object is determined by how much it has increased in length The compression of an object is determined by how much it has decreased in length The extension, Δ L, is the difference between the unstretched length and the stretched length extension = stretched length − unstretched length Stretching a spring with a load produces a force that leads to an extension Force–Extension Graphs The way a material responds to a given force can be shown on a force-extension graph Every material will have a unique force-extension graph depending on how brittle or ductile it is A material may obey Hooke's Law up to a point This is shown on its force-extension graph by a straight line through the origin As more force is added, the graph starts to curve slightly as Hooke's law no longer applies The Hooke's Law region of a force-extension graph is a straight line. The spring constant is the gradient of that region The key features of the graph are: The limit of proportionality Beyond the limit of proportionality, Hooke's law is no longer true The extension is then no longer proportional to the applied force Elastic limit Beyond the elastic limit, the material will no longer return to its original length The gradient This only applies to the linear portion of that graph where Hooke's law is obeyed The gradient of a force-extension graph is equal to the spring constant The gradient of an extension-force graph is Worked Example A spring was stretched with increasing load. The graph of the results is shown below. What is the spring constant? Answer: Examiner Tips and Tricks Always double check the axes before finding the spring constant as the gradient of a force-extension graph. Exam questions often swap the force (or load) onto the x-axis and extension (or length) on the y-axis. In this case, the gradient is not the spring constant, it is instead.
+Hooke's Law When a force is applied to each end of a spring or wire, it stretches This phenomenon occurs for any material with elasticity , such as a wire or a bungee rope A material obeys Hooke’s Law if: The extension of the material is directly proportional to the applied force (load) up to the limit of proportionality This linear relationship is represented by the Hooke’s law equation: F = k Δ L Where: F = force (N) k = spring constant (N m –1 ) Δ L = extension (m) The spring constant is a property of the material being stretched and measures the stiffness of a material The larger the spring constant, the stiffer the material Hooke's Law applies to both extensions and compressions : The extension of an object is determined by how much it has increased in length The compression of an object is determined by how much it has decreased in length The extension, Δ L, is the difference between the unstretched length and the stretched length extension = stretched length − unstretched length Stretching a spring with a load produces a force that leads to an extension Force–Extension Graphs The way a material responds to a given force can be shown on a force-extension graph Every material will have a unique force-extension graph depending on how brittle or ductile it is A material may obey Hooke's Law up to a point This is shown on its force-extension graph by a straight line through the origin As more force is added, the graph starts to curve slightly as Hooke's law no longer applies The Hooke's Law region of a force-extension graph is a straight line. The spring constant is the gradient of that region The key features of the graph are: The limit of proportionality Beyond the limit of proportionality, Hooke's law is no longer true The extension is then no longer proportional to the applied force Elastic limit Beyond the elastic limit, the material will no longer return to its original length The gradient This only applies to the linear portion of that graph where Hooke's law is obeyed The gradient of a force-extension graph is equal to the spring constant The gradient of an extension-force graph is
+When a force is applied to each end of a spring or wire, it stretches This phenomenon occurs for any material with elasticity , such as a wire or a bungee rope
+When a force is applied to each end of a spring or wire, it stretches
+This phenomenon occurs for any material with elasticity , such as a wire or a bungee rope
+A material obeys Hooke’s Law if: The extension of the material is directly proportional to the applied force (load) up to the limit of proportionality
+A material obeys Hooke’s Law if:
+The extension of the material is directly proportional to the applied force (load) up to the limit of proportionality
+This linear relationship is represented by the Hooke’s law equation:
+F = k Δ L
+Where: F = force (N) k = spring constant (N m –1 ) Δ L = extension (m)
+Where:
+F = force (N)
+k = spring constant (N m –1 )
+Δ L = extension (m)
+The spring constant is a property of the material being stretched and measures the stiffness of a material The larger the spring constant, the stiffer the material
+The spring constant is a property of the material being stretched and measures the stiffness of a material
+The larger the spring constant, the stiffer the material
+Hooke's Law applies to both extensions and compressions : The extension of an object is determined by how much it has increased in length The compression of an object is determined by how much it has decreased in length
+Hooke's Law applies to both extensions and compressions :
+The extension of an object is determined by how much it has increased in length
+The compression of an object is determined by how much it has decreased in length
+The extension, Δ L, is the difference between the unstretched length and the stretched length
+extension = stretched length − unstretched length
+Stretching a spring with a load produces a force that leads to an extension
+Force–Extension Graphs
+The way a material responds to a given force can be shown on a force-extension graph
+Every material will have a unique force-extension graph depending on how brittle or ductile it is
+brittle
+A material may obey Hooke's Law up to a point This is shown on its force-extension graph by a straight line through the origin
+A material may obey Hooke's Law up to a point
+This is shown on its force-extension graph by a straight line through the origin
+As more force is added, the graph starts to curve slightly as Hooke's law no longer applies
+The Hooke's Law region of a force-extension graph is a straight line. The spring constant is the gradient of that region
+The key features of the graph are: The limit of proportionality Beyond the limit of proportionality, Hooke's law is no longer true The extension is then no longer proportional to the applied force Elastic limit Beyond the elastic limit, the material will no longer return to its original length The gradient This only applies to the linear portion of that graph where Hooke's law is obeyed The gradient of a force-extension graph is equal to the spring constant The gradient of an extension-force graph is
+The key features of the graph are:
+The limit of proportionality Beyond the limit of proportionality, Hooke's law is no longer true The extension is then no longer proportional to the applied force
+The limit of proportionality
+Beyond the limit of proportionality, Hooke's law is no longer true
+The extension is then no longer proportional to the applied force
+Elastic limit Beyond the elastic limit, the material will no longer return to its original length
+Elastic limit
+Beyond the elastic limit, the material will no longer return to its original length
+The gradient This only applies to the linear portion of that graph where Hooke's law is obeyed The gradient of a force-extension graph is equal to the spring constant The gradient of an extension-force graph is
+The gradient
+This only applies to the linear portion of that graph where Hooke's law is obeyed
+The gradient of a force-extension graph is equal to the spring constant
+The gradient of an extension-force graph is
+Worked Example A spring was stretched with increasing load. The graph of the results is shown below. What is the spring constant? Answer:
+Worked Example
+A spring was stretched with increasing load.
+The graph of the results is shown below.
+What is the spring constant?
+Answer:
+Examiner Tips and Tricks Always double check the axes before finding the spring constant as the gradient of a force-extension graph. Exam questions often swap the force (or load) onto the x-axis and extension (or length) on the y-axis. In this case, the gradient is not the spring constant, it is instead.
+Examiner Tips and Tricks
+Always double check the axes before finding the spring constant as the gradient of a force-extension graph.
+Exam questions often swap the force (or load) onto the x-axis and extension (or length) on the y-axis. In this case, the gradient is not the spring constant, it is instead.

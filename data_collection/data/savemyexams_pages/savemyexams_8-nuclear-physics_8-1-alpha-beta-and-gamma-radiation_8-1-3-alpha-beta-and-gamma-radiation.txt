@@ -1,0 +1,182 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-1-alpha-beta-and-gamma-radiation/8-1-3-alpha-beta-and-gamma-radiation
+HEADING: Alpha, Beta & Gamma Radiation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Alpha, Beta & Gamma Radiation Some isotopes of elements are unstable This is usually due to an imbalance of protons and neutrons in a nucleus To become more stable, a nucleus can emit particles or radiation by the process of radioactive decay The three main types of radioactive particle or radiation are: Alpha particles Beta particles Gamma radiation Alpha Particles An alpha (α) particle is a high-energy helium nucleus It contains 2 protons and 2 neutrons It has a mass of 4u and a charge of +2e Alpha particles are usually emitted from nuclei that are too large The nuclear notation for an alpha particle is: Nuclear notation for an alpha particle (a helium nucleus) Alpha particles are the most ionising type of radiation This is due to having the highest charge of +2e They produce the highest number of ion pairs per cm in air (~10 000 ion pairs per cm) This means they can do more damage to cells than the other types of radiation Alpha particles are the least penetrating type of radiation This means they travel the shortest distance in air before being absorbed They have a range of around 3 to 7 cm in air Beta Particles A beta-minus (β − ) particle is a high-energy electron They are emitted by nuclei that have too many neutrons A beta-plus (β + ) particle is a high-energy positron (antimatter of electrons) They are emitted by nuclei that have too many protons The nuclear notation for beta-minus and beta-plus particles are: Nuclear notation for beta minus and beta plus particle Beta particles are a moderately ionising type of radiation This is due to having a charge of ±1e They produce a moderate number of ion pairs per cm in air (~100 ion pairs per cm) This means they can do some slight damage to cells (less than alpha but more than gamma) Beta particles are a moderately penetrating type of radiation They have a range of around 20 cm to 3 m in air, depending on their energy Gamma Radiation Gamma (γ) rays are a type of high-energy electromagnetic radiation They are emitted by nuclei that need to lose some energy The nuclear notation for gamma radiation is: Nuclear notation for gamma rays Gamma is the least ionising type of radiation This is because it is electromagnetic radiation (photon), which has no charge Gamma produces the lowest number of ion pairs per cm in air (~1 ion-pair per cm) It can still cause damage to cells, but not as much as alpha or beta radiation. This is why it is widely used for cancer radiotherapy Gamma is the most penetrating type of radiation This means it travels the furthest distance in air before being absorbed Gamma radiation has an infinite range and follows an inverse square law Comparing Alpha, Beta & Gamma The properties of the different types of radiation are summarised in the table below: Comparison of alpha, beta and gamma radiation Ionising ability If any type of radiation collides with an atom, it can knock out electrons, ionising the atom This can cause chemical changes in materials and damage to living cells The ionising ability of radiation can be quantified by the number of ion pairs it produces per cm of air Alpha particles are the most ionising type of radiation, while gamma radiation is the least ionising type of radiation When radiation passes close to atoms, it can knock out electrons, ionising the atom Penetrating power The distance radiation can travel before being absorbed is described by its penetrating power Alpha particles are the least penetrating, whereas gamma radiation is the most penetrating Alpha particles can be stopped by a single sheet of paper Beta particles can be stopped by a few millimetres of aluminium foil The intensity of gamma radiation can be reduced by several metres of concrete or several centimetres of lead Alpha particles are highly ionising and easily absorbed by atoms whereas gamma radiation is highly penetrating and requires very thick lead to reduce its intensity Deflection in Electric and Magnetic Fields When a charged particle enters an electric field it will undergo a deflection Alpha particles are deflected towards the negative plate Beta particles are deflected towards the positive plate Gamma radiation is not deflected and travels straight through between the plates Alpha and beta particles are deflected by an electric field When a charged particle moves in a magnetic field , it will also undergo a deflection Faster-moving particles move in larger circular paths according to the equation: The larger the circular path, the greater the deflection The amount of deflection of a particle depends on: The speed of the particle, v The mass of the particle, m The charge on the particle, q Alpha particles can be deflected slightly in strong electric and magnetic fields Alpha particles have the highest charge, but also the greatest mass, so their high momentum means they deflect less than a beta particle (in a given field) Beta particles can be deflected through large angles by electric and magnetic fields Beta particles typically travel at much greater speeds than alpha particles, but have much less mass, so they deflect significantly more than an alpha particle (in a given field) Gamma rays are not deflected in magnetic and electric fields as they are electrically neutral However, they can transfer their energy to atomic electrons which can be deflected Worked Example Three successive radioactive decays are shown in the diagram below. Each one results in a particle being emitted. The first decay results in the emission of a β-particle. The second decay results in the emission of an α-particle. The third decay results in the emission of another β-particle. Nuclides W and Z are compared. Which nuclide of Z is formed at the end of this decay? A. B. C. D. Answer: D Step 1: Write the equation for the β− decay A β− particle is an electron The nucleon number stays the same The proton number increases by 1 Step 2: Write the equation for the α decay An α particle is a helium nucleus The nucleon number reduces by 4 The proton number reduces by 2 Step 3: Write the equation for the β+ decay A β+ particle is a positron The nucleon number stays the same The proton number reduces by 1 Step 4: Determine the final nucleon Z The final nucleon, Z will be: Applications of Alpha, Beta & Gamma Smoke Detectors Smoke detectors contain a small amount of Americium-241, which is a weak alpha source Within the detector, alpha particles are emitted and cause the ionisation of nitrogen and oxygen molecules in the air These ionised molecules enable the air to conduct electricity and hence a small current can flow If smoke enters the alarm, it absorbs the alpha particles, hence reducing the current which causes the alarm to sound Am-241 has a half-life of 460 years, meaning over the course of a lifetime, the activity of the source will not decrease significantly and it will not have to be replaced The operation of a smoke detector Thickness Controls Beta radiation can be used to determine the thickness of aluminium foil, paper, plastic, and steel The thickness can be controlled by measuring how much beta radiation passes through the material to a Geiger counter Beta radiation must be used, because: Alpha particles would be absorbed by all the materials Gamma radiation would pass through undetected through the materials The Geiger counter controls the pressure of the rollers to maintain the correct thickness A source with a long half-life must be chosen so that it does not need to be replaced often The pressure of the rollers can be adjusted to control the thickness of the aluminium foil depending on the amount of beta radiation detected Worked Example Below are listed four radioactive sources, together with the type of radiation they emit A. Americium-241 Alpha (α) B. Strontium-90 Beta Minus (β – ) C. Cobalt-60 Beta Minus (β – ) & Gamma (γ) D . Fluorine-18 Beta Plus (β + ) Which isotope is suitable for the purpose of: a) Sterilising hospital equipment sealed inside plastic bags? b) Discharging static electricity that has built up in the manufacture of polythene? c) Monitoring the thickness of a thin metal being produced in a factory? d) A smoke detector? Part (a) Answer: C Alpha and low energy beta radiation would most likely be absorbed by the bag Therefore, gamma radiation, or very high energy beta particles, would be needed to penetrate the bag This would be best suited to Cobalt-60 Part (b) Answer: D Static electricity is an imbalance of electric charges on the surface of the polythene and is generally composed of negatively charged electrons In order to get rid of the static charge, it will need to be neutralised Beta-plus particles, or positrons, are the antimatter counterpart of the electron, and hence, are oppositely charged When the positrons are directed at the surface of the polythene, the electrons will be attracted to them and become neutralised as the particles annihilate as they collide Therefore, the beta-plus emitter, Fluorine-18 , would be best suited to this job Part (c) Answer: B Alpha particles would not be suitable for measuring the thickness of metal as they can be stopped by a thin sheet of paper Gamma rays are the most penetrating of the radiations and hence would not be suitable where thickness monitoring is up to a few millimetres as they would all pass through Beta particles are ideally suited as they have enough energy to pass through thin sheets of metal and any changes in thickness would be easily detected Therefore, the beta-minus emitter Strontium-90 would be the most suitable isotope Part (d) Answer: A Since smoke detectors are present inside homes and other buildings, they must pose no hazard to residents This means the smoke detector must contain a very small amount of the radioactive material Also, the radiation should not be too penetrating and should only be able to travel a few centimetres Therefore, an alpha source should be selected – this means Americium-241 would be the most suitable isotope
+Alpha, Beta & Gamma Radiation Some isotopes of elements are unstable This is usually due to an imbalance of protons and neutrons in a nucleus To become more stable, a nucleus can emit particles or radiation by the process of radioactive decay The three main types of radioactive particle or radiation are: Alpha particles Beta particles Gamma radiation Alpha Particles An alpha (α) particle is a high-energy helium nucleus It contains 2 protons and 2 neutrons It has a mass of 4u and a charge of +2e Alpha particles are usually emitted from nuclei that are too large The nuclear notation for an alpha particle is: Nuclear notation for an alpha particle (a helium nucleus) Alpha particles are the most ionising type of radiation This is due to having the highest charge of +2e They produce the highest number of ion pairs per cm in air (~10 000 ion pairs per cm) This means they can do more damage to cells than the other types of radiation Alpha particles are the least penetrating type of radiation This means they travel the shortest distance in air before being absorbed They have a range of around 3 to 7 cm in air Beta Particles A beta-minus (β − ) particle is a high-energy electron They are emitted by nuclei that have too many neutrons A beta-plus (β + ) particle is a high-energy positron (antimatter of electrons) They are emitted by nuclei that have too many protons The nuclear notation for beta-minus and beta-plus particles are: Nuclear notation for beta minus and beta plus particle Beta particles are a moderately ionising type of radiation This is due to having a charge of ±1e They produce a moderate number of ion pairs per cm in air (~100 ion pairs per cm) This means they can do some slight damage to cells (less than alpha but more than gamma) Beta particles are a moderately penetrating type of radiation They have a range of around 20 cm to 3 m in air, depending on their energy Gamma Radiation Gamma (γ) rays are a type of high-energy electromagnetic radiation They are emitted by nuclei that need to lose some energy The nuclear notation for gamma radiation is: Nuclear notation for gamma rays Gamma is the least ionising type of radiation This is because it is electromagnetic radiation (photon), which has no charge Gamma produces the lowest number of ion pairs per cm in air (~1 ion-pair per cm) It can still cause damage to cells, but not as much as alpha or beta radiation. This is why it is widely used for cancer radiotherapy Gamma is the most penetrating type of radiation This means it travels the furthest distance in air before being absorbed Gamma radiation has an infinite range and follows an inverse square law Comparing Alpha, Beta & Gamma The properties of the different types of radiation are summarised in the table below: Comparison of alpha, beta and gamma radiation Ionising ability If any type of radiation collides with an atom, it can knock out electrons, ionising the atom This can cause chemical changes in materials and damage to living cells The ionising ability of radiation can be quantified by the number of ion pairs it produces per cm of air Alpha particles are the most ionising type of radiation, while gamma radiation is the least ionising type of radiation When radiation passes close to atoms, it can knock out electrons, ionising the atom Penetrating power The distance radiation can travel before being absorbed is described by its penetrating power Alpha particles are the least penetrating, whereas gamma radiation is the most penetrating Alpha particles can be stopped by a single sheet of paper Beta particles can be stopped by a few millimetres of aluminium foil The intensity of gamma radiation can be reduced by several metres of concrete or several centimetres of lead Alpha particles are highly ionising and easily absorbed by atoms whereas gamma radiation is highly penetrating and requires very thick lead to reduce its intensity Deflection in Electric and Magnetic Fields When a charged particle enters an electric field it will undergo a deflection Alpha particles are deflected towards the negative plate Beta particles are deflected towards the positive plate Gamma radiation is not deflected and travels straight through between the plates Alpha and beta particles are deflected by an electric field When a charged particle moves in a magnetic field , it will also undergo a deflection Faster-moving particles move in larger circular paths according to the equation: The larger the circular path, the greater the deflection The amount of deflection of a particle depends on: The speed of the particle, v The mass of the particle, m The charge on the particle, q Alpha particles can be deflected slightly in strong electric and magnetic fields Alpha particles have the highest charge, but also the greatest mass, so their high momentum means they deflect less than a beta particle (in a given field) Beta particles can be deflected through large angles by electric and magnetic fields Beta particles typically travel at much greater speeds than alpha particles, but have much less mass, so they deflect significantly more than an alpha particle (in a given field) Gamma rays are not deflected in magnetic and electric fields as they are electrically neutral However, they can transfer their energy to atomic electrons which can be deflected
+Some isotopes of elements are unstable This is usually due to an imbalance of protons and neutrons in a nucleus
+Some isotopes of elements are unstable
+isotopes
+This is usually due to an imbalance of protons and neutrons in a nucleus
+To become more stable, a nucleus can emit particles or radiation by the process of radioactive decay
+The three main types of radioactive particle or radiation are: Alpha particles Beta particles Gamma radiation
+The three main types of radioactive particle or radiation are:
+Alpha particles
+Beta particles
+Gamma radiation
+Alpha Particles
+An alpha (α) particle is a high-energy helium nucleus It contains 2 protons and 2 neutrons It has a mass of 4u and a charge of +2e
+An alpha (α) particle is a high-energy helium nucleus
+It contains 2 protons and 2 neutrons
+It has a mass of 4u and a charge of +2e
+Alpha particles are usually emitted from nuclei that are too large
+The nuclear notation for an alpha particle is:
+Nuclear notation for an alpha particle (a helium nucleus)
+Alpha particles are the most ionising type of radiation This is due to having the highest charge of +2e They produce the highest number of ion pairs per cm in air (~10 000 ion pairs per cm) This means they can do more damage to cells than the other types of radiation
+Alpha particles are the most ionising type of radiation
+This is due to having the highest charge of +2e
+They produce the highest number of ion pairs per cm in air (~10 000 ion pairs per cm)
+This means they can do more damage to cells than the other types of radiation
+Alpha particles are the least penetrating type of radiation This means they travel the shortest distance in air before being absorbed They have a range of around 3 to 7 cm in air
+Alpha particles are the least penetrating type of radiation
+This means they travel the shortest distance in air before being absorbed
+They have a range of around 3 to 7 cm in air
+Beta Particles
+A beta-minus (β − ) particle is a high-energy electron They are emitted by nuclei that have too many neutrons
+A beta-minus (β − ) particle is a high-energy electron
+They are emitted by nuclei that have too many neutrons
+A beta-plus (β + ) particle is a high-energy positron (antimatter of electrons) They are emitted by nuclei that have too many protons
+A beta-plus (β + ) particle is a high-energy positron (antimatter of electrons)
+They are emitted by nuclei that have too many protons
+The nuclear notation for beta-minus and beta-plus particles are:
+Nuclear notation for beta minus and beta plus particle
+Beta particles are a moderately ionising type of radiation This is due to having a charge of ±1e They produce a moderate number of ion pairs per cm in air (~100 ion pairs per cm) This means they can do some slight damage to cells (less than alpha but more than gamma)
+Beta particles are a moderately ionising type of radiation
+This is due to having a charge of ±1e
+They produce a moderate number of ion pairs per cm in air (~100 ion pairs per cm)
+This means they can do some slight damage to cells (less than alpha but more than gamma)
+Beta particles are a moderately penetrating type of radiation They have a range of around 20 cm to 3 m in air, depending on their energy
+Beta particles are a moderately penetrating type of radiation
+They have a range of around 20 cm to 3 m in air, depending on their energy
+Gamma Radiation
+Gamma (γ) rays are a type of high-energy electromagnetic radiation
+They are emitted by nuclei that need to lose some energy
+The nuclear notation for gamma radiation is:
+Nuclear notation for gamma rays
+Gamma is the least ionising type of radiation This is because it is electromagnetic radiation (photon), which has no charge Gamma produces the lowest number of ion pairs per cm in air (~1 ion-pair per cm) It can still cause damage to cells, but not as much as alpha or beta radiation. This is why it is widely used for cancer radiotherapy
+Gamma is the least ionising type of radiation
+This is because it is electromagnetic radiation (photon), which has no charge
+Gamma produces the lowest number of ion pairs per cm in air (~1 ion-pair per cm)
+It can still cause damage to cells, but not as much as alpha or beta radiation. This is why it is widely used for cancer radiotherapy
+Gamma is the most penetrating type of radiation This means it travels the furthest distance in air before being absorbed Gamma radiation has an infinite range and follows an inverse square law
+Gamma is the most penetrating type of radiation
+This means it travels the furthest distance in air before being absorbed
+Gamma radiation has an infinite range and follows an inverse square law
+Comparing Alpha, Beta & Gamma
+The properties of the different types of radiation are summarised in the table below:
+Comparison of alpha, beta and gamma radiation
+Ionising ability
+If any type of radiation collides with an atom, it can knock out electrons, ionising the atom This can cause chemical changes in materials and damage to living cells
+If any type of radiation collides with an atom, it can knock out electrons, ionising the atom
+ionising
+This can cause chemical changes in materials and damage to living cells
+The ionising ability of radiation can be quantified by the number of ion pairs it produces per cm of air Alpha particles are the most ionising type of radiation, while gamma radiation is the least ionising type of radiation
+The ionising ability of radiation can be quantified by the number of ion pairs it produces per cm of air
+Alpha particles are the most ionising type of radiation, while gamma radiation is the least ionising type of radiation
+When radiation passes close to atoms, it can knock out electrons, ionising the atom
+Penetrating power
+The distance radiation can travel before being absorbed is described by its penetrating power Alpha particles are the least penetrating, whereas gamma radiation is the most penetrating
+The distance radiation can travel before being absorbed is described by its penetrating power
+Alpha particles are the least penetrating, whereas gamma radiation is the most penetrating
+Alpha particles can be stopped by a single sheet of paper
+Beta particles can be stopped by a few millimetres of aluminium foil
+The intensity of gamma radiation can be reduced by several metres of concrete or several centimetres of lead
+Alpha particles are highly ionising and easily absorbed by atoms whereas gamma radiation is highly penetrating and requires very thick lead to reduce its intensity
+Deflection in Electric and Magnetic Fields
+When a charged particle enters an electric field it will undergo a deflection Alpha particles are deflected towards the negative plate Beta particles are deflected towards the positive plate Gamma radiation is not deflected and travels straight through between the plates
+When a charged particle enters an electric field it will undergo a deflection
+Alpha particles are deflected towards the negative plate
+Beta particles are deflected towards the positive plate
+Gamma radiation is not deflected and travels straight through between the plates
+Alpha and beta particles are deflected by an electric field
+When a charged particle moves in a magnetic field , it will also undergo a deflection
+Faster-moving particles move in larger circular paths according to the equation:
+The larger the circular path, the greater the deflection
+The amount of deflection of a particle depends on: The speed of the particle, v The mass of the particle, m The charge on the particle, q
+The amount of deflection of a particle depends on:
+The speed of the particle, v
+The mass of the particle, m
+The charge on the particle, q
+Alpha particles can be deflected slightly in strong electric and magnetic fields Alpha particles have the highest charge, but also the greatest mass, so their high momentum means they deflect less than a beta particle (in a given field)
+Alpha particles can be deflected slightly in strong electric and magnetic fields
+Alpha particles have the highest charge, but also the greatest mass, so their high momentum means they deflect less than a beta particle (in a given field)
+Beta particles can be deflected through large angles by electric and magnetic fields Beta particles typically travel at much greater speeds than alpha particles, but have much less mass, so they deflect significantly more than an alpha particle (in a given field)
+Beta particles can be deflected through large angles by electric and magnetic fields
+Beta particles typically travel at much greater speeds than alpha particles, but have much less mass, so they deflect significantly more than an alpha particle (in a given field)
+Gamma rays are not deflected in magnetic and electric fields as they are electrically neutral However, they can transfer their energy to atomic electrons which can be deflected
+Gamma rays are not deflected in magnetic and electric fields as they are electrically neutral
+However, they can transfer their energy to atomic electrons which can be deflected
+Worked Example Three successive radioactive decays are shown in the diagram below. Each one results in a particle being emitted. The first decay results in the emission of a β-particle. The second decay results in the emission of an α-particle. The third decay results in the emission of another β-particle. Nuclides W and Z are compared. Which nuclide of Z is formed at the end of this decay? A. B. C. D. Answer: D Step 1: Write the equation for the β− decay A β− particle is an electron The nucleon number stays the same The proton number increases by 1 Step 2: Write the equation for the α decay An α particle is a helium nucleus The nucleon number reduces by 4 The proton number reduces by 2 Step 3: Write the equation for the β+ decay A β+ particle is a positron The nucleon number stays the same The proton number reduces by 1 Step 4: Determine the final nucleon Z The final nucleon, Z will be:
+Worked Example
+Three successive radioactive decays are shown in the diagram below. Each one results in a particle being emitted.
+The first decay results in the emission of a β-particle.
+The second decay results in the emission of an α-particle.
+The third decay results in the emission of another β-particle.
+Nuclides W and Z are compared.
+Which nuclide of Z is formed at the end of this decay?
+A. B. C. D.
+Answer: D
+Step 1: Write the equation for the β− decay
+A β− particle is an electron
+The nucleon number stays the same
+The proton number increases by 1
+Step 2: Write the equation for the α decay
+An α particle is a helium nucleus
+The nucleon number reduces by 4
+The proton number reduces by 2
+Step 3: Write the equation for the β+ decay
+A β+ particle is a positron
+The proton number reduces by 1
+Step 4: Determine the final nucleon Z
+The final nucleon, Z will be:
+Applications of Alpha, Beta & Gamma Smoke Detectors Smoke detectors contain a small amount of Americium-241, which is a weak alpha source Within the detector, alpha particles are emitted and cause the ionisation of nitrogen and oxygen molecules in the air These ionised molecules enable the air to conduct electricity and hence a small current can flow If smoke enters the alarm, it absorbs the alpha particles, hence reducing the current which causes the alarm to sound Am-241 has a half-life of 460 years, meaning over the course of a lifetime, the activity of the source will not decrease significantly and it will not have to be replaced The operation of a smoke detector Thickness Controls Beta radiation can be used to determine the thickness of aluminium foil, paper, plastic, and steel The thickness can be controlled by measuring how much beta radiation passes through the material to a Geiger counter Beta radiation must be used, because: Alpha particles would be absorbed by all the materials Gamma radiation would pass through undetected through the materials The Geiger counter controls the pressure of the rollers to maintain the correct thickness A source with a long half-life must be chosen so that it does not need to be replaced often The pressure of the rollers can be adjusted to control the thickness of the aluminium foil depending on the amount of beta radiation detected
+Applications of Alpha, Beta & Gamma
+Smoke Detectors
+Smoke detectors contain a small amount of Americium-241, which is a weak alpha source
+Within the detector, alpha particles are emitted and cause the ionisation of nitrogen and oxygen molecules in the air
+These ionised molecules enable the air to conduct electricity and hence a small current can flow
+If smoke enters the alarm, it absorbs the alpha particles, hence reducing the current which causes the alarm to sound
+Am-241 has a half-life of 460 years, meaning over the course of a lifetime, the activity of the source will not decrease significantly and it will not have to be replaced
+The operation of a smoke detector
+Thickness Controls
+Beta radiation can be used to determine the thickness of aluminium foil, paper, plastic, and steel
+The thickness can be controlled by measuring how much beta radiation passes through the material to a Geiger counter
+Beta radiation must be used, because: Alpha particles would be absorbed by all the materials Gamma radiation would pass through undetected through the materials
+Beta radiation must be used, because:
+Alpha particles would be absorbed by all the materials
+Gamma radiation would pass through undetected through the materials
+The Geiger counter controls the pressure of the rollers to maintain the correct thickness
+A source with a long half-life must be chosen so that it does not need to be replaced often
+The pressure of the rollers can be adjusted to control the thickness of the aluminium foil depending on the amount of beta radiation detected
+Worked Example Below are listed four radioactive sources, together with the type of radiation they emit A. Americium-241 Alpha (α) B. Strontium-90 Beta Minus (β – ) C. Cobalt-60 Beta Minus (β – ) & Gamma (γ) D . Fluorine-18 Beta Plus (β + ) Which isotope is suitable for the purpose of: a) Sterilising hospital equipment sealed inside plastic bags? b) Discharging static electricity that has built up in the manufacture of polythene? c) Monitoring the thickness of a thin metal being produced in a factory? d) A smoke detector? Part (a) Answer: C Alpha and low energy beta radiation would most likely be absorbed by the bag Therefore, gamma radiation, or very high energy beta particles, would be needed to penetrate the bag This would be best suited to Cobalt-60 Part (b) Answer: D Static electricity is an imbalance of electric charges on the surface of the polythene and is generally composed of negatively charged electrons In order to get rid of the static charge, it will need to be neutralised Beta-plus particles, or positrons, are the antimatter counterpart of the electron, and hence, are oppositely charged When the positrons are directed at the surface of the polythene, the electrons will be attracted to them and become neutralised as the particles annihilate as they collide Therefore, the beta-plus emitter, Fluorine-18 , would be best suited to this job Part (c) Answer: B Alpha particles would not be suitable for measuring the thickness of metal as they can be stopped by a thin sheet of paper Gamma rays are the most penetrating of the radiations and hence would not be suitable where thickness monitoring is up to a few millimetres as they would all pass through Beta particles are ideally suited as they have enough energy to pass through thin sheets of metal and any changes in thickness would be easily detected Therefore, the beta-minus emitter Strontium-90 would be the most suitable isotope Part (d) Answer: A Since smoke detectors are present inside homes and other buildings, they must pose no hazard to residents This means the smoke detector must contain a very small amount of the radioactive material Also, the radiation should not be too penetrating and should only be able to travel a few centimetres Therefore, an alpha source should be selected – this means Americium-241 would be the most suitable isotope
+Below are listed four radioactive sources, together with the type of radiation they emit
+A. Americium-241 Alpha (α)
+B. Strontium-90 Beta Minus (β – )
+C. Cobalt-60 Beta Minus (β – ) & Gamma (γ)
+D . Fluorine-18 Beta Plus (β + )
+Which isotope is suitable for the purpose of:
+a) Sterilising hospital equipment sealed inside plastic bags?
+b) Discharging static electricity that has built up in the manufacture of polythene?
+c) Monitoring the thickness of a thin metal being produced in a factory?
+d) A smoke detector?
+Part (a) Answer: C
+Alpha and low energy beta radiation would most likely be absorbed by the bag
+Therefore, gamma radiation, or very high energy beta particles, would be needed to penetrate the bag
+This would be best suited to Cobalt-60
+Part (b) Answer: D
+Static electricity is an imbalance of electric charges on the surface of the polythene and is generally composed of negatively charged electrons
+In order to get rid of the static charge, it will need to be neutralised
+Beta-plus particles, or positrons, are the antimatter counterpart of the electron, and hence, are oppositely charged
+When the positrons are directed at the surface of the polythene, the electrons will be attracted to them and become neutralised as the particles annihilate as they collide
+Therefore, the beta-plus emitter, Fluorine-18 , would be best suited to this job
+Part (c) Answer: B
+Alpha particles would not be suitable for measuring the thickness of metal as they can be stopped by a thin sheet of paper
+Gamma rays are the most penetrating of the radiations and hence would not be suitable where thickness monitoring is up to a few millimetres as they would all pass through
+Beta particles are ideally suited as they have enough energy to pass through thin sheets of metal and any changes in thickness would be easily detected
+Therefore, the beta-minus emitter Strontium-90 would be the most suitable isotope
+Part (d) Answer: A
+Since smoke detectors are present inside homes and other buildings, they must pose no hazard to residents
+This means the smoke detector must contain a very small amount of the radioactive material
+Also, the radiation should not be too penetrating and should only be able to travel a few centimetres
+Therefore, an alpha source should be selected – this means Americium-241 would be the most suitable isotope

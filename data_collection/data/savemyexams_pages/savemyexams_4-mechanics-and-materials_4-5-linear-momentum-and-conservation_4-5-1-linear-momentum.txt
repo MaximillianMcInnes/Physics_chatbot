@@ -1,0 +1,35 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-5-linear-momentum-and-conservation/4-5-1-linear-momentum
+HEADING: Linear Momentum ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Linear Momentum When an object with mass is in motion and therefore has a velocity , the object also has momentum Linear momentum is the momentum of an object that is moving in only one dimension The linear momentum of an object remains constant unless the system is acted upon by an external resultant force Momentum is defined as the product of mass and velocity Where: = momentum, measured in kg m s −1 - mass, measured in kg = velocity, measured in m s −1 Momentum is a vector quantity with both magnitude and direction The initial direction of motion is usually assigned the positive direction When the ball is travelling in the opposite direction, its velocity is negative. Since momentum = mass × velocity, its momentum is also negative Worked Example A tennis ball of mass 60 g travels to the right with a speed of 75 m s −1 . A brick of mass 3 kg is thrown to the right at a speed of 1.5 m s −1 . Determine which object has the greatest momentum. Answer: Both the tennis ball and the brick have the same momentum Even though the brick is much heavier than the ball, the ball is travelling much faster than the brick This means that on impact, they would both exert a similar force (depending on the time it takes for each to come to rest) Examiner Tips and Tricks Since the SI units for momentum are kg m s −1 : If the mass is given in grams, you need to convert to kg by dividing the value by 1000 If the velocity is given in km s −1 , you need to convert to m s −1 by multiplying the value by 1000 The direction you consider positive is your choice, as long the signs of the numbers (positive or negative) are consistent with this throughout the question
+Linear Momentum When an object with mass is in motion and therefore has a velocity , the object also has momentum Linear momentum is the momentum of an object that is moving in only one dimension The linear momentum of an object remains constant unless the system is acted upon by an external resultant force Momentum is defined as the product of mass and velocity Where: = momentum, measured in kg m s −1 - mass, measured in kg = velocity, measured in m s −1 Momentum is a vector quantity with both magnitude and direction The initial direction of motion is usually assigned the positive direction When the ball is travelling in the opposite direction, its velocity is negative. Since momentum = mass × velocity, its momentum is also negative
+When an object with mass is in motion and therefore has a velocity , the object also has momentum
+Linear momentum is the momentum of an object that is moving in only one dimension
+The linear momentum of an object remains constant unless the system is acted upon by an external resultant force
+Momentum is defined as the product of mass and velocity
+Where: = momentum, measured in kg m s −1 - mass, measured in kg = velocity, measured in m s −1
+Where:
+= momentum, measured in kg m s −1
+- mass, measured in kg
+= velocity, measured in m s −1
+Momentum is a vector quantity with both magnitude and direction The initial direction of motion is usually assigned the positive direction
+Momentum is a vector quantity with both magnitude and direction
+The initial direction of motion is usually assigned the positive direction
+When the ball is travelling in the opposite direction, its velocity is negative. Since momentum = mass × velocity, its momentum is also negative
+Worked Example A tennis ball of mass 60 g travels to the right with a speed of 75 m s −1 . A brick of mass 3 kg is thrown to the right at a speed of 1.5 m s −1 . Determine which object has the greatest momentum. Answer: Both the tennis ball and the brick have the same momentum Even though the brick is much heavier than the ball, the ball is travelling much faster than the brick This means that on impact, they would both exert a similar force (depending on the time it takes for each to come to rest)
+Worked Example
+A tennis ball of mass 60 g travels to the right with a speed of 75 m s −1 .
+A brick of mass 3 kg is thrown to the right at a speed of 1.5 m s −1 .
+Determine which object has the greatest momentum.
+Answer:
+Both the tennis ball and the brick have the same momentum
+Even though the brick is much heavier than the ball, the ball is travelling much faster than the brick
+This means that on impact, they would both exert a similar force (depending on the time it takes for each to come to rest)
+Examiner Tips and Tricks Since the SI units for momentum are kg m s −1 : If the mass is given in grams, you need to convert to kg by dividing the value by 1000 If the velocity is given in km s −1 , you need to convert to m s −1 by multiplying the value by 1000 The direction you consider positive is your choice, as long the signs of the numbers (positive or negative) are consistent with this throughout the question
+Examiner Tips and Tricks
+Since the SI units for momentum are kg m s −1 :
+If the mass is given in grams, you need to convert to kg by dividing the value by 1000
+If the velocity is given in km s −1 , you need to convert to m s −1 by multiplying the value by 1000
+The direction you consider positive is your choice, as long the signs of the numbers (positive or negative) are consistent with this throughout the question

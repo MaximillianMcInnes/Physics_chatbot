@@ -1,0 +1,93 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-4-electric-fields/7-4-1-coulombs-law
+HEADING: Coulomb's Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+Did this video help you? Coulomb's Law All charged particles generate an electric field This field exerts a force on charged particles which are nearby The electric force between two charges is defined by Coulomb’s law, which states that: The electrostatic force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of their separation This electric force can be calculated using the expression: Where: F = electrostatic force between two charges (N) Q 1 , Q 2 = magnitudes of the charges (C) r = distance between the centres of the charges (m) ε 0 = permittivity of free space Coulomb's law for two charges is analogous to Newton's law of gravitation for two masses This means that electric and gravitational forces are very similar For example, both forces follow an inverse square law with the separation between charge or mass Electrostatic attraction between two charges The attractive electric force F E between two point charges +Q and −Q with a separation of r is defined by Coulomb’s law The constant ε 0 is the permittivity of free space ε 0 = 8.85 × 10 –12 C 2 N –1 m –2 and refers to charges in a vacuum The value of the permittivity of air is taken to be the same as ε 0 All other materials have a higher permittivity ε > ε 0 ε is a measure of the resistance offered by a material in creating an electric field within it Sometimes Coulomb's law may be written as Where is the Coulomb constant The value of k depends on the material between the charges In a vacuum , k = 8.99 × 10 9 N m 2 C –2 Repulsive & Attractive Forces Unlike the gravitational force between two masses which is only attractive, electric forces can be attractive or repulsive Between two charges of the same type : The product Q 1 Q 2 is positive, so the electrostatic force is positive A positive force means the charges experience repulsion For two opposite charges : The product Q 1 Q 2 is negative, so the electrostatic force is negative A negative force means the charges experience attraction Worked Example An alpha particle is placed 2.0 mm from a gold nucleus in a vacuum. Taking them as point charges, calculate the magnitude of the electric force acting between the nuclei. Proton number of helium = 2 Proton number of gold = 79 Answer: Step 1: Write down the known quantities Separation between charges, r = 2.0 mm = 2.0 × 10 –3 m Elementary charge, e = 1.60 × 10 –19 C (from the data booklet) Permittivity of free space, ε 0 = 8.85 × 10 –12 F m –2 (from the data booklet) Step 2: Calculate the charges of the alpha particle and gold nucleus An alpha particle (helium nucleus) has 2 protons, hence it has a charge of: Q 1 = 2 e = 2 × (1.60 × 10 –19 ) A gold nucleus has 79 protons, hence it has a charge of: Q 2 = 79 e = 79 × (1.60 × 10 –19 ) Step 3: Write down Coulomb's law Step 4: Substitute the values and calculate the magnitude of the electric force N (2 s.f.) Examiner Tips and Tricks You do not need to memorise the value of the permittivity of free space ε 0 as it is given in the data booklet. However, the Coulomb constant k is not. Unless specified in the question, you should assume that charges are located in a vacuum. You should note that Coulomb's law can only be applied to charged spheres whose size is much smaller than their separation. Only in this case, the point charge approximation is valid. You must remember that the separation r must be taken from the centres of the spheres. You cannot use Coulomb's law to calculate the electrostatic force between charges distributed on irregularly shaped objects. Approximations of Coulomb's Law When calculating the force between two charges, air is treated as a vacuum This is why the permittivity of free space ε 0 is used For a point outside a spherical conductor, the charge of the sphere may be considered to be a point charge at its centre A uniform spherical conductor is one where its charge is distributed evenly The electric field lines around a spherical conductor are therefore identical to those around a point charge An example of a spherical conductor is a charged sphere The field lines are radial and their direction depends on the charge of the sphere If the spherical conductor is positively charged, the field lines are directed away from the centre of the sphere If the spherical conductor is negatively charged, the field lines are directed towards the centre of the sphere Electric field lines around a uniform spherical conductor are identical to those on a point charge Examiner Tips and Tricks You may have noticed that the electric fields share many similarities to the gravitational fields. The main difference is that the gravitational force is always attractive, whilst electrostatic forces can be attractive or repulsive. You should make a list of all the similarities and differences you can find, as this could come up in an exam question.
+Did this video help you?
+Coulomb's Law All charged particles generate an electric field This field exerts a force on charged particles which are nearby The electric force between two charges is defined by Coulomb’s law, which states that: The electrostatic force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of their separation This electric force can be calculated using the expression: Where: F = electrostatic force between two charges (N) Q 1 , Q 2 = magnitudes of the charges (C) r = distance between the centres of the charges (m) ε 0 = permittivity of free space Coulomb's law for two charges is analogous to Newton's law of gravitation for two masses This means that electric and gravitational forces are very similar For example, both forces follow an inverse square law with the separation between charge or mass Electrostatic attraction between two charges The attractive electric force F E between two point charges +Q and −Q with a separation of r is defined by Coulomb’s law The constant ε 0 is the permittivity of free space ε 0 = 8.85 × 10 –12 C 2 N –1 m –2 and refers to charges in a vacuum The value of the permittivity of air is taken to be the same as ε 0 All other materials have a higher permittivity ε > ε 0 ε is a measure of the resistance offered by a material in creating an electric field within it Sometimes Coulomb's law may be written as Where is the Coulomb constant The value of k depends on the material between the charges In a vacuum , k = 8.99 × 10 9 N m 2 C –2 Repulsive & Attractive Forces Unlike the gravitational force between two masses which is only attractive, electric forces can be attractive or repulsive Between two charges of the same type : The product Q 1 Q 2 is positive, so the electrostatic force is positive A positive force means the charges experience repulsion For two opposite charges : The product Q 1 Q 2 is negative, so the electrostatic force is negative A negative force means the charges experience attraction
+All charged particles generate an electric field This field exerts a force on charged particles which are nearby
+All charged particles generate an electric field
+This field exerts a force on charged particles which are nearby
+The electric force between two charges is defined by Coulomb’s law, which states that: The electrostatic force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of their separation
+The electric force between two charges is defined by Coulomb’s law, which states that:
+The electrostatic force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of their separation
+This electric force can be calculated using the expression:
+Where: F = electrostatic force between two charges (N) Q 1 , Q 2 = magnitudes of the charges (C) r = distance between the centres of the charges (m) ε 0 = permittivity of free space
+Where:
+F = electrostatic force between two charges (N)
+Q 1 , Q 2 = magnitudes of the charges (C)
+r = distance between the centres of the charges (m)
+ε 0 = permittivity of free space
+permittivity of free space
+Coulomb's law for two charges is analogous to Newton's law of gravitation for two masses This means that electric and gravitational forces are very similar For example, both forces follow an inverse square law with the separation between charge or mass
+Coulomb's law for two charges is analogous to Newton's law of gravitation for two masses
+This means that electric and gravitational forces are very similar
+For example, both forces follow an inverse square law with the separation between charge or mass
+inverse square law
+Electrostatic attraction between two charges
+The attractive electric force F E between two point charges +Q and −Q with a separation of r is defined by Coulomb’s law
+The constant ε 0 is the permittivity of free space ε 0 = 8.85 × 10 –12 C 2 N –1 m –2 and refers to charges in a vacuum The value of the permittivity of air is taken to be the same as ε 0 All other materials have a higher permittivity ε > ε 0 ε is a measure of the resistance offered by a material in creating an electric field within it
+The constant ε 0 is the permittivity of free space
+ε 0 = 8.85 × 10 –12 C 2 N –1 m –2 and refers to charges in a vacuum
+The value of the permittivity of air is taken to be the same as ε 0
+All other materials have a higher permittivity ε > ε 0
+ε is a measure of the resistance offered by a material in creating an electric field within it
+Sometimes Coulomb's law may be written as
+Where is the Coulomb constant
+The value of k depends on the material between the charges In a vacuum , k = 8.99 × 10 9 N m 2 C –2
+The value of k depends on the material between the charges
+In a vacuum , k = 8.99 × 10 9 N m 2 C –2
+Repulsive & Attractive Forces
+Unlike the gravitational force between two masses which is only attractive, electric forces can be attractive or repulsive
+Between two charges of the same type : The product Q 1 Q 2 is positive, so the electrostatic force is positive A positive force means the charges experience repulsion
+Between two charges of the same type :
+The product Q 1 Q 2 is positive, so the electrostatic force is positive
+A positive force means the charges experience repulsion
+For two opposite charges : The product Q 1 Q 2 is negative, so the electrostatic force is negative A negative force means the charges experience attraction
+For two opposite charges :
+The product Q 1 Q 2 is negative, so the electrostatic force is negative
+A negative force means the charges experience attraction
+Worked Example An alpha particle is placed 2.0 mm from a gold nucleus in a vacuum. Taking them as point charges, calculate the magnitude of the electric force acting between the nuclei. Proton number of helium = 2 Proton number of gold = 79 Answer: Step 1: Write down the known quantities Separation between charges, r = 2.0 mm = 2.0 × 10 –3 m Elementary charge, e = 1.60 × 10 –19 C (from the data booklet) Permittivity of free space, ε 0 = 8.85 × 10 –12 F m –2 (from the data booklet) Step 2: Calculate the charges of the alpha particle and gold nucleus An alpha particle (helium nucleus) has 2 protons, hence it has a charge of: Q 1 = 2 e = 2 × (1.60 × 10 –19 ) A gold nucleus has 79 protons, hence it has a charge of: Q 2 = 79 e = 79 × (1.60 × 10 –19 ) Step 3: Write down Coulomb's law Step 4: Substitute the values and calculate the magnitude of the electric force N (2 s.f.)
+Worked Example
+An alpha particle is placed 2.0 mm from a gold nucleus in a vacuum.
+Taking them as point charges, calculate the magnitude of the electric force acting between the nuclei.
+Proton number of helium = 2
+Proton number of gold = 79
+Answer:
+Step 1: Write down the known quantities
+Separation between charges, r = 2.0 mm = 2.0 × 10 –3 m
+Elementary charge, e = 1.60 × 10 –19 C (from the data booklet)
+Permittivity of free space, ε 0 = 8.85 × 10 –12 F m –2 (from the data booklet)
+Step 2: Calculate the charges of the alpha particle and gold nucleus
+An alpha particle (helium nucleus) has 2 protons, hence it has a charge of:
+Q 1 = 2 e = 2 × (1.60 × 10 –19 )
+A gold nucleus has 79 protons, hence it has a charge of:
+Q 2 = 79 e = 79 × (1.60 × 10 –19 )
+Step 3: Write down Coulomb's law
+Step 4: Substitute the values and calculate the magnitude of the electric force
+N (2 s.f.)
+Examiner Tips and Tricks You do not need to memorise the value of the permittivity of free space ε 0 as it is given in the data booklet. However, the Coulomb constant k is not. Unless specified in the question, you should assume that charges are located in a vacuum. You should note that Coulomb's law can only be applied to charged spheres whose size is much smaller than their separation. Only in this case, the point charge approximation is valid. You must remember that the separation r must be taken from the centres of the spheres. You cannot use Coulomb's law to calculate the electrostatic force between charges distributed on irregularly shaped objects.
+Examiner Tips and Tricks
+You do not need to memorise the value of the permittivity of free space ε 0 as it is given in the data booklet. However, the Coulomb constant k is not.
+Unless specified in the question, you should assume that charges are located in a vacuum.
+You should note that Coulomb's law can only be applied to charged spheres whose size is much smaller than their separation. Only in this case, the point charge approximation is valid. You must remember that the separation r must be taken from the centres of the spheres.
+You cannot use Coulomb's law to calculate the electrostatic force between charges distributed on irregularly shaped objects.
+Approximations of Coulomb's Law When calculating the force between two charges, air is treated as a vacuum This is why the permittivity of free space ε 0 is used For a point outside a spherical conductor, the charge of the sphere may be considered to be a point charge at its centre A uniform spherical conductor is one where its charge is distributed evenly The electric field lines around a spherical conductor are therefore identical to those around a point charge An example of a spherical conductor is a charged sphere The field lines are radial and their direction depends on the charge of the sphere If the spherical conductor is positively charged, the field lines are directed away from the centre of the sphere If the spherical conductor is negatively charged, the field lines are directed towards the centre of the sphere Electric field lines around a uniform spherical conductor are identical to those on a point charge
+Approximations of Coulomb's Law
+When calculating the force between two charges, air is treated as a vacuum This is why the permittivity of free space ε 0 is used
+When calculating the force between two charges, air is treated as a vacuum
+This is why the permittivity of free space ε 0 is used
+For a point outside a spherical conductor, the charge of the sphere may be considered to be a point charge at its centre A uniform spherical conductor is one where its charge is distributed evenly
+For a point outside a spherical conductor, the charge of the sphere may be considered to be a point charge at its centre
+A uniform spherical conductor is one where its charge is distributed evenly
+The electric field lines around a spherical conductor are therefore identical to those around a point charge An example of a spherical conductor is a charged sphere
+The electric field lines around a spherical conductor are therefore identical to those around a point charge
+An example of a spherical conductor is a charged sphere
+The field lines are radial and their direction depends on the charge of the sphere If the spherical conductor is positively charged, the field lines are directed away from the centre of the sphere If the spherical conductor is negatively charged, the field lines are directed towards the centre of the sphere
+The field lines are radial and their direction depends on the charge of the sphere
+If the spherical conductor is positively charged, the field lines are directed away from the centre of the sphere
+If the spherical conductor is negatively charged, the field lines are directed towards the centre of the sphere
+Electric field lines around a uniform spherical conductor are identical to those on a point charge
+Examiner Tips and Tricks You may have noticed that the electric fields share many similarities to the gravitational fields. The main difference is that the gravitational force is always attractive, whilst electrostatic forces can be attractive or repulsive. You should make a list of all the similarities and differences you can find, as this could come up in an exam question.
+You may have noticed that the electric fields share many similarities to the gravitational fields. The main difference is that the gravitational force is always attractive, whilst electrostatic forces can be attractive or repulsive.
+You should make a list of all the similarities and differences you can find, as this could come up in an exam question.

@@ -1,0 +1,42 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-1-circular-motion/6-1-3-angular-speed
+HEADING: Angular Speed ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Angular Speed Any object travelling in a uniform circular motion at the same speed travels with a constantly changing velocity This is because it is constantly changing direction , and is therefore accelerating The angular speed (⍵) of a body in circular motion is defined as: The rate of change in angular displacement with respect to time Angular speed is a scalar quantity and is measured in rad s -1 It can be calculated using: Where: Δ θ = change in angular displacement ( radians ) Δ t = time interval (s) When an object is in uniform circular motion, velocity constantly changes direction, but the speed stays the same Taking the angular displacement of a complete cycle as 2π, the angular speed ⍵ can be calculated using the equation: Where: v = linear speed (m s -1 ) r = radius of orbit (m) T = the time period (s) f = frequency (Hz) Angular velocity is the same as angular speed, but it is a vector quantity This equation shows that: The greater the rotation angle θ in a given amount of time, the greater the angular velocity ⍵ An object rotating further from the centre of the circle (larger r ) moves with a smaller angular velocity (smaller ⍵) Worked Example A bird flies in a horizontal circle with an angular speed of 5.25 rad s −1 of radius 650 m. Calculate: a) The linear speed of the bird b) The frequency of the bird flying in a complete circle Answer:
+Angular Speed Any object travelling in a uniform circular motion at the same speed travels with a constantly changing velocity This is because it is constantly changing direction , and is therefore accelerating The angular speed (⍵) of a body in circular motion is defined as: The rate of change in angular displacement with respect to time Angular speed is a scalar quantity and is measured in rad s -1 It can be calculated using: Where: Δ θ = change in angular displacement ( radians ) Δ t = time interval (s) When an object is in uniform circular motion, velocity constantly changes direction, but the speed stays the same Taking the angular displacement of a complete cycle as 2π, the angular speed ⍵ can be calculated using the equation: Where: v = linear speed (m s -1 ) r = radius of orbit (m) T = the time period (s) f = frequency (Hz) Angular velocity is the same as angular speed, but it is a vector quantity This equation shows that: The greater the rotation angle θ in a given amount of time, the greater the angular velocity ⍵ An object rotating further from the centre of the circle (larger r ) moves with a smaller angular velocity (smaller ⍵)
+Any object travelling in a uniform circular motion at the same speed travels with a constantly changing velocity
+This is because it is constantly changing direction , and is therefore accelerating
+The angular speed (⍵) of a body in circular motion is defined as: The rate of change in angular displacement with respect to time
+The angular speed (⍵) of a body in circular motion is defined as:
+The rate of change in angular displacement with respect to time
+Angular speed is a scalar quantity and is measured in rad s -1
+It can be calculated using:
+Where: Δ θ = change in angular displacement ( radians ) Δ t = time interval (s)
+Where:
+Δ θ = change in angular displacement ( radians )
+angular displacement
+radians
+Δ t = time interval (s)
+When an object is in uniform circular motion, velocity constantly changes direction, but the speed stays the same
+Taking the angular displacement of a complete cycle as 2π, the angular speed ⍵ can be calculated using the equation:
+Where: v = linear speed (m s -1 ) r = radius of orbit (m) T = the time period (s) f = frequency (Hz)
+v = linear speed (m s -1 )
+linear
+r = radius of orbit (m)
+T = the time period (s)
+time period
+f = frequency (Hz)
+frequency
+Angular velocity is the same as angular speed, but it is a vector quantity
+This equation shows that: The greater the rotation angle θ in a given amount of time, the greater the angular velocity ⍵ An object rotating further from the centre of the circle (larger r ) moves with a smaller angular velocity (smaller ⍵)
+This equation shows that:
+The greater the rotation angle θ in a given amount of time, the greater the angular velocity ⍵
+An object rotating further from the centre of the circle (larger r ) moves with a smaller angular velocity (smaller ⍵)
+Worked Example A bird flies in a horizontal circle with an angular speed of 5.25 rad s −1 of radius 650 m. Calculate: a) The linear speed of the bird b) The frequency of the bird flying in a complete circle Answer:
+Worked Example
+A bird flies in a horizontal circle with an angular speed of 5.25 rad s −1 of radius 650 m.
+Calculate:
+a) The linear speed of the bird
+b) The frequency of the bird flying in a complete circle
+Answer:

@@ -1,0 +1,32 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-4-electric-fields/7-4-7-comparing-gravitational-and-electrostatic-forces
+HEADING: Comparing Gravitational & Electrostatic Forces ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Gravitational v Electrostatic Forces The similarities and differences between gravitational and electrostatic forces are listed in the table below: Similarities between gravitational and electrostatic fields The field lines around a point mass and negative point charge are identical The field lines in uniform gravitational and electric fields are identical Both forces follow inverse square law relationships with distance Both gravitational field strength and electric field strength follow an inverse square law (1/r 2 ) relationship with distance in a radial field Both gravitational potential and electric potential both follow an inverse (1/r) relationship with distance The equipotential surfaces are spherical around a point mass or charge and equally spaced parallel lines in uniform fields The work done by either field is equal to the product of the mass or charge and change in potential Differences between gravitational and electrostatic fields The gravitational force acts on particles with mass whilst the electrostatic force acts on particles with charge The gravitational force is always attractive whilst the electrostatic force can be attractive or repulsive The gravitational potential is always negative whilst the electric potential can be either negative or positive Gravitational fields are relatively weak compared to electric fields as the gravitational constant G is much smaller than the Coulomb constant k Examiner Tips and Tricks This topic could come up as long structured answer question, practice summing up this information as you would for a 6 mark question.
+Gravitational v Electrostatic Forces The similarities and differences between gravitational and electrostatic forces are listed in the table below: Similarities between gravitational and electrostatic fields The field lines around a point mass and negative point charge are identical The field lines in uniform gravitational and electric fields are identical Both forces follow inverse square law relationships with distance Both gravitational field strength and electric field strength follow an inverse square law (1/r 2 ) relationship with distance in a radial field Both gravitational potential and electric potential both follow an inverse (1/r) relationship with distance The equipotential surfaces are spherical around a point mass or charge and equally spaced parallel lines in uniform fields The work done by either field is equal to the product of the mass or charge and change in potential Differences between gravitational and electrostatic fields The gravitational force acts on particles with mass whilst the electrostatic force acts on particles with charge The gravitational force is always attractive whilst the electrostatic force can be attractive or repulsive The gravitational potential is always negative whilst the electric potential can be either negative or positive Gravitational fields are relatively weak compared to electric fields as the gravitational constant G is much smaller than the Coulomb constant k
+Gravitational v Electrostatic Forces
+The similarities and differences between gravitational and electrostatic forces are listed in the table below:
+Similarities between gravitational and electrostatic fields
+The field lines around a point mass and negative point charge are identical
+The field lines in uniform gravitational and electric fields are identical
+Both forces follow inverse square law relationships with distance
+inverse square law
+Both gravitational field strength and electric field strength follow an inverse square law (1/r 2 ) relationship with distance in a radial field
+gravitational field strength
+electric field strength
+Both gravitational potential and electric potential both follow an inverse (1/r) relationship with distance
+gravitational potential
+electric potential
+The equipotential surfaces are spherical around a point mass or charge and equally spaced parallel lines in uniform fields
+The work done by either field is equal to the product of the mass or charge and change in potential
+Differences between gravitational and electrostatic fields
+The gravitational force acts on particles with mass whilst the electrostatic force acts on particles with charge
+The gravitational force is always attractive whilst the electrostatic force can be attractive or repulsive
+The gravitational potential is always negative whilst the electric potential can be either negative or positive
+Gravitational fields are relatively weak compared to electric fields as the gravitational constant G is much smaller than the Coulomb constant k
+gravitational constant G
+Coulomb constant k
+Examiner Tips and Tricks This topic could come up as long structured answer question, practice summing up this information as you would for a 6 mark question.
+Examiner Tips and Tricks
+This topic could come up as long structured answer question, practice summing up this information as you would for a 6 mark question.

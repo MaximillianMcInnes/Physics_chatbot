@@ -1,0 +1,135 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-3-biological-measurement/10-3-1-ecg-machines
+HEADING: ECG Machines ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Simple ECG Machines Electrocardiography can be used to monitor and investigate the electrical activity of the heart Electrodes that are capable of detecting electric signals are placed on the skin These electrodes produce an electrocardiogram (ECG) An ECG shows several distinctive electrical waves produced by the activity of the heart A healthy heart produces a distinctive shape in an ECG The Structure of the Heart The heart is controlled by electrical impulses in nerve cells These can be measured as weak electrical signals by detectors on the surface of the skin The heart consists of four chambers with two chambers on both the left and right sides: Atria in the upper parts Ventricles in the lower parts The left side of the heart is the right side of the diagram A Diagram of the Structure of the Heart The diagram shows the left and right sides of the heart with the atrium and ventricle on each side Electrical Signals of the Heart During a heartbeat, the four chambers of the heart contract (this is depolarisation) and relax (this is repolarisation) in a sequence controlled by electrical signals First, the atria contract (depolarise), forcing blood into the ventricles This causes the ventricles to contract (depolarise) and the atria to relax (repolarise) Blood is pumped into the lungs and body The ventricles then relax (repolarise) to complete one heartbeat Obtaining an ECG Trace Electrodes must be positioned to obtain the maximum electrical signal possible from the heart The reading measured by the ECG machine is the potential difference between pairs of electrodes To obtain a good trace, the following factors must be considered: The optimum positioning of the electrodes Minimising contact resistance Improving the quality of the received signals Positioning the electrodes Electrodes are placed strategically in pairs on the body to obtain the largest potential difference, these are: In six standard chest positions One on each limb (close to the arteries) Reducing contact resistance The point where the electrodes are attached to the skin is called a contact The contacts must be: Good conductors of electricity Provide a low resistance to the electrical signal Non-irritant Non-reactive to skin chemicals All securely stuck in place As such, the contacts are: Made from a non-reactive material Secured in place with a conductive gel Attached after removing hairs and dead skin cells (with sandpaper or a razor) Improving the Signal The electrical signal detected by the ECG is relatively small because it is easily absorbed by the body To improve the received signals: The patient should remain relaxed and still The machine and leads should be shielded from the electrical interference of other AC sources The signal needs to be amplified The signal needs to be amplified by a high-gain, low-noise, high-impedance amplifier High gain means the amplifier can increase the electrical signal without increasing the noise Low noise means the amplifier does not reduce the quality of the electrical signal during the amplification process High impedance means the amplifier increases the input signal enough so it can be interpreted by the machine Patient undergoing an ECG Electrodes are attached in pairs to a patient's chest in the six positions shown and all four limbs. The variation in potential difference between them is detected Worked Example Electrodes are attached to the chest of a healthy person and a normal ECG waveform is obtained. (a) State two ways of ensuring good electrical contact between the electrodes and the patient. (b) State two properties needed by the amplifier to amplify the signal from the electrodes. Answer: Part (a) Two ways of ensuring good electrical contact between the electrodes and the patient Any two from: Hair and dead skin must be removed from the surface of the patient (using sandpaper) The electrodes must be coated with a conducting gel The electrodes must be made from a material that does not react with the skin Part (b) Two properties needed by the amplifier to amplify the signal from the electrodes Any two from: High gain Low noise High input impedance Examiner Tips and Tricks It is common practice to be asked about increasing electrical contact and properties about the amplifier. You do not go into a lot of detail in this unit, so just learn these key facts. Normal ECG Waveform ECG stands for electrocardiogram It is a graph of the potential difference between the electrodes (in mV) against time (in s) A normal ECG, covering a single heartbeat, has three separate parts: A P wave A QRS wave A T wave The heartbeat can be determined from the number of contractions (number of waveforms) present on the ECG in 1 minute A Normal ECG Waveform A normal electrocardiogram (ECG) waveform contains P, QRS and T components The P wave Caused by the contraction (depolarisation) of the atria The QRS wave Corresponds to the contraction (depolarisation) of the ventricles It occurs 0.2 seconds after the P wave The signal is much greater than the P wave It reaches its maximum at 1 mV The T wave Corresponds to the relaxation (repolarisation) of the ventricles It occurs 0.2 seconds after the QRS wave Worked Example Electrodes are placed on the surface of a body to record an ECG trace for a healthy person. The trace obtained for one heartbeat is shown below. (a) Label the approximate scales on each axis. (b) State the name of the wave part at points X and Y and the physical change that takes place. Answer: Part (a) Label the approximate scales on each axis Draw dotted lines from each key property of the graph to the correct axis Label the maximum potential difference (in mV) of the QRS wave as 1 Label the time in seconds every 0.2 seconds (0.2, 0.4, 0.6 and 0.8) Part (b) State the wave part at points X and Y and the physical change that takes place Point X: Wave part: P wave Physical change: atria contract Point Y: Wave part: QRS wave Physical change: ventricles contract Examiner Tips and Tricks You only need to know what an ECG looks like for a healthy person and not for someone with a heart problem. You need to remember the ECG graph very carefully, as you may be asked to sketch it on an axis or label the axis of a pre-drawn waveform. Remember that the plural of atrium is atria and not atriums.
+Simple ECG Machines Electrocardiography can be used to monitor and investigate the electrical activity of the heart Electrodes that are capable of detecting electric signals are placed on the skin These electrodes produce an electrocardiogram (ECG) An ECG shows several distinctive electrical waves produced by the activity of the heart A healthy heart produces a distinctive shape in an ECG The Structure of the Heart The heart is controlled by electrical impulses in nerve cells These can be measured as weak electrical signals by detectors on the surface of the skin The heart consists of four chambers with two chambers on both the left and right sides: Atria in the upper parts Ventricles in the lower parts The left side of the heart is the right side of the diagram A Diagram of the Structure of the Heart The diagram shows the left and right sides of the heart with the atrium and ventricle on each side Electrical Signals of the Heart During a heartbeat, the four chambers of the heart contract (this is depolarisation) and relax (this is repolarisation) in a sequence controlled by electrical signals First, the atria contract (depolarise), forcing blood into the ventricles This causes the ventricles to contract (depolarise) and the atria to relax (repolarise) Blood is pumped into the lungs and body The ventricles then relax (repolarise) to complete one heartbeat Obtaining an ECG Trace Electrodes must be positioned to obtain the maximum electrical signal possible from the heart The reading measured by the ECG machine is the potential difference between pairs of electrodes To obtain a good trace, the following factors must be considered: The optimum positioning of the electrodes Minimising contact resistance Improving the quality of the received signals Positioning the electrodes Electrodes are placed strategically in pairs on the body to obtain the largest potential difference, these are: In six standard chest positions One on each limb (close to the arteries) Reducing contact resistance The point where the electrodes are attached to the skin is called a contact The contacts must be: Good conductors of electricity Provide a low resistance to the electrical signal Non-irritant Non-reactive to skin chemicals All securely stuck in place As such, the contacts are: Made from a non-reactive material Secured in place with a conductive gel Attached after removing hairs and dead skin cells (with sandpaper or a razor) Improving the Signal The electrical signal detected by the ECG is relatively small because it is easily absorbed by the body To improve the received signals: The patient should remain relaxed and still The machine and leads should be shielded from the electrical interference of other AC sources The signal needs to be amplified The signal needs to be amplified by a high-gain, low-noise, high-impedance amplifier High gain means the amplifier can increase the electrical signal without increasing the noise Low noise means the amplifier does not reduce the quality of the electrical signal during the amplification process High impedance means the amplifier increases the input signal enough so it can be interpreted by the machine Patient undergoing an ECG Electrodes are attached in pairs to a patient's chest in the six positions shown and all four limbs. The variation in potential difference between them is detected
+Simple ECG Machines
+Electrocardiography can be used to monitor and investigate the electrical activity of the heart
+Electrodes that are capable of detecting electric signals are placed on the skin
+These electrodes produce an electrocardiogram (ECG)
+An ECG shows several distinctive electrical waves produced by the activity of the heart
+A healthy heart produces a distinctive shape in an ECG
+The Structure of the Heart
+The heart is controlled by electrical impulses in nerve cells
+These can be measured as weak electrical signals by detectors on the surface of the skin
+The heart consists of four chambers with two chambers on both the left and right sides: Atria in the upper parts Ventricles in the lower parts
+The heart consists of four chambers with two chambers on both the left and right sides:
+Atria in the upper parts
+Ventricles in the lower parts
+The left side of the heart is the right side of the diagram
+A Diagram of the Structure of the Heart
+The diagram shows the left and right sides of the heart with the atrium and ventricle on each side
+Electrical Signals of the Heart
+During a heartbeat, the four chambers of the heart contract (this is depolarisation) and relax (this is repolarisation) in a sequence controlled by electrical signals First, the atria contract (depolarise), forcing blood into the ventricles This causes the ventricles to contract (depolarise) and the atria to relax (repolarise) Blood is pumped into the lungs and body The ventricles then relax (repolarise) to complete one heartbeat
+During a heartbeat, the four chambers of the heart contract (this is depolarisation) and relax (this is repolarisation) in a sequence controlled by electrical signals
+First, the atria contract (depolarise), forcing blood into the ventricles
+This causes the ventricles to contract (depolarise) and the atria to relax (repolarise)
+Blood is pumped into the lungs and body
+The ventricles then relax (repolarise) to complete one heartbeat
+Obtaining an ECG Trace
+Electrodes must be positioned to obtain the maximum electrical signal possible from the heart
+The reading measured by the ECG machine is the potential difference between pairs of electrodes
+To obtain a good trace, the following factors must be considered: The optimum positioning of the electrodes Minimising contact resistance Improving the quality of the received signals
+To obtain a good trace, the following factors must be considered:
+The optimum positioning of the electrodes
+Minimising contact resistance
+Improving the quality of the received signals
+Positioning the electrodes
+Electrodes are placed strategically in pairs on the body to obtain the largest potential difference, these are: In six standard chest positions One on each limb (close to the arteries)
+Electrodes are placed strategically in pairs on the body to obtain the largest potential difference, these are:
+In six standard chest positions
+One on each limb (close to the arteries)
+Reducing contact resistance
+The point where the electrodes are attached to the skin is called a contact
+The contacts must be: Good conductors of electricity Provide a low resistance to the electrical signal Non-irritant Non-reactive to skin chemicals All securely stuck in place
+The contacts must be:
+Good conductors of electricity
+Provide a low resistance to the electrical signal
+Non-irritant
+Non-reactive to skin chemicals
+All securely stuck in place
+As such, the contacts are: Made from a non-reactive material Secured in place with a conductive gel Attached after removing hairs and dead skin cells (with sandpaper or a razor)
+As such, the contacts are:
+Made from a non-reactive material
+Secured in place with a conductive gel
+Attached after removing hairs and dead skin cells (with sandpaper or a razor)
+Improving the Signal
+The electrical signal detected by the ECG is relatively small because it is easily absorbed by the body
+To improve the received signals: The patient should remain relaxed and still The machine and leads should be shielded from the electrical interference of other AC sources The signal needs to be amplified
+To improve the received signals:
+The patient should remain relaxed and still
+The machine and leads should be shielded from the electrical interference of other AC sources
+The signal needs to be amplified
+The signal needs to be amplified by a high-gain, low-noise, high-impedance amplifier High gain means the amplifier can increase the electrical signal without increasing the noise Low noise means the amplifier does not reduce the quality of the electrical signal during the amplification process High impedance means the amplifier increases the input signal enough so it can be interpreted by the machine
+The signal needs to be amplified by a high-gain, low-noise, high-impedance amplifier
+High gain means the amplifier can increase the electrical signal without increasing the noise
+Low noise means the amplifier does not reduce the quality of the electrical signal during the amplification process
+High impedance means the amplifier increases the input signal enough so it can be interpreted by the machine
+Patient undergoing an ECG
+Electrodes are attached in pairs to a patient's chest in the six positions shown and all four limbs. The variation in potential difference between them is detected
+Worked Example Electrodes are attached to the chest of a healthy person and a normal ECG waveform is obtained. (a) State two ways of ensuring good electrical contact between the electrodes and the patient. (b) State two properties needed by the amplifier to amplify the signal from the electrodes. Answer: Part (a) Two ways of ensuring good electrical contact between the electrodes and the patient Any two from: Hair and dead skin must be removed from the surface of the patient (using sandpaper) The electrodes must be coated with a conducting gel The electrodes must be made from a material that does not react with the skin Part (b) Two properties needed by the amplifier to amplify the signal from the electrodes Any two from: High gain Low noise High input impedance
+Worked Example
+Electrodes are attached to the chest of a healthy person and a normal ECG waveform is obtained.
+(a) State two ways of ensuring good electrical contact between the electrodes and the patient.
+(b) State two properties needed by the amplifier to amplify the signal from the electrodes.
+Answer:
+Part (a)
+Two ways of ensuring good electrical contact between the electrodes and the patient
+Any two from:
+Hair and dead skin must be removed from the surface of the patient (using sandpaper)
+The electrodes must be coated with a conducting gel
+The electrodes must be made from a material that does not react with the skin
+Part (b)
+Two properties needed by the amplifier to amplify the signal from the electrodes
+High gain
+Low noise
+High input impedance
+Examiner Tips and Tricks It is common practice to be asked about increasing electrical contact and properties about the amplifier. You do not go into a lot of detail in this unit, so just learn these key facts.
+Examiner Tips and Tricks
+It is common practice to be asked about increasing electrical contact and properties about the amplifier. You do not go into a lot of detail in this unit, so just learn these key facts.
+Normal ECG Waveform ECG stands for electrocardiogram It is a graph of the potential difference between the electrodes (in mV) against time (in s) A normal ECG, covering a single heartbeat, has three separate parts: A P wave A QRS wave A T wave The heartbeat can be determined from the number of contractions (number of waveforms) present on the ECG in 1 minute A Normal ECG Waveform A normal electrocardiogram (ECG) waveform contains P, QRS and T components The P wave Caused by the contraction (depolarisation) of the atria The QRS wave Corresponds to the contraction (depolarisation) of the ventricles It occurs 0.2 seconds after the P wave The signal is much greater than the P wave It reaches its maximum at 1 mV The T wave Corresponds to the relaxation (repolarisation) of the ventricles It occurs 0.2 seconds after the QRS wave
+Normal ECG Waveform
+ECG stands for electrocardiogram
+It is a graph of the potential difference between the electrodes (in mV) against time (in s)
+A normal ECG, covering a single heartbeat, has three separate parts: A P wave A QRS wave A T wave
+A normal ECG, covering a single heartbeat, has three separate parts:
+A P wave
+A QRS wave
+A T wave
+The heartbeat can be determined from the number of contractions (number of waveforms) present on the ECG in 1 minute
+A Normal ECG Waveform
+A normal electrocardiogram (ECG) waveform contains P, QRS and T components
+The P wave Caused by the contraction (depolarisation) of the atria
+The P wave
+Caused by the contraction (depolarisation) of the atria
+The QRS wave Corresponds to the contraction (depolarisation) of the ventricles It occurs 0.2 seconds after the P wave The signal is much greater than the P wave It reaches its maximum at 1 mV
+The QRS wave
+Corresponds to the contraction (depolarisation) of the ventricles
+It occurs 0.2 seconds after the P wave
+The signal is much greater than the P wave
+It reaches its maximum at 1 mV
+The T wave Corresponds to the relaxation (repolarisation) of the ventricles It occurs 0.2 seconds after the QRS wave
+The T wave
+Corresponds to the relaxation (repolarisation) of the ventricles
+It occurs 0.2 seconds after the QRS wave
+Worked Example Electrodes are placed on the surface of a body to record an ECG trace for a healthy person. The trace obtained for one heartbeat is shown below. (a) Label the approximate scales on each axis. (b) State the name of the wave part at points X and Y and the physical change that takes place. Answer: Part (a) Label the approximate scales on each axis Draw dotted lines from each key property of the graph to the correct axis Label the maximum potential difference (in mV) of the QRS wave as 1 Label the time in seconds every 0.2 seconds (0.2, 0.4, 0.6 and 0.8) Part (b) State the wave part at points X and Y and the physical change that takes place Point X: Wave part: P wave Physical change: atria contract Point Y: Wave part: QRS wave Physical change: ventricles contract
+Electrodes are placed on the surface of a body to record an ECG trace for a healthy person.
+The trace obtained for one heartbeat is shown below.
+(a) Label the approximate scales on each axis.
+(b) State the name of the wave part at points X and Y and the physical change that takes place.
+Label the approximate scales on each axis
+Draw dotted lines from each key property of the graph to the correct axis
+Label the maximum potential difference (in mV) of the QRS wave as 1
+Label the time in seconds every 0.2 seconds (0.2, 0.4, 0.6 and 0.8)
+State the wave part at points X and Y and the physical change that takes place
+Point X:
+Wave part: P wave
+Physical change: atria contract
+Point Y:
+Wave part: QRS wave
+Physical change: ventricles contract
+Examiner Tips and Tricks You only need to know what an ECG looks like for a healthy person and not for someone with a heart problem. You need to remember the ECG graph very carefully, as you may be asked to sketch it on an axis or label the axis of a pre-drawn waveform. Remember that the plural of atrium is atria and not atriums.
+You only need to know what an ECG looks like for a healthy person and not for someone with a heart problem. You need to remember the ECG graph very carefully, as you may be asked to sketch it on an axis or label the axis of a pre-drawn waveform.
+Remember that the plural of atrium is atria and not atriums.

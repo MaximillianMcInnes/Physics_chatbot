@@ -1,0 +1,87 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-6-angular-momentum
+HEADING: Angular Momentum ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Angular Momentum Angular momentum is the rotational equivalent of linear momentum, which is defined by mass × velocity, or Therefore, angular momentum is defined by Where: = angular momentum (kg m 2 rad s −1 ) = moment of inertia (kg m 2 ) = angular velocity (rad s −1 ) The angular momentum of a rotating wheel is the product of the moment of inertia and angular velocity of the wheel Angular Momentum of a Point Mass The moment of inertia of a rotating point mass m which is a distance r from an axis of rotation is equal to The angular velocity of the point mass is given by Therefore, the angular momentum of the point mass is equal to Worked Example A horizontal rigid bar is pivoted at its centre so that it is free to rotate. A point particle of mass 3 M is attached at one end of the bar and a container is attached at the other end, both are at a distance of R from the central pivot. A point particle of mass M moves with velocity v at right angles towards the stationary rod as shown in the diagram. The particle M collides with the container which is at a distance of R just before the collision from the centre of the point of rotation of the bar and stays within it as the system starts to rotate about the vertical axis with angular velocity ω . The mass of the rod and the container are negligible. Write an expression for the angular momentum of the system about the vertical axis just after the collision, in terms of M , R and ω. Answer: The whole system rotates with an angular velocity of ω The rod and the container as massless, so we only need to consider the angular momentum of the two masses M and 3 M Therefore, the angular momentum of the system after the collision is: Examiner Tips and Tricks You should know that objects travelling in straight lines can have angular momentum - just make sure you understand that it all depends on the position of the object in relation to the axis of rotation being considered Conservation of Angular Momentum As with linear momentum, angular momentum is always conserved The principle of conservation of angular momentum states: The angular momentum of a system always remains constant, unless a net torque is acting on the system This conservation law has many real-world applications, for example a person on a spinning chair spins faster while their arms and legs are contracted and slower while extended objects in elliptical orbits travel faster nearer the object they orbit and slower when further away ice skaters can change their rotational velocity by extending or contracting their arms tornados spin faster as their radius decreases Ice skaters can change their moment of inertia by extending or contracting their arms and legs. Due to the conservation of angular momentum, this allows them to spin faster or slower Problems involving a change in angular momentum can be solved using the equation: Where: = initial moment of inertia (kg m 2 ) = initial angular velocity (rad s −1 ) = final moment of inertia (kg m 2 ) = final angular velocity (rad s −1 ) Worked Example The diagram shows the different positions of a diver between jumping off a springboard and entering the water. During their fall, the diver pulls their arms and legs into a tight tuck position while in the air and straightens them before entering the water. Which row correctly describes the changes to the diver's moment of inertia and angular velocity as they bring their limbs closer to their body? moment of inertia angular velocity A. increases increases B. decreases increases C. increases decreases D. decreases decreases Answer: B After the diver leaves the springboard, there is no longer a resultant torque acting on them This means their angular momentum remains constant throughout the dive Due to the conservation of angular momentum: When the diver tucks their arms and legs in closer to their body, they decrease their moment of inertia This eliminates options A & C Therefore, to conserve angular momentum, when the diver's moment of inertia decreases, their angular velocity must increase Worked Example A spherical star of mass M and radius R rotates about its axis. The star explodes, ejecting mass in space radially and symmetrically. The remaining star is left with a mass of and a radius of . Calculate the ratio of the star’s final angular velocity to its initial angular velocity. The moment of inertia of a sphere is Answer: Before the star explodes: Initial moment of inertia, Initial angular velocity = After the star explodes: Final moment of inertia, Final angular velocity = From the conservation of angular momentum: Therefore, the ratio of the star’s final angular velocity to its initial angular velocity is:
+Angular Momentum Angular momentum is the rotational equivalent of linear momentum, which is defined by mass × velocity, or Therefore, angular momentum is defined by Where: = angular momentum (kg m 2 rad s −1 ) = moment of inertia (kg m 2 ) = angular velocity (rad s −1 ) The angular momentum of a rotating wheel is the product of the moment of inertia and angular velocity of the wheel Angular Momentum of a Point Mass The moment of inertia of a rotating point mass m which is a distance r from an axis of rotation is equal to The angular velocity of the point mass is given by Therefore, the angular momentum of the point mass is equal to
+Angular momentum is the rotational equivalent of linear momentum, which is defined by mass × velocity, or
+Therefore, angular momentum is defined by
+Where: = angular momentum (kg m 2 rad s −1 ) = moment of inertia (kg m 2 ) = angular velocity (rad s −1 )
+Where:
+= angular momentum (kg m 2 rad s −1 )
+= moment of inertia (kg m 2 )
+= angular velocity (rad s −1 )
+The angular momentum of a rotating wheel is the product of the moment of inertia and angular velocity of the wheel
+Angular Momentum of a Point Mass
+The moment of inertia of a rotating point mass m which is a distance r from an axis of rotation is equal to
+The angular velocity of the point mass is given by
+Therefore, the angular momentum of the point mass is equal to
+Worked Example A horizontal rigid bar is pivoted at its centre so that it is free to rotate. A point particle of mass 3 M is attached at one end of the bar and a container is attached at the other end, both are at a distance of R from the central pivot. A point particle of mass M moves with velocity v at right angles towards the stationary rod as shown in the diagram. The particle M collides with the container which is at a distance of R just before the collision from the centre of the point of rotation of the bar and stays within it as the system starts to rotate about the vertical axis with angular velocity ω . The mass of the rod and the container are negligible. Write an expression for the angular momentum of the system about the vertical axis just after the collision, in terms of M , R and ω. Answer: The whole system rotates with an angular velocity of ω The rod and the container as massless, so we only need to consider the angular momentum of the two masses M and 3 M Therefore, the angular momentum of the system after the collision is:
+Worked Example
+A horizontal rigid bar is pivoted at its centre so that it is free to rotate. A point particle of mass 3 M is attached at one end of the bar and a container is attached at the other end, both are at a distance of R from the central pivot.
+A point particle of mass M moves with velocity v at right angles towards the stationary rod as shown in the diagram.
+The particle M collides with the container which is at a distance of R just before the collision from the centre of the point of rotation of the bar and stays within it as the system starts to rotate about the vertical axis with angular velocity ω .
+The mass of the rod and the container are negligible.
+Write an expression for the angular momentum of the system about the vertical axis just after the collision, in terms of M , R and ω.
+Answer:
+The whole system rotates with an angular velocity of ω
+The rod and the container as massless, so we only need to consider the angular momentum of the two masses M and 3 M
+Therefore, the angular momentum of the system after the collision is:
+Examiner Tips and Tricks You should know that objects travelling in straight lines can have angular momentum - just make sure you understand that it all depends on the position of the object in relation to the axis of rotation being considered
+Examiner Tips and Tricks
+You should know that objects travelling in straight lines can have angular momentum - just make sure you understand that it all depends on the position of the object in relation to the axis of rotation being considered
+Conservation of Angular Momentum As with linear momentum, angular momentum is always conserved The principle of conservation of angular momentum states: The angular momentum of a system always remains constant, unless a net torque is acting on the system This conservation law has many real-world applications, for example a person on a spinning chair spins faster while their arms and legs are contracted and slower while extended objects in elliptical orbits travel faster nearer the object they orbit and slower when further away ice skaters can change their rotational velocity by extending or contracting their arms tornados spin faster as their radius decreases Ice skaters can change their moment of inertia by extending or contracting their arms and legs. Due to the conservation of angular momentum, this allows them to spin faster or slower Problems involving a change in angular momentum can be solved using the equation: Where: = initial moment of inertia (kg m 2 ) = initial angular velocity (rad s −1 ) = final moment of inertia (kg m 2 ) = final angular velocity (rad s −1 )
+Conservation of Angular Momentum
+As with linear momentum, angular momentum is always conserved
+The principle of conservation of angular momentum states:
+The angular momentum of a system always remains constant, unless a net torque is acting on the system
+This conservation law has many real-world applications, for example a person on a spinning chair spins faster while their arms and legs are contracted and slower while extended objects in elliptical orbits travel faster nearer the object they orbit and slower when further away ice skaters can change their rotational velocity by extending or contracting their arms tornados spin faster as their radius decreases
+This conservation law has many real-world applications, for example
+a person on a spinning chair spins faster while their arms and legs are contracted and slower while extended
+objects in elliptical orbits travel faster nearer the object they orbit and slower when further away
+ice skaters can change their rotational velocity by extending or contracting their arms
+tornados spin faster as their radius decreases
+Ice skaters can change their moment of inertia by extending or contracting their arms and legs. Due to the conservation of angular momentum, this allows them to spin faster or slower
+Problems involving a change in angular momentum can be solved using the equation:
+Where: = initial moment of inertia (kg m 2 ) = initial angular velocity (rad s −1 ) = final moment of inertia (kg m 2 ) = final angular velocity (rad s −1 )
+= initial moment of inertia (kg m 2 )
+= initial angular velocity (rad s −1 )
+= final moment of inertia (kg m 2 )
+= final angular velocity (rad s −1 )
+Worked Example The diagram shows the different positions of a diver between jumping off a springboard and entering the water. During their fall, the diver pulls their arms and legs into a tight tuck position while in the air and straightens them before entering the water. Which row correctly describes the changes to the diver's moment of inertia and angular velocity as they bring their limbs closer to their body? moment of inertia angular velocity A. increases increases B. decreases increases C. increases decreases D. decreases decreases Answer: B After the diver leaves the springboard, there is no longer a resultant torque acting on them This means their angular momentum remains constant throughout the dive Due to the conservation of angular momentum: When the diver tucks their arms and legs in closer to their body, they decrease their moment of inertia This eliminates options A & C Therefore, to conserve angular momentum, when the diver's moment of inertia decreases, their angular velocity must increase
+The diagram shows the different positions of a diver between jumping off a springboard and entering the water.
+During their fall, the diver pulls their arms and legs into a tight tuck position while in the air and straightens them before entering the water.
+Which row correctly describes the changes to the diver's moment of inertia and angular velocity as they bring their limbs closer to their body?
+moment of inertia angular velocity A. increases increases B. decreases increases C. increases decreases D. decreases decreases
+moment of inertia
+angular velocity
+A.
+increases
+B.
+decreases
+C.
+D.
+Answer: B
+After the diver leaves the springboard, there is no longer a resultant torque acting on them This means their angular momentum remains constant throughout the dive
+After the diver leaves the springboard, there is no longer a resultant torque acting on them
+This means their angular momentum remains constant throughout the dive
+Due to the conservation of angular momentum:
+When the diver tucks their arms and legs in closer to their body, they decrease their moment of inertia This eliminates options A & C
+When the diver tucks their arms and legs in closer to their body, they decrease their moment of inertia
+This eliminates options A & C
+Therefore, to conserve angular momentum, when the diver's moment of inertia decreases, their angular velocity must increase
+Worked Example A spherical star of mass M and radius R rotates about its axis. The star explodes, ejecting mass in space radially and symmetrically. The remaining star is left with a mass of and a radius of . Calculate the ratio of the star’s final angular velocity to its initial angular velocity. The moment of inertia of a sphere is Answer: Before the star explodes: Initial moment of inertia, Initial angular velocity = After the star explodes: Final moment of inertia, Final angular velocity = From the conservation of angular momentum: Therefore, the ratio of the star’s final angular velocity to its initial angular velocity is:
+A spherical star of mass M and radius R rotates about its axis. The star explodes, ejecting mass in space radially and symmetrically. The remaining star is left with a mass of and a radius of .
+Calculate the ratio of the star’s final angular velocity to its initial angular velocity.
+The moment of inertia of a sphere is
+Before the star explodes: Initial moment of inertia, Initial angular velocity =
+Before the star explodes:
+Initial moment of inertia,
+Initial angular velocity =
+After the star explodes: Final moment of inertia, Final angular velocity =
+After the star explodes:
+Final moment of inertia,
+Final angular velocity =
+From the conservation of angular momentum:
+Therefore, the ratio of the star’s final angular velocity to its initial angular velocity is:

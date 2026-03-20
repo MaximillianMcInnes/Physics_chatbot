@@ -1,0 +1,59 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/1-measurements-and-their-errors/1-2-limitation-of-physical-measurements/1-2-2-calculating-uncertainties
+HEADING: Calculating Uncertainties ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Uncertainty There is always a degree of uncertainty when measurements are taken; the uncertainty can be thought of as the difference between the actual reading taken (caused by the equipment or techniques used) and the true value Uncertainties are not the same as errors Errors can be thought of as issues with equipment or methodology that cause a reading to be different from the true value The uncertainty is a range of values around a measurement within which the true value is expected to lie, and is an estimate For example, if the true value of the mass of a box is 950 g, but a systematic error with a balance gives an actual reading of 952 g, the uncertainty is ±2 g These uncertainties can be represented in a number of ways: Absolute Uncertainty: where uncertainty is given as a fixed quantity Fractional Uncertainty: where uncertainty is given as a fraction of the measurement Percentage Uncertainty: where uncertainty is given as a percentage of the measurement To find uncertainties in different situations: The uncertainty in a reading: ± half the smallest division The uncertainty in a measurement: at least ±1 smallest division The uncertainty in repeated data: half the range i.e. ± ½ (largest - smallest value) The uncertainty in digital readings: ± the last significant digit unless otherwise quoted How to calculate absolute, fractional and percentage uncertainty Examiner Tips and Tricks Absolute uncertainties should always be quoted to one significant figure Fractional and percentage uncertainties should be quoted to no more than two significant figures Then the number of significant figures in the final result must be rounded to match the precision of the absolute uncertainty Combining Uncertainties When combining uncertainties, the rules are as follows: Adding / Subtracting Data Add together the absolute uncertainties Multiplying / Dividing Data Add the percentage or fractional uncertainties Raising to a Power Multiply the percentage uncertainty by the power Worked Example A student achieves the following results in their experiment for the angular frequency, ω. 0.154, 0.153, 0.159, 0.147, 0.152 Calculate the percentage uncertainty in the mean value of ω. Answer: Step 1: Calculate the mean value mean ω = = 0.153 rad s –1 Step 2: Calculate half the range (this is the uncertainty for multiple readings) uncertainty in ω = × (0.159 – 0.147) = 0.006 rad s –1 Step 3: Calculate percentage uncertainty × 100 % = × 100 % × 100 % = 3.92 = 4% ω = 0.153 rad s –1 ± 4% Examiner Tips and Tricks Remember: Absolute uncertainties (denoted by Δ) have the same units as the quantity Percentage uncertainties have no units The uncertainty in numbers and constants, such as π, is taken to be zero Uncertainties in trigonometric and logarithmic functions will not be tested in the exam, so just remember these rules and you’ll be fine!
+Uncertainty There is always a degree of uncertainty when measurements are taken; the uncertainty can be thought of as the difference between the actual reading taken (caused by the equipment or techniques used) and the true value Uncertainties are not the same as errors Errors can be thought of as issues with equipment or methodology that cause a reading to be different from the true value The uncertainty is a range of values around a measurement within which the true value is expected to lie, and is an estimate For example, if the true value of the mass of a box is 950 g, but a systematic error with a balance gives an actual reading of 952 g, the uncertainty is ±2 g These uncertainties can be represented in a number of ways: Absolute Uncertainty: where uncertainty is given as a fixed quantity Fractional Uncertainty: where uncertainty is given as a fraction of the measurement Percentage Uncertainty: where uncertainty is given as a percentage of the measurement To find uncertainties in different situations: The uncertainty in a reading: ± half the smallest division The uncertainty in a measurement: at least ±1 smallest division The uncertainty in repeated data: half the range i.e. ± ½ (largest - smallest value) The uncertainty in digital readings: ± the last significant digit unless otherwise quoted How to calculate absolute, fractional and percentage uncertainty
+Uncertainty
+There is always a degree of uncertainty when measurements are taken; the uncertainty can be thought of as the difference between the actual reading taken (caused by the equipment or techniques used) and the true value
+Uncertainties are not the same as errors Errors can be thought of as issues with equipment or methodology that cause a reading to be different from the true value The uncertainty is a range of values around a measurement within which the true value is expected to lie, and is an estimate
+Uncertainties are not the same as errors
+Errors can be thought of as issues with equipment or methodology that cause a reading to be different from the true value
+The uncertainty is a range of values around a measurement within which the true value is expected to lie, and is an estimate
+For example, if the true value of the mass of a box is 950 g, but a systematic error with a balance gives an actual reading of 952 g, the uncertainty is ±2 g
+These uncertainties can be represented in a number of ways: Absolute Uncertainty: where uncertainty is given as a fixed quantity Fractional Uncertainty: where uncertainty is given as a fraction of the measurement Percentage Uncertainty: where uncertainty is given as a percentage of the measurement
+These uncertainties can be represented in a number of ways:
+Absolute Uncertainty: where uncertainty is given as a fixed quantity
+Fractional Uncertainty: where uncertainty is given as a fraction of the measurement
+Percentage Uncertainty: where uncertainty is given as a percentage of the measurement
+To find uncertainties in different situations:
+The uncertainty in a reading: ± half the smallest division
+The uncertainty in a measurement: at least ±1 smallest division
+The uncertainty in repeated data: half the range i.e. ± ½ (largest - smallest value)
+The uncertainty in digital readings: ± the last significant digit unless otherwise quoted
+How to calculate absolute, fractional and percentage uncertainty
+Examiner Tips and Tricks Absolute uncertainties should always be quoted to one significant figure Fractional and percentage uncertainties should be quoted to no more than two significant figures Then the number of significant figures in the final result must be rounded to match the precision of the absolute uncertainty
+Examiner Tips and Tricks
+Absolute uncertainties should always be quoted to one significant figure
+Fractional and percentage uncertainties should be quoted to no more than two significant figures
+Then the number of significant figures in the final result must be rounded to match the precision of the absolute uncertainty
+Combining Uncertainties When combining uncertainties, the rules are as follows: Adding / Subtracting Data Add together the absolute uncertainties Multiplying / Dividing Data Add the percentage or fractional uncertainties Raising to a Power Multiply the percentage uncertainty by the power
+Combining Uncertainties
+When combining uncertainties, the rules are as follows:
+Adding / Subtracting Data
+Add together the absolute uncertainties
+Multiplying / Dividing Data
+Add the percentage or fractional uncertainties
+Raising to a Power
+Multiply the percentage uncertainty by the power
+Worked Example A student achieves the following results in their experiment for the angular frequency, ω. 0.154, 0.153, 0.159, 0.147, 0.152 Calculate the percentage uncertainty in the mean value of ω. Answer: Step 1: Calculate the mean value mean ω = = 0.153 rad s –1 Step 2: Calculate half the range (this is the uncertainty for multiple readings) uncertainty in ω = × (0.159 – 0.147) = 0.006 rad s –1 Step 3: Calculate percentage uncertainty × 100 % = × 100 % × 100 % = 3.92 = 4% ω = 0.153 rad s –1 ± 4%
+Worked Example
+A student achieves the following results in their experiment for the angular frequency, ω.
+0.154, 0.153, 0.159, 0.147, 0.152
+Calculate the percentage uncertainty in the mean value of ω.
+Answer:
+Step 1: Calculate the mean value
+mean ω = = 0.153 rad s –1
+Step 2: Calculate half the range (this is the uncertainty for multiple readings)
+uncertainty in ω = × (0.159 – 0.147) = 0.006 rad s –1
+Step 3: Calculate percentage uncertainty
+× 100 % = × 100 %
+× 100 % = 3.92 = 4%
+ω = 0.153 rad s –1 ± 4%
+Examiner Tips and Tricks Remember: Absolute uncertainties (denoted by Δ) have the same units as the quantity Percentage uncertainties have no units The uncertainty in numbers and constants, such as π, is taken to be zero Uncertainties in trigonometric and logarithmic functions will not be tested in the exam, so just remember these rules and you’ll be fine!
+Remember:
+Absolute uncertainties (denoted by Δ) have the same units as the quantity
+Percentage uncertainties have no units
+The uncertainty in numbers and constants, such as π, is taken to be zero
+Uncertainties in trigonometric and logarithmic functions will not be tested in the exam, so just remember these rules and you’ll be fine!

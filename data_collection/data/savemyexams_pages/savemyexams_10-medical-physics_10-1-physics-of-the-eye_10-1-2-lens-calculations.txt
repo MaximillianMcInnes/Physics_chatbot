@@ -1,0 +1,116 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-1-physics-of-the-eye/10-1-2-lens-calculations
+HEADING: Lens Calculations ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Lens Calculations Power The power of a lens is calculated using the following equation: Where: P = power (dioptres, D) f = focal length of the lens (m) The focal length is measured from the centre of the lens Power is inversely proportiona l to focal length The more powerful the lens, the shorter the focal length For a diverging (concave) lens , where the focal length is negative, power has a negative value Worked Example A diverging lens has a focal length of −1.5 cm. Calculate the power of the lens. Answer: Step 1: Write the known values Focal length, f = −1.5 cm Step 2: Convert the focal length into m 1 m = 100 cm So, −1.5 cm = −1.5 ÷ 100 = −0.015 m Step 3: Recall the equation for power and focal length Step 4: Substitute for focal length into the equation Step 5: Calculate the power of the lens, P D Worked Example A lens is set up between a candle and a screen. All the equipment is arranged perpendicular to the desk. The image of the candle is in focus when the screen is positioned 60 cm from the lens. Determine the power of the lens. Answer: Step 1: Write the known quantities in S.I. units The image is in focus, so the screen is at the focal point Focal length, = 60 cm = 0.6 m Step 2: Write the equation for power and substitute the values Step 3: Give the full answer, to correct significant figures and with units The power of the lens, P = 1.7 D Examiner Tips and Tricks The explanations above relate to life in a common-sense way. Stronger, more powerful reading glasses are used by people who have the weakest eyesight. They need lenses to do more of the focusing for them. The Lens Equation This equation can be applied to all thin converging and diverging lenses The equation relates the focal length of the lens to the distances from the lens to the image and the object Where: f = focal length (m) v = image distance from lens (m) u = object distance from lens (m) f , v and u do not all have to be in meters but they do have to be in the same units They are measured from the centre of the lens Labels of f, u and v on Converging and Diverging Ray Diagrams Examples of where the lens equation can be used Remember that: The values are positive if the image is real v is negative if the image is virtual f is negative if the lens is diverging Worked Example A student investigates the focal length of a thin lens by using it to project an image onto a screen. The object is set 50.0 cm from the centre of the lens, and the screen is moved back and forth until the inverted image is sharp. This position is found to be 75.0 cm from the lens. Determine the focal length of the lens. Answer: Step 1: Write the known values Distance from object to lens, u = 50.0 cm Distance from image to lens, v = 75.0 cm Step 2: Write the equation and substitute in the values f = 30 cm Examiner Tips and Tricks It is easy to forget the last step in a calculation like this one. Remember that you are calculating not f , and that you need to take the reciprocal of your answer. Linear Magnification Magnification as a Ratio of Heights Magnification means how much larger the image is than the object This is the ratio of the image/object height Where: m = magnification h i = image height (m) h o = object height (m) Magnification as a Ratio of Distances A diagram of an object and its real image will produce similar triangles Therefore, the ratio of magnification is also represented by comparing the distance from the lens to the object and the image Real Image Magnification as a Ratio of Image and Object Distances The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a real image This also works for virtual images Virtual Image Magnification as a Ratio of Image and Object Distances The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a virtual image Where: m = magnification v = distance from lens to image (m) u = distance from lens to object (m) Since magnification is a ratio , it has no units Worked Example A magnifying glass has a focal length of 15 cm. It is held 5 cm away from a component which is being examined. Determine the magnification of the image. Answer: Step 1: Write the known values Focal length, f = 15 cm Distance between object and lens, u = 5 cm Step 2: Use the lens formula and rearrange to make v the subject The negative sign indicates a virtual image (expected for a magnifying glass) and is ignored for the next step Step 3: Use the magnification formula to find the magnification of the image Worked Example A person sees an image from a magnifying glass. Calculate the magnification of this image. Clearly show your working on the diagram. Answer: Step 1: Measure the height of the object from the scale The object is 10 cm Step 2: Measure the height of image from the scale The image is 20 cm Step 3: Substitute values into the magnification equation Examiner Tips and Tricks The most common mistake with magnification calculations is to get the formula upside down. Do a 'sanity check' by looking at the answer to make sure that magnified objects have got bigger (m > 1) and diminished ones smaller (m < 1). Since we are working with ratios (so the units get cancelled out) this is one of those rare times when you don't need to convert everything to SI units, but do check that your units are all the same - for example all distances in cm.
+Lens Calculations Power The power of a lens is calculated using the following equation: Where: P = power (dioptres, D) f = focal length of the lens (m) The focal length is measured from the centre of the lens Power is inversely proportiona l to focal length The more powerful the lens, the shorter the focal length For a diverging (concave) lens , where the focal length is negative, power has a negative value
+Power
+The power of a lens is calculated using the following equation:
+Where: P = power (dioptres, D) f = focal length of the lens (m)
+Where:
+P = power (dioptres, D)
+f = focal length of the lens (m)
+The focal length is measured from the centre of the lens
+Power is inversely proportiona l to focal length The more powerful the lens, the shorter the focal length
+Power is inversely proportiona l to focal length
+The more powerful the lens, the shorter the focal length
+For a diverging (concave) lens , where the focal length is negative, power has a negative value
+Worked Example A diverging lens has a focal length of −1.5 cm. Calculate the power of the lens. Answer: Step 1: Write the known values Focal length, f = −1.5 cm Step 2: Convert the focal length into m 1 m = 100 cm So, −1.5 cm = −1.5 ÷ 100 = −0.015 m Step 3: Recall the equation for power and focal length Step 4: Substitute for focal length into the equation Step 5: Calculate the power of the lens, P D
+Worked Example
+A diverging lens has a focal length of −1.5 cm.
+Calculate the power of the lens.
+Answer:
+Step 1: Write the known values
+Focal length, f = −1.5 cm
+Step 2: Convert the focal length into m
+1 m = 100 cm
+So, −1.5 cm = −1.5 ÷ 100 = −0.015 m
+Step 3: Recall the equation for power and focal length
+Step 4: Substitute for focal length into the equation
+Step 5: Calculate the power of the lens, P
+D
+Worked Example A lens is set up between a candle and a screen. All the equipment is arranged perpendicular to the desk. The image of the candle is in focus when the screen is positioned 60 cm from the lens. Determine the power of the lens. Answer: Step 1: Write the known quantities in S.I. units The image is in focus, so the screen is at the focal point Focal length, = 60 cm = 0.6 m Step 2: Write the equation for power and substitute the values Step 3: Give the full answer, to correct significant figures and with units The power of the lens, P = 1.7 D
+A lens is set up between a candle and a screen. All the equipment is arranged perpendicular to the desk. The image of the candle is in focus when the screen is positioned 60 cm from the lens.
+Determine the power of the lens.
+Step 1: Write the known quantities in S.I. units
+The image is in focus, so the screen is at the focal point
+Focal length, = 60 cm = 0.6 m
+Step 2: Write the equation for power and substitute the values
+Step 3: Give the full answer, to correct significant figures and with units
+The power of the lens, P = 1.7 D
+Examiner Tips and Tricks The explanations above relate to life in a common-sense way. Stronger, more powerful reading glasses are used by people who have the weakest eyesight. They need lenses to do more of the focusing for them.
+Examiner Tips and Tricks
+The explanations above relate to life in a common-sense way. Stronger, more powerful reading glasses are used by people who have the weakest eyesight. They need lenses to do more of the focusing for them.
+The Lens Equation This equation can be applied to all thin converging and diverging lenses The equation relates the focal length of the lens to the distances from the lens to the image and the object Where: f = focal length (m) v = image distance from lens (m) u = object distance from lens (m) f , v and u do not all have to be in meters but they do have to be in the same units They are measured from the centre of the lens Labels of f, u and v on Converging and Diverging Ray Diagrams Examples of where the lens equation can be used Remember that: The values are positive if the image is real v is negative if the image is virtual f is negative if the lens is diverging
+The Lens Equation
+This equation can be applied to all thin converging and diverging lenses
+The equation relates the focal length of the lens to the distances from the lens to the image and the object
+Where: f = focal length (m) v = image distance from lens (m) u = object distance from lens (m)
+f = focal length (m)
+v = image distance from lens (m)
+u = object distance from lens (m)
+f , v and u do not all have to be in meters but they do have to be in the same units They are measured from the centre of the lens
+f , v and u do not all have to be in meters but they do have to be in the same units
+They are measured from the centre of the lens
+Labels of f, u and v on Converging and Diverging Ray Diagrams
+Examples of where the lens equation can be used
+Remember that: The values are positive if the image is real v is negative if the image is virtual f is negative if the lens is diverging
+Remember that:
+The values are positive if the image is real
+v is negative if the image is virtual
+f is negative if the lens is diverging
+Worked Example A student investigates the focal length of a thin lens by using it to project an image onto a screen. The object is set 50.0 cm from the centre of the lens, and the screen is moved back and forth until the inverted image is sharp. This position is found to be 75.0 cm from the lens. Determine the focal length of the lens. Answer: Step 1: Write the known values Distance from object to lens, u = 50.0 cm Distance from image to lens, v = 75.0 cm Step 2: Write the equation and substitute in the values f = 30 cm
+A student investigates the focal length of a thin lens by using it to project an image onto a screen.
+The object is set 50.0 cm from the centre of the lens, and the screen is moved back and forth until the inverted image is sharp. This position is found to be 75.0 cm from the lens.
+Determine the focal length of the lens.
+Distance from object to lens, u = 50.0 cm Distance from image to lens, v = 75.0 cm
+Distance from object to lens, u = 50.0 cm
+Distance from image to lens, v = 75.0 cm
+Step 2: Write the equation and substitute in the values
+f = 30 cm
+Examiner Tips and Tricks It is easy to forget the last step in a calculation like this one. Remember that you are calculating not f , and that you need to take the reciprocal of your answer.
+It is easy to forget the last step in a calculation like this one. Remember that you are calculating not f , and that you need to take the reciprocal of your answer.
+Linear Magnification Magnification as a Ratio of Heights Magnification means how much larger the image is than the object This is the ratio of the image/object height Where: m = magnification h i = image height (m) h o = object height (m) Magnification as a Ratio of Distances A diagram of an object and its real image will produce similar triangles Therefore, the ratio of magnification is also represented by comparing the distance from the lens to the object and the image Real Image Magnification as a Ratio of Image and Object Distances The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a real image This also works for virtual images Virtual Image Magnification as a Ratio of Image and Object Distances The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a virtual image Where: m = magnification v = distance from lens to image (m) u = distance from lens to object (m) Since magnification is a ratio , it has no units
+Linear Magnification
+Magnification as a Ratio of Heights
+Magnification means how much larger the image is than the object This is the ratio of the image/object height
+Magnification means how much larger the image is than the object
+This is the ratio of the image/object height
+Where: m = magnification h i = image height (m) h o = object height (m)
+m = magnification
+h i = image height (m)
+h o = object height (m)
+Magnification as a Ratio of Distances
+A diagram of an object and its real image will produce similar triangles Therefore, the ratio of magnification is also represented by comparing the distance from the lens to the object and the image
+A diagram of an object and its real image will produce similar triangles
+Therefore, the ratio of magnification is also represented by comparing the distance from the lens to the object and the image
+Real Image Magnification as a Ratio of Image and Object Distances
+The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a real image
+This also works for virtual images
+Virtual Image Magnification as a Ratio of Image and Object Distances
+The ratio of object distance u to image distance v is the same as object height h 1 to image height h 0 for a virtual image
+Where: m = magnification v = distance from lens to image (m) u = distance from lens to object (m)
+v = distance from lens to image (m)
+u = distance from lens to object (m)
+Since magnification is a ratio , it has no units
+Worked Example A magnifying glass has a focal length of 15 cm. It is held 5 cm away from a component which is being examined. Determine the magnification of the image. Answer: Step 1: Write the known values Focal length, f = 15 cm Distance between object and lens, u = 5 cm Step 2: Use the lens formula and rearrange to make v the subject The negative sign indicates a virtual image (expected for a magnifying glass) and is ignored for the next step Step 3: Use the magnification formula to find the magnification of the image
+A magnifying glass has a focal length of 15 cm. It is held 5 cm away from a component which is being examined.
+Determine the magnification of the image.
+Focal length, f = 15 cm
+Distance between object and lens, u = 5 cm
+Step 2: Use the lens formula and rearrange to make v the subject
+The negative sign indicates a virtual image (expected for a magnifying glass) and is ignored for the next step
+Step 3: Use the magnification formula to find the magnification of the image
+Worked Example A person sees an image from a magnifying glass. Calculate the magnification of this image. Clearly show your working on the diagram. Answer: Step 1: Measure the height of the object from the scale The object is 10 cm Step 2: Measure the height of image from the scale The image is 20 cm Step 3: Substitute values into the magnification equation
+A person sees an image from a magnifying glass.
+Calculate the magnification of this image. Clearly show your working on the diagram.
+Step 1: Measure the height of the object from the scale
+The object is 10 cm
+Step 2: Measure the height of image from the scale
+The image is 20 cm
+Step 3: Substitute values into the magnification equation
+Examiner Tips and Tricks The most common mistake with magnification calculations is to get the formula upside down. Do a 'sanity check' by looking at the answer to make sure that magnified objects have got bigger (m > 1) and diminished ones smaller (m < 1). Since we are working with ratios (so the units get cancelled out) this is one of those rare times when you don't need to convert everything to SI units, but do check that your units are all the same - for example all distances in cm.
+The most common mistake with magnification calculations is to get the formula upside down.
+Do a 'sanity check' by looking at the answer to make sure that magnified objects have got bigger (m > 1) and diminished ones smaller (m < 1).
+Since we are working with ratios (so the units get cancelled out) this is one of those rare times when you don't need to convert everything to SI units, but do check that your units are all the same - for example all distances in cm.

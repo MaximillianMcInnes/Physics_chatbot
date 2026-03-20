@@ -1,0 +1,101 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-3-equations-of-motion/4-3-4-projectile-motion
+HEADING: Projectile Motion ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Projectile Motion What is a projectile? A projectile is a particle moving freely (non-powered), under gravity, in a two-dimensional plane Examples of projectile motion include throwing a ball, jumping off a diving board and hitting a baseball with a baseball bat Examples of objects in a projectile motion trajectory An object is sent into a projectile motion trajectory with a resultant velocity , u at an angle , θ to the horizontal Examples of this include a ball thrown from a height and a cannonball launched from a cannon An object in a projectile motion trajectory has a resultant velocity at a given angle to the horizontal ground Some key terms to know, and how to calculate them, are: Time of flight (total time): how long the projectile is in the air. For typical projectile motion, the time to the maximum height is half of the total time Maximum height attained: the height at which the projectile is momentarily at rest This is when the vertical velocity component = 0 When the projectile is released and lands on the ground the projectile is at its maximum height when half of its total time has elapsed Range: the horizontal distance travelled by the projectile An object in projectile motion will have a vertical velocity of zero at maximum height when half the time has elapsed Horizontal and Vertical Components The trajectory of an object undergoing projectile motion consists of a vertical component and a horizontal component These quantities are independent of each other Displacement, velocity and acceleration are all vector quantities that are different in both components They need to be evaluated separately using the SUVAT Equations Horizontal Component Vertical Component Displacement Maximum range at the end of the motion when the total time has elapsed Half the range at the maximum height when half the time has elapsed Maximum height is at the top of the motion when half the time has elapsed Velocity Constant Zero at maximum height Acceleration Zero (because velocity remains constant) Acceleration of free fall, g = 9.8 ms −2 Positive when an object is falling towards Earth Negative when an object is moving away from Earth Acceleration and horizontal velocity are always constant whilst vertical velocity changes The resultant velocity of an object in projectile motion can be split into its horizontal and vertical vector components using trigonometry where: Vertical component = opposite side of the projectile triangle opposite = sin θ × hyp = u sin θ Horizontal component = adjacent side of the projectile triangle adjacent = cos θ × hyp = u cos θ The resultant velocity at an angle to the horizontal can be resolved using trigonometry into the horizontal and vertical components It can be helpful to see how different equations calculate different quantities using SUVAT equations Examples of obtaining the equations for total time, maximum height and range are shown below Examples of using SUVAT equations to determine the time of flight, maximum height and range of a projectile The effects of air resistance on projectile motion Any object moving through the air experiences air resistance which creates a force of drag This is caused by friction between the air molecules and the object The drag force:acts in the opposite direction to the direction of motion of the object Its horizontal component reduces its horizontal velocity and its range Its vertical component reduces its maximum height and causes a steeper gradient as it falls back to earth Factors that affect the motion of an object through a fluid A fluid is a term used to describe a liquid and a gas The mass and surface area of an object are the two main factors that affect the motion of an object: An object with a larger surface area will experience a larger air resistance An object with a greater mass will have a greater weight Solving problems with projectiles You may be required to calculate the missing quantities from the following projectile motion scenarios: Vertical projection Horizontal projection Projection at an angle , the most common scenario Worked Example To calculate vertical projection(free fall) A science museum designed an experiment to show the fall of a feather in a vertical glass vacuum tube. The time of fall from rest is 0.5 s. What it the length of the tube, L? Answer: Worked Example To calculate horizontal projection A motorcycle stunt-rider moving horizontally takes off from a point 1.25 m above the ground, landing 10 m away as shown. What was the speed at take-off? Answer: Worked Example To calculate projection at an angle A ball is thrown from a point P with an initial velocity u of 12 m s -1 at 50° to the horizontal. What is the value of the maximum height at Q? Answer: Examiner Tips and Tricks Make sure you remember the following: Deceleration is negative as the object rises sin θ is used for the vertical component of velocity and cos θ the horizontal component Units should be converted into standard units such a m, s, ms −1 and ms −2 At the top of the motion, at maximum height, the vertical velocity is zero
+Projectile Motion What is a projectile? A projectile is a particle moving freely (non-powered), under gravity, in a two-dimensional plane Examples of projectile motion include throwing a ball, jumping off a diving board and hitting a baseball with a baseball bat Examples of objects in a projectile motion trajectory An object is sent into a projectile motion trajectory with a resultant velocity , u at an angle , θ to the horizontal Examples of this include a ball thrown from a height and a cannonball launched from a cannon An object in a projectile motion trajectory has a resultant velocity at a given angle to the horizontal ground Some key terms to know, and how to calculate them, are: Time of flight (total time): how long the projectile is in the air. For typical projectile motion, the time to the maximum height is half of the total time Maximum height attained: the height at which the projectile is momentarily at rest This is when the vertical velocity component = 0 When the projectile is released and lands on the ground the projectile is at its maximum height when half of its total time has elapsed Range: the horizontal distance travelled by the projectile An object in projectile motion will have a vertical velocity of zero at maximum height when half the time has elapsed Horizontal and Vertical Components The trajectory of an object undergoing projectile motion consists of a vertical component and a horizontal component These quantities are independent of each other Displacement, velocity and acceleration are all vector quantities that are different in both components They need to be evaluated separately using the SUVAT Equations Horizontal Component Vertical Component Displacement Maximum range at the end of the motion when the total time has elapsed Half the range at the maximum height when half the time has elapsed Maximum height is at the top of the motion when half the time has elapsed Velocity Constant Zero at maximum height Acceleration Zero (because velocity remains constant) Acceleration of free fall, g = 9.8 ms −2 Positive when an object is falling towards Earth Negative when an object is moving away from Earth Acceleration and horizontal velocity are always constant whilst vertical velocity changes The resultant velocity of an object in projectile motion can be split into its horizontal and vertical vector components using trigonometry where: Vertical component = opposite side of the projectile triangle opposite = sin θ × hyp = u sin θ Horizontal component = adjacent side of the projectile triangle adjacent = cos θ × hyp = u cos θ The resultant velocity at an angle to the horizontal can be resolved using trigonometry into the horizontal and vertical components It can be helpful to see how different equations calculate different quantities using SUVAT equations Examples of obtaining the equations for total time, maximum height and range are shown below Examples of using SUVAT equations to determine the time of flight, maximum height and range of a projectile The effects of air resistance on projectile motion Any object moving through the air experiences air resistance which creates a force of drag This is caused by friction between the air molecules and the object The drag force:acts in the opposite direction to the direction of motion of the object Its horizontal component reduces its horizontal velocity and its range Its vertical component reduces its maximum height and causes a steeper gradient as it falls back to earth Factors that affect the motion of an object through a fluid A fluid is a term used to describe a liquid and a gas The mass and surface area of an object are the two main factors that affect the motion of an object: An object with a larger surface area will experience a larger air resistance An object with a greater mass will have a greater weight Solving problems with projectiles You may be required to calculate the missing quantities from the following projectile motion scenarios: Vertical projection Horizontal projection Projection at an angle , the most common scenario
+What is a projectile?
+A projectile is a particle moving freely (non-powered), under gravity, in a two-dimensional plane
+Examples of projectile motion include throwing a ball, jumping off a diving board and hitting a baseball with a baseball bat
+Examples of objects in a projectile motion trajectory
+An object is sent into a projectile motion trajectory with a resultant velocity , u at an angle , θ to the horizontal Examples of this include a ball thrown from a height and a cannonball launched from a cannon
+An object is sent into a projectile motion trajectory with a resultant velocity , u at an angle , θ to the horizontal
+Examples of this include a ball thrown from a height and a cannonball launched from a cannon
+An object in a projectile motion trajectory has a resultant velocity at a given angle to the horizontal ground
+Some key terms to know, and how to calculate them, are: Time of flight (total time): how long the projectile is in the air. For typical projectile motion, the time to the maximum height is half of the total time Maximum height attained: the height at which the projectile is momentarily at rest This is when the vertical velocity component = 0 When the projectile is released and lands on the ground the projectile is at its maximum height when half of its total time has elapsed Range: the horizontal distance travelled by the projectile
+Some key terms to know, and how to calculate them, are:
+Time of flight (total time): how long the projectile is in the air. For typical projectile motion, the time to the maximum height is half of the total time
+Time of flight (total time): how long the projectile is in the air.
+For typical projectile motion, the time to the maximum height is half of the total time
+Maximum height attained: the height at which the projectile is momentarily at rest This is when the vertical velocity component = 0 When the projectile is released and lands on the ground the projectile is at its maximum height when half of its total time has elapsed
+Maximum height attained: the height at which the projectile is momentarily at rest
+This is when the vertical velocity component = 0
+When the projectile is released and lands on the ground the projectile is at its maximum height when half of its total time has elapsed
+Range: the horizontal distance travelled by the projectile
+An object in projectile motion will have a vertical velocity of zero at maximum height when half the time has elapsed
+Horizontal and Vertical Components
+The trajectory of an object undergoing projectile motion consists of a vertical component and a horizontal component These quantities are independent of each other Displacement, velocity and acceleration are all vector quantities that are different in both components They need to be evaluated separately using the SUVAT Equations
+The trajectory of an object undergoing projectile motion consists of a vertical component and a horizontal component
+These quantities are independent of each other
+Displacement, velocity and acceleration are all vector quantities that are different in both components
+They need to be evaluated separately using the SUVAT Equations
+Horizontal Component Vertical Component Displacement Maximum range at the end of the motion when the total time has elapsed Half the range at the maximum height when half the time has elapsed Maximum height is at the top of the motion when half the time has elapsed Velocity Constant Zero at maximum height Acceleration Zero (because velocity remains constant) Acceleration of free fall, g = 9.8 ms −2 Positive when an object is falling towards Earth Negative when an object is moving away from Earth
+Horizontal Component
+Vertical Component
+Displacement
+Maximum range at the end of the motion when the total time has elapsed
+Half the range at the maximum height when half the time has elapsed
+Maximum height is at the top of the motion when half the time has elapsed
+Velocity
+Constant
+Zero at maximum height
+Acceleration
+Zero (because velocity remains constant)
+Acceleration of free fall, g = 9.8 ms −2
+Positive when an object is falling towards Earth
+Negative when an object is moving away from Earth
+Acceleration and horizontal velocity are always constant whilst vertical velocity changes
+The resultant velocity of an object in projectile motion can be split into its horizontal and vertical vector components using trigonometry where: Vertical component = opposite side of the projectile triangle opposite = sin θ × hyp = u sin θ Horizontal component = adjacent side of the projectile triangle adjacent = cos θ × hyp = u cos θ
+The resultant velocity of an object in projectile motion can be split into its horizontal and vertical vector components using trigonometry where:
+Vertical component = opposite side of the projectile triangle opposite = sin θ × hyp = u sin θ
+Vertical component = opposite side of the projectile triangle
+opposite = sin θ × hyp = u sin θ
+Horizontal component = adjacent side of the projectile triangle adjacent = cos θ × hyp = u cos θ
+Horizontal component = adjacent side of the projectile triangle
+adjacent = cos θ × hyp = u cos θ
+The resultant velocity at an angle to the horizontal can be resolved using trigonometry into the horizontal and vertical components
+It can be helpful to see how different equations calculate different quantities using SUVAT equations
+Examples of obtaining the equations for total time, maximum height and range are shown below
+Examples of using SUVAT equations to determine the time of flight, maximum height and range of a projectile
+The effects of air resistance on projectile motion
+Any object moving through the air experiences air resistance which creates a force of drag
+This is caused by friction between the air molecules and the object
+The drag force:acts in the opposite direction to the direction of motion of the object Its horizontal component reduces its horizontal velocity and its range Its vertical component reduces its maximum height and causes a steeper gradient as it falls back to earth
+The drag force:acts in the opposite direction to the direction of motion of the object
+Its horizontal component reduces its horizontal velocity and its range
+Its vertical component reduces its maximum height and causes a steeper gradient as it falls back to earth
+Factors that affect the motion of an object through a fluid
+A fluid is a term used to describe a liquid and a gas
+The mass and surface area of an object are the two main factors that affect the motion of an object: An object with a larger surface area will experience a larger air resistance An object with a greater mass will have a greater weight
+The mass and surface area of an object are the two main factors that affect the motion of an object:
+An object with a larger surface area will experience a larger air resistance
+An object with a greater mass will have a greater weight
+Solving problems with projectiles
+You may be required to calculate the missing quantities from the following projectile motion scenarios: Vertical projection Horizontal projection Projection at an angle , the most common scenario
+You may be required to calculate the missing quantities from the following projectile motion scenarios:
+Vertical projection
+Horizontal projection
+Projection at an angle , the most common scenario
+Worked Example To calculate vertical projection(free fall) A science museum designed an experiment to show the fall of a feather in a vertical glass vacuum tube. The time of fall from rest is 0.5 s. What it the length of the tube, L? Answer:
+Worked Example
+To calculate vertical projection(free fall)
+A science museum designed an experiment to show the fall of a feather in a vertical glass vacuum tube.
+The time of fall from rest is 0.5 s.
+What it the length of the tube, L?
+Answer:
+Worked Example To calculate horizontal projection A motorcycle stunt-rider moving horizontally takes off from a point 1.25 m above the ground, landing 10 m away as shown. What was the speed at take-off? Answer:
+To calculate horizontal projection
+A motorcycle stunt-rider moving horizontally takes off from a point 1.25 m above the ground, landing 10 m away as shown.
+What was the speed at take-off?
+Worked Example To calculate projection at an angle A ball is thrown from a point P with an initial velocity u of 12 m s -1 at 50° to the horizontal. What is the value of the maximum height at Q? Answer:
+To calculate projection at an angle
+A ball is thrown from a point P with an initial velocity u of 12 m s -1 at 50° to the horizontal.
+What is the value of the maximum height at Q?
+Examiner Tips and Tricks Make sure you remember the following: Deceleration is negative as the object rises sin θ is used for the vertical component of velocity and cos θ the horizontal component Units should be converted into standard units such a m, s, ms −1 and ms −2 At the top of the motion, at maximum height, the vertical velocity is zero
+Examiner Tips and Tricks
+Make sure you remember the following:
+Deceleration is negative as the object rises
+sin θ is used for the vertical component of velocity and cos θ the horizontal component
+Units should be converted into standard units such a m, s, ms −1 and ms −2
+At the top of the motion, at maximum height, the vertical velocity is zero

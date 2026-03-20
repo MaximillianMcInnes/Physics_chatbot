@@ -1,0 +1,63 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-1-alpha-beta-and-gamma-radiation/8-1-1-rutherford-scattering
+HEADING: Rutherford Scattering ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Rutherford Scattering Evidence for the structure of the atom was discovered by Ernest Rutherford at the beginning of the 20th century from the study of alpha particle scattering Rutherford passed beams of alpha particles through a thin sheet of gold foil to investigate: The different angles of deflection of the alpha particles The number of alpha particles that were deflected at each angle Apparatus for the Rutherford Scattering Experiment The setup for the scattering experiment consisted of: A source of alpha particles in a lead container A thin sheet of gold foil A movable detector An evacuated chamber Experimental set up for α-particle scattering Purpose of the lead container Alpha particles are emitted in all directions, so the source was placed in a lead container This was to produce a collimated beam of alpha particles This is because alpha particles are absorbed by lead, so a long narrow hole at the front allowed a concentrated beam of alpha particles to escape and be directed as needed Purpose of the thin sheet of gold foil The target material needed to be extremely thin , about 10 −6 m thick This is because a thicker foil would stop the alpha particles completely Gold was chosen due to its malleability , meaning it was easy to hammer into thin sheets Purpose of the evacuated chamber Alpha particles are highly ionising, meaning they only travel about 5 cm before interacting with molecules of air So, the apparatus was placed in an evacuated chamber This was to ensure that the alpha particles did not collide with any particles on their way to the foil target Findings from the Rutherford Scattering Experiment An alpha (α) particle is the nucleus of a helium atom, so it has a positive charge When α-particles are fired at thin gold foil, most of them go straight through but a small number bounce straight back The observations from Rutherford's experiment were: A. The majority of α-particles passed straight through the foil undeflected This suggests the atom is mostly empty space B. Some α-particles deflected through small angles of <10° This suggests there is a positive nucleus at the centre (since two positive charges would repel) C. Only a small number of α-particles deflected straight back at angles of >90° This suggests the nucleus is extremely small and is where most of the mass and charge of the atom are concentrated This led to the conclusion that atoms consist of small, dense positively charged nuclei surrounded by negatively charged electrons An atom: a small positive nucleus, surrounded by negative electrons Note: The atom is around 100,000 times larger than the nucleus! Worked Example In an α-particle scattering experiment, a student set up the apparatus below to determine the number n of α-particle incident per unit time on a detector held at various angles θ. Which of the following graphs best represents the variation of n with θ from 0 to 90°? Answer: A The Rutherford scattering experiment directed parallel beams of α-particles at gold foil The observations were: Most of the α-particles went straight through the foil The largest value of n will therefore be at small angles Some of the α-particles were deflected through small angles n drops quickly with increasing angle of deflection θ These observations fit with graph A
+Rutherford Scattering Evidence for the structure of the atom was discovered by Ernest Rutherford at the beginning of the 20th century from the study of alpha particle scattering Rutherford passed beams of alpha particles through a thin sheet of gold foil to investigate: The different angles of deflection of the alpha particles The number of alpha particles that were deflected at each angle Apparatus for the Rutherford Scattering Experiment The setup for the scattering experiment consisted of: A source of alpha particles in a lead container A thin sheet of gold foil A movable detector An evacuated chamber Experimental set up for α-particle scattering Purpose of the lead container Alpha particles are emitted in all directions, so the source was placed in a lead container This was to produce a collimated beam of alpha particles This is because alpha particles are absorbed by lead, so a long narrow hole at the front allowed a concentrated beam of alpha particles to escape and be directed as needed Purpose of the thin sheet of gold foil The target material needed to be extremely thin , about 10 −6 m thick This is because a thicker foil would stop the alpha particles completely Gold was chosen due to its malleability , meaning it was easy to hammer into thin sheets Purpose of the evacuated chamber Alpha particles are highly ionising, meaning they only travel about 5 cm before interacting with molecules of air So, the apparatus was placed in an evacuated chamber This was to ensure that the alpha particles did not collide with any particles on their way to the foil target Findings from the Rutherford Scattering Experiment An alpha (α) particle is the nucleus of a helium atom, so it has a positive charge When α-particles are fired at thin gold foil, most of them go straight through but a small number bounce straight back The observations from Rutherford's experiment were: A. The majority of α-particles passed straight through the foil undeflected This suggests the atom is mostly empty space B. Some α-particles deflected through small angles of <10° This suggests there is a positive nucleus at the centre (since two positive charges would repel) C. Only a small number of α-particles deflected straight back at angles of >90° This suggests the nucleus is extremely small and is where most of the mass and charge of the atom are concentrated This led to the conclusion that atoms consist of small, dense positively charged nuclei surrounded by negatively charged electrons An atom: a small positive nucleus, surrounded by negative electrons Note: The atom is around 100,000 times larger than the nucleus!
+Evidence for the structure of the atom was discovered by Ernest Rutherford at the beginning of the 20th century from the study of alpha particle scattering
+Rutherford passed beams of alpha particles through a thin sheet of gold foil to investigate: The different angles of deflection of the alpha particles The number of alpha particles that were deflected at each angle
+Rutherford passed beams of alpha particles through a thin sheet of gold foil to investigate:
+The different angles of deflection of the alpha particles
+The number of alpha particles that were deflected at each angle
+Apparatus for the Rutherford Scattering Experiment
+The setup for the scattering experiment consisted of: A source of alpha particles in a lead container A thin sheet of gold foil A movable detector An evacuated chamber
+The setup for the scattering experiment consisted of:
+A source of alpha particles in a lead container
+A thin sheet of gold foil
+A movable detector
+An evacuated chamber
+Experimental set up for α-particle scattering
+Purpose of the lead container
+Alpha particles are emitted in all directions, so the source was placed in a lead container
+This was to produce a collimated beam of alpha particles
+collimated beam
+This is because alpha particles are absorbed by lead, so a long narrow hole at the front allowed a concentrated beam of alpha particles to escape and be directed as needed
+Purpose of the thin sheet of gold foil
+The target material needed to be extremely thin , about 10 −6 m thick
+This is because a thicker foil would stop the alpha particles completely
+Gold was chosen due to its malleability , meaning it was easy to hammer into thin sheets
+malleability
+Purpose of the evacuated chamber
+Alpha particles are highly ionising, meaning they only travel about 5 cm before interacting with molecules of air
+So, the apparatus was placed in an evacuated chamber
+This was to ensure that the alpha particles did not collide with any particles on their way to the foil target
+Findings from the Rutherford Scattering Experiment
+An alpha (α) particle is the nucleus of a helium atom, so it has a positive charge
+When α-particles are fired at thin gold foil, most of them go straight through but a small number bounce straight back
+The observations from Rutherford's experiment were: A. The majority of α-particles passed straight through the foil undeflected
+The observations from Rutherford's experiment were:
+A. The majority of α-particles passed straight through the foil undeflected
+This suggests the atom is mostly empty space B. Some α-particles deflected through small angles of <10°
+This suggests the atom is mostly empty space
+B. Some α-particles deflected through small angles of <10°
+This suggests there is a positive nucleus at the centre (since two positive charges would repel) C. Only a small number of α-particles deflected straight back at angles of >90°
+This suggests there is a positive nucleus at the centre (since two positive charges would repel)
+C. Only a small number of α-particles deflected straight back at angles of >90°
+This suggests the nucleus is extremely small and is where most of the mass and charge of the atom are concentrated
+This led to the conclusion that atoms consist of small, dense positively charged nuclei surrounded by negatively charged electrons
+An atom: a small positive nucleus, surrounded by negative electrons
+Note: The atom is around 100,000 times larger than the nucleus!
+Worked Example In an α-particle scattering experiment, a student set up the apparatus below to determine the number n of α-particle incident per unit time on a detector held at various angles θ. Which of the following graphs best represents the variation of n with θ from 0 to 90°? Answer: A The Rutherford scattering experiment directed parallel beams of α-particles at gold foil The observations were: Most of the α-particles went straight through the foil The largest value of n will therefore be at small angles Some of the α-particles were deflected through small angles n drops quickly with increasing angle of deflection θ These observations fit with graph A
+Worked Example
+In an α-particle scattering experiment, a student set up the apparatus below to determine the number n of α-particle incident per unit time on a detector held at various angles θ.
+Which of the following graphs best represents the variation of n with θ from 0 to 90°?
+Answer: A
+The Rutherford scattering experiment directed parallel beams of α-particles at gold foil
+The observations were: Most of the α-particles went straight through the foil The largest value of n will therefore be at small angles Some of the α-particles were deflected through small angles n drops quickly with increasing angle of deflection θ
+The observations were:
+Most of the α-particles went straight through the foil
+The largest value of n will therefore be at small angles
+Some of the α-particles were deflected through small angles
+n drops quickly with increasing angle of deflection θ
+These observations fit with graph A

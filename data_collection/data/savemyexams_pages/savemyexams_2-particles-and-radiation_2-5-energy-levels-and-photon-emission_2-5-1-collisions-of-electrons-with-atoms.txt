@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-5-energy-levels-and-photon-emission/2-5-1-collisions-of-electrons-with-atoms
+HEADING: Collisions of Electrons with Atoms ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Ionisation & Excitation Electrons in an atom occupy certain energy states called energy levels Electrons will occupy the lowest possible energy level as this is the most stable configuration for the atom When an electron absorbs or emits a photon, it can move between these energy levels, or be removed from the atom completely Excitation Excitation is: When an electron absorbs enough energy to move up to a higher energy level When an electron moves to a higher energy level, the atom is said to be in an excited state To excite an electron to a higher energy level, it must absorb a photon Electrons can also move back down to a lower energy level by de-excitation To de-excite an electron to a lower energy level, it must emit a photon Ionisation Ionisation is: When an atom gains or loses an orbital electron and becomes charged When an electron is removed from an atom, the atom becomes ionised An electron can be removed from any energy level it occupies However, the ionisation energy of an atom is the minimum energy required to remove an electron from the ground state of an atom Fluorescent Tube Fluorescence occurs when an electron in an atomic orbital absorbs energy from an interaction with a photon or a collision with another electron Fluorescent tubes are partially evacuated glass tubes filled with low-pressure mercury vapour with a phosphor coating on the glass Fluorescent tubes operate on the basis of excitation and de-excitation of electrons leading to the emission of visible light When a high voltage is applied across the tube, electrons flow from the cathode to the anode producing an electron beam These beam electrons collide with the electrons in the mercury atoms transferring kinetic energy in the collision The atomic electrons in the mercury atoms gain enough energy for ionisation to occur A high energy state is unstable and so a high energy electron will de-excite i.e. move back to their original ground state As it de-excite, the electron releases energy by emitting photons in the UV range of wavelengths The UV photons then collide with electrons in the atoms of the phosphor coating and excite them into a higher energy level As these phosphor electrons de-excite , they do so in stages emitting photons in the visible light range of wavelengths
+Ionisation & Excitation
+Electrons in an atom occupy certain energy states called energy levels
+Electrons will occupy the lowest possible energy level as this is the most stable configuration for the atom
+When an electron absorbs or emits a photon, it can move between these energy levels, or be removed from the atom completely
+Excitation
+Excitation is: When an electron absorbs enough energy to move up to a higher energy level
+Excitation is:
+When an electron absorbs enough energy to move up to a higher energy level
+When an electron moves to a higher energy level, the atom is said to be in an excited state To excite an electron to a higher energy level, it must absorb a photon
+When an electron moves to a higher energy level, the atom is said to be in an excited state
+To excite an electron to a higher energy level, it must absorb a photon
+Electrons can also move back down to a lower energy level by de-excitation To de-excite an electron to a lower energy level, it must emit a photon
+Electrons can also move back down to a lower energy level by de-excitation
+To de-excite an electron to a lower energy level, it must emit a photon
+Ionisation
+Ionisation is: When an atom gains or loses an orbital electron and becomes charged
+Ionisation is:
+When an atom gains or loses an orbital electron and becomes charged
+When an electron is removed from an atom, the atom becomes ionised
+An electron can be removed from any energy level it occupies
+However, the ionisation energy of an atom is the minimum energy required to remove an electron from the ground state of an atom
+Fluorescent Tube
+Fluorescence occurs when an electron in an atomic orbital absorbs energy from an interaction with a photon or a collision with another electron
+orbital
+Fluorescent tubes are partially evacuated glass tubes filled with low-pressure mercury vapour with a phosphor coating on the glass
+Fluorescent tubes operate on the basis of excitation and de-excitation of electrons leading to the emission of visible light
+When a high voltage is applied across the tube, electrons flow from the cathode to the anode producing an electron beam
+These beam electrons collide with the electrons in the mercury atoms transferring kinetic energy in the collision
+The atomic electrons in the mercury atoms gain enough energy for ionisation to occur
+A high energy state is unstable and so a high energy electron will de-excite i.e. move back to their original ground state
+As it de-excite, the electron releases energy by emitting photons in the UV range of wavelengths
+The UV photons then collide with electrons in the atoms of the phosphor coating and excite them into a higher energy level
+As these phosphor electrons de-excite , they do so in stages emitting photons in the visible light range of wavelengths

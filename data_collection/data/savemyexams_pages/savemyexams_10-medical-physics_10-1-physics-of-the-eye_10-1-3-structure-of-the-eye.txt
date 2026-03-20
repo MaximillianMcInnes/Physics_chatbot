@@ -1,0 +1,98 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-1-physics-of-the-eye/10-1-3-structure-of-the-eye
+HEADING: Structure of the Eye ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Structure of the Eye The Main Structure of the Eye Our eyes contain converging lenses that focus light onto the retina at the back of the eye Each component the light passes through has a different refractive index causing a different amount of refraction to the light entering the eye The Main Features of the Eye The basic structure of the eye Light rays enter the eye through the cornea A transparent convex membrane that covers the front of the eye Variations and defects in its shape lead to problems in focussing the light onto the retina at the back of the eyeball The cornea has a high refractive index, compared to air, so light entering the eye is initially refracted by a large angle The Pupil The pupil is surrounded by muscles called the iris They control the amount of light entering the eye When in a dark room the iris expands allowing the pupil to dilate (widen) so more light can enter the eye When in bright sunlight the iris contracts causing the pupil to get smaller, so less light can enter the eye Contracted and Dilated Pupils Pupils dilate when too little light is incident on the eye and contract when there is too much light incident on the eye After passing through the cornea light rays move through the clear liquid of the aqueous humour before they reach the lens The Lens The eye can focus light from a range of distances The near point is the closest distance the eye can focus on For 'normal sighted' people this is 25 cm The far point is the furthest distance the eye can focus comfortably For 'normal sighted' people this is infinity The lens is controlled by the ciliary muscles which changes the focal length of the eye When the muscles contract the lens becomes wider / more spherical and more powerful This occurs when the eye is focussing on an image close to the near point When the muscles relax the lens becomes thinner / less spherical and less powerful This is called an unaccommodated lens It occurs when the eye is focussing on an image close to the far point Remember from 10.1.2 Lens Calculations: u is the distance from the object to the centre of the lens v is the distance from the image to the centre of the lens In an adult human, this is around 2 cm Lens diagrams for the eye should be drawn refracting once only to show the total amount of refraction from all parts of the eye. This is normally at the lens only but can sometimes be at the cornea only Adding together the powers of the cornea and the lens gives the total power of the eye A Wider Lens Has a Stronger Focussing Power A wider more spherical lens is created when the ciliary muscles contract and it has a stronger focusing power. This means the lens can refract rays by a greater angle to focus light rays from nearby objects when u is small A Narrower Lens Has a Smaller Focussing Power A thinner less spherical lens is created when the ciliary muscles relax so the focussing power is less. This happens when the eye focuses light rays from far away objects, when u is big, as the angle of refraction needed is less. The Retina After passing through the lens the light is focussed on the retina The image formed on the retina is upside down but is interpreted by the brain as being the correct way up The light rays are refracted through the cornea and lens so that they cross within the vitreous humour and arrive at the retina the opposite way around Rays from the top of the object are now at the bottom of the retina and vice versa The Inverted Image on the Retina Rays 1 and 2 from the top of the object are now focussed onto the bottom of the retina. Rays 3 and 4 from the bottom of the object are now focussed on the top of the retina. The retina contains light-sensitive cells called rods and cones The optic nerve carries signals from the rods and cones to the brain The Rods and Cones in the Eye The ratio of rods and cones in the retina is 3:1. Worked Example A boy is looking at a toy 80 cm away. The diameter of his eye from the centre of the lens to the fovea is 1.75 cm. (a) Complete the diagram to show the passage of the rays to the retina. (b) Calculate the power needed by the boy's eye for him to be able to see a focused image of the toy. Answer: Part (a) Complete the diagram to show the passage of the rays to the retina: Step 1: Start by sketching the two rays coming from the top of the toy The two rays separate as they pass towards the cornea At the cornea, they are both refracted towards the bottom of the image of the toy on the retina (which is now the toy's head) Arrows indicating the direction of the rays should be drawn both before and after the cornea Step 2: Now sketch the two rays coming from the bottom of the toy The two rays also separate as they pass towards the cornea At the cornea they are both refracted towards the top of the image of the toy on the retina (which is now the toy's feet) Arrows indicating the direction of the rays should be draw both before and after the cornea Part (b) Calculate the power of the boy's eye for an object in this position: Step 1: Write the known values in meters Image distance from the lens, v = 1.75 cm = 0.0175 m Object distance from the lens, u = 80 cm = 0.8 m Step 2: Recall the lens equation Step 3: Substitute the known quantities into the equation Step 4: Calculate Step 5: Recall the equation for focal length and power Step 6: State the power of the lens P = 58.4 D (3 s.f.)
+Structure of the Eye The Main Structure of the Eye Our eyes contain converging lenses that focus light onto the retina at the back of the eye Each component the light passes through has a different refractive index causing a different amount of refraction to the light entering the eye The Main Features of the Eye The basic structure of the eye Light rays enter the eye through the cornea A transparent convex membrane that covers the front of the eye Variations and defects in its shape lead to problems in focussing the light onto the retina at the back of the eyeball The cornea has a high refractive index, compared to air, so light entering the eye is initially refracted by a large angle The Pupil The pupil is surrounded by muscles called the iris They control the amount of light entering the eye When in a dark room the iris expands allowing the pupil to dilate (widen) so more light can enter the eye When in bright sunlight the iris contracts causing the pupil to get smaller, so less light can enter the eye Contracted and Dilated Pupils Pupils dilate when too little light is incident on the eye and contract when there is too much light incident on the eye After passing through the cornea light rays move through the clear liquid of the aqueous humour before they reach the lens The Lens The eye can focus light from a range of distances The near point is the closest distance the eye can focus on For 'normal sighted' people this is 25 cm The far point is the furthest distance the eye can focus comfortably For 'normal sighted' people this is infinity The lens is controlled by the ciliary muscles which changes the focal length of the eye When the muscles contract the lens becomes wider / more spherical and more powerful This occurs when the eye is focussing on an image close to the near point When the muscles relax the lens becomes thinner / less spherical and less powerful This is called an unaccommodated lens It occurs when the eye is focussing on an image close to the far point Remember from 10.1.2 Lens Calculations: u is the distance from the object to the centre of the lens v is the distance from the image to the centre of the lens In an adult human, this is around 2 cm Lens diagrams for the eye should be drawn refracting once only to show the total amount of refraction from all parts of the eye. This is normally at the lens only but can sometimes be at the cornea only Adding together the powers of the cornea and the lens gives the total power of the eye A Wider Lens Has a Stronger Focussing Power A wider more spherical lens is created when the ciliary muscles contract and it has a stronger focusing power. This means the lens can refract rays by a greater angle to focus light rays from nearby objects when u is small A Narrower Lens Has a Smaller Focussing Power A thinner less spherical lens is created when the ciliary muscles relax so the focussing power is less. This happens when the eye focuses light rays from far away objects, when u is big, as the angle of refraction needed is less. The Retina After passing through the lens the light is focussed on the retina The image formed on the retina is upside down but is interpreted by the brain as being the correct way up The light rays are refracted through the cornea and lens so that they cross within the vitreous humour and arrive at the retina the opposite way around Rays from the top of the object are now at the bottom of the retina and vice versa The Inverted Image on the Retina Rays 1 and 2 from the top of the object are now focussed onto the bottom of the retina. Rays 3 and 4 from the bottom of the object are now focussed on the top of the retina. The retina contains light-sensitive cells called rods and cones The optic nerve carries signals from the rods and cones to the brain The Rods and Cones in the Eye The ratio of rods and cones in the retina is 3:1.
+The Main Structure of the Eye
+Our eyes contain converging lenses that focus light onto the retina at the back of the eye
+Each component the light passes through has a different refractive index causing a different amount of refraction to the light entering the eye
+The Main Features of the Eye
+The basic structure of the eye
+Light rays enter the eye through the cornea A transparent convex membrane that covers the front of the eye Variations and defects in its shape lead to problems in focussing the light onto the retina at the back of the eyeball The cornea has a high refractive index, compared to air, so light entering the eye is initially refracted by a large angle
+Light rays enter the eye through the cornea
+A transparent convex membrane that covers the front of the eye
+Variations and defects in its shape lead to problems in focussing the light onto the retina at the back of the eyeball
+The cornea has a high refractive index, compared to air, so light entering the eye is initially refracted by a large angle
+The Pupil
+The pupil is surrounded by muscles called the iris
+They control the amount of light entering the eye When in a dark room the iris expands allowing the pupil to dilate (widen) so more light can enter the eye When in bright sunlight the iris contracts causing the pupil to get smaller, so less light can enter the eye
+They control the amount of light entering the eye
+When in a dark room the iris expands allowing the pupil to dilate (widen) so more light can enter the eye
+When in bright sunlight the iris contracts causing the pupil to get smaller, so less light can enter the eye
+Contracted and Dilated Pupils
+Pupils dilate when too little light is incident on the eye and contract when there is too much light incident on the eye
+After passing through the cornea light rays move through the clear liquid of the aqueous humour before they reach the lens
+The Lens
+The eye can focus light from a range of distances The near point is the closest distance the eye can focus on For 'normal sighted' people this is 25 cm The far point is the furthest distance the eye can focus comfortably For 'normal sighted' people this is infinity
+The eye can focus light from a range of distances
+The near point is the closest distance the eye can focus on For 'normal sighted' people this is 25 cm
+The near point is the closest distance the eye can focus on
+For 'normal sighted' people this is 25 cm
+The far point is the furthest distance the eye can focus comfortably For 'normal sighted' people this is infinity
+The far point is the furthest distance the eye can focus comfortably
+For 'normal sighted' people this is infinity
+The lens is controlled by the ciliary muscles which changes the focal length of the eye When the muscles contract the lens becomes wider / more spherical and more powerful This occurs when the eye is focussing on an image close to the near point When the muscles relax the lens becomes thinner / less spherical and less powerful This is called an unaccommodated lens It occurs when the eye is focussing on an image close to the far point
+The lens is controlled by the ciliary muscles which changes the focal length of the eye
+When the muscles contract the lens becomes wider / more spherical and more powerful This occurs when the eye is focussing on an image close to the near point
+When the muscles contract the lens becomes wider / more spherical and more powerful
+This occurs when the eye is focussing on an image close to the near point
+When the muscles relax the lens becomes thinner / less spherical and less powerful This is called an unaccommodated lens It occurs when the eye is focussing on an image close to the far point
+When the muscles relax the lens becomes thinner / less spherical and less powerful
+This is called an unaccommodated lens
+It occurs when the eye is focussing on an image close to the far point
+Remember from 10.1.2 Lens Calculations: u is the distance from the object to the centre of the lens v is the distance from the image to the centre of the lens In an adult human, this is around 2 cm
+Remember from 10.1.2 Lens Calculations:
+u is the distance from the object to the centre of the lens
+v is the distance from the image to the centre of the lens In an adult human, this is around 2 cm
+v is the distance from the image to the centre of the lens
+In an adult human, this is around 2 cm
+Lens diagrams for the eye should be drawn refracting once only to show the total amount of refraction from all parts of the eye. This is normally at the lens only but can sometimes be at the cornea only
+Lens diagrams for the eye should be drawn refracting once only to show the total amount of refraction from all parts of the eye.
+This is normally at the lens only but can sometimes be at the cornea only
+Adding together the powers of the cornea and the lens gives the total power of the eye
+A Wider Lens Has a Stronger Focussing Power
+A wider more spherical lens is created when the ciliary muscles contract and it has a stronger focusing power. This means the lens can refract rays by a greater angle to focus light rays from nearby objects when u is small
+A Narrower Lens Has a Smaller Focussing Power
+A thinner less spherical lens is created when the ciliary muscles relax so the focussing power is less. This happens when the eye focuses light rays from far away objects, when u is big, as the angle of refraction needed is less.
+The Retina
+After passing through the lens the light is focussed on the retina The image formed on the retina is upside down but is interpreted by the brain as being the correct way up
+After passing through the lens the light is focussed on the retina
+The image formed on the retina is upside down but is interpreted by the brain as being the correct way up
+The light rays are refracted through the cornea and lens so that they cross within the vitreous humour and arrive at the retina the opposite way around Rays from the top of the object are now at the bottom of the retina and vice versa
+The light rays are refracted through the cornea and lens so that they cross within the vitreous humour and arrive at the retina the opposite way around
+Rays from the top of the object are now at the bottom of the retina and vice versa
+The Inverted Image on the Retina
+Rays 1 and 2 from the top of the object are now focussed onto the bottom of the retina. Rays 3 and 4 from the bottom of the object are now focussed on the top of the retina.
+The retina contains light-sensitive cells called rods and cones
+The optic nerve carries signals from the rods and cones to the brain
+The Rods and Cones in the Eye
+The ratio of rods and cones in the retina is 3:1.
+Worked Example A boy is looking at a toy 80 cm away. The diameter of his eye from the centre of the lens to the fovea is 1.75 cm. (a) Complete the diagram to show the passage of the rays to the retina. (b) Calculate the power needed by the boy's eye for him to be able to see a focused image of the toy. Answer: Part (a) Complete the diagram to show the passage of the rays to the retina: Step 1: Start by sketching the two rays coming from the top of the toy The two rays separate as they pass towards the cornea At the cornea, they are both refracted towards the bottom of the image of the toy on the retina (which is now the toy's head) Arrows indicating the direction of the rays should be drawn both before and after the cornea Step 2: Now sketch the two rays coming from the bottom of the toy The two rays also separate as they pass towards the cornea At the cornea they are both refracted towards the top of the image of the toy on the retina (which is now the toy's feet) Arrows indicating the direction of the rays should be draw both before and after the cornea Part (b) Calculate the power of the boy's eye for an object in this position: Step 1: Write the known values in meters Image distance from the lens, v = 1.75 cm = 0.0175 m Object distance from the lens, u = 80 cm = 0.8 m Step 2: Recall the lens equation Step 3: Substitute the known quantities into the equation Step 4: Calculate Step 5: Recall the equation for focal length and power Step 6: State the power of the lens P = 58.4 D (3 s.f.)
+Worked Example
+A boy is looking at a toy 80 cm away. The diameter of his eye from the centre of the lens to the fovea is 1.75 cm.
+(a) Complete the diagram to show the passage of the rays to the retina.
+(b) Calculate the power needed by the boy's eye for him to be able to see a focused image of the toy.
+Answer:
+Part (a)
+Complete the diagram to show the passage of the rays to the retina:
+Step 1: Start by sketching the two rays coming from the top of the toy
+The two rays separate as they pass towards the cornea
+At the cornea, they are both refracted towards the bottom of the image of the toy on the retina (which is now the toy's head)
+Arrows indicating the direction of the rays should be drawn both before and after the cornea
+Step 2: Now sketch the two rays coming from the bottom of the toy
+The two rays also separate as they pass towards the cornea
+At the cornea they are both refracted towards the top of the image of the toy on the retina (which is now the toy's feet)
+Arrows indicating the direction of the rays should be draw both before and after the cornea
+Part (b)
+Calculate the power of the boy's eye for an object in this position:
+Step 1: Write the known values in meters
+Image distance from the lens, v = 1.75 cm = 0.0175 m
+Object distance from the lens, u = 80 cm = 0.8 m
+Step 2: Recall the lens equation
+Step 3: Substitute the known quantities into the equation
+Step 4: Calculate
+Step 5: Recall the equation for focal length and power
+Step 6: State the power of the lens
+P = 58.4 D (3 s.f.)

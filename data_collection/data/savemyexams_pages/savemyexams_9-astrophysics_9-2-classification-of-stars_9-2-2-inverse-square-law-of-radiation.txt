@@ -1,0 +1,67 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-2-inverse-square-law-of-radiation
+HEADING: Inverse Square Law of Radiation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Brightness & Luminosity How much light the star emits is given by its luminosity L , which is defined as: The total power output of radiation emitted by a star Luminosity is measured in units of watts (W) The brightness of a star is defined as: The intensity of radiation received on Earth from a star Brightness is equivalent to power per unit area, or light intensity, and is measured in watts per metre squared (W m −2 ) The brightness of a star depends on two main factors: How much light the star emits (its luminosity ) How far away the star is (more distant stars are usually fainter than nearby stars) What is the difference between brightness and luminosity? The luminosity is the total power output of the star, whereas the brightness is the power as measured on Earth Knowing the luminosity and brightness of a star is useful because it allows us to determine how far away it is from the Earth, as luminosity tells us how bright the star is at its surface brightness tells us how bright the star is as observed from the Earth Therefore, by the time the radiation from the distant star reaches the Earth, it will have spread out over a very large area This means the intensity of the radiation detected on Earth will only be a fraction of the value of the star's luminosity Inverse Square Law of Radiation Light sources which are farther away appear fainter because the light it emits is spread out over a greater area The moment the light leaves the surface of the star, it begins to spread out uniformly through a spherical shell The surface area of a sphere is equal to The radius r of this sphere is equal to the distance d between the star and the Earth By the time the radiation reaches the Earth, it has been spread over an area of Inverse square law of radiation When the light is twice as far away, it has spread over four times the area, hence the intensity is four times smaller The inverse square law of radiation can be calculated using: Where: = apparent brightness, or observed intensity on Earth (W m −2 ) L = luminosity of the source (W) d = distance between the star and the Earth (m) This equation assumes: The source can be treated as a point The power from the source radiates uniformly through space No radiation is absorbed or scattered between the star and the Earth This equation tells us: For a given star, the luminosity is constant The intensity of the emitted light follows an inverse square law For stars with the same luminosity , the star with the greater apparent brightness is closer to the Earth Worked Example A star has a known luminosity of 9.7 × 10 27 W. Observations of the star show that the intensity of light received on Earth from the star is 114 nW m –2 . Determine the distance of the star from Earth. Answer: Step 1: Write down the known quantities Luminosity, = 9.7 × 10 27 W Intensity, = 114 nW m –2 = 114 × 10 –9 W m –2 Step 2: Write down the inverse square law of radiation and rearrange for distance d Step 3: Substitute in the values and calculate the distance d distance, d = 8.2 × 10 16 m Examiner Tips and Tricks Don't forget to square the distance in any calculations, or take the square root if you need to calculate the distance, like in the worked example.
+Brightness & Luminosity How much light the star emits is given by its luminosity L , which is defined as: The total power output of radiation emitted by a star Luminosity is measured in units of watts (W) The brightness of a star is defined as: The intensity of radiation received on Earth from a star Brightness is equivalent to power per unit area, or light intensity, and is measured in watts per metre squared (W m −2 ) The brightness of a star depends on two main factors: How much light the star emits (its luminosity ) How far away the star is (more distant stars are usually fainter than nearby stars) What is the difference between brightness and luminosity? The luminosity is the total power output of the star, whereas the brightness is the power as measured on Earth Knowing the luminosity and brightness of a star is useful because it allows us to determine how far away it is from the Earth, as luminosity tells us how bright the star is at its surface brightness tells us how bright the star is as observed from the Earth Therefore, by the time the radiation from the distant star reaches the Earth, it will have spread out over a very large area This means the intensity of the radiation detected on Earth will only be a fraction of the value of the star's luminosity
+Brightness & Luminosity
+How much light the star emits is given by its luminosity L , which is defined as:
+The total power output of radiation emitted by a star
+Luminosity is measured in units of watts (W)
+The brightness of a star is defined as:
+The intensity of radiation received on Earth from a star
+Brightness is equivalent to power per unit area, or light intensity, and is measured in watts per metre squared (W m −2 )
+The brightness of a star depends on two main factors: How much light the star emits (its luminosity ) How far away the star is (more distant stars are usually fainter than nearby stars)
+The brightness of a star depends on two main factors:
+How much light the star emits (its luminosity )
+How far away the star is (more distant stars are usually fainter than nearby stars)
+What is the difference between brightness and luminosity?
+The luminosity is the total power output of the star, whereas the brightness is the power as measured on Earth
+Knowing the luminosity and brightness of a star is useful because it allows us to determine how far away it is from the Earth, as luminosity tells us how bright the star is at its surface brightness tells us how bright the star is as observed from the Earth
+Knowing the luminosity and brightness of a star is useful because it allows us to determine how far away it is from the Earth, as
+luminosity tells us how bright the star is at its surface
+brightness tells us how bright the star is as observed from the Earth
+Therefore, by the time the radiation from the distant star reaches the Earth, it will have spread out over a very large area This means the intensity of the radiation detected on Earth will only be a fraction of the value of the star's luminosity
+Therefore, by the time the radiation from the distant star reaches the Earth, it will have spread out over a very large area
+This means the intensity of the radiation detected on Earth will only be a fraction of the value of the star's luminosity
+Inverse Square Law of Radiation Light sources which are farther away appear fainter because the light it emits is spread out over a greater area The moment the light leaves the surface of the star, it begins to spread out uniformly through a spherical shell The surface area of a sphere is equal to The radius r of this sphere is equal to the distance d between the star and the Earth By the time the radiation reaches the Earth, it has been spread over an area of Inverse square law of radiation When the light is twice as far away, it has spread over four times the area, hence the intensity is four times smaller The inverse square law of radiation can be calculated using: Where: = apparent brightness, or observed intensity on Earth (W m −2 ) L = luminosity of the source (W) d = distance between the star and the Earth (m) This equation assumes: The source can be treated as a point The power from the source radiates uniformly through space No radiation is absorbed or scattered between the star and the Earth This equation tells us: For a given star, the luminosity is constant The intensity of the emitted light follows an inverse square law For stars with the same luminosity , the star with the greater apparent brightness is closer to the Earth
+Light sources which are farther away appear fainter because the light it emits is spread out over a greater area
+The moment the light leaves the surface of the star, it begins to spread out uniformly through a spherical shell The surface area of a sphere is equal to
+The moment the light leaves the surface of the star, it begins to spread out uniformly through a spherical shell
+The surface area of a sphere is equal to
+The radius r of this sphere is equal to the distance d between the star and the Earth By the time the radiation reaches the Earth, it has been spread over an area of
+The radius r of this sphere is equal to the distance d between the star and the Earth
+By the time the radiation reaches the Earth, it has been spread over an area of
+Inverse square law of radiation
+When the light is twice as far away, it has spread over four times the area, hence the intensity is four times smaller
+The inverse square law of radiation can be calculated using:
+Where: = apparent brightness, or observed intensity on Earth (W m −2 ) L = luminosity of the source (W) d = distance between the star and the Earth (m)
+Where:
+= apparent brightness, or observed intensity on Earth (W m −2 )
+L = luminosity of the source (W)
+d = distance between the star and the Earth (m)
+This equation assumes: The source can be treated as a point The power from the source radiates uniformly through space No radiation is absorbed or scattered between the star and the Earth
+This equation assumes:
+The source can be treated as a point
+The power from the source radiates uniformly through space
+No radiation is absorbed or scattered between the star and the Earth
+This equation tells us: For a given star, the luminosity is constant The intensity of the emitted light follows an inverse square law For stars with the same luminosity , the star with the greater apparent brightness is closer to the Earth
+This equation tells us:
+For a given star, the luminosity is constant
+The intensity of the emitted light follows an inverse square law
+For stars with the same luminosity , the star with the greater apparent brightness is closer to the Earth
+Worked Example A star has a known luminosity of 9.7 × 10 27 W. Observations of the star show that the intensity of light received on Earth from the star is 114 nW m –2 . Determine the distance of the star from Earth. Answer: Step 1: Write down the known quantities Luminosity, = 9.7 × 10 27 W Intensity, = 114 nW m –2 = 114 × 10 –9 W m –2 Step 2: Write down the inverse square law of radiation and rearrange for distance d Step 3: Substitute in the values and calculate the distance d distance, d = 8.2 × 10 16 m
+Worked Example
+A star has a known luminosity of 9.7 × 10 27 W. Observations of the star show that the intensity of light received on Earth from the star is 114 nW m –2 .
+Determine the distance of the star from Earth.
+Answer:
+Step 1: Write down the known quantities
+Luminosity, = 9.7 × 10 27 W
+Intensity, = 114 nW m –2 = 114 × 10 –9 W m –2
+Step 2: Write down the inverse square law of radiation and rearrange for distance d
+Step 3: Substitute in the values and calculate the distance d
+distance, d = 8.2 × 10 16 m
+Examiner Tips and Tricks Don't forget to square the distance in any calculations, or take the square root if you need to calculate the distance, like in the worked example.
+Examiner Tips and Tricks
+Don't forget to square the distance in any calculations, or take the square root if you need to calculate the distance, like in the worked example.

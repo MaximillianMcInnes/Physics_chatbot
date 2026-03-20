@@ -1,0 +1,53 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/5-electricity/5-2-resistance-and-resistivity/5-2-2-resistance-in-a-thermistor
+HEADING: Resistance in a Thermistor ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Temperature & Resistance All solids are made up of vibrating atoms The higher the temperature, the faster these atoms vibrate Electric current is the flow of free electrons in a material The electrons collide with the vibrating atoms which impede their flow, hence the current decreases Metal atoms and free electrons at low and high temperatures So, if the current decreases, then the resistance will increase (from V = IR ) Therefore, for a metallic conductor which obeys Ohm's law: An increase in temperature causes an increase in resistance A decrease in temperature causes a decrease in resistance This is not the case for components such as a thermistor For a thermistor, an increase in temperature causes a decrease in resistance Applications of a Thermistor A thermistor is a non-ohmic conductor and sensory resistor whose resistance varies with temperature Most thermistors are negative temperature coefficient (ntc) components. This means that if the temperature increases, the resistance of the thermistor decreases (and vice versa) The temperature-resistance graph for a thermistor is shown below Graph of temperature against resistance for a thermistor Thermistors are temperature sensors and are used in circuits in ovens, fire alarms and digital thermometers As the thermistor gets hotter , its resistance decreases As the thermistor gets cooler , its resistance increases The resistance through a thermistor is dependent on the temperature of it Worked Example A thermistor is connected in series with a resistor R and a battery. The resistance of the thermistor is equal to the resistance of R at room temperature. When the temperature of the thermistor decreases, which statement is correct? A . The p.d across the thermistor increases B . The current in R increases C . The current through the thermistor remains constant D . The p.d across R increases Answer: A The resistance of the thermistor increases as the temperature decreases Since the thermistor and resistor R are connected in series, the current I in both of them is the same Ohm’s law states that V = IR Since the resistance of the thermistor increases, and I is the same, the potential difference V across it increases Therefore, statement A is correct B and C are both incorrect – total resistance has increased so current has decreased D is incorrect because the p.d. across R has decreased – the thermistor's resistance has increased so it receives a greater proportion of the cell's emf (and therefore R receives a smaller proportion)
+Temperature & Resistance All solids are made up of vibrating atoms The higher the temperature, the faster these atoms vibrate Electric current is the flow of free electrons in a material The electrons collide with the vibrating atoms which impede their flow, hence the current decreases Metal atoms and free electrons at low and high temperatures So, if the current decreases, then the resistance will increase (from V = IR ) Therefore, for a metallic conductor which obeys Ohm's law: An increase in temperature causes an increase in resistance A decrease in temperature causes a decrease in resistance This is not the case for components such as a thermistor For a thermistor, an increase in temperature causes a decrease in resistance
+Temperature & Resistance
+All solids are made up of vibrating atoms The higher the temperature, the faster these atoms vibrate
+All solids are made up of vibrating atoms
+The higher the temperature, the faster these atoms vibrate
+Electric current is the flow of free electrons in a material The electrons collide with the vibrating atoms which impede their flow, hence the current decreases
+Electric current is the flow of free electrons in a material
+The electrons collide with the vibrating atoms which impede their flow, hence the current decreases
+Metal atoms and free electrons at low and high temperatures
+So, if the current decreases, then the resistance will increase (from V = IR )
+Therefore, for a metallic conductor which obeys Ohm's law: An increase in temperature causes an increase in resistance A decrease in temperature causes a decrease in resistance
+Therefore, for a metallic conductor which obeys Ohm's law:
+An increase in temperature causes an increase in resistance
+A decrease in temperature causes a decrease in resistance
+This is not the case for components such as a thermistor For a thermistor, an increase in temperature causes a decrease in resistance
+This is not the case for components such as a thermistor
+For a thermistor, an increase in temperature causes a decrease in resistance
+Applications of a Thermistor A thermistor is a non-ohmic conductor and sensory resistor whose resistance varies with temperature Most thermistors are negative temperature coefficient (ntc) components. This means that if the temperature increases, the resistance of the thermistor decreases (and vice versa) The temperature-resistance graph for a thermistor is shown below Graph of temperature against resistance for a thermistor Thermistors are temperature sensors and are used in circuits in ovens, fire alarms and digital thermometers As the thermistor gets hotter , its resistance decreases As the thermistor gets cooler , its resistance increases The resistance through a thermistor is dependent on the temperature of it
+Applications of a Thermistor
+A thermistor is a non-ohmic conductor and sensory resistor whose resistance varies with temperature
+Most thermistors are negative temperature coefficient (ntc) components. This means that if the temperature increases, the resistance of the thermistor decreases (and vice versa)
+Most thermistors are negative temperature coefficient (ntc) components.
+This means that if the temperature increases, the resistance of the thermistor decreases (and vice versa)
+The temperature-resistance graph for a thermistor is shown below
+Graph of temperature against resistance for a thermistor
+Thermistors are temperature sensors and are used in circuits in ovens, fire alarms and digital thermometers As the thermistor gets hotter , its resistance decreases As the thermistor gets cooler , its resistance increases
+Thermistors are temperature sensors and are used in circuits in ovens, fire alarms and digital thermometers
+As the thermistor gets hotter , its resistance decreases
+As the thermistor gets cooler , its resistance increases
+The resistance through a thermistor is dependent on the temperature of it
+Worked Example A thermistor is connected in series with a resistor R and a battery. The resistance of the thermistor is equal to the resistance of R at room temperature. When the temperature of the thermistor decreases, which statement is correct? A . The p.d across the thermistor increases B . The current in R increases C . The current through the thermistor remains constant D . The p.d across R increases Answer: A The resistance of the thermistor increases as the temperature decreases Since the thermistor and resistor R are connected in series, the current I in both of them is the same Ohm’s law states that V = IR Since the resistance of the thermistor increases, and I is the same, the potential difference V across it increases Therefore, statement A is correct B and C are both incorrect – total resistance has increased so current has decreased D is incorrect because the p.d. across R has decreased – the thermistor's resistance has increased so it receives a greater proportion of the cell's emf (and therefore R receives a smaller proportion)
+Worked Example
+A thermistor is connected in series with a resistor R and a battery.
+The resistance of the thermistor is equal to the resistance of R at room temperature. When the temperature of the thermistor decreases, which statement is correct?
+A . The p.d across the thermistor increases
+B . The current in R increases
+C . The current through the thermistor remains constant
+D . The p.d across R increases
+Answer: A
+The resistance of the thermistor increases as the temperature decreases
+Since the thermistor and resistor R are connected in series, the current I in both of them is the same
+Ohm’s law states that V = IR
+Since the resistance of the thermistor increases, and I is the same, the potential difference V across it increases
+Therefore, statement A is correct B and C are both incorrect – total resistance has increased so current has decreased D is incorrect because the p.d. across R has decreased – the thermistor's resistance has increased so it receives a greater proportion of the cell's emf (and therefore R receives a smaller proportion)
+Therefore, statement A is correct
+B and C are both incorrect – total resistance has increased so current has decreased
+D is incorrect because the p.d. across R has decreased – the thermistor's resistance has increased so it receives a greater proportion of the cell's emf (and therefore R receives a smaller proportion)

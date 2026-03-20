@@ -1,0 +1,81 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/5-electricity/5-3-circuits-and-the-potential-divider/5-3-4-potential-divider-circuits
+HEADING: Potential Divider Circuits ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Potential Divider Circuit When two resistors are connected in series, through Kirchhoff’s Second Law, the potential difference across the power source is divided between them Potential dividers are circuits which produce an output voltage as a fraction of its input voltage Potential dividers have three main purposes: To provide a variable potential difference To enable a specific potential difference to be chosen To split the potential difference of a power source between two or more components Potential dividers are used widely in volume controls and sensory circuits using LDRs and thermistors Potential divider circuits are based on the ratio of voltage between components. This is equal to the ratio of the resistances of the resistors in the diagram below, giving the following equation: Potential divider diagram and equation Where: R 2 is the numerator and the resistance of the resistor over V out R 1 is the other resistance in series V out is the output potential difference V in is the input potential difference The potential divider equation can also be written: Where this time: R 1 is the numerator and the resistance of the resistor over V out R 2 is the other resistance in series Whichever notation you use you will obtain the same answer The numerator has to be the resistance of the resistor over V out In the circuit shown above: The input voltage V in is applied to the top and bottom of the series resistors The output voltage V out is measured from the centre to the bottom of resistor R 2 The potential difference V across each resistor depends upon its resistance R : The resistor with the largest resistance will have a greater potential difference than the other one from V = IR If the resistance of one of the resistors is increased, it will get a greater share of the potential difference, whilst the other resistor will get a smaller share In potential divider circuits, the p.d across a component is proportional to its resistance from V = IR Worked Example The circuit is designed to light up a lamp when the input voltage exceed a preset value. It does this by comparing V out with a fixed reference voltage of 5.3 V. V out is equal to 5.3 Calculate the input voltage V in . Answer: Examiner Tips and Tricks Always make sure the correct resistance is in the numerator of the potential divider equation. This will be the resistance of the component you want to find the output voltage of. Variable Resistance Components Variable and sensory resistors are used in potential dividers to vary the output voltage This could cause an external component to switch on or off e.g. a heater switching off automatically when its surroundings are at room temperature Sensory resistors used are Light Dependent Resistors (LDRs) and thermistors LDR and thermistor in a potential divider circuit with a fixed resistor R The voltmeter in both circuits is measuring V out Recall that the resistance of an LDR varies with light intensity The higher the light intensity, the lower the resistance and vice versa An LDR circuit is often used for street and security lights The resistance of a thermistor varies with temperature The hotter the thermistor, the lower the resistance and vice versa A thermistor circuit is used in fire alarms, ovens and digital thermometers From Ohm’s law V = IR , the potential difference V out from a resistor in a potential divider circuit is proportional to its resistance If an LDR or thermistor's resistance decreases , the potential difference through it also decreases If an LDR or thermistor's resistance increases , the potential difference through it also increases Since the total p.d of the components must be equal to V in , if the p.d of the sensory resistor decreases then the p.d of the other resistor in the circuit must increase and vice versa Worked Example A potential divider consists of a fixed resistor R and a thermistor. What happens to the p.d through resistor R and the thermistor when the temperature of the thermistor decreases? Answer: D Due to Ohm’s Law (V = IR), both the resistor and thermistor are connected in series and have the same current I If resistance R increases, the potential difference across the thermistor also increases In series, the potential difference is shared equally amongst the components. Their sum equals the e.m.f of the supply (Kirchhoff’s second law) If the potential difference across the thermistor increases , the potential difference across the resistance R must decreases , to keep the same overall total e.m.f This is row D
+Potential Divider Circuit When two resistors are connected in series, through Kirchhoff’s Second Law, the potential difference across the power source is divided between them Potential dividers are circuits which produce an output voltage as a fraction of its input voltage Potential dividers have three main purposes: To provide a variable potential difference To enable a specific potential difference to be chosen To split the potential difference of a power source between two or more components Potential dividers are used widely in volume controls and sensory circuits using LDRs and thermistors Potential divider circuits are based on the ratio of voltage between components. This is equal to the ratio of the resistances of the resistors in the diagram below, giving the following equation: Potential divider diagram and equation Where: R 2 is the numerator and the resistance of the resistor over V out R 1 is the other resistance in series V out is the output potential difference V in is the input potential difference The potential divider equation can also be written: Where this time: R 1 is the numerator and the resistance of the resistor over V out R 2 is the other resistance in series Whichever notation you use you will obtain the same answer The numerator has to be the resistance of the resistor over V out In the circuit shown above: The input voltage V in is applied to the top and bottom of the series resistors The output voltage V out is measured from the centre to the bottom of resistor R 2 The potential difference V across each resistor depends upon its resistance R : The resistor with the largest resistance will have a greater potential difference than the other one from V = IR If the resistance of one of the resistors is increased, it will get a greater share of the potential difference, whilst the other resistor will get a smaller share In potential divider circuits, the p.d across a component is proportional to its resistance from V = IR
+Potential Divider Circuit
+When two resistors are connected in series, through Kirchhoff’s Second Law, the potential difference across the power source is divided between them
+Potential dividers are circuits which produce an output voltage as a fraction of its input voltage
+Potential dividers have three main purposes: To provide a variable potential difference To enable a specific potential difference to be chosen To split the potential difference of a power source between two or more components
+Potential dividers have three main purposes:
+To provide a variable potential difference
+To enable a specific potential difference to be chosen
+To split the potential difference of a power source between two or more components
+Potential dividers are used widely in volume controls and sensory circuits using LDRs and thermistors
+Potential divider circuits are based on the ratio of voltage between components. This is equal to the ratio of the resistances of the resistors in the diagram below, giving the following equation:
+Potential divider diagram and equation
+Where: R 2 is the numerator and the resistance of the resistor over V out R 1 is the other resistance in series V out is the output potential difference V in is the input potential difference
+Where:
+R 2 is the numerator and the resistance of the resistor over V out
+R 1 is the other resistance in series
+V out is the output potential difference
+V in is the input potential difference
+The potential divider equation can also be written:
+Where this time: R 1 is the numerator and the resistance of the resistor over V out R 2 is the other resistance in series
+Where this time:
+R 1 is the numerator and the resistance of the resistor over V out
+R 2 is the other resistance in series
+Whichever notation you use you will obtain the same answer The numerator has to be the resistance of the resistor over V out
+Whichever notation you use you will obtain the same answer
+The numerator has to be the resistance of the resistor over V out
+In the circuit shown above: The input voltage V in is applied to the top and bottom of the series resistors The output voltage V out is measured from the centre to the bottom of resistor R 2
+In the circuit shown above:
+The input voltage V in is applied to the top and bottom of the series resistors
+The output voltage V out is measured from the centre to the bottom of resistor R 2
+The potential difference V across each resistor depends upon its resistance R : The resistor with the largest resistance will have a greater potential difference than the other one from V = IR If the resistance of one of the resistors is increased, it will get a greater share of the potential difference, whilst the other resistor will get a smaller share
+The potential difference V across each resistor depends upon its resistance R :
+The resistor with the largest resistance will have a greater potential difference than the other one from V = IR
+If the resistance of one of the resistors is increased, it will get a greater share of the potential difference, whilst the other resistor will get a smaller share
+In potential divider circuits, the p.d across a component is proportional to its resistance from V = IR
+Worked Example The circuit is designed to light up a lamp when the input voltage exceed a preset value. It does this by comparing V out with a fixed reference voltage of 5.3 V. V out is equal to 5.3 Calculate the input voltage V in . Answer:
+Worked Example
+The circuit is designed to light up a lamp when the input voltage exceed a preset value.
+It does this by comparing V out with a fixed reference voltage of 5.3 V.
+V out is equal to 5.3
+Calculate the input voltage V in .
+Answer:
+Examiner Tips and Tricks Always make sure the correct resistance is in the numerator of the potential divider equation. This will be the resistance of the component you want to find the output voltage of.
+Examiner Tips and Tricks
+Always make sure the correct resistance is in the numerator of the potential divider equation. This will be the resistance of the component you want to find the output voltage of.
+Variable Resistance Components Variable and sensory resistors are used in potential dividers to vary the output voltage This could cause an external component to switch on or off e.g. a heater switching off automatically when its surroundings are at room temperature Sensory resistors used are Light Dependent Resistors (LDRs) and thermistors LDR and thermistor in a potential divider circuit with a fixed resistor R The voltmeter in both circuits is measuring V out Recall that the resistance of an LDR varies with light intensity The higher the light intensity, the lower the resistance and vice versa An LDR circuit is often used for street and security lights The resistance of a thermistor varies with temperature The hotter the thermistor, the lower the resistance and vice versa A thermistor circuit is used in fire alarms, ovens and digital thermometers From Ohm’s law V = IR , the potential difference V out from a resistor in a potential divider circuit is proportional to its resistance If an LDR or thermistor's resistance decreases , the potential difference through it also decreases If an LDR or thermistor's resistance increases , the potential difference through it also increases Since the total p.d of the components must be equal to V in , if the p.d of the sensory resistor decreases then the p.d of the other resistor in the circuit must increase and vice versa
+Variable Resistance Components
+Variable and sensory resistors are used in potential dividers to vary the output voltage This could cause an external component to switch on or off e.g. a heater switching off automatically when its surroundings are at room temperature
+Variable and sensory resistors are used in potential dividers to vary the output voltage
+This could cause an external component to switch on or off e.g. a heater switching off automatically when its surroundings are at room temperature
+Sensory resistors used are Light Dependent Resistors (LDRs) and thermistors
+LDR and thermistor in a potential divider circuit with a fixed resistor R
+The voltmeter in both circuits is measuring V out
+Recall that the resistance of an LDR varies with light intensity The higher the light intensity, the lower the resistance and vice versa
+Recall that the resistance of an LDR varies with light intensity
+The higher the light intensity, the lower the resistance and vice versa
+An LDR circuit is often used for street and security lights
+The resistance of a thermistor varies with temperature The hotter the thermistor, the lower the resistance and vice versa
+The resistance of a thermistor varies with temperature
+The hotter the thermistor, the lower the resistance and vice versa
+A thermistor circuit is used in fire alarms, ovens and digital thermometers
+From Ohm’s law V = IR , the potential difference V out from a resistor in a potential divider circuit is proportional to its resistance If an LDR or thermistor's resistance decreases , the potential difference through it also decreases If an LDR or thermistor's resistance increases , the potential difference through it also increases
+From Ohm’s law V = IR , the potential difference V out from a resistor in a potential divider circuit is proportional to its resistance
+If an LDR or thermistor's resistance decreases , the potential difference through it also decreases
+If an LDR or thermistor's resistance increases , the potential difference through it also increases
+Since the total p.d of the components must be equal to V in , if the p.d of the sensory resistor decreases then the p.d of the other resistor in the circuit must increase and vice versa
+Worked Example A potential divider consists of a fixed resistor R and a thermistor. What happens to the p.d through resistor R and the thermistor when the temperature of the thermistor decreases? Answer: D Due to Ohm’s Law (V = IR), both the resistor and thermistor are connected in series and have the same current I If resistance R increases, the potential difference across the thermistor also increases In series, the potential difference is shared equally amongst the components. Their sum equals the e.m.f of the supply (Kirchhoff’s second law) If the potential difference across the thermistor increases , the potential difference across the resistance R must decreases , to keep the same overall total e.m.f This is row D
+A potential divider consists of a fixed resistor R and a thermistor.
+What happens to the p.d through resistor R and the thermistor when the temperature of the thermistor decreases?
+Answer: D
+Due to Ohm’s Law (V = IR), both the resistor and thermistor are connected in series and have the same current I
+If resistance R increases, the potential difference across the thermistor also increases
+In series, the potential difference is shared equally amongst the components. Their sum equals the e.m.f of the supply (Kirchhoff’s second law)
+If the potential difference across the thermistor increases , the potential difference across the resistance R must decreases , to keep the same overall total e.m.f
+This is row D

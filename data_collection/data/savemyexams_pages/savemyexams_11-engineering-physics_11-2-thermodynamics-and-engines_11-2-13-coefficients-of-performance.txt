@@ -1,0 +1,44 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-13-coefficients-of-performance
+HEADING: Coefficients of Performance ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Coefficients of Performance As mentioned in Heat Pumps & Refrigerators , the efficiency of a reversed heat engine depends on its purpose Therefore a coefficient of performance (COP) is used to measure their effectiveness instead It is not a measure of efficiency, as it can be greater than 1 The COP is a measure of how effective a reversed heat engine is at transferring heat per unit of work done E.g. A COP of 7 is 7 J of heat energy is transferred per 1 J of work done The COP of a refrigerator is defined by: Where: Q C = energy extracted from the cold space (J) Q H = energy delivered to the hot space (J) W = work inputted (J) T H = temperature of hot space (K) T C = temperature of the cold space (K) The COP of a heat pump is defined by: Since , the COPs could be written in terms of each other: Because the COP is a ratio it has no units Since Q H > Q C , this means Heat pumps are used instead of conventional electric or gas heaters for large-scale buildings because the energy transferred by a heat pump exceeds the work done on the pump An electric or gas heater will at most convert 1 J of energy per 1 J of work done, so would be far more expensive to run on large scales Worked Example An ideal heat engine has an efficiency of 0.25. The same engine works in reverse as an ideal refrigerator between the same hot and cold spaces. Determine the coefficient of performance COP ref of the refrigerator. Answer : Step 1: State the First Law of Thermodynamics (for reversed heat engine) Step 2: Determine Q H in terms of W Step 3: Substitute into the First Law to determine at equation for Q C Step 4: State the equation for COP ref Step 5: Substitute the values Examiner Tips and Tricks The COP equations in terms of Q and W are included in your data sheet, but not the equation with T H and T C . For these values, you can assume the engine is running at maximum theoretical efficiency. When defining the COP, make sure not to use the words 'heat input' without specifying where the heat is being input to, as this is too vague and will not be accepted by the examiner.
+Coefficients of Performance As mentioned in Heat Pumps & Refrigerators , the efficiency of a reversed heat engine depends on its purpose Therefore a coefficient of performance (COP) is used to measure their effectiveness instead It is not a measure of efficiency, as it can be greater than 1 The COP is a measure of how effective a reversed heat engine is at transferring heat per unit of work done E.g. A COP of 7 is 7 J of heat energy is transferred per 1 J of work done The COP of a refrigerator is defined by: Where: Q C = energy extracted from the cold space (J) Q H = energy delivered to the hot space (J) W = work inputted (J) T H = temperature of hot space (K) T C = temperature of the cold space (K) The COP of a heat pump is defined by: Since , the COPs could be written in terms of each other: Because the COP is a ratio it has no units Since Q H > Q C , this means Heat pumps are used instead of conventional electric or gas heaters for large-scale buildings because the energy transferred by a heat pump exceeds the work done on the pump An electric or gas heater will at most convert 1 J of energy per 1 J of work done, so would be far more expensive to run on large scales
+As mentioned in Heat Pumps & Refrigerators , the efficiency of a reversed heat engine depends on its purpose
+Therefore a coefficient of performance (COP) is used to measure their effectiveness instead It is not a measure of efficiency, as it can be greater than 1
+Therefore a coefficient of performance (COP) is used to measure their effectiveness instead
+It is not a measure of efficiency, as it can be greater than 1
+The COP is a measure of how effective a reversed heat engine is at transferring heat per unit of work done E.g. A COP of 7 is 7 J of heat energy is transferred per 1 J of work done
+The COP is a measure of how effective a reversed heat engine is at transferring heat per unit of work done
+E.g. A COP of 7 is 7 J of heat energy is transferred per 1 J of work done
+The COP of a refrigerator is defined by:
+Where: Q C = energy extracted from the cold space (J) Q H = energy delivered to the hot space (J) W = work inputted (J) T H = temperature of hot space (K) T C = temperature of the cold space (K)
+Where:
+Q C = energy extracted from the cold space (J)
+Q H = energy delivered to the hot space (J)
+W = work inputted (J)
+T H = temperature of hot space (K)
+T C = temperature of the cold space (K)
+The COP of a heat pump is defined by:
+Since , the COPs could be written in terms of each other:
+Because the COP is a ratio it has no units
+Since Q H > Q C , this means
+Heat pumps are used instead of conventional electric or gas heaters for large-scale buildings because the energy transferred by a heat pump exceeds the work done on the pump An electric or gas heater will at most convert 1 J of energy per 1 J of work done, so would be far more expensive to run on large scales
+Heat pumps are used instead of conventional electric or gas heaters for large-scale buildings because the energy transferred by a heat pump exceeds the work done on the pump
+An electric or gas heater will at most convert 1 J of energy per 1 J of work done, so would be far more expensive to run on large scales
+Worked Example An ideal heat engine has an efficiency of 0.25. The same engine works in reverse as an ideal refrigerator between the same hot and cold spaces. Determine the coefficient of performance COP ref of the refrigerator. Answer : Step 1: State the First Law of Thermodynamics (for reversed heat engine) Step 2: Determine Q H in terms of W Step 3: Substitute into the First Law to determine at equation for Q C Step 4: State the equation for COP ref Step 5: Substitute the values
+Worked Example
+An ideal heat engine has an efficiency of 0.25.
+The same engine works in reverse as an ideal refrigerator between the same hot and cold spaces.
+Determine the coefficient of performance COP ref of the refrigerator.
+Answer :
+Step 1: State the First Law of Thermodynamics (for reversed heat engine)
+Step 2: Determine Q H in terms of W
+Step 3: Substitute into the First Law to determine at equation for Q C
+Step 4: State the equation for COP ref
+Step 5: Substitute the values
+Examiner Tips and Tricks The COP equations in terms of Q and W are included in your data sheet, but not the equation with T H and T C . For these values, you can assume the engine is running at maximum theoretical efficiency. When defining the COP, make sure not to use the words 'heat input' without specifying where the heat is being input to, as this is too vague and will not be accepted by the examiner.
+Examiner Tips and Tricks
+The COP equations in terms of Q and W are included in your data sheet, but not the equation with T H and T C . For these values, you can assume the engine is running at maximum theoretical efficiency.
+When defining the COP, make sure not to use the words 'heat input' without specifying where the heat is being input to, as this is too vague and will not be accepted by the examiner.

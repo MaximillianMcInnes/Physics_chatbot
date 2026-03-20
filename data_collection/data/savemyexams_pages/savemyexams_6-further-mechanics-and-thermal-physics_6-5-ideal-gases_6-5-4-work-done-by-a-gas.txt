@@ -1,0 +1,31 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-5-ideal-gases/6-5-4-work-done-by-a-gas
+HEADING: Work Done by a Gas ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Work Done by a Gas When a gas expands, it does work on its surroundings by exerting pressure on the walls of its container This is important, for example, in a steam engine where expanding steam pushes a piston to turn the engine The work done when a volume of gas changes at constant pressure is defined as: W = pΔV Where: W = work done (J) p = pressure of gas in piston (Pa) ΔV = change in volume of gas (m 3 ) This is assuming that the pressure of the gas in the piston p does not change as the gas expands When the gas expands ( V increases), work is done by the gas When the gas is compressed ( V decreases), work is done on the gas For a gas inside a cylinder enclosed by a moveable piston, the force exerted by the gas pushes the piston outwards Therefore, the gas does work on the piston The gas expansion pushes the piston a distance s Worked Example When a balloon is inflated, its rubber walls push against the air around it. Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 . Pressure inside the balloon remains constant at = 1.0 × 10 5 Pa. Answer: Step 1: Write down the equation for the work done by a gas W = pΔV Step 2: Substitute in values ΔV = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3 W = (1.0 × 10 5 ) × 0.015 = 1500 J
+Work Done by a Gas When a gas expands, it does work on its surroundings by exerting pressure on the walls of its container This is important, for example, in a steam engine where expanding steam pushes a piston to turn the engine The work done when a volume of gas changes at constant pressure is defined as: W = pΔV Where: W = work done (J) p = pressure of gas in piston (Pa) ΔV = change in volume of gas (m 3 ) This is assuming that the pressure of the gas in the piston p does not change as the gas expands When the gas expands ( V increases), work is done by the gas When the gas is compressed ( V decreases), work is done on the gas For a gas inside a cylinder enclosed by a moveable piston, the force exerted by the gas pushes the piston outwards Therefore, the gas does work on the piston The gas expansion pushes the piston a distance s
+When a gas expands, it does work on its surroundings by exerting pressure on the walls of its container This is important, for example, in a steam engine where expanding steam pushes a piston to turn the engine
+When a gas expands, it does work on its surroundings by exerting pressure on the walls of its container
+This is important, for example, in a steam engine where expanding steam pushes a piston to turn the engine
+The work done when a volume of gas changes at constant pressure is defined as:
+W = pΔV
+Where: W = work done (J) p = pressure of gas in piston (Pa) ΔV = change in volume of gas (m 3 )
+Where:
+W = work done (J)
+p = pressure of gas in piston (Pa)
+ΔV = change in volume of gas (m 3 )
+This is assuming that the pressure of the gas in the piston p does not change as the gas expands
+When the gas expands ( V increases), work is done by the gas
+When the gas is compressed ( V decreases), work is done on the gas
+For a gas inside a cylinder enclosed by a moveable piston, the force exerted by the gas pushes the piston outwards
+Therefore, the gas does work on the piston
+The gas expansion pushes the piston a distance s
+Worked Example When a balloon is inflated, its rubber walls push against the air around it. Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 . Pressure inside the balloon remains constant at = 1.0 × 10 5 Pa. Answer: Step 1: Write down the equation for the work done by a gas W = pΔV Step 2: Substitute in values ΔV = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3 W = (1.0 × 10 5 ) × 0.015 = 1500 J
+Worked Example
+When a balloon is inflated, its rubber walls push against the air around it. Calculate the work done when the balloon is blown up from 0.015 m 3 to 0.030 m 3 . Pressure inside the balloon remains constant at = 1.0 × 10 5 Pa.
+Answer:
+Step 1: Write down the equation for the work done by a gas
+Step 2: Substitute in values
+ΔV = final volume − initial volume = 0.030 − 0.015 = 0.015 m 3
+W = (1.0 × 10 5 ) × 0.015 = 1500 J

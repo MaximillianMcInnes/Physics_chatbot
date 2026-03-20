@@ -1,0 +1,39 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-13-supernovae-as-standard-candles
+HEADING: Supernovae as Standard Candles ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Type 1a Supernovae as Standard Candles A standard candle is defined as: An astronomical object of known brightness that can be used to calculate galactic distances The most common examples of standard candles are: Cepheid variable stars Type 1a supernovae Type 1a supernovae can be used as standard candles because they reach the same peak value of absolute magnitude each time This type of supernova involves an exploding white dwarf in a binary star system The white dwarf increases in mass as it attracts material from its binary pair Eventually the white dwarf reaches a critical mass, known as the Chandrasekhar Limit This critical mass means the explosion is the same each time, hence it produces a very consistent light curve Typical Type 1a Supernova Light Curve The light curve of a type 1a supernova always has the same characteristic shape and reaches the same peak absolute magnitude Another advantage of using Type 1a supernovae as standard candles is that they are extremely bright This means they can be used to measure the distance to the furthest galaxies Worked Example An astronomer observes a type 1a supernova in a distant galaxy with an apparent magnitude of +11 at its peak of brightness. At its peak, it is known that a type 1a supernova has an absolute magnitude of about −19. Show that the galaxy is about 10 Mpc away. Answer: Step 1: Write down the magnitude equation Where Apparent magnitude, = 11 Absolute magnitude, = −19 Step 2: Substitute in the values of m and M and rearrange Step 3: Take logs of both sides to determine the distance d
+Type 1a Supernovae as Standard Candles A standard candle is defined as: An astronomical object of known brightness that can be used to calculate galactic distances The most common examples of standard candles are: Cepheid variable stars Type 1a supernovae Type 1a supernovae can be used as standard candles because they reach the same peak value of absolute magnitude each time This type of supernova involves an exploding white dwarf in a binary star system The white dwarf increases in mass as it attracts material from its binary pair Eventually the white dwarf reaches a critical mass, known as the Chandrasekhar Limit This critical mass means the explosion is the same each time, hence it produces a very consistent light curve Typical Type 1a Supernova Light Curve The light curve of a type 1a supernova always has the same characteristic shape and reaches the same peak absolute magnitude Another advantage of using Type 1a supernovae as standard candles is that they are extremely bright This means they can be used to measure the distance to the furthest galaxies
+Type 1a Supernovae as Standard Candles
+A standard candle is defined as:
+An astronomical object of known brightness that can be used to calculate galactic distances
+The most common examples of standard candles are: Cepheid variable stars Type 1a supernovae
+The most common examples of standard candles are:
+Cepheid variable stars
+Type 1a supernovae
+Type 1a supernovae can be used as standard candles because they reach the same peak value of absolute magnitude each time This type of supernova involves an exploding white dwarf in a binary star system The white dwarf increases in mass as it attracts material from its binary pair Eventually the white dwarf reaches a critical mass, known as the Chandrasekhar Limit This critical mass means the explosion is the same each time, hence it produces a very consistent light curve
+Type 1a supernovae can be used as standard candles because they reach the same peak value of absolute magnitude each time
+This type of supernova involves an exploding white dwarf in a binary star system
+The white dwarf increases in mass as it attracts material from its binary pair
+Eventually the white dwarf reaches a critical mass, known as the Chandrasekhar Limit
+Chandrasekhar Limit
+This critical mass means the explosion is the same each time, hence it produces a very consistent light curve
+Typical Type 1a Supernova Light Curve
+The light curve of a type 1a supernova always has the same characteristic shape and reaches the same peak absolute magnitude
+Another advantage of using Type 1a supernovae as standard candles is that they are extremely bright This means they can be used to measure the distance to the furthest galaxies
+Another advantage of using Type 1a supernovae as standard candles is that they are extremely bright
+This means they can be used to measure the distance to the furthest galaxies
+Worked Example An astronomer observes a type 1a supernova in a distant galaxy with an apparent magnitude of +11 at its peak of brightness. At its peak, it is known that a type 1a supernova has an absolute magnitude of about −19. Show that the galaxy is about 10 Mpc away. Answer: Step 1: Write down the magnitude equation Where Apparent magnitude, = 11 Absolute magnitude, = −19 Step 2: Substitute in the values of m and M and rearrange Step 3: Take logs of both sides to determine the distance d
+Worked Example
+An astronomer observes a type 1a supernova in a distant galaxy with an apparent magnitude of +11 at its peak of brightness.
+At its peak, it is known that a type 1a supernova has an absolute magnitude of about −19.
+Show that the galaxy is about 10 Mpc away.
+Answer:
+Step 1: Write down the magnitude equation
+Where Apparent magnitude, = 11 Absolute magnitude, = −19
+Where
+Apparent magnitude, = 11
+Absolute magnitude, = −19
+Step 2: Substitute in the values of m and M and rearrange
+Step 3: Take logs of both sides to determine the distance d

@@ -1,0 +1,48 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-1-gravitational-fields/7-1-4-newtons-law-of-gravitation
+HEADING: Newton's Law of Gravitation ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Newton's Law of Gravitation The gravitational force between two bodies outside a uniform field, e.g. between the Earth and the Sun, is defined by Newton’s law of gravitation Newton’s Law of Gravitation states that: The gravitational force between two point masses is proportional to the product of the masses and inversely proportional to the square of their separation In equation form, this can be written as: Where: F = gravitational force between two masses (N) G = Newton’s gravitational constant m 1 and m 2 = two points masses (kg) r = distance between the centre of the two masses (m) Gravitational force between two point masses The gravitational force between two masses outside a uniform field is defined by Newton’s Law of Gravitation Newton’s law of gravitation applies to orbiting bodies, e.g. planets orbiting the Sun Although stars and planets are very large, they can be considered to be point masses as: they are approximately uniform spheres their separation is much larger than their radii The relation is called the inverse square law This means that when a mass is twice as far away from another, the gravitational force reduces by a quarter, i.e. Worked Example A satellite of mass 6500 kg is orbiting the Earth at 2000 km above the Earth's surface. The gravitational force between them is 37 kN. Calculate the mass of the Earth. Radius of the Earth = 6400 km. Answer: Step 1: List the known quantities Mass of satellite, m 1 = 6500 kg m 1 and m 2 can be either way around Distance of satellite above Earth's surface = 2000 km Gravitational force, F G = 37 kN Radius of Earth = 6400 km Step 2: State the equation for Newton's Law of Gravitation and rearrange for the mass of the Earth Step 3: Calculate the distance, r r is the distance between the centre of the Earth and the satellite r = distance of satellite above Earth's surface + radius of Earth Step 4: Substitute the known values into Newton's Law of Gravitation to calculate the mass of the Earth Examiner Tips and Tricks A common mistake in exams is to forget to add together the distance from the surface of the planet and its radius to obtain the value of r . The distance r is measured from the centre of the mass, which is from the centre of the planet.
+Newton's Law of Gravitation The gravitational force between two bodies outside a uniform field, e.g. between the Earth and the Sun, is defined by Newton’s law of gravitation Newton’s Law of Gravitation states that: The gravitational force between two point masses is proportional to the product of the masses and inversely proportional to the square of their separation In equation form, this can be written as: Where: F = gravitational force between two masses (N) G = Newton’s gravitational constant m 1 and m 2 = two points masses (kg) r = distance between the centre of the two masses (m) Gravitational force between two point masses The gravitational force between two masses outside a uniform field is defined by Newton’s Law of Gravitation Newton’s law of gravitation applies to orbiting bodies, e.g. planets orbiting the Sun Although stars and planets are very large, they can be considered to be point masses as: they are approximately uniform spheres their separation is much larger than their radii The relation is called the inverse square law This means that when a mass is twice as far away from another, the gravitational force reduces by a quarter, i.e.
+The gravitational force between two bodies outside a uniform field, e.g. between the Earth and the Sun, is defined by Newton’s law of gravitation
+Newton’s Law of Gravitation states that:
+The gravitational force between two point masses is proportional to the product of the masses and inversely proportional to the square of their separation
+In equation form, this can be written as:
+Where: F = gravitational force between two masses (N) G = Newton’s gravitational constant m 1 and m 2 = two points masses (kg) r = distance between the centre of the two masses (m)
+Where:
+F = gravitational force between two masses (N)
+G = Newton’s gravitational constant
+Newton’s gravitational constant
+m 1 and m 2 = two points masses (kg)
+r = distance between the centre of the two masses (m)
+Gravitational force between two point masses
+The gravitational force between two masses outside a uniform field is defined by Newton’s Law of Gravitation
+Newton’s law of gravitation applies to orbiting bodies, e.g. planets orbiting the Sun
+Although stars and planets are very large, they can be considered to be point masses as: they are approximately uniform spheres their separation is much larger than their radii
+Although stars and planets are very large, they can be considered to be point masses as:
+they are approximately uniform spheres
+their separation is much larger than their radii
+The relation is called the inverse square law
+This means that when a mass is twice as far away from another, the gravitational force reduces by a quarter, i.e.
+Worked Example A satellite of mass 6500 kg is orbiting the Earth at 2000 km above the Earth's surface. The gravitational force between them is 37 kN. Calculate the mass of the Earth. Radius of the Earth = 6400 km. Answer: Step 1: List the known quantities Mass of satellite, m 1 = 6500 kg m 1 and m 2 can be either way around Distance of satellite above Earth's surface = 2000 km Gravitational force, F G = 37 kN Radius of Earth = 6400 km Step 2: State the equation for Newton's Law of Gravitation and rearrange for the mass of the Earth Step 3: Calculate the distance, r r is the distance between the centre of the Earth and the satellite r = distance of satellite above Earth's surface + radius of Earth Step 4: Substitute the known values into Newton's Law of Gravitation to calculate the mass of the Earth
+Worked Example
+A satellite of mass 6500 kg is orbiting the Earth at 2000 km above the Earth's surface. The gravitational force between them is 37 kN.
+Calculate the mass of the Earth.
+Radius of the Earth = 6400 km.
+Answer:
+Step 1: List the known quantities
+Mass of satellite, m 1 = 6500 kg m 1 and m 2 can be either way around
+Mass of satellite, m 1 = 6500 kg
+m 1 and m 2 can be either way around
+Distance of satellite above Earth's surface = 2000 km
+Gravitational force, F G = 37 kN
+Radius of Earth = 6400 km
+Step 2: State the equation for Newton's Law of Gravitation and rearrange for the mass of the Earth
+Step 3: Calculate the distance, r
+r is the distance between the centre of the Earth and the satellite
+r = distance of satellite above Earth's surface + radius of Earth
+Step 4: Substitute the known values into Newton's Law of Gravitation to calculate the mass of the Earth
+Examiner Tips and Tricks A common mistake in exams is to forget to add together the distance from the surface of the planet and its radius to obtain the value of r . The distance r is measured from the centre of the mass, which is from the centre of the planet.
+Examiner Tips and Tricks
+A common mistake in exams is to forget to add together the distance from the surface of the planet and its radius to obtain the value of r . The distance r is measured from the centre of the mass, which is from the centre of the planet.

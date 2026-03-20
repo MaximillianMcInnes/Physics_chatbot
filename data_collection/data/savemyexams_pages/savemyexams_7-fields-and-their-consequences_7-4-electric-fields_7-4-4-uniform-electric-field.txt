@@ -1,0 +1,73 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-4-electric-fields/7-4-4-uniform-electric-field
+HEADING: Uniform Electric Field ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Uniform Electric Field Strength The magnitude of the electric field strength in a uniform field between two charged parallel plates is defined as: Where: E = electric field strength (V m −1 ) V = potential difference between the plates (V) d = separation between the plates (m) Note: both units for electric field strength, V m −1 and N C −1 , are equivalent The equation shows: The greater the voltage between the plates, the stronger the field The greater the separation between the plates, the weaker the field This equation cannot be used to find the electric field strength around a point charge This is because the field around a point charge is radial The electric field between two plates is directed: From the positive plate (i.e. the one connected to the positive terminal) To the negative plate (i.e. the one connected to the negative terminal) Uniform Electric Field Between two Parallel Plates The electric field strength between two charged parallel plates is the ratio of the potential difference and separation of the plates Worked Example Two parallel metal plates separated by 3.5 cm have a potential difference of 7.9 kV between them. Calculate the electric force acting on a point charge of 2.6 × 10 −15 C when placed between the plates. Answer: Step 1: List the known quantities Potential difference between plates, V = 7.9 kV = 7900 V Distance between plates, d = 3.5 cm = 0.035 m Charge, Q = 2.6 × 10 −15 C Step 2: Equate the equations for electric field strength E field between parallel plates: E field on a point charge: Step 3: Rearrange the expression for electric force F Step 4: Substitute values to calculate the force on the point charge N (2 s.f.) Examiner Tips and Tricks Remember the equation for electric field strength with V and d is only valid for parallel plates , and not for point charges However, when a point charge moves between two parallel plates, the two equations for electric field strength can be equated: Top tip: if one of the parallel plates is earthed , it has a voltage of 0 V Derivation of Electric Field Strength Between Plates When two points in an electric field have a different potential, there is a potential difference between them To move a charge across that potential difference, work needs to be done Two parallel plates with a potential difference V across them create a uniform electric field The electric field strength between the plates is given by the equations: Rearranging the fractions by multiplying by Q and d on both sides, gives: When a charge Q moves from one plate to the other, the work done on the charge by the field is Where: W = work done on charge (J) F = electrostatic force (N) d = distance between plates (m) The work done on the charge depends on the electric force and the distance between the plates Therefore, the work done in moving a charge Q through a potential difference V between parallel plates is also given by: Worked Example Calculate the electrostatic force on an electron between two parallel plates 20 cm apart and have a potential difference of 400 V applied between them. Answer: Step 1: List the known quantities Potential difference, V = 400 V Distance between plates, d = 20 cm = 0.2 m Charge of an electron, Q = 1.60 × 10 −19 C Step 2: Write an expression for the electrostatic force between two parallel plates Step 3: Substitute the values into the expression N
+Uniform Electric Field Strength The magnitude of the electric field strength in a uniform field between two charged parallel plates is defined as: Where: E = electric field strength (V m −1 ) V = potential difference between the plates (V) d = separation between the plates (m) Note: both units for electric field strength, V m −1 and N C −1 , are equivalent The equation shows: The greater the voltage between the plates, the stronger the field The greater the separation between the plates, the weaker the field This equation cannot be used to find the electric field strength around a point charge This is because the field around a point charge is radial The electric field between two plates is directed: From the positive plate (i.e. the one connected to the positive terminal) To the negative plate (i.e. the one connected to the negative terminal) Uniform Electric Field Between two Parallel Plates The electric field strength between two charged parallel plates is the ratio of the potential difference and separation of the plates
+Uniform Electric Field Strength
+The magnitude of the electric field strength in a uniform field between two charged parallel plates is defined as:
+Where: E = electric field strength (V m −1 ) V = potential difference between the plates (V) d = separation between the plates (m)
+Where:
+E = electric field strength (V m −1 )
+electric field strength
+V = potential difference between the plates (V)
+d = separation between the plates (m)
+Note: both units for electric field strength, V m −1 and N C −1 , are equivalent
+The equation shows: The greater the voltage between the plates, the stronger the field The greater the separation between the plates, the weaker the field
+The equation shows:
+The greater the voltage between the plates, the stronger the field
+The greater the separation between the plates, the weaker the field
+This equation cannot be used to find the electric field strength around a point charge This is because the field around a point charge is radial
+This equation cannot be used to find the electric field strength around a point charge
+point charge
+This is because the field around a point charge is radial
+The electric field between two plates is directed: From the positive plate (i.e. the one connected to the positive terminal) To the negative plate (i.e. the one connected to the negative terminal)
+The electric field between two plates is directed:
+From the positive plate (i.e. the one connected to the positive terminal)
+To the negative plate (i.e. the one connected to the negative terminal)
+Uniform Electric Field Between two Parallel Plates
+The electric field strength between two charged parallel plates is the ratio of the potential difference and separation of the plates
+Worked Example Two parallel metal plates separated by 3.5 cm have a potential difference of 7.9 kV between them. Calculate the electric force acting on a point charge of 2.6 × 10 −15 C when placed between the plates. Answer: Step 1: List the known quantities Potential difference between plates, V = 7.9 kV = 7900 V Distance between plates, d = 3.5 cm = 0.035 m Charge, Q = 2.6 × 10 −15 C Step 2: Equate the equations for electric field strength E field between parallel plates: E field on a point charge: Step 3: Rearrange the expression for electric force F Step 4: Substitute values to calculate the force on the point charge N (2 s.f.)
+Worked Example
+Two parallel metal plates separated by 3.5 cm have a potential difference of 7.9 kV between them.
+Calculate the electric force acting on a point charge of 2.6 × 10 −15 C when placed between the plates.
+Answer:
+Step 1: List the known quantities
+Potential difference between plates, V = 7.9 kV = 7900 V
+Distance between plates, d = 3.5 cm = 0.035 m
+Charge, Q = 2.6 × 10 −15 C
+Step 2: Equate the equations for electric field strength
+E field between parallel plates:
+E field on a point charge:
+Step 3: Rearrange the expression for electric force F
+Step 4: Substitute values to calculate the force on the point charge
+N (2 s.f.)
+Examiner Tips and Tricks Remember the equation for electric field strength with V and d is only valid for parallel plates , and not for point charges However, when a point charge moves between two parallel plates, the two equations for electric field strength can be equated: Top tip: if one of the parallel plates is earthed , it has a voltage of 0 V
+Examiner Tips and Tricks
+Remember the equation for electric field strength with V and d is only valid for parallel plates , and not for point charges
+However, when a point charge moves between two parallel plates, the two equations for electric field strength can be equated:
+Top tip: if one of the parallel plates is earthed , it has a voltage of 0 V
+Derivation of Electric Field Strength Between Plates When two points in an electric field have a different potential, there is a potential difference between them To move a charge across that potential difference, work needs to be done Two parallel plates with a potential difference V across them create a uniform electric field The electric field strength between the plates is given by the equations: Rearranging the fractions by multiplying by Q and d on both sides, gives: When a charge Q moves from one plate to the other, the work done on the charge by the field is Where: W = work done on charge (J) F = electrostatic force (N) d = distance between plates (m) The work done on the charge depends on the electric force and the distance between the plates Therefore, the work done in moving a charge Q through a potential difference V between parallel plates is also given by:
+Derivation of Electric Field Strength Between Plates
+When two points in an electric field have a different potential, there is a potential difference between them To move a charge across that potential difference, work needs to be done Two parallel plates with a potential difference V across them create a uniform electric field
+When two points in an electric field have a different potential, there is a potential difference between them
+To move a charge across that potential difference, work needs to be done
+Two parallel plates with a potential difference V across them create a uniform electric field
+The electric field strength between the plates is given by the equations:
+Rearranging the fractions by multiplying by Q and d on both sides, gives:
+When a charge Q moves from one plate to the other, the work done on the charge by the field is
+Where: W = work done on charge (J) F = electrostatic force (N) d = distance between plates (m)
+W = work done on charge (J)
+F = electrostatic force (N)
+d = distance between plates (m)
+The work done on the charge depends on the electric force and the distance between the plates
+Therefore, the work done in moving a charge Q through a potential difference V between parallel plates is also given by:
+Worked Example Calculate the electrostatic force on an electron between two parallel plates 20 cm apart and have a potential difference of 400 V applied between them. Answer: Step 1: List the known quantities Potential difference, V = 400 V Distance between plates, d = 20 cm = 0.2 m Charge of an electron, Q = 1.60 × 10 −19 C Step 2: Write an expression for the electrostatic force between two parallel plates Step 3: Substitute the values into the expression N
+Calculate the electrostatic force on an electron between two parallel plates 20 cm apart and have a potential difference of 400 V applied between them.
+Potential difference, V = 400 V
+Distance between plates, d = 20 cm = 0.2 m
+Charge of an electron, Q = 1.60 × 10 −19 C
+Step 2: Write an expression for the electrostatic force between two parallel plates
+Step 3: Substitute the values into the expression
+N

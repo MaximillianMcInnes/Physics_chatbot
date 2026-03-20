@@ -1,0 +1,76 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-1-atomic-structure-and-decay-equations/2-1-1-atomic-structure
+HEADING: Atomic Structure ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+Did this video help you? Atomic Structure All matter is made from atoms Atoms are made up of three types of particles: Protons Neutrons Electrons Protons and neutrons are found in the nucleus of an atom while electrons orbit the nucleus The properties of each particle in SI units are shown in the table below: The relative properties of each particle are shown in the table below: A stable atom is neutral (it has no charge) Since protons and electrons have the same charge, but opposite signs, a stable atom has an equal number of both for the overall charge to remain neutral Examiner Tips and Tricks Remember not to mix up the ‘atom’ and the ‘nucleus’. The ‘atom’ consists of the nucleus and electrons. The ‘nucleus’ just consists of the protons and neutrons in the middle of the atom, not the electrons. Specific Charge In physics, ‘ specific ’ refers to the characteristic of a property of a substance It is usually stated as a ratio i.e. per unit mass, length, area, volume etc. For example, specific heat capacity refers to the thermal energy per unit mass of a substance In atomic physics, specific charge is defined as: The ratio of the total charge of a particle to its mass It can be calculated using the equation: Specific charge is measured in units of coulombs per kilogram (C kg –1 ) Values for the specific charge of the electron and proton are given on the datasheet as the ‘charge / mass ratio’ The specific charge of the electron = ( e / m e ) = 1.76 × 10 11 C kg –1 The specific charge of the proton = ( e / m p ) = 9.58 × 10 7 C kg –1 Calculating Specific Charge You may be asked to find the specific charge of an ion or a nucleus Charge of a proton or electron, e = 1.60 × 10 –19 C Mass of a proton, m p (or neutron, m n ) = 1.67 × 10 –27 kg To calculate the specific charge of an ion : Charge = Total number of electrons added / removed × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg) To calculate the specific charge of a nucleus : Charge = Total charge of the protons × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg) The number of nucleons is given by the mass number of the ion or nucleus How the total charge and mass are calculated depends on whether you are calculating the specific charge for an ion or a nucleus Worked Example An atom of gains 2 electrons. What is the specific charge of the ion? Answer: Step 1: List the relevant quantities from the data booklet: Charge of an electron = −1.60 × 10 −19 C Mass of a proton = 1.67 × 10 −27 kg Step 2: Write the specific charge equation: Step 3: Calculate the total mass of the ion: The notation for the magnesium ion can be written as: This tells us the ion contains 24 nucleons in total So, the total mass can be calculated using: Total mass = nucleon (mass) number × mass of one nucleon 24 × (1.67 × 10 −27 ) = 4.0 × 10 −26 kg Step 4: Calculate the total charge on the ion: Before gaining 2 electrons, the magnesium atom was electrically neutral So, the total charge on the ion is equal to the charge of 2 electrons, which is: Total charge = number of electrons × (−1.60 × 10 −19 ) 2 × (−1.60 × 10 −19 ) = −3.2 × 10 −19 C Step 5: Substitute the values into the equation: (2 s.f) Examiner Tips and Tricks Sometimes you might be asked if the specific charge is positive or negative for an ion. Since the electron has a negative charge, the rules are as follows: If there is a gain in electrons, the specific charge will be negative . If there is a loss of electrons, the specific charge will be positive .
+Did this video help you?
+Atomic Structure All matter is made from atoms Atoms are made up of three types of particles: Protons Neutrons Electrons Protons and neutrons are found in the nucleus of an atom while electrons orbit the nucleus The properties of each particle in SI units are shown in the table below: The relative properties of each particle are shown in the table below: A stable atom is neutral (it has no charge) Since protons and electrons have the same charge, but opposite signs, a stable atom has an equal number of both for the overall charge to remain neutral
+All matter is made from atoms
+Atoms are made up of three types of particles: Protons Neutrons Electrons
+Atoms are made up of three types of particles:
+Protons
+Neutrons
+Electrons
+Protons and neutrons are found in the nucleus of an atom while electrons orbit the nucleus
+The properties of each particle in SI units are shown in the table below:
+The relative properties of each particle are shown in the table below:
+A stable atom is neutral (it has no charge)
+Since protons and electrons have the same charge, but opposite signs, a stable atom has an equal number of both for the overall charge to remain neutral
+Examiner Tips and Tricks Remember not to mix up the ‘atom’ and the ‘nucleus’. The ‘atom’ consists of the nucleus and electrons. The ‘nucleus’ just consists of the protons and neutrons in the middle of the atom, not the electrons.
+Examiner Tips and Tricks
+Remember not to mix up the ‘atom’ and the ‘nucleus’. The ‘atom’ consists of the nucleus and electrons. The ‘nucleus’ just consists of the protons and neutrons in the middle of the atom, not the electrons.
+Specific Charge In physics, ‘ specific ’ refers to the characteristic of a property of a substance It is usually stated as a ratio i.e. per unit mass, length, area, volume etc. For example, specific heat capacity refers to the thermal energy per unit mass of a substance In atomic physics, specific charge is defined as: The ratio of the total charge of a particle to its mass It can be calculated using the equation: Specific charge is measured in units of coulombs per kilogram (C kg –1 ) Values for the specific charge of the electron and proton are given on the datasheet as the ‘charge / mass ratio’ The specific charge of the electron = ( e / m e ) = 1.76 × 10 11 C kg –1 The specific charge of the proton = ( e / m p ) = 9.58 × 10 7 C kg –1 Calculating Specific Charge You may be asked to find the specific charge of an ion or a nucleus Charge of a proton or electron, e = 1.60 × 10 –19 C Mass of a proton, m p (or neutron, m n ) = 1.67 × 10 –27 kg To calculate the specific charge of an ion : Charge = Total number of electrons added / removed × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg) To calculate the specific charge of a nucleus : Charge = Total charge of the protons × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg) The number of nucleons is given by the mass number of the ion or nucleus How the total charge and mass are calculated depends on whether you are calculating the specific charge for an ion or a nucleus
+Specific Charge
+In physics, ‘ specific ’ refers to the characteristic of a property of a substance It is usually stated as a ratio i.e. per unit mass, length, area, volume etc. For example, specific heat capacity refers to the thermal energy per unit mass of a substance
+In physics, ‘ specific ’ refers to the characteristic of a property of a substance
+It is usually stated as a ratio i.e. per unit mass, length, area, volume etc.
+For example, specific heat capacity refers to the thermal energy per unit mass of a substance
+In atomic physics, specific charge is defined as:
+The ratio of the total charge of a particle to its mass
+It can be calculated using the equation:
+Specific charge is measured in units of coulombs per kilogram (C kg –1 )
+Values for the specific charge of the electron and proton are given on the datasheet as the ‘charge / mass ratio’ The specific charge of the electron = ( e / m e ) = 1.76 × 10 11 C kg –1 The specific charge of the proton = ( e / m p ) = 9.58 × 10 7 C kg –1
+Values for the specific charge of the electron and proton are given on the datasheet as the ‘charge / mass ratio’
+The specific charge of the electron = ( e / m e ) = 1.76 × 10 11 C kg –1
+The specific charge of the proton = ( e / m p ) = 9.58 × 10 7 C kg –1
+Calculating Specific Charge
+You may be asked to find the specific charge of an ion or a nucleus Charge of a proton or electron, e = 1.60 × 10 –19 C Mass of a proton, m p (or neutron, m n ) = 1.67 × 10 –27 kg
+You may be asked to find the specific charge of an ion or a nucleus
+ion
+Charge of a proton or electron, e = 1.60 × 10 –19 C
+Mass of a proton, m p (or neutron, m n ) = 1.67 × 10 –27 kg
+To calculate the specific charge of an ion : Charge = Total number of electrons added / removed × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg)
+To calculate the specific charge of an ion :
+Charge = Total number of electrons added / removed × (1.60 × 10 –19 C)
+Mass = Total number of nucleons × (1.67 × 10 –27 kg)
+To calculate the specific charge of a nucleus : Charge = Total charge of the protons × (1.60 × 10 –19 C) Mass = Total number of nucleons × (1.67 × 10 –27 kg)
+To calculate the specific charge of a nucleus :
+Charge = Total charge of the protons × (1.60 × 10 –19 C)
+The number of nucleons is given by the mass number of the ion or nucleus
+How the total charge and mass are calculated depends on whether you are calculating the specific charge for an ion or a nucleus
+Worked Example An atom of gains 2 electrons. What is the specific charge of the ion? Answer: Step 1: List the relevant quantities from the data booklet: Charge of an electron = −1.60 × 10 −19 C Mass of a proton = 1.67 × 10 −27 kg Step 2: Write the specific charge equation: Step 3: Calculate the total mass of the ion: The notation for the magnesium ion can be written as: This tells us the ion contains 24 nucleons in total So, the total mass can be calculated using: Total mass = nucleon (mass) number × mass of one nucleon 24 × (1.67 × 10 −27 ) = 4.0 × 10 −26 kg Step 4: Calculate the total charge on the ion: Before gaining 2 electrons, the magnesium atom was electrically neutral So, the total charge on the ion is equal to the charge of 2 electrons, which is: Total charge = number of electrons × (−1.60 × 10 −19 ) 2 × (−1.60 × 10 −19 ) = −3.2 × 10 −19 C Step 5: Substitute the values into the equation: (2 s.f)
+Worked Example
+An atom of gains 2 electrons.
+What is the specific charge of the ion?
+Answer:
+Step 1: List the relevant quantities from the data booklet:
+Charge of an electron = −1.60 × 10 −19 C
+Mass of a proton = 1.67 × 10 −27 kg
+Step 2: Write the specific charge equation:
+Step 3: Calculate the total mass of the ion:
+The notation for the magnesium ion can be written as:
+This tells us the ion contains 24 nucleons in total
+So, the total mass can be calculated using:
+Total mass = nucleon (mass) number × mass of one nucleon
+24 × (1.67 × 10 −27 ) = 4.0 × 10 −26 kg
+Step 4: Calculate the total charge on the ion:
+Before gaining 2 electrons, the magnesium atom was electrically neutral
+So, the total charge on the ion is equal to the charge of 2 electrons, which is:
+Total charge = number of electrons × (−1.60 × 10 −19 )
+2 × (−1.60 × 10 −19 ) = −3.2 × 10 −19 C
+Step 5: Substitute the values into the equation:
+(2 s.f)
+Examiner Tips and Tricks Sometimes you might be asked if the specific charge is positive or negative for an ion. Since the electron has a negative charge, the rules are as follows: If there is a gain in electrons, the specific charge will be negative . If there is a loss of electrons, the specific charge will be positive .
+Sometimes you might be asked if the specific charge is positive or negative for an ion. Since the electron has a negative charge, the rules are as follows:
+If there is a gain in electrons, the specific charge will be negative .
+If there is a loss of electrons, the specific charge will be positive .

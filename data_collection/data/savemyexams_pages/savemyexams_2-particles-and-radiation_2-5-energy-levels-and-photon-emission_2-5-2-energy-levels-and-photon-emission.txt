@@ -1,0 +1,85 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-5-energy-levels-and-photon-emission/2-5-2-energy-levels-and-photon-emission
+HEADING: Energy Levels & Photon Emission ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Line Spectra & Energy Levels Energy levels can be represented as a series of horizontal lines The line at the bottom with the greatest negative energy represents the ground state The lines above the ground state with decreasing energies represent excited states The line at the top, usually 0 V or infinity , represents the ionisation energy Energy Levels in a Hydrogen Atom A photon is emitted when an electron moves from a higher energy state to a lower energy state. The energy of the emitted photon is equal to the difference in energy between the energy levels in the transition. Line Spectra Line spectra occur when excited atoms emit light of certain wavelengths which correspond to different colours The emitted light can be observed as a series of lines with spaces in between These series of lines are called line or atomic spectra Each element produces a unique set of spectral lines No two elements emit the same set of spectral lines, therefore, elements can be identified by their line spectrum There are two types of line spectra: emission spectra and absorption spectra Emission Spectra When an electron transitions from a higher energy level to a lower energy level, this results in the emission of a photon Each transition corresponds to a different wavelength of light and this corresponds to a line in the spectrum The resulting emission spectrum contains a set of discrete wavelengths, represented by coloured lines on a black background Each emitted photon has a wavelength which is associated with a discrete change in energy, according to the equation: Where: Δ E = change in energy level (J) h = Planck’s constant (J s) f = frequency of photon (Hz) c = the speed of light (m s -1 ) λ = wavelength of the photon (m) Line spectra provide evidence that electrons in atoms can only transition between discrete energy levels Emission spectrum of Hydrogen gas Absorption Spectra An atom can be raised to an excited state by the absorption of a photon When white light passes through a cool, low pressure gas it is found that light of certain wavelengths are missing This type of spectrum is called an absorption spectrum An absorption spectrum consists of a continuous spectrum containing all the colours with dark lines at certain wavelengths These dark lines correspond exactly to the differences in energy levels in an atom When these electrons return to lower levels, the photons are emitted in all directions, rather than in the original direction of the white light Therefore, some wavelengths appear to be missing The wavelengths missing from an absorption spectrum are the same as their corresponding emission spectra of the same element Absorption spectrum of Hydrogen gas Difference in Discrete Energy Levels The difference between two energy levels is equal to a specific photon energy The energy ( hf ) of the photon is given by: Δ E = hf = E 2 - E 1 Where: E 1 = Energy of the higher level (J) E 2 = Energy of the lower level (J) h = Planck’s constant (J s) f = Frequency of photon (Hz) Using the wave equation , the wavelength of the emitted, or absorbed, radiation can be related to the energy difference This equation shows that the larger the difference in energy between two levels Δ E (E 2 - E 1 ) the shorter the wavelength λ and vice versa Worked Example Some electron energy levels in atomic hydrogen are shown below. The longest wavelength produced as a result of electron transitions between two of the energy levels is 4.0 × 10 –6 m. a) Draw and mark: The transition giving rise to the wavelength of 4.0 × 10 –6 m with letter L . The transition giving rise to the shortest wavelength with letter S . b) Calculate the wavelength for the transition giving rise to the shortest wavelength. Answer: Part (a) Photon energy and wavelength are inversely proportional Therefore, the largest energy change corresponds to the shortest wavelength ( line S ) The smallest energy change corresponds to the longest wavelength ( line L ) Part (b) Examiner Tips and Tricks It doesn't matter which energy level you assign as E 1 or E 2 , you just need to know the difference between the energy of the two energy levels.
+Line Spectra & Energy Levels Energy levels can be represented as a series of horizontal lines The line at the bottom with the greatest negative energy represents the ground state The lines above the ground state with decreasing energies represent excited states The line at the top, usually 0 V or infinity , represents the ionisation energy Energy Levels in a Hydrogen Atom A photon is emitted when an electron moves from a higher energy state to a lower energy state. The energy of the emitted photon is equal to the difference in energy between the energy levels in the transition. Line Spectra Line spectra occur when excited atoms emit light of certain wavelengths which correspond to different colours The emitted light can be observed as a series of lines with spaces in between These series of lines are called line or atomic spectra Each element produces a unique set of spectral lines No two elements emit the same set of spectral lines, therefore, elements can be identified by their line spectrum There are two types of line spectra: emission spectra and absorption spectra Emission Spectra When an electron transitions from a higher energy level to a lower energy level, this results in the emission of a photon Each transition corresponds to a different wavelength of light and this corresponds to a line in the spectrum The resulting emission spectrum contains a set of discrete wavelengths, represented by coloured lines on a black background Each emitted photon has a wavelength which is associated with a discrete change in energy, according to the equation: Where: Δ E = change in energy level (J) h = Planck’s constant (J s) f = frequency of photon (Hz) c = the speed of light (m s -1 ) λ = wavelength of the photon (m) Line spectra provide evidence that electrons in atoms can only transition between discrete energy levels Emission spectrum of Hydrogen gas Absorption Spectra An atom can be raised to an excited state by the absorption of a photon When white light passes through a cool, low pressure gas it is found that light of certain wavelengths are missing This type of spectrum is called an absorption spectrum An absorption spectrum consists of a continuous spectrum containing all the colours with dark lines at certain wavelengths These dark lines correspond exactly to the differences in energy levels in an atom When these electrons return to lower levels, the photons are emitted in all directions, rather than in the original direction of the white light Therefore, some wavelengths appear to be missing The wavelengths missing from an absorption spectrum are the same as their corresponding emission spectra of the same element Absorption spectrum of Hydrogen gas
+Line Spectra & Energy Levels
+Energy levels can be represented as a series of horizontal lines The line at the bottom with the greatest negative energy represents the ground state The lines above the ground state with decreasing energies represent excited states The line at the top, usually 0 V or infinity , represents the ionisation energy
+Energy levels can be represented as a series of horizontal lines
+The line at the bottom with the greatest negative energy represents the ground state
+ground state
+The lines above the ground state with decreasing energies represent excited states
+excited states
+The line at the top, usually 0 V or infinity , represents the ionisation energy
+ionisation energy
+Energy Levels in a Hydrogen Atom
+A photon is emitted when an electron moves from a higher energy state to a lower energy state. The energy of the emitted photon is equal to the difference in energy between the energy levels in the transition.
+Line Spectra
+Line spectra occur when excited atoms emit light of certain wavelengths which correspond to different colours
+The emitted light can be observed as a series of lines with spaces in between These series of lines are called line or atomic spectra
+The emitted light can be observed as a series of lines with spaces in between
+These series of lines are called line or atomic spectra
+Each element produces a unique set of spectral lines
+No two elements emit the same set of spectral lines, therefore, elements can be identified by their line spectrum
+There are two types of line spectra: emission spectra and absorption spectra
+Emission Spectra
+When an electron transitions from a higher energy level to a lower energy level, this results in the emission of a photon
+Each transition corresponds to a different wavelength of light and this corresponds to a line in the spectrum
+The resulting emission spectrum contains a set of discrete wavelengths, represented by coloured lines on a black background
+Each emitted photon has a wavelength which is associated with a discrete change in energy, according to the equation:
+Where: Δ E = change in energy level (J) h = Planck’s constant (J s) f = frequency of photon (Hz) c = the speed of light (m s -1 ) λ = wavelength of the photon (m)
+Where:
+Δ E = change in energy level (J)
+h = Planck’s constant (J s)
+Planck’s constant
+f = frequency of photon (Hz)
+c = the speed of light (m s -1 )
+the speed of light
+λ = wavelength of the photon (m)
+Line spectra provide evidence that electrons in atoms can only transition between discrete energy levels
+Emission spectrum of Hydrogen gas
+Absorption Spectra
+An atom can be raised to an excited state by the absorption of a photon
+When white light passes through a cool, low pressure gas it is found that light of certain wavelengths are missing This type of spectrum is called an absorption spectrum
+When white light passes through a cool, low pressure gas it is found that light of certain wavelengths are missing
+This type of spectrum is called an absorption spectrum
+An absorption spectrum consists of a continuous spectrum containing all the colours with dark lines at certain wavelengths
+continuous spectrum
+These dark lines correspond exactly to the differences in energy levels in an atom
+When these electrons return to lower levels, the photons are emitted in all directions, rather than in the original direction of the white light Therefore, some wavelengths appear to be missing
+When these electrons return to lower levels, the photons are emitted in all directions, rather than in the original direction of the white light
+Therefore, some wavelengths appear to be missing
+The wavelengths missing from an absorption spectrum are the same as their corresponding emission spectra of the same element
+Absorption spectrum of Hydrogen gas
+Difference in Discrete Energy Levels The difference between two energy levels is equal to a specific photon energy The energy ( hf ) of the photon is given by: Δ E = hf = E 2 - E 1 Where: E 1 = Energy of the higher level (J) E 2 = Energy of the lower level (J) h = Planck’s constant (J s) f = Frequency of photon (Hz) Using the wave equation , the wavelength of the emitted, or absorbed, radiation can be related to the energy difference This equation shows that the larger the difference in energy between two levels Δ E (E 2 - E 1 ) the shorter the wavelength λ and vice versa
+Difference in Discrete Energy Levels
+The difference between two energy levels is equal to a specific photon energy
+The energy ( hf ) of the photon is given by:
+Δ E = hf = E 2 - E 1
+Where: E 1 = Energy of the higher level (J) E 2 = Energy of the lower level (J) h = Planck’s constant (J s) f = Frequency of photon (Hz)
+E 1 = Energy of the higher level (J)
+E 2 = Energy of the lower level (J)
+f = Frequency of photon (Hz)
+Using the wave equation , the wavelength of the emitted, or absorbed, radiation can be related to the energy difference
+wave equation
+This equation shows that the larger the difference in energy between two levels Δ E (E 2 - E 1 ) the shorter the wavelength λ and vice versa
+Worked Example Some electron energy levels in atomic hydrogen are shown below. The longest wavelength produced as a result of electron transitions between two of the energy levels is 4.0 × 10 –6 m. a) Draw and mark: The transition giving rise to the wavelength of 4.0 × 10 –6 m with letter L . The transition giving rise to the shortest wavelength with letter S . b) Calculate the wavelength for the transition giving rise to the shortest wavelength. Answer: Part (a) Photon energy and wavelength are inversely proportional Therefore, the largest energy change corresponds to the shortest wavelength ( line S ) The smallest energy change corresponds to the longest wavelength ( line L ) Part (b)
+Worked Example
+Some electron energy levels in atomic hydrogen are shown below.
+The longest wavelength produced as a result of electron transitions between two of the energy levels is 4.0 × 10 –6 m.
+a) Draw and mark:
+The transition giving rise to the wavelength of 4.0 × 10 –6 m with letter L .
+The transition giving rise to the shortest wavelength with letter S .
+b) Calculate the wavelength for the transition giving rise to the shortest wavelength.
+Answer:
+Part (a)
+Photon energy and wavelength are inversely proportional Therefore, the largest energy change corresponds to the shortest wavelength ( line S ) The smallest energy change corresponds to the longest wavelength ( line L )
+Photon energy and wavelength are inversely proportional
+Therefore, the largest energy change corresponds to the shortest wavelength ( line S )
+The smallest energy change corresponds to the longest wavelength ( line L )
+Part (b)
+Examiner Tips and Tricks It doesn't matter which energy level you assign as E 1 or E 2 , you just need to know the difference between the energy of the two energy levels.
+Examiner Tips and Tricks
+It doesn't matter which energy level you assign as E 1 or E 2 , you just need to know the difference between the energy of the two energy levels.

@@ -1,0 +1,71 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-1-telescopes/9-1-8-charge-coupled-devices-ccds-in-astronomy
+HEADING: Charge-Coupled Devices (CCDs) in Astronomy ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Charge-Coupled Devices (CCDs) A charge-coupled device (CCD) is a detector which is highly sensitive to photons, making it ideal for use in the detection system of modern telescopes Incident photons cause electrons to be released The number of electrons released is proportional to the intensity of the incident light An image is formed on the CCD, which can be processed electronically to give a digital image A charged-coupled device A charged-couple device has had a huge impact on modern astronomy Quantum Efficiency Quantum efficiency (QE) is defined as The percentage of incident photons which cause an electron to be released It can also be written as quantum efficiency (QE) = In a perfect device, the quantum efficiency will be 100% if every photon generates a photoelectron However, in practice, the quantum efficiency will be less than 100% since there will usually always be unavoidable losses Some values of QE for different devices are shown in the table Device Quantum efficiency (%) human eye 1−4% photographic film 4−10% CCD 70−90% Comparison of the eye and a CCD: CCDs are renowned for achieving high values of quantum efficiency, generally upwards of 80%, whereas a human eye is only capable of achieving around 1% Resolution of a CCD The resolution of a CCD is related to the total number of pixels per unit area, and their size The smaller the size of the pixel, the better the resolution, hence the clearer the image will be The typical resolution of a CCD is about 10 μm In comparison, the typical resolution of the human eye is about 100 μm, but it can vary widely In most cases, the overall resolution of a telescope is limited by the diameter of the objective Hence, the resolution of the CCD (or the eye) is not likely to make a difference to the final image observed Convenience of a CCD CCDs have an edge over the eye in terms of convenience because: The number of images captured in a time period and exposure time can be easily adjusted The information stored on a CCD can be accessed remotely The generated images can be stored and analysed digitally They can detect a larger range of wavelengths, including beyond the visible spectrum Comparison of a CCD with the human eye The main comparisons between the eye and a CCD are summarised in the table Device Quantum efficiency (%) Resolution Convenience of use human eye Very low ~1% Typical resolution ~100 μm No additional equipment required CCD Very high 70%+ Able to detect much fainter objects Typical resolution ~10 μm Resolution can be increased by using smaller pixels Remote viewing Images can be stored and analysed digitally Long exposure times Can detect a wider range of wavelengths Examiner Tips and Tricks You may see past exam questions on the operation and structure of the CCD, but this knowledge is no longer required - the focus is now on the comparison between the CCD and the eye.
+Charge-Coupled Devices (CCDs) A charge-coupled device (CCD) is a detector which is highly sensitive to photons, making it ideal for use in the detection system of modern telescopes Incident photons cause electrons to be released The number of electrons released is proportional to the intensity of the incident light An image is formed on the CCD, which can be processed electronically to give a digital image A charged-coupled device A charged-couple device has had a huge impact on modern astronomy Quantum Efficiency Quantum efficiency (QE) is defined as The percentage of incident photons which cause an electron to be released It can also be written as quantum efficiency (QE) = In a perfect device, the quantum efficiency will be 100% if every photon generates a photoelectron However, in practice, the quantum efficiency will be less than 100% since there will usually always be unavoidable losses Some values of QE for different devices are shown in the table Device Quantum efficiency (%) human eye 1−4% photographic film 4−10% CCD 70−90% Comparison of the eye and a CCD: CCDs are renowned for achieving high values of quantum efficiency, generally upwards of 80%, whereas a human eye is only capable of achieving around 1% Resolution of a CCD The resolution of a CCD is related to the total number of pixels per unit area, and their size The smaller the size of the pixel, the better the resolution, hence the clearer the image will be The typical resolution of a CCD is about 10 μm In comparison, the typical resolution of the human eye is about 100 μm, but it can vary widely In most cases, the overall resolution of a telescope is limited by the diameter of the objective Hence, the resolution of the CCD (or the eye) is not likely to make a difference to the final image observed Convenience of a CCD CCDs have an edge over the eye in terms of convenience because: The number of images captured in a time period and exposure time can be easily adjusted The information stored on a CCD can be accessed remotely The generated images can be stored and analysed digitally They can detect a larger range of wavelengths, including beyond the visible spectrum Comparison of a CCD with the human eye The main comparisons between the eye and a CCD are summarised in the table Device Quantum efficiency (%) Resolution Convenience of use human eye Very low ~1% Typical resolution ~100 μm No additional equipment required CCD Very high 70%+ Able to detect much fainter objects Typical resolution ~10 μm Resolution can be increased by using smaller pixels Remote viewing Images can be stored and analysed digitally Long exposure times Can detect a wider range of wavelengths
+Charge-Coupled Devices (CCDs)
+A charge-coupled device (CCD) is a detector which is highly sensitive to photons, making it ideal for use in the detection system of modern telescopes Incident photons cause electrons to be released The number of electrons released is proportional to the intensity of the incident light An image is formed on the CCD, which can be processed electronically to give a digital image
+A charge-coupled device (CCD) is a detector which is highly sensitive to photons, making it ideal for use in the detection system of modern telescopes
+Incident photons cause electrons to be released
+The number of electrons released is proportional to the intensity of the incident light
+An image is formed on the CCD, which can be processed electronically to give a digital image
+A charged-coupled device
+A charged-couple device has had a huge impact on modern astronomy
+Quantum Efficiency
+Quantum efficiency (QE) is defined as
+The percentage of incident photons which cause an electron to be released
+It can also be written as
+quantum efficiency (QE) =
+In a perfect device, the quantum efficiency will be 100% if every photon generates a photoelectron However, in practice, the quantum efficiency will be less than 100% since there will usually always be unavoidable losses
+In a perfect device, the quantum efficiency will be 100% if every photon generates a photoelectron
+However, in practice, the quantum efficiency will be less than 100% since there will usually always be unavoidable losses
+Some values of QE for different devices are shown in the table
+Device Quantum efficiency (%) human eye 1−4% photographic film 4−10% CCD 70−90%
+Device
+Quantum efficiency (%)
+human eye
+1−4%
+photographic film
+4−10%
+CCD
+70−90%
+Comparison of the eye and a CCD: CCDs are renowned for achieving high values of quantum efficiency, generally upwards of 80%, whereas a human eye is only capable of achieving around 1%
+Comparison of the eye and a CCD:
+CCDs are renowned for achieving high values of quantum efficiency, generally upwards of 80%, whereas a human eye is only capable of achieving around 1%
+Resolution of a CCD
+The resolution of a CCD is related to the total number of pixels per unit area, and their size The smaller the size of the pixel, the better the resolution, hence the clearer the image will be
+The resolution of a CCD is related to the total number of pixels per unit area, and their size
+The smaller the size of the pixel, the better the resolution, hence the clearer the image will be
+The typical resolution of a CCD is about 10 μm
+In comparison, the typical resolution of the human eye is about 100 μm, but it can vary widely
+In most cases, the overall resolution of a telescope is limited by the diameter of the objective Hence, the resolution of the CCD (or the eye) is not likely to make a difference to the final image observed
+In most cases, the overall resolution of a telescope is limited by the diameter of the objective
+Hence, the resolution of the CCD (or the eye) is not likely to make a difference to the final image observed
+Convenience of a CCD
+CCDs have an edge over the eye in terms of convenience because: The number of images captured in a time period and exposure time can be easily adjusted The information stored on a CCD can be accessed remotely The generated images can be stored and analysed digitally They can detect a larger range of wavelengths, including beyond the visible spectrum
+CCDs have an edge over the eye in terms of convenience because:
+The number of images captured in a time period and exposure time can be easily adjusted
+The information stored on a CCD can be accessed remotely
+The generated images can be stored and analysed digitally
+They can detect a larger range of wavelengths, including beyond the visible spectrum
+Comparison of a CCD with the human eye
+The main comparisons between the eye and a CCD are summarised in the table
+Device Quantum efficiency (%) Resolution Convenience of use human eye Very low ~1% Typical resolution ~100 μm No additional equipment required CCD Very high 70%+ Able to detect much fainter objects Typical resolution ~10 μm Resolution can be increased by using smaller pixels Remote viewing Images can be stored and analysed digitally Long exposure times Can detect a wider range of wavelengths
+Resolution
+Convenience of use
+Very low ~1%
+Typical resolution ~100 μm
+No additional equipment required
+Very high 70%+
+Able to detect much fainter objects
+Typical resolution ~10 μm
+Resolution can be increased by using smaller pixels
+Remote viewing
+Images can be stored and analysed digitally
+Long exposure times
+Can detect a wider range of wavelengths
+Examiner Tips and Tricks You may see past exam questions on the operation and structure of the CCD, but this knowledge is no longer required - the focus is now on the comparison between the CCD and the eye.
+Examiner Tips and Tricks
+You may see past exam questions on the operation and structure of the CCD, but this knowledge is no longer required - the focus is now on the comparison between the CCD and the eye.

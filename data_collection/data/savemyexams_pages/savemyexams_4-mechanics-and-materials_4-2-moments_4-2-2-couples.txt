@@ -1,0 +1,34 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-2-moments/4-2-2-couples
+HEADING: Couples ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Couples A couple is a pair of equal and opposite coplanar forces that acts to produce rotation only A couple consists of a pair of forces that are: Equal in magnitude Opposite in direction Perpendicular to the distance between them A couple must consist of two equal and opposite forces separated by a perpendicular distance Couples produce a resultant force of zero , so, due to Newton’s Second law ( F = ma ), the object does not accelerate Unlike moments of a single force, the moment of a couple doesn’t depend on a pivot The moment of a couple is equal to: Force × Perpendicular distance between the lines of action of the forces Worked Example Which pair of forces act as a couple on the circular object? Answer: A In diagram A , the forces are: Equal in size In opposite directions Perpendicular to the distance between them B is incorrect as the forces are in the same direction C is incorrect as the forces are different in size D is incorrect as the distance between the forces is not perpendicular Examiner Tips and Tricks The forces that make up a couple cannot share the same line of action which is the line through the point at which the force is applied. An example of this is shown in the diagram below:
+Couples A couple is a pair of equal and opposite coplanar forces that acts to produce rotation only A couple consists of a pair of forces that are: Equal in magnitude Opposite in direction Perpendicular to the distance between them A couple must consist of two equal and opposite forces separated by a perpendicular distance Couples produce a resultant force of zero , so, due to Newton’s Second law ( F = ma ), the object does not accelerate Unlike moments of a single force, the moment of a couple doesn’t depend on a pivot The moment of a couple is equal to: Force × Perpendicular distance between the lines of action of the forces
+A couple is a pair of equal and opposite coplanar forces that acts to produce rotation only
+coplanar forces
+A couple consists of a pair of forces that are: Equal in magnitude Opposite in direction Perpendicular to the distance between them
+A couple consists of a pair of forces that are:
+Equal in magnitude
+Opposite in direction
+Perpendicular to the distance between them
+A couple must consist of two equal and opposite forces separated by a perpendicular distance
+Couples produce a resultant force of zero , so, due to Newton’s Second law ( F = ma ), the object does not accelerate
+Unlike moments of a single force, the moment of a couple doesn’t depend on a pivot
+The moment of a couple is equal to: Force × Perpendicular distance between the lines of action of the forces
+The moment of a couple is equal to:
+Force × Perpendicular distance between the lines of action of the forces
+Worked Example Which pair of forces act as a couple on the circular object? Answer: A In diagram A , the forces are: Equal in size In opposite directions Perpendicular to the distance between them B is incorrect as the forces are in the same direction C is incorrect as the forces are different in size D is incorrect as the distance between the forces is not perpendicular
+Worked Example
+Which pair of forces act as a couple on the circular object?
+Answer: A
+In diagram A , the forces are: Equal in size In opposite directions Perpendicular to the distance between them
+In diagram A , the forces are:
+Equal in size
+In opposite directions
+B is incorrect as the forces are in the same direction
+C is incorrect as the forces are different in size
+D is incorrect as the distance between the forces is not perpendicular
+Examiner Tips and Tricks The forces that make up a couple cannot share the same line of action which is the line through the point at which the force is applied. An example of this is shown in the diagram below:
+Examiner Tips and Tricks
+The forces that make up a couple cannot share the same line of action which is the line through the point at which the force is applied. An example of this is shown in the diagram below:

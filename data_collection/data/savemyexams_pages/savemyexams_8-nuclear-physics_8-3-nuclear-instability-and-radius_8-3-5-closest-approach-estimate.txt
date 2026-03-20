@@ -1,0 +1,42 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-3-nuclear-instability-and-radius/8-3-5-closest-approach-estimate
+HEADING: Closest Approach Estimate ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Closest Approach Estimate The Coulomb equation for electric potential energy can be used to estimate the radii of nuclei other than gold Initially, the alpha particles have kinetic energy equal to: The electric potential energy between the two charges is equal to: This can be expressed as the potential energy at the point of repulsion : Where: Charge of an alpha particle, Charge of the target nucleus, = proton number of the target nucleus = elementary charge (C) = the distance of closest approach (m) = permittivity of free space When the alpha particle reaches the distance of closest approach (to the target nucleus), all of its kinetic energy has been transformed into electric potential energy Rearranging for the distance of closest approach : This gives an upper limit for the radius of the nucleus, assuming the alpha particle is fired at a high energy Worked Example The first artificially produced isotope, phosphorus-30 was formed by bombarding an aluminium-27 isotope with an α-particle. For the reaction to take place, the α-particle must come within a distance from the centre of the aluminium nucleus. Calculate the distance for an α-particle accelerated to a speed of 2.55 × 10 7 m s –1 . Answer: Step 1: List the known quantities Mass of α-particle, Speed of the α-particle, Charge of an α-particle, Proton number of aluminium, Charge of an aluminium nucleus, Permittivity of free space, Step 2: Write down the equations for kinetic energy and electric potential energy Step 3: Rearrange for distance, r Step 4: Calculate the distance, r Examiner Tips and Tricks Make sure you're comfortable with the calculations involved with the alpha particle closest approach method, as this is a common exam question. You will be expected to remember that the charge of an α-particle is the charge of 2 protons (2 × the charge of an electron)
+Closest Approach Estimate The Coulomb equation for electric potential energy can be used to estimate the radii of nuclei other than gold Initially, the alpha particles have kinetic energy equal to: The electric potential energy between the two charges is equal to: This can be expressed as the potential energy at the point of repulsion : Where: Charge of an alpha particle, Charge of the target nucleus, = proton number of the target nucleus = elementary charge (C) = the distance of closest approach (m) = permittivity of free space When the alpha particle reaches the distance of closest approach (to the target nucleus), all of its kinetic energy has been transformed into electric potential energy Rearranging for the distance of closest approach : This gives an upper limit for the radius of the nucleus, assuming the alpha particle is fired at a high energy
+The Coulomb equation for electric potential energy can be used to estimate the radii of nuclei other than gold
+Initially, the alpha particles have kinetic energy equal to:
+The electric potential energy between the two charges is equal to:
+This can be expressed as the potential energy at the point of repulsion :
+Where: Charge of an alpha particle, Charge of the target nucleus, = proton number of the target nucleus = elementary charge (C) = the distance of closest approach (m) = permittivity of free space
+Where:
+Charge of an alpha particle,
+Charge of the target nucleus,
+= proton number of the target nucleus
+= elementary charge (C)
+= the distance of closest approach (m)
+= permittivity of free space
+permittivity of free space
+When the alpha particle reaches the distance of closest approach (to the target nucleus), all of its kinetic energy has been transformed into electric potential energy
+Rearranging for the distance of closest approach :
+This gives an upper limit for the radius of the nucleus, assuming the alpha particle is fired at a high energy
+Worked Example The first artificially produced isotope, phosphorus-30 was formed by bombarding an aluminium-27 isotope with an α-particle. For the reaction to take place, the α-particle must come within a distance from the centre of the aluminium nucleus. Calculate the distance for an α-particle accelerated to a speed of 2.55 × 10 7 m s –1 . Answer: Step 1: List the known quantities Mass of α-particle, Speed of the α-particle, Charge of an α-particle, Proton number of aluminium, Charge of an aluminium nucleus, Permittivity of free space, Step 2: Write down the equations for kinetic energy and electric potential energy Step 3: Rearrange for distance, r Step 4: Calculate the distance, r
+Worked Example
+The first artificially produced isotope, phosphorus-30 was formed by bombarding an aluminium-27 isotope with an α-particle.
+For the reaction to take place, the α-particle must come within a distance from the centre of the aluminium nucleus.
+Calculate the distance for an α-particle accelerated to a speed of 2.55 × 10 7 m s –1 .
+Answer:
+Step 1: List the known quantities
+Mass of α-particle,
+Speed of the α-particle,
+Charge of an α-particle,
+Proton number of aluminium,
+Charge of an aluminium nucleus,
+Permittivity of free space,
+Step 2: Write down the equations for kinetic energy and electric potential energy
+Step 3: Rearrange for distance, r
+Step 4: Calculate the distance, r
+Examiner Tips and Tricks Make sure you're comfortable with the calculations involved with the alpha particle closest approach method, as this is a common exam question. You will be expected to remember that the charge of an α-particle is the charge of 2 protons (2 × the charge of an electron)
+Examiner Tips and Tricks
+Make sure you're comfortable with the calculations involved with the alpha particle closest approach method, as this is a common exam question. You will be expected to remember that the charge of an α-particle is the charge of 2 protons (2 × the charge of an electron)

@@ -1,0 +1,74 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-9-electromagnetic-induction/7-9-4-faradays-and-lenzs-laws
+HEADING: Faraday's & Lenz's Laws ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Faraday's & Lenz's Laws Faraday's law relates the rate of change of flux linkage to the e.m.f. induced in a conductor It is defined as: The magnitude of the induced e.m.f. is directly proportional to the rate of change in magnetic flux linkage Lenz’s Law describes the direction of the induced e.m.f. as defined by Faraday’s law: The induced e.m.f acts in such a direction to produce effects that oppose the change causing it Experimental evidence for Lenz’s law To verify Lenz’s law, the only apparatus needed is: a bar magnet a coil of wire a sensitive ammeter Note: a cell is not required A known pole (either north or south) of the bar magnet is pushed into the coil, which induces a magnetic field in the coil Using the right-hand grip rule, the curled fingers indicate the direction of the current , and the thumb indicates the direction of the induced magnetic field The direction of the current is observed on the ammeter Reversing the magnet direction would give an opposite deflection on the meter The induced field (in the coil) repels the bar magnet This is because of Lenz’s law : The direction of the induced field in the coil pushes against the change creating it, i.e. the bar magnet Lenz’s law can be verified using a coil connected in series with a sensitive ammeter and a bar magnet Calculating Induced EMF Faraday's law of induction can be written mathematically as: Where: = induced e.m.f (V) = number of turns of coil = change in magnetic flux (Wb) = time interval (s) This equation shows that the gradient of a magnetic flux linkage against time graph is the e.m.f Lenz’s law combined with Faraday’s law is given by the equation: This equation shows: When a bar magnet goes through a coil, an e.m.f. is induced within the coil due to a change in magnetic flux A current is also induced. which means the coil now has its own magnetic field The coil’s magnetic field acts in the opposite direction to the magnetic field of the bar magnet (shown by the minus sign) If a direct current (d.c.) power supply is replaced with an alternating current (a.c.) supply, the e.m.f. induced will also be alternating with the same frequency as the supply Worked Example A small rectangular coil contains 350 turns of wire. The longer sides are 3.5 cm and the shorter sides are 1.4 cm. The coil is held between the poles of a large magnet so that the coil can rotate about an axis through its centre. The magnet produces a uniform magnetic field of flux density 80 mT between its poles. The coil is positioned horizontally and then turned through an angle of 40° in a time of 0.18 s. Calculate the magnitude of the average e.m.f. induced in the coil. Answer: Step 1: Write down the known quantities Magnetic flux density, B = 80 mT = 80 × 10 -3 T Area, A = 3.5 × 1.4 = (3.5 × 10 -2 ) × (1.4 × 10 -2 ) = 4.9 × 10 -4 m 2 Number of turns, N = 350 Time interval, Δ t = 0.18 s Angle between coil and field lines = 40 o Therefore, the angle between the normal to the area and the field lines, θ = (90 − 40) = 50° Step 2: Write out the equation for Faraday’s law: Step 3: Write out the equation for flux linkage: Step 4: Substitute values into flux linkage equation: Step 5: Substitute flux linkage and time into Faraday’s law equation: Examiner Tips and Tricks The 'magnitude' of the e.m.f. just means it's size, rather than direction. This is often what is required in exam questions, so the minus sign in Lenz's law is not necessarily required in calculations. However, you may be expected to explain the significance of the minus sign in Lenz's law.
+Faraday's & Lenz's Laws Faraday's law relates the rate of change of flux linkage to the e.m.f. induced in a conductor It is defined as: The magnitude of the induced e.m.f. is directly proportional to the rate of change in magnetic flux linkage Lenz’s Law describes the direction of the induced e.m.f. as defined by Faraday’s law: The induced e.m.f acts in such a direction to produce effects that oppose the change causing it Experimental evidence for Lenz’s law To verify Lenz’s law, the only apparatus needed is: a bar magnet a coil of wire a sensitive ammeter Note: a cell is not required A known pole (either north or south) of the bar magnet is pushed into the coil, which induces a magnetic field in the coil Using the right-hand grip rule, the curled fingers indicate the direction of the current , and the thumb indicates the direction of the induced magnetic field The direction of the current is observed on the ammeter Reversing the magnet direction would give an opposite deflection on the meter The induced field (in the coil) repels the bar magnet This is because of Lenz’s law : The direction of the induced field in the coil pushes against the change creating it, i.e. the bar magnet Lenz’s law can be verified using a coil connected in series with a sensitive ammeter and a bar magnet
+Faraday's law relates the rate of change of flux linkage to the e.m.f. induced in a conductor
+flux linkage
+It is defined as:
+The magnitude of the induced e.m.f. is directly proportional to the rate of change in magnetic flux linkage
+Lenz’s Law describes the direction of the induced e.m.f. as defined by Faraday’s law:
+The induced e.m.f acts in such a direction to produce effects that oppose the change causing it
+Experimental evidence for Lenz’s law
+To verify Lenz’s law, the only apparatus needed is: a bar magnet a coil of wire a sensitive ammeter
+To verify Lenz’s law, the only apparatus needed is:
+a bar magnet
+a coil of wire
+a sensitive ammeter
+Note: a cell is not required
+A known pole (either north or south) of the bar magnet is pushed into the coil, which induces a magnetic field in the coil Using the right-hand grip rule, the curled fingers indicate the direction of the current , and the thumb indicates the direction of the induced magnetic field
+A known pole (either north or south) of the bar magnet is pushed into the coil, which induces a magnetic field in the coil
+Using the right-hand grip rule, the curled fingers indicate the direction of the current , and the thumb indicates the direction of the induced magnetic field
+The direction of the current is observed on the ammeter Reversing the magnet direction would give an opposite deflection on the meter
+The direction of the current is observed on the ammeter
+Reversing the magnet direction would give an opposite deflection on the meter
+The induced field (in the coil) repels the bar magnet
+This is because of Lenz’s law : The direction of the induced field in the coil pushes against the change creating it, i.e. the bar magnet
+This is because of Lenz’s law :
+The direction of the induced field in the coil pushes against the change creating it, i.e. the bar magnet
+Lenz’s law can be verified using a coil connected in series with a sensitive ammeter and a bar magnet
+Calculating Induced EMF Faraday's law of induction can be written mathematically as: Where: = induced e.m.f (V) = number of turns of coil = change in magnetic flux (Wb) = time interval (s) This equation shows that the gradient of a magnetic flux linkage against time graph is the e.m.f Lenz’s law combined with Faraday’s law is given by the equation: This equation shows: When a bar magnet goes through a coil, an e.m.f. is induced within the coil due to a change in magnetic flux A current is also induced. which means the coil now has its own magnetic field The coil’s magnetic field acts in the opposite direction to the magnetic field of the bar magnet (shown by the minus sign) If a direct current (d.c.) power supply is replaced with an alternating current (a.c.) supply, the e.m.f. induced will also be alternating with the same frequency as the supply
+Calculating Induced EMF
+Faraday's law of induction can be written mathematically as:
+Where: = induced e.m.f (V) = number of turns of coil = change in magnetic flux (Wb) = time interval (s)
+Where:
+= induced e.m.f (V)
+e.m.f
+= number of turns of coil
+= change in magnetic flux (Wb)
+magnetic flux
+= time interval (s)
+This equation shows that the gradient of a magnetic flux linkage against time graph is the e.m.f
+Lenz’s law combined with Faraday’s law is given by the equation:
+This equation shows: When a bar magnet goes through a coil, an e.m.f. is induced within the coil due to a change in magnetic flux A current is also induced. which means the coil now has its own magnetic field The coil’s magnetic field acts in the opposite direction to the magnetic field of the bar magnet (shown by the minus sign)
+This equation shows:
+When a bar magnet goes through a coil, an e.m.f. is induced within the coil due to a change in magnetic flux
+A current is also induced. which means the coil now has its own magnetic field
+The coil’s magnetic field acts in the opposite direction to the magnetic field of the bar magnet (shown by the minus sign)
+If a direct current (d.c.) power supply is replaced with an alternating current (a.c.) supply, the e.m.f. induced will also be alternating with the same frequency as the supply
+direct current
+alternating current
+Worked Example A small rectangular coil contains 350 turns of wire. The longer sides are 3.5 cm and the shorter sides are 1.4 cm. The coil is held between the poles of a large magnet so that the coil can rotate about an axis through its centre. The magnet produces a uniform magnetic field of flux density 80 mT between its poles. The coil is positioned horizontally and then turned through an angle of 40° in a time of 0.18 s. Calculate the magnitude of the average e.m.f. induced in the coil. Answer: Step 1: Write down the known quantities Magnetic flux density, B = 80 mT = 80 × 10 -3 T Area, A = 3.5 × 1.4 = (3.5 × 10 -2 ) × (1.4 × 10 -2 ) = 4.9 × 10 -4 m 2 Number of turns, N = 350 Time interval, Δ t = 0.18 s Angle between coil and field lines = 40 o Therefore, the angle between the normal to the area and the field lines, θ = (90 − 40) = 50° Step 2: Write out the equation for Faraday’s law: Step 3: Write out the equation for flux linkage: Step 4: Substitute values into flux linkage equation: Step 5: Substitute flux linkage and time into Faraday’s law equation:
+Worked Example
+A small rectangular coil contains 350 turns of wire. The longer sides are 3.5 cm and the shorter sides are 1.4 cm.
+The coil is held between the poles of a large magnet so that the coil can rotate about an axis through its centre.
+The magnet produces a uniform magnetic field of flux density 80 mT between its poles. The coil is positioned horizontally and then turned through an angle of 40° in a time of 0.18 s.
+Calculate the magnitude of the average e.m.f. induced in the coil.
+Answer:
+Step 1: Write down the known quantities
+Magnetic flux density, B = 80 mT = 80 × 10 -3 T
+Area, A = 3.5 × 1.4 = (3.5 × 10 -2 ) × (1.4 × 10 -2 ) = 4.9 × 10 -4 m 2
+Number of turns, N = 350
+Time interval, Δ t = 0.18 s
+Angle between coil and field lines = 40 o
+Therefore, the angle between the normal to the area and the field lines, θ = (90 − 40) = 50°
+Step 2: Write out the equation for Faraday’s law:
+Step 3: Write out the equation for flux linkage:
+Step 4: Substitute values into flux linkage equation:
+Step 5: Substitute flux linkage and time into Faraday’s law equation:
+Examiner Tips and Tricks The 'magnitude' of the e.m.f. just means it's size, rather than direction. This is often what is required in exam questions, so the minus sign in Lenz's law is not necessarily required in calculations. However, you may be expected to explain the significance of the minus sign in Lenz's law.
+Examiner Tips and Tricks
+The 'magnitude' of the e.m.f. just means it's size, rather than direction. This is often what is required in exam questions, so the minus sign in Lenz's law is not necessarily required in calculations.
+However, you may be expected to explain the significance of the minus sign in Lenz's law.

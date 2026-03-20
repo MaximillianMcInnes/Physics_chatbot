@@ -1,0 +1,94 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-3-orbits-of-planets-and-satellites/7-3-4-geostationary-orbits
+HEADING: Geostationary Orbits ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Synchronous Orbits A synchronous orbit is: An orbit in which the orbital period of the satellite is equal to the rotational period (or length of day) of the planet or body it is orbiting The following characteristics are implied: Equal Period The time taken for the satellite to complete one full orbit is exactly the same as the time taken for the planet to rotate once on its axis Same Angular Speed The satellite has the same angular speed (or angular velocity) as the planet it is orbiting Synchronous orbits usually refer to satellites (the orbiting body) around planets (the body being orbited) A synchronous orbit can be in any plane and at any longitude It does not have to be above the equator or above a fixed point on the surface Geosynchronous Orbits A geosynchronous orbit is an Earth-centred synchronous orbit The orbital period is 24 hours (matching Earth's rotation) They may have inclined orbits They may have slightly elliptical orbits The object in orbit does not stay above one fixed point on the Earth's surface Geostationary Orbits Geostationary Orbit A geostationary orbit is a specific type of geosynchronous orbit around the Earth A geostationary orbit must meet the following criteria: The orbital period is 24 hours (matching Earth's rotation) The orbit must be in the plane of the equator The object in orbit does stay above one fixed point on the Earth's surface Geostationary satellites are used for telecommunication transmissions (e.g. radio) and television broadcasts A base station on Earth sends the TV signal up to the satellite, where it is amplified and broadcast back to the ground to the desired locations The satellite receiver dishes on the surface must point towards the same point in the sky Since the geostationary orbits of the satellites are fixed, the receiver dishes can be fixed too Low Orbits Some satellites are in low orbits, which means their altitude is closer to the Earth's surface One example of this is a polar orbit, where the satellite orbits around the north and south poles of the Earth Low orbits are useful for taking high-quality photographs of the Earth's surface. This could be used for: Weather Military applications Geostationary satellite in orbit Worked Example The table gives data for two types of satellite, a low-Earth orbit (LEO) and a geostationary orbit Orbit type T / min h / km LEO 89 250 Geostationary X Y For the geostationary orbit, calculate (i) the orbital period X in minutes. (ii) the height Y above the Earth's surface that a geostationary satellite will orbit in km. Answer: Part (i) Step 1: Convert the time period from seconds to minutes The period of a geostationary orbit is X = 24 hrs The period of a geostationary orbit is X = 24 × 60 = 1440 minutes Part (ii) Step 1: List the known quantities Period of the LEO, T L = 89 min Period of a geostationary orbit, T G = 1440 min Height above Earth of the LEO, h L = 250 km Radius of the Earth, R = 6.37 × 10 6 m (from the data sheet) Step 2: Recall the relationship between orbital period and radius Orbital period T is related to the radius r of the orbit by Step 3: Convert the proportional relationship into an equation Step 4: Evaluate a final value for Y Orbital radius of LEO: Orbital radius of geostationary: Height above the Earth's surface: Y = Height above the Earth's surface: Y = 36 000 km Examiner Tips and Tricks Make sure to memorise the key features of a geostationary orbit, since this is a common exam question. Remember: Equatorial orbit Moves west to east Period of 24 hours You will also be expected to remember that the time period of the orbit is 24 hours for calculations on a geostationary satellite.
+Synchronous Orbits A synchronous orbit is: An orbit in which the orbital period of the satellite is equal to the rotational period (or length of day) of the planet or body it is orbiting The following characteristics are implied: Equal Period The time taken for the satellite to complete one full orbit is exactly the same as the time taken for the planet to rotate once on its axis Same Angular Speed The satellite has the same angular speed (or angular velocity) as the planet it is orbiting Synchronous orbits usually refer to satellites (the orbiting body) around planets (the body being orbited) A synchronous orbit can be in any plane and at any longitude It does not have to be above the equator or above a fixed point on the surface Geosynchronous Orbits A geosynchronous orbit is an Earth-centred synchronous orbit The orbital period is 24 hours (matching Earth's rotation) They may have inclined orbits They may have slightly elliptical orbits The object in orbit does not stay above one fixed point on the Earth's surface
+Synchronous Orbits
+A synchronous orbit is:
+An orbit in which the orbital period of the satellite is equal to the rotational period (or length of day) of the planet or body it is orbiting
+The following characteristics are implied: Equal Period The time taken for the satellite to complete one full orbit is exactly the same as the time taken for the planet to rotate once on its axis Same Angular Speed The satellite has the same angular speed (or angular velocity) as the planet it is orbiting
+The following characteristics are implied:
+Equal Period The time taken for the satellite to complete one full orbit is exactly the same as the time taken for the planet to rotate once on its axis
+Equal Period
+The time taken for the satellite to complete one full orbit is exactly the same as the time taken for the planet to rotate once on its axis
+Same Angular Speed The satellite has the same angular speed (or angular velocity) as the planet it is orbiting
+Same Angular Speed
+The satellite has the same angular speed (or angular velocity) as the planet it is orbiting
+Synchronous orbits usually refer to satellites (the orbiting body) around planets (the body being orbited)
+A synchronous orbit can be in any plane and at any longitude It does not have to be above the equator or above a fixed point on the surface
+A synchronous orbit can be in any plane and at any longitude
+It does not have to be above the equator or above a fixed point on the surface
+Geosynchronous Orbits
+A geosynchronous orbit is an Earth-centred synchronous orbit The orbital period is 24 hours (matching Earth's rotation) They may have inclined orbits They may have slightly elliptical orbits The object in orbit does not stay above one fixed point on the Earth's surface
+A geosynchronous orbit is an Earth-centred synchronous orbit
+The orbital period is 24 hours (matching Earth's rotation)
+They may have inclined orbits
+They may have slightly elliptical orbits
+The object in orbit does not stay above one fixed point on the Earth's surface
+Geostationary Orbits Geostationary Orbit A geostationary orbit is a specific type of geosynchronous orbit around the Earth A geostationary orbit must meet the following criteria: The orbital period is 24 hours (matching Earth's rotation) The orbit must be in the plane of the equator The object in orbit does stay above one fixed point on the Earth's surface Geostationary satellites are used for telecommunication transmissions (e.g. radio) and television broadcasts A base station on Earth sends the TV signal up to the satellite, where it is amplified and broadcast back to the ground to the desired locations The satellite receiver dishes on the surface must point towards the same point in the sky Since the geostationary orbits of the satellites are fixed, the receiver dishes can be fixed too Low Orbits Some satellites are in low orbits, which means their altitude is closer to the Earth's surface One example of this is a polar orbit, where the satellite orbits around the north and south poles of the Earth Low orbits are useful for taking high-quality photographs of the Earth's surface. This could be used for: Weather Military applications Geostationary satellite in orbit
+Geostationary Orbit
+A geostationary orbit is a specific type of geosynchronous orbit around the Earth
+A geostationary orbit must meet the following criteria: The orbital period is 24 hours (matching Earth's rotation) The orbit must be in the plane of the equator The object in orbit does stay above one fixed point on the Earth's surface
+A geostationary orbit must meet the following criteria:
+The orbit must be in the plane of the equator
+The object in orbit does stay above one fixed point on the Earth's surface
+Geostationary satellites are used for telecommunication transmissions (e.g. radio) and television broadcasts
+A base station on Earth sends the TV signal up to the satellite, where it is amplified and broadcast back to the ground to the desired locations
+The satellite receiver dishes on the surface must point towards the same point in the sky Since the geostationary orbits of the satellites are fixed, the receiver dishes can be fixed too
+The satellite receiver dishes on the surface must point towards the same point in the sky
+Since the geostationary orbits of the satellites are fixed, the receiver dishes can be fixed too
+Low Orbits
+Some satellites are in low orbits, which means their altitude is closer to the Earth's surface
+One example of this is a polar orbit, where the satellite orbits around the north and south poles of the Earth
+Low orbits are useful for taking high-quality photographs of the Earth's surface. This could be used for: Weather Military applications
+Low orbits are useful for taking high-quality photographs of the Earth's surface. This could be used for:
+Weather
+Military applications
+Geostationary satellite in orbit
+Worked Example The table gives data for two types of satellite, a low-Earth orbit (LEO) and a geostationary orbit Orbit type T / min h / km LEO 89 250 Geostationary X Y For the geostationary orbit, calculate (i) the orbital period X in minutes. (ii) the height Y above the Earth's surface that a geostationary satellite will orbit in km. Answer: Part (i) Step 1: Convert the time period from seconds to minutes The period of a geostationary orbit is X = 24 hrs The period of a geostationary orbit is X = 24 × 60 = 1440 minutes Part (ii) Step 1: List the known quantities Period of the LEO, T L = 89 min Period of a geostationary orbit, T G = 1440 min Height above Earth of the LEO, h L = 250 km Radius of the Earth, R = 6.37 × 10 6 m (from the data sheet) Step 2: Recall the relationship between orbital period and radius Orbital period T is related to the radius r of the orbit by Step 3: Convert the proportional relationship into an equation Step 4: Evaluate a final value for Y Orbital radius of LEO: Orbital radius of geostationary: Height above the Earth's surface: Y = Height above the Earth's surface: Y = 36 000 km
+Worked Example
+The table gives data for two types of satellite, a low-Earth orbit (LEO) and a geostationary orbit
+Orbit type T / min h / km LEO 89 250 Geostationary X Y
+Orbit type
+T / min
+h / km
+LEO
+89
+250
+Geostationary
+X
+Y
+For the geostationary orbit, calculate
+(i) the orbital period X in minutes.
+(ii) the height Y above the Earth's surface that a geostationary satellite will orbit in km.
+Answer:
+Part (i)
+Step 1: Convert the time period from seconds to minutes
+The period of a geostationary orbit is X = 24 hrs The period of a geostationary orbit is X = 24 × 60 = 1440 minutes
+The period of a geostationary orbit is X = 24 hrs
+The period of a geostationary orbit is X = 24 × 60 = 1440 minutes
+Part (ii)
+Step 1: List the known quantities
+Period of the LEO, T L = 89 min Period of a geostationary orbit, T G = 1440 min Height above Earth of the LEO, h L = 250 km Radius of the Earth, R = 6.37 × 10 6 m (from the data sheet)
+Period of the LEO, T L = 89 min
+Period of a geostationary orbit, T G = 1440 min
+Height above Earth of the LEO, h L = 250 km
+Radius of the Earth, R = 6.37 × 10 6 m (from the data sheet)
+Step 2: Recall the relationship between orbital period and radius
+Orbital period T is related to the radius r of the orbit by
+Step 3: Convert the proportional relationship into an equation
+Step 4: Evaluate a final value for Y
+Orbital radius of LEO:
+Orbital radius of geostationary:
+Height above the Earth's surface:
+Y =
+Height above the Earth's surface: Y = 36 000 km
+Examiner Tips and Tricks Make sure to memorise the key features of a geostationary orbit, since this is a common exam question. Remember: Equatorial orbit Moves west to east Period of 24 hours You will also be expected to remember that the time period of the orbit is 24 hours for calculations on a geostationary satellite.
+Examiner Tips and Tricks
+Make sure to memorise the key features of a geostationary orbit, since this is a common exam question. Remember:
+Equatorial orbit
+Moves west to east
+Period of 24 hours
+You will also be expected to remember that the time period of the orbit is 24 hours for calculations on a geostationary satellite.

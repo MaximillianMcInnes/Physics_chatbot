@@ -1,0 +1,140 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-5-ideal-gases/6-5-6-required-practical-investigating-gas-laws
+HEADING: Required Practical: Investigating Gas Laws ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Required Practical: Investigating Gas Laws Investigating Boyle's Law The overall aim of this experiment is to investigate Boyle's Law This is the effect of pressure on volume at a constant temperature This is just one example of how this required practical might be tackled Variables Independent variable = Mass, m (kg) Dependent variable = Volume, V (m 3 ) Control variables: Temperature Cross-sectional area of the syringe Equipment List Resolution of measuring equipment: Pressure gauge = 0.02 × 10 5 Pa Volume = 0.2 cm 3 Vernier Caliper = 0.02 mm Method Apparatus setup for Boyle’s Law Before setting up the apparatus as shown in the diagram the inside diameter, d of the syringe needs to be measured using a vernier calliper after removing the plunger. Remember to take at least 3 repeat readings and find an average Determine the lowest volume of air visible by pushing the syringe upwards to remove as much air as possible At this lowest volume, the rubber tubing should be fit over the nozzle and clamped with a pinch clip as close to the nozzle as possible (this is to stop air escaping) Set up the apparatus as shown in the diagram and ensure the temperature of the room remains constant throughout the experiment Record the volume shown on the syringe before adding the masses and the mass holder Add the 100 g mass holder with a 100 g mass on it to the loop of string at the bottom of the plunger. Wait a few seconds before reading volume to ensure the temperature is kept constant (since work is done against the plunger when the volume increases) Record the value of the new volume from the syringe scale Repeat the experiment by adding two 100 g masses at a time up to 8-10 readings. This is so a significant change in volume can be seen each time Record the mass and volume An example table of results might look like this: Analysing the Results Boyle’s Law can be represented by the equation: pV = constant This means the pressure must be calculated from the experiment The exerted pressure of the masses is calculated by: Where: F = weight of the masses, mg (N) A = cross-sectional area of the syringe (m 2 ) The cross-sectional area is found from the equation for the area of a circle: To calculate the pressure of the gas: Pressure of the gas = Atmospheric pressure – Exerted pressure from the masses Where: Atmospheric pressure = 101 kPa The table of results may need to be modified to fit these extra calculations. Here is an example of how this might look: Once these values are calculated: Plot a graph of p against 1 / V and draw a line of best fit If this plot is a straight line graph, this means that the pressure is proportional to the inverse of the volume, hence confirming Boyle's Law ( pV = constant) Evaluating the Experiment Systematic Errors : There may be friction in the syringe which causes a systematic error Use a syringe that has very little friction or lubricate it, so the only force applied is from the masses pulling the syringe downward Random Errors : The reading of the volume should be taken a few seconds after the mass has been added to the holder Otherwise, a reading will be taken when the temperature is not constant Due to the nature of this experiment setup, it is prone to many random errors Take repeat readings to reduce their effect Safety Considerations A counterweight or G-clamp must be used to avoid the stand toppling over and causing injury, especially if the surface is not completely flat Investigating Charles's Law The overall aim of this experiment is to investigate Charles’s law, which is the effect of temperature on volume at constant pressure This is just one example of how this required practical might be tackled Variables Independent variable = Temperature, T (°C) Dependent variable = Height of the gas, h (cm) Control variables: Pressure Equipment List Resolution of measuring equipment: 30 cm ruler = 1 mm 2 litre beaker = 50 ml Method Apparatus setup for Charles’s Law The capillary tube should have one open end at the top and a closed end at the bottom. This is to keep the pressure constant at atmospheric pressure. Assume the temperature of the water is the same as the temperature of the gas in the tube Set up the apparatus as shown in the diagram. Add a drop of sulfuric acid halfway up the tube (the gas below this drop is being studied) to ensure no gas escapes Boil some water in a kettle and pour it into the beaker for the full 2 litres. Make sure the waterline is higher than the drop of sulfuric acid, therefore surrounding all the gas, and stir well Allow the temperature to drop down to 95 °C, then read the height of the gas (this is up to the bottom of the sulfuric acid) using the ruler Record the height of the gas as the temperature decreases in increments of 5 °C. Make sure you have at least 8 readings An example table of results might look like: Analysing the Results Plot a graph of the height of the gas in the capillary tube in cm and the temperature of the water in °C Draw a line of best fit Calculate the gradient If this is a straight-line graph, then this means the temperature is proportional to the height. Since the height is proportional to the volume ( V = π r 2 h ) then this means Charles’s law is confirmed, and the temperature is proportional to the volume too To find a value of absolute zero T 0 , the equation of the graph can be written as h = mT + c Comparing this to the equation of a straight line: y = mx + c y = h x = T gradient = m y-intercept = c c cannot be determined directly, as temperatures this low would cause the water to freeze The straight line equation can be used for two sets of values to determine absolute zero, T 0 Write the equation with c as the subject at T 0 and any temperature T 1 and height h 1 from the experimental data: c = h 0 − mT 0 c = h 1 − mT 1 h 0 - mT 0 = h 1 - mT 1 At absolute zero, h 0 = 0 - mT 0 = h 1 - mT 1 Picking any co-ordinate of h and T from the line of best fit, and substituting into the equation will give a value of absolute zero If this value is close to the accepted value of –273°C then the experiment shows that volume and temperature are directly proportional at constant pressure Evaluating the Experiment Systematic Errors : Make sure the capillary tube is secured close to the ruler and properly aligned to get an accurate value for the height of the gas Otherwise, the reading taken will be slightly out each time Random Errors : Take temperature and height readings at eye level to avoid a parallax error Stir the water well so it and the gas are the same temperature throughout the beaker Safety Considerations Do not spill boiling water onto your skin or electrical equipment Protect the workbench from the boiling water by using a heat proof mat Worked Example A student investigates the relationship between the temperature and volume of a column of air. They obtain the following results: Calculate the value of absolute zero from these results and its relative percentage error with the accepted value of –273.15 °C Answer: Step 1: Plot a graph of temperature T against volume V Make sure: The axes are properly labelled with values, quantities and units The line of best fit is drawn with a ruler so there are equal numbers of points above and below Step 2: Calculate the gradient of the graph The gradient is calculated by: Step 3: Calculate the value of absolute zero Write the line equation of the graph h = mT + c Rearrange to make c (the y intercept) the subject and equate values at absolute zero (T 0 ) and a set of values from the data (T 1 , h 1 ) c = h 0 − mT 0 c = h 1 − mT 1 h 0 - mT 0 = h 1 - mT 1 At absolute zero, a gas has no volume so h 0 = 0 m 3 Where T 0 is absolute zero and (T 1 , h 1 ) is any co-ordinate on the line of best fit Using the coordinates (60, 10.6) and gradient calculated (0.033) Step 4: Calculate its relative percentage error with the accepted value of –273.15 °C
+Required Practical: Investigating Gas Laws Investigating Boyle's Law The overall aim of this experiment is to investigate Boyle's Law This is the effect of pressure on volume at a constant temperature This is just one example of how this required practical might be tackled Variables Independent variable = Mass, m (kg) Dependent variable = Volume, V (m 3 ) Control variables: Temperature Cross-sectional area of the syringe Equipment List Resolution of measuring equipment: Pressure gauge = 0.02 × 10 5 Pa Volume = 0.2 cm 3 Vernier Caliper = 0.02 mm Method Apparatus setup for Boyle’s Law Before setting up the apparatus as shown in the diagram the inside diameter, d of the syringe needs to be measured using a vernier calliper after removing the plunger. Remember to take at least 3 repeat readings and find an average Determine the lowest volume of air visible by pushing the syringe upwards to remove as much air as possible At this lowest volume, the rubber tubing should be fit over the nozzle and clamped with a pinch clip as close to the nozzle as possible (this is to stop air escaping) Set up the apparatus as shown in the diagram and ensure the temperature of the room remains constant throughout the experiment Record the volume shown on the syringe before adding the masses and the mass holder Add the 100 g mass holder with a 100 g mass on it to the loop of string at the bottom of the plunger. Wait a few seconds before reading volume to ensure the temperature is kept constant (since work is done against the plunger when the volume increases) Record the value of the new volume from the syringe scale Repeat the experiment by adding two 100 g masses at a time up to 8-10 readings. This is so a significant change in volume can be seen each time Record the mass and volume An example table of results might look like this: Analysing the Results Boyle’s Law can be represented by the equation: pV = constant This means the pressure must be calculated from the experiment The exerted pressure of the masses is calculated by: Where: F = weight of the masses, mg (N) A = cross-sectional area of the syringe (m 2 ) The cross-sectional area is found from the equation for the area of a circle: To calculate the pressure of the gas: Pressure of the gas = Atmospheric pressure – Exerted pressure from the masses Where: Atmospheric pressure = 101 kPa The table of results may need to be modified to fit these extra calculations. Here is an example of how this might look: Once these values are calculated: Plot a graph of p against 1 / V and draw a line of best fit If this plot is a straight line graph, this means that the pressure is proportional to the inverse of the volume, hence confirming Boyle's Law ( pV = constant) Evaluating the Experiment Systematic Errors : There may be friction in the syringe which causes a systematic error Use a syringe that has very little friction or lubricate it, so the only force applied is from the masses pulling the syringe downward Random Errors : The reading of the volume should be taken a few seconds after the mass has been added to the holder Otherwise, a reading will be taken when the temperature is not constant Due to the nature of this experiment setup, it is prone to many random errors Take repeat readings to reduce their effect Safety Considerations A counterweight or G-clamp must be used to avoid the stand toppling over and causing injury, especially if the surface is not completely flat Investigating Charles's Law The overall aim of this experiment is to investigate Charles’s law, which is the effect of temperature on volume at constant pressure This is just one example of how this required practical might be tackled Variables Independent variable = Temperature, T (°C) Dependent variable = Height of the gas, h (cm) Control variables: Pressure Equipment List Resolution of measuring equipment: 30 cm ruler = 1 mm 2 litre beaker = 50 ml Method Apparatus setup for Charles’s Law The capillary tube should have one open end at the top and a closed end at the bottom. This is to keep the pressure constant at atmospheric pressure. Assume the temperature of the water is the same as the temperature of the gas in the tube Set up the apparatus as shown in the diagram. Add a drop of sulfuric acid halfway up the tube (the gas below this drop is being studied) to ensure no gas escapes Boil some water in a kettle and pour it into the beaker for the full 2 litres. Make sure the waterline is higher than the drop of sulfuric acid, therefore surrounding all the gas, and stir well Allow the temperature to drop down to 95 °C, then read the height of the gas (this is up to the bottom of the sulfuric acid) using the ruler Record the height of the gas as the temperature decreases in increments of 5 °C. Make sure you have at least 8 readings An example table of results might look like: Analysing the Results Plot a graph of the height of the gas in the capillary tube in cm and the temperature of the water in °C Draw a line of best fit Calculate the gradient If this is a straight-line graph, then this means the temperature is proportional to the height. Since the height is proportional to the volume ( V = π r 2 h ) then this means Charles’s law is confirmed, and the temperature is proportional to the volume too To find a value of absolute zero T 0 , the equation of the graph can be written as h = mT + c Comparing this to the equation of a straight line: y = mx + c y = h x = T gradient = m y-intercept = c c cannot be determined directly, as temperatures this low would cause the water to freeze The straight line equation can be used for two sets of values to determine absolute zero, T 0 Write the equation with c as the subject at T 0 and any temperature T 1 and height h 1 from the experimental data: c = h 0 − mT 0 c = h 1 − mT 1 h 0 - mT 0 = h 1 - mT 1 At absolute zero, h 0 = 0 - mT 0 = h 1 - mT 1 Picking any co-ordinate of h and T from the line of best fit, and substituting into the equation will give a value of absolute zero If this value is close to the accepted value of –273°C then the experiment shows that volume and temperature are directly proportional at constant pressure Evaluating the Experiment Systematic Errors : Make sure the capillary tube is secured close to the ruler and properly aligned to get an accurate value for the height of the gas Otherwise, the reading taken will be slightly out each time Random Errors : Take temperature and height readings at eye level to avoid a parallax error Stir the water well so it and the gas are the same temperature throughout the beaker Safety Considerations Do not spill boiling water onto your skin or electrical equipment Protect the workbench from the boiling water by using a heat proof mat
+Investigating Boyle's Law
+The overall aim of this experiment is to investigate Boyle's Law This is the effect of pressure on volume at a constant temperature
+The overall aim of this experiment is to investigate Boyle's Law
+This is the effect of pressure on volume at a constant temperature
+This is just one example of how this required practical might be tackled
+Variables
+Independent variable = Mass, m (kg)
+Independent variable
+Dependent variable = Volume, V (m 3 )
+Dependent variable
+Control variables: Temperature Cross-sectional area of the syringe
+Control variables:
+Temperature
+Cross-sectional area of the syringe
+Equipment List
+Resolution of measuring equipment: Pressure gauge = 0.02 × 10 5 Pa Volume = 0.2 cm 3 Vernier Caliper = 0.02 mm
+Resolution of measuring equipment:
+Resolution
+Pressure gauge = 0.02 × 10 5 Pa
+Volume = 0.2 cm 3
+Vernier Caliper = 0.02 mm
+Method
+Apparatus setup for Boyle’s Law
+Before setting up the apparatus as shown in the diagram the inside diameter, d of the syringe needs to be measured using a vernier calliper after removing the plunger. Remember to take at least 3 repeat readings and find an average
+Determine the lowest volume of air visible by pushing the syringe upwards to remove as much air as possible
+At this lowest volume, the rubber tubing should be fit over the nozzle and clamped with a pinch clip as close to the nozzle as possible (this is to stop air escaping)
+Set up the apparatus as shown in the diagram and ensure the temperature of the room remains constant throughout the experiment
+Record the volume shown on the syringe before adding the masses and the mass holder
+Add the 100 g mass holder with a 100 g mass on it to the loop of string at the bottom of the plunger. Wait a few seconds before reading volume to ensure the temperature is kept constant (since work is done against the plunger when the volume increases)
+Record the value of the new volume from the syringe scale
+Repeat the experiment by adding two 100 g masses at a time up to 8-10 readings. This is so a significant change in volume can be seen each time
+Record the mass and volume
+An example table of results might look like this:
+Analysing the Results
+Boyle’s Law can be represented by the equation:
+pV = constant
+This means the pressure must be calculated from the experiment
+The exerted pressure of the masses is calculated by:
+Where: F = weight of the masses, mg (N) A = cross-sectional area of the syringe (m 2 )
+Where:
+F = weight of the masses, mg (N)
+A = cross-sectional area of the syringe (m 2 )
+The cross-sectional area is found from the equation for the area of a circle:
+To calculate the pressure of the gas: Pressure of the gas = Atmospheric pressure – Exerted pressure from the masses
+To calculate the pressure of the gas:
+Pressure of the gas = Atmospheric pressure – Exerted pressure from the masses
+Where: Atmospheric pressure = 101 kPa
+Atmospheric pressure = 101 kPa
+The table of results may need to be modified to fit these extra calculations. Here is an example of how this might look:
+Once these values are calculated:
+Plot a graph of p against 1 / V and draw a line of best fit
+If this plot is a straight line graph, this means that the pressure is proportional to the inverse of the volume, hence confirming Boyle's Law ( pV = constant)
+Evaluating the Experiment
+Systematic Errors :
+Systematic Errors
+There may be friction in the syringe which causes a systematic error Use a syringe that has very little friction or lubricate it, so the only force applied is from the masses pulling the syringe downward
+There may be friction in the syringe which causes a systematic error
+Use a syringe that has very little friction or lubricate it, so the only force applied is from the masses pulling the syringe downward
+Random Errors :
+Random Errors
+The reading of the volume should be taken a few seconds after the mass has been added to the holder Otherwise, a reading will be taken when the temperature is not constant
+The reading of the volume should be taken a few seconds after the mass has been added to the holder
+Otherwise, a reading will be taken when the temperature is not constant
+Due to the nature of this experiment setup, it is prone to many random errors Take repeat readings to reduce their effect
+Due to the nature of this experiment setup, it is prone to many random errors
+Take repeat readings to reduce their effect
+Safety Considerations
+A counterweight or G-clamp must be used to avoid the stand toppling over and causing injury, especially if the surface is not completely flat
+Investigating Charles's Law
+The overall aim of this experiment is to investigate Charles’s law, which is the effect of temperature on volume at constant pressure
+Independent variable = Temperature, T (°C)
+Dependent variable = Height of the gas, h (cm)
+Control variables: Pressure
+Pressure
+Resolution of measuring equipment: 30 cm ruler = 1 mm 2 litre beaker = 50 ml
+30 cm ruler = 1 mm
+2 litre beaker = 50 ml
+Apparatus setup for Charles’s Law
+The capillary tube should have one open end at the top and a closed end at the bottom. This is to keep the pressure constant at atmospheric pressure. Assume the temperature of the water is the same as the temperature of the gas in the tube
+Set up the apparatus as shown in the diagram. Add a drop of sulfuric acid halfway up the tube (the gas below this drop is being studied) to ensure no gas escapes
+Boil some water in a kettle and pour it into the beaker for the full 2 litres. Make sure the waterline is higher than the drop of sulfuric acid, therefore surrounding all the gas, and stir well
+Allow the temperature to drop down to 95 °C, then read the height of the gas (this is up to the bottom of the sulfuric acid) using the ruler
+Record the height of the gas as the temperature decreases in increments of 5 °C. Make sure you have at least 8 readings
+An example table of results might look like:
+Plot a graph of the height of the gas in the capillary tube in cm and the temperature of the water in °C
+Draw a line of best fit
+Calculate the gradient
+If this is a straight-line graph, then this means the temperature is proportional to the height. Since the height is proportional to the volume ( V = π r 2 h ) then this means Charles’s law is confirmed, and the temperature is proportional to the volume too
+To find a value of absolute zero T 0 , the equation of the graph can be written as
+h = mT + c
+Comparing this to the equation of a straight line: y = mx + c y = h x = T gradient = m y-intercept = c
+Comparing this to the equation of a straight line: y = mx + c
+y = h
+x = T
+gradient = m
+y-intercept = c
+c cannot be determined directly, as temperatures this low would cause the water to freeze The straight line equation can be used for two sets of values to determine absolute zero, T 0
+c cannot be determined directly, as temperatures this low would cause the water to freeze
+The straight line equation can be used for two sets of values to determine absolute zero, T 0
+Write the equation with c as the subject at T 0 and any temperature T 1 and height h 1 from the experimental data:
+c = h 0 − mT 0
+c = h 1 − mT 1
+h 0 - mT 0 = h 1 - mT 1
+At absolute zero, h 0 = 0
+- mT 0 = h 1 - mT 1
+Picking any co-ordinate of h and T from the line of best fit, and substituting into the equation will give a value of absolute zero
+If this value is close to the accepted value of –273°C then the experiment shows that volume and temperature are directly proportional at constant pressure
+Make sure the capillary tube is secured close to the ruler and properly aligned to get an accurate value for the height of the gas Otherwise, the reading taken will be slightly out each time
+Make sure the capillary tube is secured close to the ruler and properly aligned to get an accurate value for the height of the gas
+Otherwise, the reading taken will be slightly out each time
+Take temperature and height readings at eye level to avoid a parallax error
+Stir the water well so it and the gas are the same temperature throughout the beaker
+Do not spill boiling water onto your skin or electrical equipment
+Protect the workbench from the boiling water by using a heat proof mat
+Worked Example A student investigates the relationship between the temperature and volume of a column of air. They obtain the following results: Calculate the value of absolute zero from these results and its relative percentage error with the accepted value of –273.15 °C Answer: Step 1: Plot a graph of temperature T against volume V Make sure: The axes are properly labelled with values, quantities and units The line of best fit is drawn with a ruler so there are equal numbers of points above and below Step 2: Calculate the gradient of the graph The gradient is calculated by: Step 3: Calculate the value of absolute zero Write the line equation of the graph h = mT + c Rearrange to make c (the y intercept) the subject and equate values at absolute zero (T 0 ) and a set of values from the data (T 1 , h 1 ) c = h 0 − mT 0 c = h 1 − mT 1 h 0 - mT 0 = h 1 - mT 1 At absolute zero, a gas has no volume so h 0 = 0 m 3 Where T 0 is absolute zero and (T 1 , h 1 ) is any co-ordinate on the line of best fit Using the coordinates (60, 10.6) and gradient calculated (0.033) Step 4: Calculate its relative percentage error with the accepted value of –273.15 °C
+Worked Example
+A student investigates the relationship between the temperature and volume of a column of air. They obtain the following results:
+Calculate the value of absolute zero from these results and its relative percentage error with the accepted value of –273.15 °C
+Answer:
+Step 1: Plot a graph of temperature T against volume V
+Make sure: The axes are properly labelled with values, quantities and units The line of best fit is drawn with a ruler so there are equal numbers of points above and below
+Make sure:
+The axes are properly labelled with values, quantities and units
+The line of best fit is drawn with a ruler so there are equal numbers of points above and below
+Step 2: Calculate the gradient of the graph
+The gradient is calculated by:
+Step 3: Calculate the value of absolute zero
+Write the line equation of the graph
+Rearrange to make c (the y intercept) the subject and equate values at absolute zero (T 0 ) and a set of values from the data (T 1 , h 1 )
+At absolute zero, a gas has no volume so h 0 = 0 m 3
+Where T 0 is absolute zero and (T 1 , h 1 ) is any co-ordinate on the line of best fit
+Using the coordinates (60, 10.6) and gradient calculated (0.033)
+Step 4: Calculate its relative percentage error with the accepted value of –273.15 °C

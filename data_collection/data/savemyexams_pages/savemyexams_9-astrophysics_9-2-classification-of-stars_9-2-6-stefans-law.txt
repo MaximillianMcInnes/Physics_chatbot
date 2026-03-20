@@ -1,0 +1,47 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-2-classification-of-stars/9-2-6-stefans-law
+HEADING: Stefan's Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Stefan's Law The total power P radiated by a perfect black body depends on two factors: It's absolute temperature It's surface area The relationship between these is known as Stefan's Law or the Stefan-Boltzmann Law , which states: The total energy emitted by a black body per unit area per second is proportional to the fourth power of the absolute temperature of the body The Stefan-Boltzmann Law can be calculated using: Where: P = total power emitted across all wavelengths (W) σ = the Stefan-Boltzmann constant A = surface area of the body (m) T = absolute temperature of the body (K) The Stefan-Boltzmann law is often used to calculate the luminosity of celestial objects, such as stars The surface area of a star (or other spherical object) is equal to A = 4π r 2 Where r = radius of the star The Stefan-Boltzmann equation then becomes: Where: L = luminosity of the star (W) r = radius of the star (m) σ = the Stefan-Boltzmann constant T = surface temperature of the star (K) Worked Example The surface temperature of Proxima Centauri, the nearest star to Earth, is 3000 K, and its luminosity is 6.506 × 10 23 W. Calculate the radius of Proxima Centauri in solar radii and show your working clearly. Solar radius R ☉ = 6.96 × 10 8 m Answer: Step 1: List the known quantities: Surface temperature, T = 3000 K Luminosity, L = 6.506 × 10 23 W Stefan's constant, σ = 5.67 × 10 −8 W m −2 K −4 Radius of the Sun, R ☉ = 6.96 × 10 8 m Step 2: Write down the Stefan-Boltzmann equation and rearrange for radius r Step 3: Substitute the values into the equation Radius of Proxima Centauri: R = 1.061 × 10 8 m Step 4: Find the ratio of the radii of Proxima Centauri and the Sun Proxima Centauri has a radius which is about 0.152 times smaller than the Sun
+Stefan's Law The total power P radiated by a perfect black body depends on two factors: It's absolute temperature It's surface area The relationship between these is known as Stefan's Law or the Stefan-Boltzmann Law , which states: The total energy emitted by a black body per unit area per second is proportional to the fourth power of the absolute temperature of the body The Stefan-Boltzmann Law can be calculated using: Where: P = total power emitted across all wavelengths (W) σ = the Stefan-Boltzmann constant A = surface area of the body (m) T = absolute temperature of the body (K) The Stefan-Boltzmann law is often used to calculate the luminosity of celestial objects, such as stars The surface area of a star (or other spherical object) is equal to A = 4π r 2 Where r = radius of the star The Stefan-Boltzmann equation then becomes: Where: L = luminosity of the star (W) r = radius of the star (m) σ = the Stefan-Boltzmann constant T = surface temperature of the star (K)
+The total power P radiated by a perfect black body depends on two factors: It's absolute temperature It's surface area
+The total power P radiated by a perfect black body depends on two factors:
+It's absolute temperature
+It's surface area
+The relationship between these is known as Stefan's Law or the Stefan-Boltzmann Law , which states:
+The total energy emitted by a black body per unit area per second is proportional to the fourth power of the absolute temperature of the body
+The Stefan-Boltzmann Law can be calculated using:
+Where: P = total power emitted across all wavelengths (W) σ = the Stefan-Boltzmann constant A = surface area of the body (m) T = absolute temperature of the body (K)
+Where:
+P = total power emitted across all wavelengths (W)
+σ = the Stefan-Boltzmann constant
+Stefan-Boltzmann constant
+A = surface area of the body (m)
+T = absolute temperature of the body (K)
+The Stefan-Boltzmann law is often used to calculate the luminosity of celestial objects, such as stars
+luminosity
+The surface area of a star (or other spherical object) is equal to A = 4π r 2 Where r = radius of the star
+The surface area of a star (or other spherical object) is equal to A = 4π r 2
+Where r = radius of the star
+The Stefan-Boltzmann equation then becomes:
+Where: L = luminosity of the star (W) r = radius of the star (m) σ = the Stefan-Boltzmann constant T = surface temperature of the star (K)
+L = luminosity of the star (W)
+r = radius of the star (m)
+T = surface temperature of the star (K)
+Worked Example The surface temperature of Proxima Centauri, the nearest star to Earth, is 3000 K, and its luminosity is 6.506 × 10 23 W. Calculate the radius of Proxima Centauri in solar radii and show your working clearly. Solar radius R ☉ = 6.96 × 10 8 m Answer: Step 1: List the known quantities: Surface temperature, T = 3000 K Luminosity, L = 6.506 × 10 23 W Stefan's constant, σ = 5.67 × 10 −8 W m −2 K −4 Radius of the Sun, R ☉ = 6.96 × 10 8 m Step 2: Write down the Stefan-Boltzmann equation and rearrange for radius r Step 3: Substitute the values into the equation Radius of Proxima Centauri: R = 1.061 × 10 8 m Step 4: Find the ratio of the radii of Proxima Centauri and the Sun Proxima Centauri has a radius which is about 0.152 times smaller than the Sun
+Worked Example
+The surface temperature of Proxima Centauri, the nearest star to Earth, is 3000 K, and its luminosity is 6.506 × 10 23 W.
+Calculate the radius of Proxima Centauri in solar radii and show your working clearly.
+Solar radius R ☉ = 6.96 × 10 8 m
+Answer:
+Step 1: List the known quantities:
+Surface temperature, T = 3000 K
+Luminosity, L = 6.506 × 10 23 W
+Stefan's constant, σ = 5.67 × 10 −8 W m −2 K −4
+Radius of the Sun, R ☉ = 6.96 × 10 8 m
+Step 2: Write down the Stefan-Boltzmann equation and rearrange for radius r
+Step 3: Substitute the values into the equation
+Radius of Proxima Centauri: R = 1.061 × 10 8 m
+Step 4: Find the ratio of the radii of Proxima Centauri and the Sun
+Proxima Centauri has a radius which is about 0.152 times smaller than the Sun

@@ -1,0 +1,96 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-4-the-otto-cycle
+HEADING: Petrol Engine Cycle ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Otto Cycle The Four-Stroke Petrol Engine Cycle A heat engine is a device that extracts energy from its environment in the form of heat and converts it into useful work A four-stroke engine is an internal combustion engine that burns fuel once every 4 strokes of the piston This is commonly used in ordinary cars Inside the engine, a piston moves easily up and down in a cylinder Each movement of the piston up or down is a 'stroke' The four 'strokes' of the petrol engine cycle For the full 4 strokes, this requires 2 revolutions of the crankshaft (used to move the piston up and down) Induction The piston moves down the cylinder, increasing the volume of the petrol-air mixture which is drawn into the cylinder by the inlet valve The pressure in the cylinder remains constant, just below atmospheric pressure Compression The inlet valve is closed and the piston moves back up, doing work on the gas This compresses the gas, causing its volume to decrease and pressure to increase This process is done adiabatically Almost at the end of the piston's stroke, the petrol-air mixture is ignited by a spark at the spark plug The temperature and pressure of the gas increase rapidly, at an almost constant volume Power The high pressure forces the piston back down the cylinder, so work is done by the expanding gas The exhaust valve opens when the piston is very near the bottom of the stroke, and the pressure reduces almost to atmospheric pressure Exhaust The piston moves up the cylinder, forcing the burnt gases through the open exhaust valve and out of the cylinder The pressure in the cylinder remains at just above atmospheric pressure Indicator Diagrams Indicator diagrams are p - V diagrams for engines They are used to calculate the output power and efficiency The theoretical indicator diagram produced from a four-stroke petrol engine uses the following assumptions: The same gas / air is constantly moving through the cycle repeatedly The pressure and temperature can change instantaneously The expansion and compression happens adiabatically The engine experiences no friction The heat source is external This theoretical diagram would look like this: Theoretical indicator diagram for a four-stroke petrol engine From A to B : The gas is compressed adiabatically From B to C : Heat is supplied and the volume is kept constant Ignition for the spark occurs From C to D : The gas expands adiabatically (cooling) From D to E : The system is cooled at a constant volume (heat leaves the system) The four-stroke petrol engine cycle is sometimes referred to as the Otto cycle The actual indicator diagram is formed using recorded data, using a pressure sensor and transducer in the cylinder, and looks slightly different: Actual indicator diagram for a four-stroke petrol engine From A to B is: The induction (intake of air) From B to C is: The compression From C to D is: The expansion From D to E is: The exhaust (expelling of the air) The work done on the gas during the compression stroke is given by the area underneath the compression curve ( B – C ) , and the work done by the gas during the expansion stroke is given by the area underneath the expansion curve ( C – D ) Therefore the net work done by the air is given by the area enclosed by the loop ( B – C – D ) on the p-V diagram For this actual cycle, the area (and therefore work done) enclosed by the loop in the diagram is always less than the theoretical loop Comparing Actual and Theoretical Indicator Diagrams The key differences between the actual and theoretical indicator diagrams are: In the actual diagram, the corners of the graph. are rounded This is because the valve takes a finite time to open and close (the combustion is not instantaneous) The heating and cooling cannot occur at a constant volume For this, the temperature and pressure increase to be instantaneous or the piston would have to stop at the top of the stroke In reality, the expansion and compression are not adiabatic There is some heat transfer taking place to cool the gas during these strokes In a real engine, some exhaust gas or fuel vapour is often present, not pure air The fuel may not be completely burnt at the end of the cycle The induction and exhaust strokes (the horizontal lines in the ideal diagram) are usually omitted from the theoretical diagram In the exhaust stroke, heat Q out is ejected into the environment. In a real engine, the gas leaves the engine and is replaced by a new mixture of air and fuel
+The Otto Cycle
+The Four-Stroke Petrol Engine Cycle
+A heat engine is a device that extracts energy from its environment in the form of heat and converts it into useful work
+A four-stroke engine is an internal combustion engine that burns fuel once every 4 strokes of the piston This is commonly used in ordinary cars
+A four-stroke engine is an internal combustion engine that burns fuel once every 4 strokes of the piston
+This is commonly used in ordinary cars
+Inside the engine, a piston moves easily up and down in a cylinder Each movement of the piston up or down is a 'stroke'
+Inside the engine, a piston moves easily up and down in a cylinder
+Each movement of the piston up or down is a 'stroke'
+The four 'strokes' of the petrol engine cycle
+For the full 4 strokes, this requires 2 revolutions of the crankshaft (used to move the piston up and down)
+Induction
+The piston moves down the cylinder, increasing the volume of the petrol-air mixture which is drawn into the cylinder by the inlet valve
+The pressure in the cylinder remains constant, just below atmospheric pressure
+Compression
+The inlet valve is closed and the piston moves back up, doing work on the gas
+This compresses the gas, causing its volume to decrease and pressure to increase This process is done adiabatically
+This compresses the gas, causing its volume to decrease and pressure to increase
+This process is done adiabatically
+Almost at the end of the piston's stroke, the petrol-air mixture is ignited by a spark at the spark plug The temperature and pressure of the gas increase rapidly, at an almost constant volume
+Almost at the end of the piston's stroke, the petrol-air mixture is ignited by a spark at the spark plug
+The temperature and pressure of the gas increase rapidly, at an almost constant volume
+Power
+The high pressure forces the piston back down the cylinder, so work is done by the expanding gas
+The exhaust valve opens when the piston is very near the bottom of the stroke, and the pressure reduces almost to atmospheric pressure
+Exhaust
+The piston moves up the cylinder, forcing the burnt gases through the open exhaust valve and out of the cylinder
+The pressure in the cylinder remains at just above atmospheric pressure
+Indicator Diagrams
+Indicator diagrams are p - V diagrams for engines They are used to calculate the output power and efficiency
+Indicator diagrams are p - V diagrams for engines
+They are used to calculate the output power and efficiency
+The theoretical indicator diagram produced from a four-stroke petrol engine uses the following assumptions: The same gas / air is constantly moving through the cycle repeatedly The pressure and temperature can change instantaneously The expansion and compression happens adiabatically The engine experiences no friction The heat source is external
+The theoretical indicator diagram produced from a four-stroke petrol engine uses the following assumptions:
+The same gas / air is constantly moving through the cycle repeatedly
+The pressure and temperature can change instantaneously
+The expansion and compression happens adiabatically
+The engine experiences no friction
+The heat source is external
+This theoretical diagram would look like this:
+Theoretical indicator diagram for a four-stroke petrol engine
+From A to B : The gas is compressed adiabatically
+From A to B :
+The gas is compressed adiabatically
+From B to C : Heat is supplied and the volume is kept constant Ignition for the spark occurs
+From B to C :
+Heat is supplied and the volume is kept constant
+Ignition for the spark occurs
+From C to D : The gas expands adiabatically (cooling)
+From C to D :
+The gas expands adiabatically (cooling)
+From D to E : The system is cooled at a constant volume (heat leaves the system)
+From D to E :
+The system is cooled at a constant volume (heat leaves the system)
+The four-stroke petrol engine cycle is sometimes referred to as the Otto cycle
+The actual indicator diagram is formed using recorded data, using a pressure sensor and transducer in the cylinder, and looks slightly different:
+Actual indicator diagram for a four-stroke petrol engine
+From A to B is: The induction (intake of air)
+From A to B is:
+The induction (intake of air)
+From B to C is: The compression
+From B to C is:
+The compression
+From C to D is: The expansion
+From C to D is:
+The expansion
+From D to E is: The exhaust (expelling of the air)
+From D to E is:
+The exhaust (expelling of the air)
+The work done on the gas during the compression stroke is given by the area underneath the compression curve ( B – C ) , and the work done by the gas during the expansion stroke is given by the area underneath the expansion curve ( C – D ) Therefore the net work done by the air is given by the area enclosed by the loop ( B – C – D ) on the p-V diagram For this actual cycle, the area (and therefore work done) enclosed by the loop in the diagram is always less than the theoretical loop
+The work done on the gas during the compression stroke is given by the area underneath the compression curve ( B – C ) , and the work done by the gas during the expansion stroke is given by the area underneath the expansion curve ( C – D )
+Therefore the net work done by the air is given by the area enclosed by the loop ( B – C – D ) on the p-V diagram
+For this actual cycle, the area (and therefore work done) enclosed by the loop in the diagram is always less than the theoretical loop
+Comparing Actual and Theoretical Indicator Diagrams
+The key differences between the actual and theoretical indicator diagrams are: In the actual diagram, the corners of the graph. are rounded This is because the valve takes a finite time to open and close (the combustion is not instantaneous) The heating and cooling cannot occur at a constant volume For this, the temperature and pressure increase to be instantaneous or the piston would have to stop at the top of the stroke In reality, the expansion and compression are not adiabatic There is some heat transfer taking place to cool the gas during these strokes In a real engine, some exhaust gas or fuel vapour is often present, not pure air The fuel may not be completely burnt at the end of the cycle The induction and exhaust strokes (the horizontal lines in the ideal diagram) are usually omitted from the theoretical diagram In the exhaust stroke, heat Q out is ejected into the environment. In a real engine, the gas leaves the engine and is replaced by a new mixture of air and fuel
+The key differences between the actual and theoretical indicator diagrams are:
+In the actual diagram, the corners of the graph. are rounded This is because the valve takes a finite time to open and close (the combustion is not instantaneous)
+In the actual diagram, the corners of the graph. are rounded
+This is because the valve takes a finite time to open and close (the combustion is not instantaneous)
+The heating and cooling cannot occur at a constant volume For this, the temperature and pressure increase to be instantaneous or the piston would have to stop at the top of the stroke
+The heating and cooling cannot occur at a constant volume
+For this, the temperature and pressure increase to be instantaneous or the piston would have to stop at the top of the stroke
+In reality, the expansion and compression are not adiabatic There is some heat transfer taking place to cool the gas during these strokes
+In reality, the expansion and compression are not adiabatic
+There is some heat transfer taking place to cool the gas during these strokes
+In a real engine, some exhaust gas or fuel vapour is often present, not pure air
+The fuel may not be completely burnt at the end of the cycle
+The induction and exhaust strokes (the horizontal lines in the ideal diagram) are usually omitted from the theoretical diagram In the exhaust stroke, heat Q out is ejected into the environment. In a real engine, the gas leaves the engine and is replaced by a new mixture of air and fuel
+The induction and exhaust strokes (the horizontal lines in the ideal diagram) are usually omitted from the theoretical diagram
+In the exhaust stroke, heat Q out is ejected into the environment. In a real engine, the gas leaves the engine and is replaced by a new mixture of air and fuel

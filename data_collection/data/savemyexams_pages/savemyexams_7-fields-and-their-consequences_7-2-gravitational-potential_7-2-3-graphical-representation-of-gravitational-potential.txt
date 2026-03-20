@@ -1,0 +1,55 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-2-gravitational-potential/7-2-3-graphical-representation-of-gravitational-potential
+HEADING: Graphical Representation of Gravitational Potential ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Graphical Representation of Gravitational Potential Gravitational field strength , g and the gravitational potential , V can be graphically represented against the distance from the centre of a planet, r g , V and r are related by the equation: Where: g = gravitational field strength (N kg -1 ) Δ V = change in gravitational potential (J kg -1 ) Δ r = distance from the centre of a point mass (m) The graph of V against r for a planet is: The gravitational potential and distance graphs follows a -1/r relation The key features of this graph are: The values for V are all negative (because the graph is drawn below the horizontal r axis) As r increases, V against r follows a -1/r relation The graph has a shallow increase as r increases To calculate the magnitude of g , draw a tangent to the graph at that point and calculate the gradient of the tangent to find The gravitational field strength is the negative of this gradient, The minus sign shows the field points towards the planet (i.e. towards lower potential) This is a graphical representation of the equation: where G and M are constant The graph of g against r for a planet is: The gravitational field strength and distance graph follows a 1/r2 relation The key features of this graph are : The values for g are all positive As r increases, g against r follows a 1/r 2 relation ( inverse square law ) The magnitude of the area under this graph is the magnitude of the change in gravitational potential Δ V i. e. the area represents the change in gravitational potential The graph has a steep decline as r increases The area under the graph can be estimated by counting squares, if it is plotted on squared paper, or by splitting it into trapeziums and summing the area of each trapezium The inverse square law relation means that as the distance r doubles, g decreases by a factor of 4 This is a graphical representation of the equation: where G and M are constant Worked Example Sketch a graph on the axes below to indicate how the gravitational potential varies with distance along a line outwards from the surface of planet A which is 80 times the mass of planet B . Answer: Graph increases from a large negative value for V at the surface of A as distance increases Up to a value close to, but below 0 near the surface of planet B The graph then falls near the surface of planet B From a point much closer to planet B than A Examiner Tips and Tricks Drawing, interpreting or calculating from either of these graphs are common exam questions. The graph of g against r should start off steeper and decrease rapidly compared to that of V against r, to distinguish it as an inverse square law (1/ r 2 ) relation instead of just 1/ r . Remember: the magnitude of g is the size (steepness) of the gradient of the V–r graph. The minus sign just shows the direction of the field (towards the planet).
+Graphical Representation of Gravitational Potential Gravitational field strength , g and the gravitational potential , V can be graphically represented against the distance from the centre of a planet, r g , V and r are related by the equation: Where: g = gravitational field strength (N kg -1 ) Δ V = change in gravitational potential (J kg -1 ) Δ r = distance from the centre of a point mass (m) The graph of V against r for a planet is: The gravitational potential and distance graphs follows a -1/r relation The key features of this graph are: The values for V are all negative (because the graph is drawn below the horizontal r axis) As r increases, V against r follows a -1/r relation The graph has a shallow increase as r increases To calculate the magnitude of g , draw a tangent to the graph at that point and calculate the gradient of the tangent to find The gravitational field strength is the negative of this gradient, The minus sign shows the field points towards the planet (i.e. towards lower potential) This is a graphical representation of the equation: where G and M are constant The graph of g against r for a planet is: The gravitational field strength and distance graph follows a 1/r2 relation The key features of this graph are : The values for g are all positive As r increases, g against r follows a 1/r 2 relation ( inverse square law ) The magnitude of the area under this graph is the magnitude of the change in gravitational potential Δ V i. e. the area represents the change in gravitational potential The graph has a steep decline as r increases The area under the graph can be estimated by counting squares, if it is plotted on squared paper, or by splitting it into trapeziums and summing the area of each trapezium The inverse square law relation means that as the distance r doubles, g decreases by a factor of 4 This is a graphical representation of the equation: where G and M are constant
+Gravitational field strength , g and the gravitational potential , V can be graphically represented against the distance from the centre of a planet, r
+Gravitational field strength
+gravitational potential
+g , V and r are related by the equation:
+Where: g = gravitational field strength (N kg -1 ) Δ V = change in gravitational potential (J kg -1 ) Δ r = distance from the centre of a point mass (m)
+Where:
+g = gravitational field strength (N kg -1 )
+Δ V = change in gravitational potential (J kg -1 )
+Δ r = distance from the centre of a point mass (m)
+point mass
+The graph of V against r for a planet is:
+The gravitational potential and distance graphs follows a -1/r relation
+The key features of this graph are: The values for V are all negative (because the graph is drawn below the horizontal r axis) As r increases, V against r follows a -1/r relation The graph has a shallow increase as r increases
+The key features of this graph are:
+The values for V are all negative (because the graph is drawn below the horizontal r axis)
+As r increases, V against r follows a -1/r relation
+The graph has a shallow increase as r increases
+To calculate the magnitude of g , draw a tangent to the graph at that point and calculate the gradient of the tangent to find
+The gravitational field strength is the negative of this gradient, The minus sign shows the field points towards the planet (i.e. towards lower potential)
+The gravitational field strength is the negative of this gradient,
+The minus sign shows the field points towards the planet (i.e. towards lower potential)
+This is a graphical representation of the equation:
+where G and M are constant
+The graph of g against r for a planet is:
+The gravitational field strength and distance graph follows a 1/r2 relation
+The key features of this graph are : The values for g are all positive As r increases, g against r follows a 1/r 2 relation ( inverse square law ) The magnitude of the area under this graph is the magnitude of the change in gravitational potential Δ V i. e. the area represents the change in gravitational potential The graph has a steep decline as r increases
+The key features of this graph are :
+The values for g are all positive
+As r increases, g against r follows a 1/r 2 relation ( inverse square law )
+inverse square law
+The magnitude of the area under this graph is the magnitude of the change in gravitational potential Δ V i. e. the area represents the change in gravitational potential
+The magnitude of the area under this graph is the magnitude of the change in gravitational potential Δ V
+i. e. the area represents the change in gravitational potential
+The graph has a steep decline as r increases
+The area under the graph can be estimated by counting squares, if it is plotted on squared paper, or by splitting it into trapeziums and summing the area of each trapezium
+The inverse square law relation means that as the distance r doubles, g decreases by a factor of 4
+Worked Example Sketch a graph on the axes below to indicate how the gravitational potential varies with distance along a line outwards from the surface of planet A which is 80 times the mass of planet B . Answer: Graph increases from a large negative value for V at the surface of A as distance increases Up to a value close to, but below 0 near the surface of planet B The graph then falls near the surface of planet B From a point much closer to planet B than A
+Worked Example
+Sketch a graph on the axes below to indicate how the gravitational potential varies with distance along a line outwards from the surface of planet A which is 80 times the mass of planet B .
+Answer:
+Graph increases from a large negative value for V at the surface of A as distance increases
+Up to a value close to, but below 0 near the surface of planet B
+The graph then falls near the surface of planet B
+From a point much closer to planet B than A
+Examiner Tips and Tricks Drawing, interpreting or calculating from either of these graphs are common exam questions. The graph of g against r should start off steeper and decrease rapidly compared to that of V against r, to distinguish it as an inverse square law (1/ r 2 ) relation instead of just 1/ r . Remember: the magnitude of g is the size (steepness) of the gradient of the V–r graph. The minus sign just shows the direction of the field (towards the planet).
+Examiner Tips and Tricks
+Drawing, interpreting or calculating from either of these graphs are common exam questions. The graph of g against r should start off steeper and decrease rapidly compared to that of V against r, to distinguish it as an inverse square law (1/ r 2 ) relation instead of just 1/ r .
+Remember: the magnitude of g is the size (steepness) of the gradient of the V–r graph. The minus sign just shows the direction of the field (towards the planet).

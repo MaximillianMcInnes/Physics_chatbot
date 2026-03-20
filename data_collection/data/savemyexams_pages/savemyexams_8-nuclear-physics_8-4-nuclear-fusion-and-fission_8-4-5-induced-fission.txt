@@ -1,0 +1,50 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-4-nuclear-fusion-and-fission/8-4-5-induced-fission
+HEADING: Induced Fission ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Induced Fission Induced nuclear fission occurs when: A stable nucleus splits into small nuclei due to the absorption of a slow-moving neutron For example, when a nucleus of uranium-235 absorbs a neutron, it becomes uranium-236 A uranium-236 nucleus is highly unstable and will decay into two smaller nuclei almost immediately This is why it is not usually shown in nuclear decay equations One of the many decay reactions uranium-235 can undergo is shown below: When a uranium-235 nucleus absorbs a neutron it may decay into two smaller daughter nuclei Thermal Neutrons Neutrons involved in induced fission are known as thermal neutrons , meaning: They have low kinetic energy They are slow-moving Only slow-moving neutrons can be absorbed by uranium-235 nuclei and induce fission If a fast-moving neutron is incident on a uranium-235 nucleus, it will rebound from it A thermal neutron is defined as: A neutron which is in thermal equilibrium with its surroundings In a nuclear reactor, neutrons are slowed until they are in thermal equilibrium with the moderator This corresponds to a core reactor temperature of about 300 K Thermal neutrons have kinetic energies associated with Where is the Boltzmann constant and is the thermodynamic temperature Typically, the average kinetic energy of a thermal neutron is: J eV Typically, a thermal neutron has a speed of: m s −1 Chain Reactions The products of fission are two daughter nuclei and two or three neutrons The neutrons released during fission go on to cause more fission reactions, leading to a chain reaction , where each fission goes on to cause at least one more fission Only one thermal neutron is used to create another fission reaction in a controlled chain reaction Critical Mass Nuclear reactions are designed to be self-sustaining yet very controlled This can be achieved by using a precise amount of uranium fuel, known as the critical mass Critical mass is defined as: The minimum mass of fuel required to maintain a steady chain reaction Using exactly the critical mass of fuel will mean that a single fission reaction follows the last Using less than the critical mass ( subcritical mass ) would lead the reaction to eventually stop Using more than the critical mass ( supercritical mass ) would lead to a runaway reaction and eventually an explosion Subcritical, critical and supercritical mass
+Induced nuclear fission occurs when:
+A stable nucleus splits into small nuclei due to the absorption of a slow-moving neutron
+For example, when a nucleus of uranium-235 absorbs a neutron, it becomes uranium-236
+A uranium-236 nucleus is highly unstable and will decay into two smaller nuclei almost immediately This is why it is not usually shown in nuclear decay equations
+A uranium-236 nucleus is highly unstable and will decay into two smaller nuclei almost immediately
+This is why it is not usually shown in nuclear decay equations
+One of the many decay reactions uranium-235 can undergo is shown below:
+When a uranium-235 nucleus absorbs a neutron it may decay into two smaller daughter nuclei
+Thermal Neutrons
+Neutrons involved in induced fission are known as thermal neutrons , meaning: They have low kinetic energy They are slow-moving
+Neutrons involved in induced fission are known as thermal neutrons , meaning:
+They have low kinetic energy
+They are slow-moving
+Only slow-moving neutrons can be absorbed by uranium-235 nuclei and induce fission
+If a fast-moving neutron is incident on a uranium-235 nucleus, it will rebound from it
+A thermal neutron is defined as:
+A neutron which is in thermal equilibrium with its surroundings
+In a nuclear reactor, neutrons are slowed until they are in thermal equilibrium with the moderator This corresponds to a core reactor temperature of about 300 K
+In a nuclear reactor, neutrons are slowed until they are in thermal equilibrium with the moderator
+This corresponds to a core reactor temperature of about 300 K
+Thermal neutrons have kinetic energies associated with Where is the Boltzmann constant and is the thermodynamic temperature
+Thermal neutrons have kinetic energies associated with
+Where is the Boltzmann constant and is the thermodynamic temperature
+Boltzmann constant
+thermodynamic temperature
+Typically, the average kinetic energy of a thermal neutron is:
+J
+eV
+Typically, a thermal neutron has a speed of:
+m s −1
+Chain Reactions
+The products of fission are two daughter nuclei and two or three neutrons
+The neutrons released during fission go on to cause more fission reactions, leading to a chain reaction , where each fission goes on to cause at least one more fission
+Only one thermal neutron is used to create another fission reaction in a controlled chain reaction
+Critical Mass
+Nuclear reactions are designed to be self-sustaining yet very controlled
+This can be achieved by using a precise amount of uranium fuel, known as the critical mass
+Critical mass is defined as:
+The minimum mass of fuel required to maintain a steady chain reaction
+Using exactly the critical mass of fuel will mean that a single fission reaction follows the last Using less than the critical mass ( subcritical mass ) would lead the reaction to eventually stop Using more than the critical mass ( supercritical mass ) would lead to a runaway reaction and eventually an explosion
+Using exactly the critical mass of fuel will mean that a single fission reaction follows the last
+Using less than the critical mass ( subcritical mass ) would lead the reaction to eventually stop
+Using more than the critical mass ( supercritical mass ) would lead to a runaway reaction and eventually an explosion
+Subcritical, critical and supercritical mass

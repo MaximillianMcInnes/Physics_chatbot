@@ -1,0 +1,54 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-1-the-discovery-of-the-electron/12-1-5-millikans-oil-drop-experiment
+HEADING: Millikan’s Oil Drop Experiment ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Millikan's Oil Drop Experiment This experiment was conducted by Millikan and Fletcher in 1909 It determined the value of fundamental or elementary charge Method for Millikan's Oil Drop Experiment A fine mist of atomised oil drops is sprayed into a chamber Oil is used instead of water because it does not evaporate quickly This means the mass of the drops will remain constant As the drops pass out of the spray nozzle they are ionised by X-rays This consequently changes their charge from neutral They will become positively charged if they lose electrons They will become negatively charged if they gain electrons The drops pass into a region between two metal plates and are viewed using a microscope Equipment Set Up for Millikan's Oil Drop Experiment In Millikan's Oil Drop Experiment oil is sprayed into a chamber before passing between metal plates where the electric and gravitational forces are compared Condition for Stationary Oil Drops The charged oil drops fall into a uniform electric field between plates separated by distance d with potential difference V Negative oil drops with magnitude of charge Q experience an upward force from the uniform electric field The magnitude of this force F is: The falling oil drops can be held stationary between the plates by increasing this upward force For this to occur, the force F has to be equal to the weight of the oil drop, mg , so there is no resultant vertical force on each drop Therefore, the condition under which oil drops are held stationary is: The aim of the experiment, however, was to determine the charge Q of each oil drop For that, Milikan needed to determine the mass of each oil drop, so he used Stokes' Law Worked Example One particular oil drop had a mass of 5.1 × 10 -15 kg. It is held stationary between two charged plates. These are separated by 12 mm and there is a potential difference of 1250 V across them. Calculate the charge of the oil drop. Answer: Step 1: List the known quantities: Mass, m = 5.1 × 10 -15 kg Separation of plates, d = 12 mm Potential difference, V = 1250 V Acceleration due to gravity, g = 9.81 m s -2 Step 2: Recall the condition for a stationary oil drop: The condition for the oil drop not to fall or rise: Step 3: Rearrange this equation to calculate charge: Make charge the subject: Examiner Tips and Tricks The condition for a stationary oil droplet is given in the equation sheet. Focus your revision on using it and understanding where it comes from, as opposed to memorising the equation.
+Millikan's Oil Drop Experiment This experiment was conducted by Millikan and Fletcher in 1909 It determined the value of fundamental or elementary charge Method for Millikan's Oil Drop Experiment A fine mist of atomised oil drops is sprayed into a chamber Oil is used instead of water because it does not evaporate quickly This means the mass of the drops will remain constant As the drops pass out of the spray nozzle they are ionised by X-rays This consequently changes their charge from neutral They will become positively charged if they lose electrons They will become negatively charged if they gain electrons The drops pass into a region between two metal plates and are viewed using a microscope Equipment Set Up for Millikan's Oil Drop Experiment In Millikan's Oil Drop Experiment oil is sprayed into a chamber before passing between metal plates where the electric and gravitational forces are compared Condition for Stationary Oil Drops The charged oil drops fall into a uniform electric field between plates separated by distance d with potential difference V Negative oil drops with magnitude of charge Q experience an upward force from the uniform electric field The magnitude of this force F is: The falling oil drops can be held stationary between the plates by increasing this upward force For this to occur, the force F has to be equal to the weight of the oil drop, mg , so there is no resultant vertical force on each drop Therefore, the condition under which oil drops are held stationary is: The aim of the experiment, however, was to determine the charge Q of each oil drop For that, Milikan needed to determine the mass of each oil drop, so he used Stokes' Law
+Millikan's Oil Drop Experiment
+This experiment was conducted by Millikan and Fletcher in 1909
+It determined the value of fundamental or elementary charge
+elementary charge
+Method for Millikan's Oil Drop Experiment
+A fine mist of atomised oil drops is sprayed into a chamber Oil is used instead of water because it does not evaporate quickly This means the mass of the drops will remain constant
+A fine mist of atomised oil drops is sprayed into a chamber
+Oil is used instead of water because it does not evaporate quickly
+This means the mass of the drops will remain constant
+As the drops pass out of the spray nozzle they are ionised by X-rays This consequently changes their charge from neutral They will become positively charged if they lose electrons They will become negatively charged if they gain electrons
+As the drops pass out of the spray nozzle they are ionised by X-rays
+ionised
+This consequently changes their charge from neutral
+They will become positively charged if they lose electrons
+They will become negatively charged if they gain electrons
+The drops pass into a region between two metal plates and are viewed using a microscope
+Equipment Set Up for Millikan's Oil Drop Experiment
+In Millikan's Oil Drop Experiment oil is sprayed into a chamber before passing between metal plates where the electric and gravitational forces are compared
+Condition for Stationary Oil Drops
+The charged oil drops fall into a uniform electric field between plates separated by distance d with potential difference V Negative oil drops with magnitude of charge Q experience an upward force from the uniform electric field The magnitude of this force F is:
+The charged oil drops fall into a uniform electric field between plates separated by distance d with potential difference V
+Negative oil drops with magnitude of charge Q experience an upward force from the uniform electric field
+The magnitude of this force F is:
+The falling oil drops can be held stationary between the plates by increasing this upward force For this to occur, the force F has to be equal to the weight of the oil drop, mg , so there is no resultant vertical force on each drop
+The falling oil drops can be held stationary between the plates by increasing this upward force
+For this to occur, the force F has to be equal to the weight of the oil drop, mg , so there is no resultant vertical force on each drop
+Therefore, the condition under which oil drops are held stationary is:
+The aim of the experiment, however, was to determine the charge Q of each oil drop For that, Milikan needed to determine the mass of each oil drop, so he used Stokes' Law
+The aim of the experiment, however, was to determine the charge Q of each oil drop
+For that, Milikan needed to determine the mass of each oil drop, so he used Stokes' Law
+Worked Example One particular oil drop had a mass of 5.1 × 10 -15 kg. It is held stationary between two charged plates. These are separated by 12 mm and there is a potential difference of 1250 V across them. Calculate the charge of the oil drop. Answer: Step 1: List the known quantities: Mass, m = 5.1 × 10 -15 kg Separation of plates, d = 12 mm Potential difference, V = 1250 V Acceleration due to gravity, g = 9.81 m s -2 Step 2: Recall the condition for a stationary oil drop: The condition for the oil drop not to fall or rise: Step 3: Rearrange this equation to calculate charge: Make charge the subject:
+Worked Example
+One particular oil drop had a mass of 5.1 × 10 -15 kg. It is held stationary between two charged plates. These are separated by 12 mm and there is a potential difference of 1250 V across them.
+Calculate the charge of the oil drop.
+Answer:
+Step 1: List the known quantities:
+Mass, m = 5.1 × 10 -15 kg
+Separation of plates, d = 12 mm
+Potential difference, V = 1250 V
+Acceleration due to gravity, g = 9.81 m s -2
+Step 2: Recall the condition for a stationary oil drop:
+The condition for the oil drop not to fall or rise:
+Step 3: Rearrange this equation to calculate charge:
+Make charge the subject:
+Examiner Tips and Tricks The condition for a stationary oil droplet is given in the equation sheet. Focus your revision on using it and understanding where it comes from, as opposed to memorising the equation.
+Examiner Tips and Tricks
+The condition for a stationary oil droplet is given in the equation sheet. Focus your revision on using it and understanding where it comes from, as opposed to memorising the equation.

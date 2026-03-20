@@ -1,0 +1,61 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-2-classification-of-particles/2-2-3-mesons
+HEADING: Mesons ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Pions & The Strong Nuclear Force Pions Pions (π–mesons) can be positive , negative , or neutral They contain up and down quarks only, so they have zero strangeness The antiparticle of the positive pion is the negative pion (and vice versa) The neutral pion is its own antiparticle Pions are the lightest mesons, making them more stable than other types of mesons They were originally discovered in cosmic rays and can be observed in a cloud chamber Table of pions and their properties Particle Quark composition Relative charge Strangeness Pions as exchange particles The strong nuclear force , one of the four fundamental interactions , keeps the protons and neutrons bound together in a nucleus Fundamental interactions are mediated by exchange particles The pion is the exchange particle of the strong nuclear force between baryons In a nucleus, protons and neutrons exhibit the strong force by exchanging pions Pions are said to mediate (bring about) the strong nuclear force The pion created is a temporary violation of energy and mass conservation, but since it is a virtual particle, it is not directly observed Examiner Tips and Tricks When reading about the strong force, you may also come across a particle called the gluon . This is also an exchange particle of the strong force, but you don't need to know about it for your exam. For clarity or your own interest, the difference between pions and gluons as mediators of the strong force are: Gluons are responsible for binding quarks together. This is referred to as the strong interaction Pions are responsible for binding nucleons together. This is referred to as the strong nuclear force Collectively, these are referred to as the strong force Kaon Decay Kaons Kaons (K-mesons) can also be positive , negative , or neutral Kaons have a property known as strangeness This is because they contain a strange quark, which can be paired with either an up or down quark The antiparticle of the positive kaon is the negative kaon (and vice versa) Unlike the neutral pion, the neutral kaon is not its own antiparticle Kaons are heavy and unstable and normally decay into pions They are known to have unusually long lifetimes (compared to other mesons) This is characteristic of particles containing strange quarks Table of kaons and their properties Particle Quark composition Relative charge Strangeness Kaon production Kaons can be produced in pairs (pair production) via the strong interaction , where strangeness is always conserved An example of kaon pair production is through a high-energy proton-proton collision: The strangeness on both sides is zero, so strangeness is conserved Kaon decay Kaons decay through the weak interaction An example of a kaon decay would be a neutral kaon decaying into a positive pion and a negative pion: Pions do not contain strange quarks, therefore, strangeness is not conserved in weak interactions
+Pions & The Strong Nuclear Force Pions Pions (π–mesons) can be positive , negative , or neutral They contain up and down quarks only, so they have zero strangeness The antiparticle of the positive pion is the negative pion (and vice versa) The neutral pion is its own antiparticle Pions are the lightest mesons, making them more stable than other types of mesons They were originally discovered in cosmic rays and can be observed in a cloud chamber Table of pions and their properties Particle Quark composition Relative charge Strangeness Pions as exchange particles The strong nuclear force , one of the four fundamental interactions , keeps the protons and neutrons bound together in a nucleus Fundamental interactions are mediated by exchange particles The pion is the exchange particle of the strong nuclear force between baryons In a nucleus, protons and neutrons exhibit the strong force by exchanging pions Pions are said to mediate (bring about) the strong nuclear force The pion created is a temporary violation of energy and mass conservation, but since it is a virtual particle, it is not directly observed
+Pions & The Strong Nuclear Force
+Pions
+Pions (π–mesons) can be positive , negative , or neutral
+They contain up and down quarks only, so they have zero strangeness
+The antiparticle of the positive pion is the negative pion (and vice versa) The neutral pion is its own antiparticle
+The antiparticle of the positive pion is the negative pion (and vice versa)
+The neutral pion is its own antiparticle
+Pions are the lightest mesons, making them more stable than other types of mesons They were originally discovered in cosmic rays and can be observed in a cloud chamber
+Pions are the lightest mesons, making them more stable than other types of mesons
+They were originally discovered in cosmic rays and can be observed in a cloud chamber
+Table of pions and their properties
+Particle Quark composition Relative charge Strangeness
+Particle
+Quark composition
+Relative charge
+Strangeness
+Pions as exchange particles
+The strong nuclear force , one of the four fundamental interactions , keeps the protons and neutrons bound together in a nucleus
+Fundamental interactions are mediated by exchange particles
+The pion is the exchange particle of the strong nuclear force between baryons
+In a nucleus, protons and neutrons exhibit the strong force by exchanging pions Pions are said to mediate (bring about) the strong nuclear force
+In a nucleus, protons and neutrons exhibit the strong force by exchanging pions
+Pions are said to mediate (bring about) the strong nuclear force
+The pion created is a temporary violation of energy and mass conservation, but since it is a virtual particle, it is not directly observed
+Examiner Tips and Tricks When reading about the strong force, you may also come across a particle called the gluon . This is also an exchange particle of the strong force, but you don't need to know about it for your exam. For clarity or your own interest, the difference between pions and gluons as mediators of the strong force are: Gluons are responsible for binding quarks together. This is referred to as the strong interaction Pions are responsible for binding nucleons together. This is referred to as the strong nuclear force Collectively, these are referred to as the strong force
+Examiner Tips and Tricks
+When reading about the strong force, you may also come across a particle called the gluon . This is also an exchange particle of the strong force, but you don't need to know about it for your exam.
+For clarity or your own interest, the difference between pions and gluons as mediators of the strong force are:
+Gluons are responsible for binding quarks together. This is referred to as the strong interaction
+Pions are responsible for binding nucleons together. This is referred to as the strong nuclear force
+Collectively, these are referred to as the strong force
+Kaon Decay Kaons Kaons (K-mesons) can also be positive , negative , or neutral Kaons have a property known as strangeness This is because they contain a strange quark, which can be paired with either an up or down quark The antiparticle of the positive kaon is the negative kaon (and vice versa) Unlike the neutral pion, the neutral kaon is not its own antiparticle Kaons are heavy and unstable and normally decay into pions They are known to have unusually long lifetimes (compared to other mesons) This is characteristic of particles containing strange quarks Table of kaons and their properties Particle Quark composition Relative charge Strangeness Kaon production Kaons can be produced in pairs (pair production) via the strong interaction , where strangeness is always conserved An example of kaon pair production is through a high-energy proton-proton collision: The strangeness on both sides is zero, so strangeness is conserved Kaon decay Kaons decay through the weak interaction An example of a kaon decay would be a neutral kaon decaying into a positive pion and a negative pion: Pions do not contain strange quarks, therefore, strangeness is not conserved in weak interactions
+Kaon Decay
+Kaons
+Kaons (K-mesons) can also be positive , negative , or neutral
+Kaons have a property known as strangeness This is because they contain a strange quark, which can be paired with either an up or down quark
+Kaons have a property known as strangeness
+This is because they contain a strange quark, which can be paired with either an up or down quark
+The antiparticle of the positive kaon is the negative kaon (and vice versa) Unlike the neutral pion, the neutral kaon is not its own antiparticle
+The antiparticle of the positive kaon is the negative kaon (and vice versa)
+Unlike the neutral pion, the neutral kaon is not its own antiparticle
+Kaons are heavy and unstable and normally decay into pions
+They are known to have unusually long lifetimes (compared to other mesons) This is characteristic of particles containing strange quarks
+They are known to have unusually long lifetimes (compared to other mesons)
+This is characteristic of particles containing strange quarks
+Table of kaons and their properties
+Kaon production
+Kaons can be produced in pairs (pair production) via the strong interaction , where strangeness is always conserved
+An example of kaon pair production is through a high-energy proton-proton collision:
+The strangeness on both sides is zero, so strangeness is conserved
+Kaon decay
+Kaons decay through the weak interaction
+An example of a kaon decay would be a neutral kaon decaying into a positive pion and a negative pion:
+Pions do not contain strange quarks, therefore, strangeness is not conserved in weak interactions

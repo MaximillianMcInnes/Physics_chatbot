@@ -1,0 +1,85 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-1-rotational-motion
+HEADING: Rotational Motion ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Angular Displacement, Velocity & Acceleration A rigid rotating body can be described using the following properties: Angular displacement Angular velocity Angular acceleration These properties can be inferred from the properties of objects moving in a straight line combined with the geometry of circles and arcs Angular Displacement Angular displacement is defined as: The change in angle through which a rigid body has rotated relative to a fixed point Angular displacement is measured in radians Angular displacement to linear displacement The linear displacement s at any point along a segment that is in rotation can be calculated using: Where: θ = angular displacement, or change in angle (radians) s = length of the arc, or the linear distance travelled along a circular path (m) r = radius of a circular path, or distance from the axis of rotation (m) An angle in radians, subtended at the centre of a circle, is the arc length divided by the radius of the circle Angular Velocity The angular velocity ω of a rigid rotating body is defined as: The rate of change in angular displacement with respect to time Angular velocity is measured in rad s –1 This can be expressed as an equation: Where: ω = angular velocity (rad s –1 ) Δ θ = angular displacement (rad) Δ t = change in time (s) Angular velocity to linear velocity The linear speed v is related to the angular speed ω by the equation: Where: v = linear speed (m s –1 ) r = distance from the axis of rotation (m) Taking the angular displacement of a complete cycle as 2π, angular velocity ω can also be expressed as: Rearranging gives the expression for linear speed: Where: f = frequency of the rotation (Hz) T = time period of the rotation (s) Angular Acceleration Angular acceleration is defined as: The rate of change of angular velocity with time Angular acceleration is measured in rad s −2 This can be expressed as an equation: Where: = angular acceleration (rad s −2 ) = change in angular velocity, or (rad s −1 ) = change in time (s) Angular acceleration to linear acceleration Using the definition of angular velocity with the equation for angular acceleration α gives: Rearranging gives the expression for linear acceleration: Where: a = linear acceleration (m s −2 ) r = distance from the axis of rotation (m) = change in linear velocity, or (m s −1 ) Examiner Tips and Tricks While there are many similarities between the angular quantities used in this topic and the angular quantities used in the circular motion topic, make sure you are clear on the distinctions between the two, for example, angular acceleration and centripetal acceleration are not the same thing! Graphs of Rotational Motion Graphs of rotational motion can be interpreted in the same way as linear motion graphs Graphs of angular displacement, angular velocity and angular acceleration Angular displacement, is equal to... The area under the angular velocity-time graph Angular velocity, is equal to... The gradient of the angular displacement-time graph The area under the angular acceleration-time graph Angular acceleration, is equal to... The gradient of the angular velocity-time graph Summary of linear and angular variables Variable Linear Angular displacement velocity acceleration
+Angular Displacement, Velocity & Acceleration A rigid rotating body can be described using the following properties: Angular displacement Angular velocity Angular acceleration These properties can be inferred from the properties of objects moving in a straight line combined with the geometry of circles and arcs Angular Displacement Angular displacement is defined as: The change in angle through which a rigid body has rotated relative to a fixed point Angular displacement is measured in radians Angular displacement to linear displacement The linear displacement s at any point along a segment that is in rotation can be calculated using: Where: θ = angular displacement, or change in angle (radians) s = length of the arc, or the linear distance travelled along a circular path (m) r = radius of a circular path, or distance from the axis of rotation (m) An angle in radians, subtended at the centre of a circle, is the arc length divided by the radius of the circle Angular Velocity The angular velocity ω of a rigid rotating body is defined as: The rate of change in angular displacement with respect to time Angular velocity is measured in rad s –1 This can be expressed as an equation: Where: ω = angular velocity (rad s –1 ) Δ θ = angular displacement (rad) Δ t = change in time (s) Angular velocity to linear velocity The linear speed v is related to the angular speed ω by the equation: Where: v = linear speed (m s –1 ) r = distance from the axis of rotation (m) Taking the angular displacement of a complete cycle as 2π, angular velocity ω can also be expressed as: Rearranging gives the expression for linear speed: Where: f = frequency of the rotation (Hz) T = time period of the rotation (s) Angular Acceleration Angular acceleration is defined as: The rate of change of angular velocity with time Angular acceleration is measured in rad s −2 This can be expressed as an equation: Where: = angular acceleration (rad s −2 ) = change in angular velocity, or (rad s −1 ) = change in time (s) Angular acceleration to linear acceleration Using the definition of angular velocity with the equation for angular acceleration α gives: Rearranging gives the expression for linear acceleration: Where: a = linear acceleration (m s −2 ) r = distance from the axis of rotation (m) = change in linear velocity, or (m s −1 )
+Angular Displacement, Velocity & Acceleration
+A rigid rotating body can be described using the following properties: Angular displacement Angular velocity Angular acceleration
+A rigid rotating body can be described using the following properties:
+Angular displacement
+Angular velocity
+Angular acceleration
+These properties can be inferred from the properties of objects moving in a straight line combined with the geometry of circles and arcs
+Angular Displacement
+Angular displacement is defined as:
+The change in angle through which a rigid body has rotated relative to a fixed point
+Angular displacement is measured in radians
+radians
+Angular displacement to linear displacement
+The linear displacement s at any point along a segment that is in rotation can be calculated using:
+Where: θ = angular displacement, or change in angle (radians) s = length of the arc, or the linear distance travelled along a circular path (m) r = radius of a circular path, or distance from the axis of rotation (m)
+Where:
+θ = angular displacement, or change in angle (radians)
+s = length of the arc, or the linear distance travelled along a circular path (m)
+r = radius of a circular path, or distance from the axis of rotation (m)
+An angle in radians, subtended at the centre of a circle, is the arc length divided by the radius of the circle
+Angular Velocity
+The angular velocity ω of a rigid rotating body is defined as:
+The rate of change in angular displacement with respect to time
+Angular velocity is measured in rad s –1
+This can be expressed as an equation:
+Where: ω = angular velocity (rad s –1 ) Δ θ = angular displacement (rad) Δ t = change in time (s)
+ω = angular velocity (rad s –1 )
+Δ θ = angular displacement (rad)
+Δ t = change in time (s)
+Angular velocity to linear velocity
+The linear speed v is related to the angular speed ω by the equation:
+Where: v = linear speed (m s –1 ) r = distance from the axis of rotation (m)
+v = linear speed (m s –1 )
+r = distance from the axis of rotation (m)
+Taking the angular displacement of a complete cycle as 2π, angular velocity ω can also be expressed as:
+Rearranging gives the expression for linear speed:
+Where: f = frequency of the rotation (Hz) T = time period of the rotation (s)
+f = frequency of the rotation (Hz)
+T = time period of the rotation (s)
+Angular Acceleration
+Angular acceleration is defined as:
+The rate of change of angular velocity with time
+Angular acceleration is measured in rad s −2
+Where: = angular acceleration (rad s −2 ) = change in angular velocity, or (rad s −1 ) = change in time (s)
+= angular acceleration (rad s −2 )
+= change in angular velocity, or (rad s −1 )
+= change in time (s)
+Angular acceleration to linear acceleration
+Using the definition of angular velocity with the equation for angular acceleration α gives:
+Rearranging gives the expression for linear acceleration:
+Where: a = linear acceleration (m s −2 ) r = distance from the axis of rotation (m) = change in linear velocity, or (m s −1 )
+a = linear acceleration (m s −2 )
+= change in linear velocity, or (m s −1 )
+Examiner Tips and Tricks While there are many similarities between the angular quantities used in this topic and the angular quantities used in the circular motion topic, make sure you are clear on the distinctions between the two, for example, angular acceleration and centripetal acceleration are not the same thing!
+Examiner Tips and Tricks
+While there are many similarities between the angular quantities used in this topic and the angular quantities used in the circular motion topic, make sure you are clear on the distinctions between the two, for example, angular acceleration and centripetal acceleration are not the same thing!
+Graphs of Rotational Motion Graphs of rotational motion can be interpreted in the same way as linear motion graphs Graphs of angular displacement, angular velocity and angular acceleration Angular displacement, is equal to... The area under the angular velocity-time graph Angular velocity, is equal to... The gradient of the angular displacement-time graph The area under the angular acceleration-time graph Angular acceleration, is equal to... The gradient of the angular velocity-time graph Summary of linear and angular variables Variable Linear Angular displacement velocity acceleration
+Graphs of Rotational Motion
+Graphs of rotational motion can be interpreted in the same way as linear motion graphs
+Graphs of angular displacement, angular velocity and angular acceleration
+Angular displacement, is equal to... The area under the angular velocity-time graph
+Angular displacement, is equal to...
+The area under the angular velocity-time graph
+Angular velocity, is equal to... The gradient of the angular displacement-time graph The area under the angular acceleration-time graph
+Angular velocity, is equal to...
+The gradient of the angular displacement-time graph
+The area under the angular acceleration-time graph
+Angular acceleration, is equal to... The gradient of the angular velocity-time graph
+Angular acceleration, is equal to...
+The gradient of the angular velocity-time graph
+Summary of linear and angular variables
+Variable Linear Angular displacement velocity acceleration
+Variable
+Linear
+Angular
+displacement
+velocity
+acceleration

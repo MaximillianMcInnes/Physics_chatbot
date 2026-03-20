@@ -1,0 +1,118 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-2-simple-harmonic-motion/6-2-8-required-practical-investigating-shm
+HEADING: Required Practical: Investigating SHM ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Required Practical: Investigating SHM Equipment List Resolution of measuring equipment: Stopwatch = ±0.01 s Metre Ruler = ±1 mm SHM in a Mass-Spring System This experiment aims to calculate the spring constant of a spring in a mass-spring system This is done by investigating how the time period of the oscillations varies with the mass This is just one example of how this required practical might be carried out Variables Independent variable = mass, m Dependent variable = time period, T Control variables: Spring constant, k Number of oscillations Method The setup of apparatus to detect oscillations of a mass-spring system Set up the apparatus, with no masses hanging on the holder to begin with (just the 100 g mass attached to it) Pull the mass hanger vertically downwards between 2-5 cm as measured from the ruler and let go. The mass hanger will begin to oscillate Start the stopwatch when it passes the nail marker Stop the stopwatch after 10 complete oscillations and record this time. Divide the time by 10 for the time period (which is the mean) Add a 50 g mass to the holder and repeat the above between 8-10 readings. Make sure the mass is pulled down by the same length before letting go An example table might look like this: Analysing the Results Obtain an equation for the spring constant, k Then plot a suitable graph to obtain a value for k Start with the time period of a mass-spring system from the equation: Where: T = time period (s) m = mass (kg) k = spring constant (N m –1 ) Squaring both sides of the equation gives: Comparing this to the equation of a straight line: y = mx y = T 2 x = m Gradient = 4π 2 / k The spring constant, k , is therefore equal to: The graph of T 2 against mass, m should look like this: Where T 2 and m are directly proportional to each other The graph is a straight line with a positive gradient The spring constant obtained can be compared with that according to Hooke's law Where k is found from the gradient of a force F extension x graph SHM in a Simple Pendulum This experiment aims to calculate the acceleration due to gravity of a simple pendulum This is done by investigating how the time period of oscillations vary with length This is just one example of how this required practical might be carried out Variables Independent variable = length, L Dependent variable = time period, T Control variables: Mass of pendulum bob, m Number of oscillations Method Set up the apparatus, with the length of the pendulum at 0.2 m Make sure the pendulum hangs vertically downwards at equilibrium and inline directly in front of the needle marker Pull the pendulum to the side at a very small angle then let go. The pendulum will begin to oscillate Start the stopwatch when the pendulum passes the needle marker in its equilibrium. One complete oscillation occurs when the pendulum passes through the equilibrium, to one maximum and then the other, and back to the equilibrium again (not just from side to side) Stop the stopwatch after 10 complete oscillations and record the total time. Divide the time by 10 to obtain the time period (which is the mean) Adjust the string to increase the length of the pendulum and the wooden block. Repeat the above for 8-10 readings. The ruler is used to measure the string. Ensure it is measured from the wooden blocks to the centre of mass of the bob. Oscillations should be counted as follows: An example table might look like this: Analysing the Results Obtain an equation for the acceleration due to gravity, g Then plot a suitable graph to obtain a value for g The time period of a simple pendulum is given by: Where: T = time period (s) L = length of the pendulum (m) g = acceleration due to gravity (m s –2 ) Squaring both sides of the equation gives Comparing this to the equation of a straight line: y = mx + c y = T 2 x = L gradient m = 4π 2 / g c = 0 The acceleration due to gravity is equal to: The graph of T 2 against length, L should look like this: Where T 2 and L are directly proportional to each other The graph is a straight line with a positive gradient The accuracy of the experiment can be determined by comparing the obtained value of g to the accepted value of acceleration due to gravity, g = 9.81 m s −2 Evaluating the Experiments Systematic Errors : Reduce parallax error by viewing the marker at eye level Random Errors : Record the time taken for 10 full oscillations, then divide by 10 for one period, to reduce random errors For the simple pendulum, the oscillations may not completely go from side to side, and the object may move in a circle. Therefore, keep the amplitudes of oscillation relatively small (only a few cm) and repeat any readings that take a different trajectory The equation for the time period of a pendulum bob only works for small angles , so make sure the pendulum is not pulled too far out to the side for the oscillation For the mass-spring system, the oscillations may not stay completely vertical. Therefore, keep the amplitudes relatively small (only a few cm) and repeat the readings making sure they are vertical When setting an oscillation in motion make sure the mass is pulled to the side by the same angle every time A motion tracker and data logger could provide a more accurate value for the time period and reduce the random errors in starting and stopping the stopwatch (due to reflex times) Safety Considerations Place a soft surface directly below the equipment to reduce the damage caused by a falling pendulum or spring Only pull down the mass and spring system a few centimetres for the oscillations, as larger oscillations could cause the masses to fall off and damage the equipment The wooden blocks must be tightly clamped together to hold the string for the pendulum in place, otherwise, the pendulum may dislodge during oscillations and fall off Worked Example A student investigates the relationship between the time period and the mass of a mass-spring system that oscillates with simple harmonic motion. They obtain the following results: Calculate the value of the spring constant of the spring used in this experiment. Answer: Step 1: Complete the table Add the extra column T 2 and calculate the values Step 2: Plot the graph of T 2 against the mass m Make sure the axes are properly labelled and the line of best fit is drawn with a ruler. The line of best fit should have an equal number of points above and below it. Step 3: Calculate the gradient of the graph The gradient is calculated by: Step 4: Calculate the spring constant, k
+Required Practical: Investigating SHM Equipment List Resolution of measuring equipment: Stopwatch = ±0.01 s Metre Ruler = ±1 mm SHM in a Mass-Spring System This experiment aims to calculate the spring constant of a spring in a mass-spring system This is done by investigating how the time period of the oscillations varies with the mass This is just one example of how this required practical might be carried out Variables Independent variable = mass, m Dependent variable = time period, T Control variables: Spring constant, k Number of oscillations Method The setup of apparatus to detect oscillations of a mass-spring system Set up the apparatus, with no masses hanging on the holder to begin with (just the 100 g mass attached to it) Pull the mass hanger vertically downwards between 2-5 cm as measured from the ruler and let go. The mass hanger will begin to oscillate Start the stopwatch when it passes the nail marker Stop the stopwatch after 10 complete oscillations and record this time. Divide the time by 10 for the time period (which is the mean) Add a 50 g mass to the holder and repeat the above between 8-10 readings. Make sure the mass is pulled down by the same length before letting go An example table might look like this: Analysing the Results Obtain an equation for the spring constant, k Then plot a suitable graph to obtain a value for k Start with the time period of a mass-spring system from the equation: Where: T = time period (s) m = mass (kg) k = spring constant (N m –1 ) Squaring both sides of the equation gives: Comparing this to the equation of a straight line: y = mx y = T 2 x = m Gradient = 4π 2 / k The spring constant, k , is therefore equal to: The graph of T 2 against mass, m should look like this: Where T 2 and m are directly proportional to each other The graph is a straight line with a positive gradient The spring constant obtained can be compared with that according to Hooke's law Where k is found from the gradient of a force F extension x graph SHM in a Simple Pendulum This experiment aims to calculate the acceleration due to gravity of a simple pendulum This is done by investigating how the time period of oscillations vary with length This is just one example of how this required practical might be carried out Variables Independent variable = length, L Dependent variable = time period, T Control variables: Mass of pendulum bob, m Number of oscillations Method Set up the apparatus, with the length of the pendulum at 0.2 m Make sure the pendulum hangs vertically downwards at equilibrium and inline directly in front of the needle marker Pull the pendulum to the side at a very small angle then let go. The pendulum will begin to oscillate Start the stopwatch when the pendulum passes the needle marker in its equilibrium. One complete oscillation occurs when the pendulum passes through the equilibrium, to one maximum and then the other, and back to the equilibrium again (not just from side to side) Stop the stopwatch after 10 complete oscillations and record the total time. Divide the time by 10 to obtain the time period (which is the mean) Adjust the string to increase the length of the pendulum and the wooden block. Repeat the above for 8-10 readings. The ruler is used to measure the string. Ensure it is measured from the wooden blocks to the centre of mass of the bob. Oscillations should be counted as follows: An example table might look like this: Analysing the Results Obtain an equation for the acceleration due to gravity, g Then plot a suitable graph to obtain a value for g The time period of a simple pendulum is given by: Where: T = time period (s) L = length of the pendulum (m) g = acceleration due to gravity (m s –2 ) Squaring both sides of the equation gives Comparing this to the equation of a straight line: y = mx + c y = T 2 x = L gradient m = 4π 2 / g c = 0 The acceleration due to gravity is equal to: The graph of T 2 against length, L should look like this: Where T 2 and L are directly proportional to each other The graph is a straight line with a positive gradient The accuracy of the experiment can be determined by comparing the obtained value of g to the accepted value of acceleration due to gravity, g = 9.81 m s −2 Evaluating the Experiments Systematic Errors : Reduce parallax error by viewing the marker at eye level Random Errors : Record the time taken for 10 full oscillations, then divide by 10 for one period, to reduce random errors For the simple pendulum, the oscillations may not completely go from side to side, and the object may move in a circle. Therefore, keep the amplitudes of oscillation relatively small (only a few cm) and repeat any readings that take a different trajectory The equation for the time period of a pendulum bob only works for small angles , so make sure the pendulum is not pulled too far out to the side for the oscillation For the mass-spring system, the oscillations may not stay completely vertical. Therefore, keep the amplitudes relatively small (only a few cm) and repeat the readings making sure they are vertical When setting an oscillation in motion make sure the mass is pulled to the side by the same angle every time A motion tracker and data logger could provide a more accurate value for the time period and reduce the random errors in starting and stopping the stopwatch (due to reflex times) Safety Considerations Place a soft surface directly below the equipment to reduce the damage caused by a falling pendulum or spring Only pull down the mass and spring system a few centimetres for the oscillations, as larger oscillations could cause the masses to fall off and damage the equipment The wooden blocks must be tightly clamped together to hold the string for the pendulum in place, otherwise, the pendulum may dislodge during oscillations and fall off
+Equipment List
+Resolution of measuring equipment: Stopwatch = ±0.01 s Metre Ruler = ±1 mm
+Resolution of measuring equipment:
+Resolution
+Stopwatch = ±0.01 s
+Metre Ruler = ±1 mm
+SHM in a Mass-Spring System
+This experiment aims to calculate the spring constant of a spring in a mass-spring system
+This is done by investigating how the time period of the oscillations varies with the mass This is just one example of how this required practical might be carried out
+This is done by investigating how the time period of the oscillations varies with the mass
+This is just one example of how this required practical might be carried out
+Variables
+Independent variable = mass, m
+Independent variable
+Dependent variable = time period, T
+Dependent variable
+Control variables: Spring constant, k Number of oscillations
+Control variables:
+Spring constant, k
+Number of oscillations
+Method
+The setup of apparatus to detect oscillations of a mass-spring system
+Set up the apparatus, with no masses hanging on the holder to begin with (just the 100 g mass attached to it)
+Pull the mass hanger vertically downwards between 2-5 cm as measured from the ruler and let go. The mass hanger will begin to oscillate
+Start the stopwatch when it passes the nail marker
+Stop the stopwatch after 10 complete oscillations and record this time. Divide the time by 10 for the time period (which is the mean)
+Add a 50 g mass to the holder and repeat the above between 8-10 readings. Make sure the mass is pulled down by the same length before letting go
+An example table might look like this:
+Analysing the Results
+Obtain an equation for the spring constant, k
+Then plot a suitable graph to obtain a value for k
+Start with the time period of a mass-spring system from the equation:
+Where: T = time period (s) m = mass (kg) k = spring constant (N m –1 )
+Where:
+T = time period (s)
+m = mass (kg)
+k = spring constant (N m –1 )
+Squaring both sides of the equation gives:
+Comparing this to the equation of a straight line: y = mx y = T 2 x = m Gradient = 4π 2 / k
+Comparing this to the equation of a straight line: y = mx
+y = T 2
+x = m
+Gradient = 4π 2 / k
+The spring constant, k , is therefore equal to:
+The graph of T 2 against mass, m should look like this: Where T 2 and m are directly proportional to each other The graph is a straight line with a positive gradient
+The graph of T 2 against mass, m should look like this:
+Where T 2 and m are directly proportional to each other
+The graph is a straight line with a positive gradient
+The spring constant obtained can be compared with that according to Hooke's law Where k is found from the gradient of a force F extension x graph
+The spring constant obtained can be compared with that according to Hooke's law
+Where k is found from the gradient of a force F extension x graph
+SHM in a Simple Pendulum
+This experiment aims to calculate the acceleration due to gravity of a simple pendulum
+This is done by investigating how the time period of oscillations vary with length This is just one example of how this required practical might be carried out
+This is done by investigating how the time period of oscillations vary with length
+Independent variable = length, L
+Control variables: Mass of pendulum bob, m Number of oscillations
+Mass of pendulum bob, m
+Set up the apparatus, with the length of the pendulum at 0.2 m
+Make sure the pendulum hangs vertically downwards at equilibrium and inline directly in front of the needle marker
+Pull the pendulum to the side at a very small angle then let go. The pendulum will begin to oscillate
+Start the stopwatch when the pendulum passes the needle marker in its equilibrium. One complete oscillation occurs when the pendulum passes through the equilibrium, to one maximum and then the other, and back to the equilibrium again (not just from side to side)
+Stop the stopwatch after 10 complete oscillations and record the total time. Divide the time by 10 to obtain the time period (which is the mean)
+Adjust the string to increase the length of the pendulum and the wooden block. Repeat the above for 8-10 readings. The ruler is used to measure the string. Ensure it is measured from the wooden blocks to the centre of mass of the bob.
+Oscillations should be counted as follows:
+Obtain an equation for the acceleration due to gravity, g
+Then plot a suitable graph to obtain a value for g
+The time period of a simple pendulum is given by:
+Where: T = time period (s) L = length of the pendulum (m) g = acceleration due to gravity (m s –2 )
+L = length of the pendulum (m)
+g = acceleration due to gravity (m s –2 )
+Squaring both sides of the equation gives
+Comparing this to the equation of a straight line: y = mx + c y = T 2 x = L gradient m = 4π 2 / g c = 0
+Comparing this to the equation of a straight line: y = mx + c
+x = L
+gradient m = 4π 2 / g
+c = 0
+The acceleration due to gravity is equal to:
+The graph of T 2 against length, L should look like this: Where T 2 and L are directly proportional to each other The graph is a straight line with a positive gradient
+The graph of T 2 against length, L should look like this:
+Where T 2 and L are directly proportional to each other
+The accuracy of the experiment can be determined by comparing the obtained value of g to the accepted value of acceleration due to gravity, g = 9.81 m s −2
+Evaluating the Experiments
+Systematic Errors :
+Systematic Errors
+Reduce parallax error by viewing the marker at eye level
+Random Errors :
+Random Errors
+Record the time taken for 10 full oscillations, then divide by 10 for one period, to reduce random errors
+For the simple pendulum, the oscillations may not completely go from side to side, and the object may move in a circle. Therefore, keep the amplitudes of oscillation relatively small (only a few cm) and repeat any readings that take a different trajectory
+The equation for the time period of a pendulum bob only works for small angles , so make sure the pendulum is not pulled too far out to the side for the oscillation
+For the mass-spring system, the oscillations may not stay completely vertical. Therefore, keep the amplitudes relatively small (only a few cm) and repeat the readings making sure they are vertical
+When setting an oscillation in motion make sure the mass is pulled to the side by the same angle every time
+A motion tracker and data logger could provide a more accurate value for the time period and reduce the random errors in starting and stopping the stopwatch (due to reflex times)
+Safety Considerations
+Place a soft surface directly below the equipment to reduce the damage caused by a falling pendulum or spring
+Only pull down the mass and spring system a few centimetres for the oscillations, as larger oscillations could cause the masses to fall off and damage the equipment
+The wooden blocks must be tightly clamped together to hold the string for the pendulum in place, otherwise, the pendulum may dislodge during oscillations and fall off
+Worked Example A student investigates the relationship between the time period and the mass of a mass-spring system that oscillates with simple harmonic motion. They obtain the following results: Calculate the value of the spring constant of the spring used in this experiment. Answer: Step 1: Complete the table Add the extra column T 2 and calculate the values Step 2: Plot the graph of T 2 against the mass m Make sure the axes are properly labelled and the line of best fit is drawn with a ruler. The line of best fit should have an equal number of points above and below it. Step 3: Calculate the gradient of the graph The gradient is calculated by: Step 4: Calculate the spring constant, k
+Worked Example
+A student investigates the relationship between the time period and the mass of a mass-spring system that oscillates with simple harmonic motion. They obtain the following results:
+Calculate the value of the spring constant of the spring used in this experiment.
+Answer:
+Step 1: Complete the table
+Add the extra column T 2 and calculate the values
+Step 2: Plot the graph of T 2 against the mass m
+Make sure the axes are properly labelled and the line of best fit is drawn with a ruler.
+The line of best fit should have an equal number of points above and below it.
+Step 3: Calculate the gradient of the graph
+The gradient is calculated by:
+Step 4: Calculate the spring constant, k

@@ -1,0 +1,41 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/4-mechanics-and-materials/4-4-newtons-laws-of-motion/4-4-1-newtons-first-law
+HEADING: Newton’s First Law ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Newton's First Law Newton's laws of motion describe the relationship between the forces acting on objects and the motion of the objects Newton's First Law states: An object will remain at rest or move with constant velocity unless acted on by a resultant force This means that: An object at rest will remain at rest unless acted upon by a resultant force An object moving with a constant velocity will remain moving at that constant velocity unless acted upon by a resultant force A resultant force is required to change the motion of an object To speed up To slow down To change direction If the forces on a body are balanced (the resultant force is 0), the body must be: At rest Moving at a constant velocity Since force is a vector, it is easier to split the forces into horizontal and vertical components If the forces are balanced : The forces acting to the left = the forces acting to the right The forces acting upward = the forces acting downward The resultant force is the vector sum of all the forces acting on the body Worked Example If there are no external forces acting on the car, other than friction, and it is moving at a constant velocity, what is the value of the frictional force F? Answer: Examiner Tips and Tricks You may sometimes see Newton's first law written as: A body will remain at rest or move with constant velocity unless acted on by a resultant force Don't let the terminology confuse you. A 'body' is just an object. Newton's first law of motion was revolutionary in its time because the widely held belief was that any moving object would naturally slow down to a stop. The idea that an object can be in motion with no resultant force acting on it is still a common misconception, almost 400 years later!
+Newton's First Law Newton's laws of motion describe the relationship between the forces acting on objects and the motion of the objects Newton's First Law states: An object will remain at rest or move with constant velocity unless acted on by a resultant force This means that: An object at rest will remain at rest unless acted upon by a resultant force An object moving with a constant velocity will remain moving at that constant velocity unless acted upon by a resultant force A resultant force is required to change the motion of an object To speed up To slow down To change direction If the forces on a body are balanced (the resultant force is 0), the body must be: At rest Moving at a constant velocity Since force is a vector, it is easier to split the forces into horizontal and vertical components If the forces are balanced : The forces acting to the left = the forces acting to the right The forces acting upward = the forces acting downward The resultant force is the vector sum of all the forces acting on the body
+Newton's First Law
+Newton's laws of motion describe the relationship between the forces acting on objects and the motion of the objects
+Newton's First Law states: An object will remain at rest or move with constant velocity unless acted on by a resultant force
+Newton's First Law states:
+An object will remain at rest or move with constant velocity unless acted on by a resultant force
+This means that: An object at rest will remain at rest unless acted upon by a resultant force An object moving with a constant velocity will remain moving at that constant velocity unless acted upon by a resultant force
+This means that:
+An object at rest will remain at rest unless acted upon by a resultant force
+An object moving with a constant velocity will remain moving at that constant velocity unless acted upon by a resultant force
+A resultant force is required to change the motion of an object To speed up To slow down To change direction
+A resultant force is required to change the motion of an object
+To speed up
+To slow down
+To change direction
+If the forces on a body are balanced (the resultant force is 0), the body must be: At rest Moving at a constant velocity
+If the forces on a body are balanced (the resultant force is 0), the body must be:
+At rest
+Moving at a constant velocity
+Since force is a vector, it is easier to split the forces into horizontal and vertical components
+If the forces are balanced : The forces acting to the left = the forces acting to the right The forces acting upward = the forces acting downward
+If the forces are balanced :
+The forces acting to the left = the forces acting to the right
+The forces acting upward = the forces acting downward
+The resultant force is the vector sum of all the forces acting on the body
+Worked Example If there are no external forces acting on the car, other than friction, and it is moving at a constant velocity, what is the value of the frictional force F? Answer:
+Worked Example
+If there are no external forces acting on the car, other than friction, and it is moving at a constant velocity, what is the value of the frictional force F?
+Answer:
+Examiner Tips and Tricks You may sometimes see Newton's first law written as: A body will remain at rest or move with constant velocity unless acted on by a resultant force Don't let the terminology confuse you. A 'body' is just an object. Newton's first law of motion was revolutionary in its time because the widely held belief was that any moving object would naturally slow down to a stop. The idea that an object can be in motion with no resultant force acting on it is still a common misconception, almost 400 years later!
+Examiner Tips and Tricks
+You may sometimes see Newton's first law written as:
+A body will remain at rest or move with constant velocity unless acted on by a resultant force
+Don't let the terminology confuse you. A 'body' is just an object.
+Newton's first law of motion was revolutionary in its time because the widely held belief was that any moving object would naturally slow down to a stop. The idea that an object can be in motion with no resultant force acting on it is still a common misconception, almost 400 years later!

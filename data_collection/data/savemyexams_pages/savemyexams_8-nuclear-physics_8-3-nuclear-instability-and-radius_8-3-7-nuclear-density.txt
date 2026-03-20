@@ -1,0 +1,40 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-3-nuclear-instability-and-radius/8-3-7-nuclear-density
+HEADING: Nuclear Density ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Constant Density of Nuclear Material Assuming that the nucleus is spherical, its volume is equal to: Where R is the nuclear radius, which is related to mass number, A , by the equation: Where R 0 is a constant of proportionality Combining these equations gives: Therefore, the nuclear volume, V , is proportional to the mass of the nucleus, A Mass (m), volume (V), and density (ρ) are related by the equation: The mass, m , of a nucleus is equal to: m = Au Where: A = the mass number u = atomic mass unit Using the equations for mass and volume, nuclear density is equal to: Since the mass number A cancels out, the remaining quantities in the equation are all constant Therefore, this shows the density of the nucleus is: Constant Independent of the radius The fact that nuclear density is constant shows that nucleons are evenly separated throughout the nucleus regardless of their size Nuclear Density Using the equation derived above, the density of the nucleus can be calculated: Where: Atomic mass unit, u = 1.661 × 10 –27 kg Constant of proportionality, R 0 = 1.05 × 10 –15 m Substituting the values gives a density of: The accuracy of nuclear density depends on the accuracy of the constant R 0 , as a guide nuclear density should always be of the order 10 17 kg m –3 Nuclear density is significantly larger than atomic density, this suggests: The majority of the atom’s mass is contained in the nucleus The nucleus is very small compared to the atom Atoms must be predominantly empty space
+Constant Density of Nuclear Material Assuming that the nucleus is spherical, its volume is equal to: Where R is the nuclear radius, which is related to mass number, A , by the equation: Where R 0 is a constant of proportionality Combining these equations gives: Therefore, the nuclear volume, V , is proportional to the mass of the nucleus, A Mass (m), volume (V), and density (ρ) are related by the equation: The mass, m , of a nucleus is equal to: m = Au Where: A = the mass number u = atomic mass unit Using the equations for mass and volume, nuclear density is equal to: Since the mass number A cancels out, the remaining quantities in the equation are all constant Therefore, this shows the density of the nucleus is: Constant Independent of the radius The fact that nuclear density is constant shows that nucleons are evenly separated throughout the nucleus regardless of their size
+Constant Density of Nuclear Material
+Assuming that the nucleus is spherical, its volume is equal to:
+Where R is the nuclear radius, which is related to mass number, A , by the equation:
+Where R 0 is a constant of proportionality
+Combining these equations gives:
+Therefore, the nuclear volume, V , is proportional to the mass of the nucleus, A
+Mass (m), volume (V), and density (ρ) are related by the equation:
+The mass, m , of a nucleus is equal to:
+m = Au
+Where: A = the mass number u = atomic mass unit
+Where:
+A = the mass number
+u = atomic mass unit
+atomic mass unit
+Using the equations for mass and volume, nuclear density is equal to:
+Since the mass number A cancels out, the remaining quantities in the equation are all constant
+Therefore, this shows the density of the nucleus is: Constant Independent of the radius
+Therefore, this shows the density of the nucleus is:
+Constant
+Independent of the radius
+The fact that nuclear density is constant shows that nucleons are evenly separated throughout the nucleus regardless of their size
+Nuclear Density Using the equation derived above, the density of the nucleus can be calculated: Where: Atomic mass unit, u = 1.661 × 10 –27 kg Constant of proportionality, R 0 = 1.05 × 10 –15 m Substituting the values gives a density of: The accuracy of nuclear density depends on the accuracy of the constant R 0 , as a guide nuclear density should always be of the order 10 17 kg m –3 Nuclear density is significantly larger than atomic density, this suggests: The majority of the atom’s mass is contained in the nucleus The nucleus is very small compared to the atom Atoms must be predominantly empty space
+Using the equation derived above, the density of the nucleus can be calculated:
+Where: Atomic mass unit, u = 1.661 × 10 –27 kg Constant of proportionality, R 0 = 1.05 × 10 –15 m
+Atomic mass unit, u = 1.661 × 10 –27 kg
+Constant of proportionality, R 0 = 1.05 × 10 –15 m
+Substituting the values gives a density of:
+The accuracy of nuclear density depends on the accuracy of the constant R 0 , as a guide nuclear density should always be of the order 10 17 kg m –3
+Nuclear density is significantly larger than atomic density, this suggests: The majority of the atom’s mass is contained in the nucleus The nucleus is very small compared to the atom Atoms must be predominantly empty space
+Nuclear density is significantly larger than atomic density, this suggests:
+The majority of the atom’s mass is contained in the nucleus
+The nucleus is very small compared to the atom
+Atoms must be predominantly empty space

@@ -1,0 +1,22 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/12-turning-points-in-physics/12-3-special-relativity/12-3-2-the-invariance-of-the-speed-of-light
+HEADING: The Invariance of the Speed of Light ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Invariance of the Speed of Light The Speed of Light In a vacuum, light travels at a speed of 3.0 × 10 8 ms -1 , which is given the symbol c When travelling through different materials, the speed of light may reduce but it can never exceed c What does invariance mean? The invariance of light means that when in a vacuum, the speed of light is always 3.0 × 10 8 ms -1 for every observer Light still travels at this speed even when emitted from a moving object Diagram demonstrating the invariance of the speed of light Light does not travel at 3.0 × 10 8 ms -1 plus the speed of the person running, to all observers it just travels at 3.0 × 10 8 ms -1 This concept only applies to light, as it is the only thing capable of traveling at the speed of light The invariance of the speed of light has some very surprising consequences, which will be explored in the following revision notes... Examiner Tips and Tricks The invariance of the speed of light may feel counter-intuitive at first, but remember that nothing can travel faster than the speed of light, so if you ever end up with an answer for velocity bigger than 3.0 × 10 8 ms -1 , something has gone wrong!
+The Invariance of the Speed of Light The Speed of Light In a vacuum, light travels at a speed of 3.0 × 10 8 ms -1 , which is given the symbol c When travelling through different materials, the speed of light may reduce but it can never exceed c What does invariance mean? The invariance of light means that when in a vacuum, the speed of light is always 3.0 × 10 8 ms -1 for every observer Light still travels at this speed even when emitted from a moving object Diagram demonstrating the invariance of the speed of light Light does not travel at 3.0 × 10 8 ms -1 plus the speed of the person running, to all observers it just travels at 3.0 × 10 8 ms -1 This concept only applies to light, as it is the only thing capable of traveling at the speed of light The invariance of the speed of light has some very surprising consequences, which will be explored in the following revision notes...
+The Speed of Light
+In a vacuum, light travels at a speed of 3.0 × 10 8 ms -1 , which is given the symbol c
+When travelling through different materials, the speed of light may reduce but it can never exceed c
+What does invariance mean?
+The invariance of light means that when in a vacuum, the speed of light is always 3.0 × 10 8 ms -1 for every observer Light still travels at this speed even when emitted from a moving object
+The invariance of light means that when in a vacuum, the speed of light is always 3.0 × 10 8 ms -1 for every observer
+Light still travels at this speed even when emitted from a moving object
+Diagram demonstrating the invariance of the speed of light
+Light does not travel at 3.0 × 10 8 ms -1 plus the speed of the person running, to all observers it just travels at 3.0 × 10 8 ms -1
+This concept only applies to light, as it is the only thing capable of traveling at the speed of light The invariance of the speed of light has some very surprising consequences, which will be explored in the following revision notes...
+This concept only applies to light, as it is the only thing capable of traveling at the speed of light
+The invariance of the speed of light has some very surprising consequences, which will be explored in the following revision notes...
+Examiner Tips and Tricks The invariance of the speed of light may feel counter-intuitive at first, but remember that nothing can travel faster than the speed of light, so if you ever end up with an answer for velocity bigger than 3.0 × 10 8 ms -1 , something has gone wrong!
+Examiner Tips and Tricks
+The invariance of the speed of light may feel counter-intuitive at first, but remember that nothing can travel faster than the speed of light, so if you ever end up with an answer for velocity bigger than 3.0 × 10 8 ms -1 , something has gone wrong!

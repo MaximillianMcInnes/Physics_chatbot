@@ -1,0 +1,82 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-2-gravitational-potential/7-2-4-work-done-on-a-mass
+HEADING: Work Done on a Mass ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Work Done on a Mass When a mass is moved against the force of gravity, work is done The work done in moving a mass is given by: Where: = change in work done (J) = mass (kg) = change in gravitational potential (J kg -1 ) Change in gravitational potential energy Two points at different distances from a mass will have different gravitational potentials This is because the gravitational potential increases with distance from a mass Therefore, there will be a gravitational potential difference Δ V between the two points Where: = initial gravitational potential (J kg –1 ) = final gravitational potential (J kg –1 ) The change in work done against a gravitational field is equal to the change in gravitational potential energy (GPE) When V = 0, then the GPE = 0 It is usually more useful to find the change in the GPE of a system For example, a satellite lifted into space from the Earth’s surface The change in GPE when a mass moves towards, or away from, another mass is given by: Where: M = mass that is producing the gravitational field (e.g. a planet) (kg) m = mass that is moving in the gravitational field (e.g. a satellite) (kg) r 1 = first distance of m from the centre of M (m) r 2 = second distance of m from the centre of M (m) The change in potential Δ V is the same, without the mass of the object m : Work is done when an object in a planet's gravitational field moves against the gravitational field lines i.e. away from the planet Gravitational potential energy increases as a satellite leaves the surface of the Moon Worked Example A spacecraft of mass 300 kg leaves the surface of Mars to an altitude of 700 km. Calculate the work done by the spacecraft. Radius of Mars = 3400 km Mass of Mars = 6.40 × 10 23 kg Answer: Step 1: Write down the work done (or change in G.P.E) equation Step 2: Determine values for r 1 and r 2 r 1 is the radius of Mars = 3400 km = 3400 × 10 3 m r 2 is the radius + altitude = 3400 + 700 = 4100 km = 4100 × 10 3 m Step 3: Substitute in values ΔG.P.E = 643.076 × 10 6 = 640 MJ (2 s.f.) Examiner Tips and Tricks Make sure to not confuse the ΔG.P.E equation with ΔG.P.E = mgΔh The above equation is only relevant for an object lifted in a uniform gravitational field (close to the Earth’s surface).The new equation for G.P.E will not include g , because this varies for different planets and is no longer a constant (decreases by 1/ r 2 ) outside the surface of a planet. Gravitational Equipotential Surfaces Equipotential lines (2D) and surfaces (3D) join together points that have the same gravitational potential These are always: Perpendicular to the gravitational field lines in both radial and uniform fields Represented by dotted lines (unlike field lines, which are solid lines with arrows) In a radial field (e.g. a planet), the equipotential lines: Are concentric circles around the planet Can become further apart as they move further away from the planet In a radial field equipotential lines can become further apart as they move further away from the planet because potential decreases with distance away the gravitational field gets weaker with distance away a greater distance needs to be moved to obtain the same change in potential, Δ V In a radial field equipotential lines are concentric circles around the object In a uniform field (eg. near the Earth's surface), the equipotential lines are: Horizontal straight lines Parallel Equally spaced No work is done when moving along an equipotential line or surface, only between equipotential lines or surfaces This means that an object travelling along an equipotential doesn't lose or gain energy and Δ V = 0 Gravitational equipotential lines in a uniform gravitational field are equally spaced Examiner Tips and Tricks Remember equipotential lines should not have arrows on them like gravitational field lines do, since they have no particular direction and are not vectors. Make sure to draw any straight lines with a ruler or a straight edge.
+Work Done on a Mass When a mass is moved against the force of gravity, work is done The work done in moving a mass is given by: Where: = change in work done (J) = mass (kg) = change in gravitational potential (J kg -1 ) Change in gravitational potential energy Two points at different distances from a mass will have different gravitational potentials This is because the gravitational potential increases with distance from a mass Therefore, there will be a gravitational potential difference Δ V between the two points Where: = initial gravitational potential (J kg –1 ) = final gravitational potential (J kg –1 ) The change in work done against a gravitational field is equal to the change in gravitational potential energy (GPE) When V = 0, then the GPE = 0 It is usually more useful to find the change in the GPE of a system For example, a satellite lifted into space from the Earth’s surface The change in GPE when a mass moves towards, or away from, another mass is given by: Where: M = mass that is producing the gravitational field (e.g. a planet) (kg) m = mass that is moving in the gravitational field (e.g. a satellite) (kg) r 1 = first distance of m from the centre of M (m) r 2 = second distance of m from the centre of M (m) The change in potential Δ V is the same, without the mass of the object m : Work is done when an object in a planet's gravitational field moves against the gravitational field lines i.e. away from the planet Gravitational potential energy increases as a satellite leaves the surface of the Moon
+When a mass is moved against the force of gravity, work is done
+The work done in moving a mass is given by:
+Where: = change in work done (J) = mass (kg) = change in gravitational potential (J kg -1 )
+Where:
+= change in work done (J)
+= mass (kg)
+= change in gravitational potential (J kg -1 )
+gravitational potential
+Change in gravitational potential energy
+Two points at different distances from a mass will have different gravitational potentials This is because the gravitational potential increases with distance from a mass
+Two points at different distances from a mass will have different gravitational potentials
+This is because the gravitational potential increases with distance from a mass
+Therefore, there will be a gravitational potential difference Δ V between the two points
+Where: = initial gravitational potential (J kg –1 ) = final gravitational potential (J kg –1 )
+= initial gravitational potential (J kg –1 )
+= final gravitational potential (J kg –1 )
+The change in work done against a gravitational field is equal to the change in gravitational potential energy (GPE) When V = 0, then the GPE = 0
+The change in work done against a gravitational field is equal to the change in gravitational potential energy (GPE)
+When V = 0, then the GPE = 0
+It is usually more useful to find the change in the GPE of a system For example, a satellite lifted into space from the Earth’s surface
+It is usually more useful to find the change in the GPE of a system
+For example, a satellite lifted into space from the Earth’s surface
+The change in GPE when a mass moves towards, or away from, another mass is given by:
+Where: M = mass that is producing the gravitational field (e.g. a planet) (kg) m = mass that is moving in the gravitational field (e.g. a satellite) (kg) r 1 = first distance of m from the centre of M (m) r 2 = second distance of m from the centre of M (m)
+M = mass that is producing the gravitational field (e.g. a planet) (kg)
+m = mass that is moving in the gravitational field (e.g. a satellite) (kg)
+r 1 = first distance of m from the centre of M (m)
+r 2 = second distance of m from the centre of M (m)
+The change in potential Δ V is the same, without the mass of the object m :
+Work is done when an object in a planet's gravitational field moves against the gravitational field lines i.e. away from the planet
+Gravitational potential energy increases as a satellite leaves the surface of the Moon
+Worked Example A spacecraft of mass 300 kg leaves the surface of Mars to an altitude of 700 km. Calculate the work done by the spacecraft. Radius of Mars = 3400 km Mass of Mars = 6.40 × 10 23 kg Answer: Step 1: Write down the work done (or change in G.P.E) equation Step 2: Determine values for r 1 and r 2 r 1 is the radius of Mars = 3400 km = 3400 × 10 3 m r 2 is the radius + altitude = 3400 + 700 = 4100 km = 4100 × 10 3 m Step 3: Substitute in values ΔG.P.E = 643.076 × 10 6 = 640 MJ (2 s.f.)
+Worked Example
+A spacecraft of mass 300 kg leaves the surface of Mars to an altitude of 700 km. Calculate the work done by the spacecraft. Radius of Mars = 3400 km
+Mass of Mars = 6.40 × 10 23 kg
+Answer:
+Step 1: Write down the work done (or change in G.P.E) equation
+Step 2: Determine values for r 1 and r 2
+r 1 is the radius of Mars = 3400 km = 3400 × 10 3 m
+r 2 is the radius + altitude = 3400 + 700 = 4100 km = 4100 × 10 3 m
+Step 3: Substitute in values
+ΔG.P.E = 643.076 × 10 6 = 640 MJ (2 s.f.)
+Examiner Tips and Tricks Make sure to not confuse the ΔG.P.E equation with ΔG.P.E = mgΔh The above equation is only relevant for an object lifted in a uniform gravitational field (close to the Earth’s surface).The new equation for G.P.E will not include g , because this varies for different planets and is no longer a constant (decreases by 1/ r 2 ) outside the surface of a planet.
+Examiner Tips and Tricks
+Make sure to not confuse the ΔG.P.E equation with
+ΔG.P.E = mgΔh
+The above equation is only relevant for an object lifted in a uniform gravitational field (close to the Earth’s surface).The new equation for G.P.E will not include g , because this varies for different planets and is no longer a constant (decreases by 1/ r 2 ) outside the surface of a planet.
+Gravitational Equipotential Surfaces Equipotential lines (2D) and surfaces (3D) join together points that have the same gravitational potential These are always: Perpendicular to the gravitational field lines in both radial and uniform fields Represented by dotted lines (unlike field lines, which are solid lines with arrows) In a radial field (e.g. a planet), the equipotential lines: Are concentric circles around the planet Can become further apart as they move further away from the planet In a radial field equipotential lines can become further apart as they move further away from the planet because potential decreases with distance away the gravitational field gets weaker with distance away a greater distance needs to be moved to obtain the same change in potential, Δ V In a radial field equipotential lines are concentric circles around the object In a uniform field (eg. near the Earth's surface), the equipotential lines are: Horizontal straight lines Parallel Equally spaced No work is done when moving along an equipotential line or surface, only between equipotential lines or surfaces This means that an object travelling along an equipotential doesn't lose or gain energy and Δ V = 0 Gravitational equipotential lines in a uniform gravitational field are equally spaced
+Gravitational Equipotential Surfaces
+Equipotential lines (2D) and surfaces (3D) join together points that have the same gravitational potential
+These are always: Perpendicular to the gravitational field lines in both radial and uniform fields Represented by dotted lines (unlike field lines, which are solid lines with arrows)
+These are always:
+Perpendicular to the gravitational field lines in both radial and uniform fields
+Represented by dotted lines (unlike field lines, which are solid lines with arrows)
+In a radial field (e.g. a planet), the equipotential lines: Are concentric circles around the planet Can become further apart as they move further away from the planet
+In a radial field (e.g. a planet), the equipotential lines:
+Are concentric circles around the planet
+Can become further apart as they move further away from the planet
+In a radial field equipotential lines can become further apart as they move further away from the planet because potential decreases with distance away the gravitational field gets weaker with distance away a greater distance needs to be moved to obtain the same change in potential, Δ V
+In a radial field equipotential lines can become further apart as they move further away from the planet because
+potential decreases with distance away
+the gravitational field gets weaker with distance away
+a greater distance needs to be moved to obtain the same change in potential, Δ V
+In a radial field equipotential lines are concentric circles around the object
+In a uniform field (eg. near the Earth's surface), the equipotential lines are: Horizontal straight lines Parallel Equally spaced
+In a uniform field (eg. near the Earth's surface), the equipotential lines are:
+Horizontal straight lines
+Parallel
+Equally spaced
+No work is done when moving along an equipotential line or surface, only between equipotential lines or surfaces This means that an object travelling along an equipotential doesn't lose or gain energy and Δ V = 0
+No work is done when moving along an equipotential line or surface, only between equipotential lines or surfaces
+This means that an object travelling along an equipotential doesn't lose or gain energy and Δ V = 0
+Gravitational equipotential lines in a uniform gravitational field are equally spaced
+Examiner Tips and Tricks Remember equipotential lines should not have arrows on them like gravitational field lines do, since they have no particular direction and are not vectors. Make sure to draw any straight lines with a ruler or a straight edge.
+Remember equipotential lines should not have arrows on them like gravitational field lines do, since they have no particular direction and are not vectors. Make sure to draw any straight lines with a ruler or a straight edge.

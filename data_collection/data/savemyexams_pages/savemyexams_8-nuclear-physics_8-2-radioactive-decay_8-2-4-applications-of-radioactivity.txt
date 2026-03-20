@@ -1,0 +1,88 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/8-nuclear-physics/8-2-radioactive-decay/8-2-4-applications-of-radioactivity
+HEADING: Applications of Radioactivity ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Applications of Radioactivity Radioactivity has a wide variety of uses in industry, agriculture and medicine Some of the main uses are Nuclear power In medicine e.g. radiotherapy, tracers and sterilising equipment Radiocarbon dating of archaeological artefacts Uranium-lead dating of rock samples Radioisotope power systems Radiocarbon Dating The isotope carbon-14 is commonly used in radioactive dating It forms as a result of cosmic rays knocking out neutrons from nuclei, which then collide with nitrogen nuclei in the air: All living organisms absorb carbon-14, but after they die they do not absorb any more The proportion of carbon-14 is constant in living organisms as carbon is constantly being replaced during the period they are alive When they die, the activity of carbon-14 in the organic matter starts to fall , with a half-life of around 5730 years Samples of living material can be tested by comparing the current amount of carbon-14 in them and compared to the initial amount (which is based on the current ratio of carbon-14 to carbon-12), and hence they can be dated Reliability of Carbon Dating Carbon dating is a highly reliable method for estimating the ages of samples between 500 and 60 000 years old This range can be explained by looking at the decay curve of carbon-14: Carbon-14 decay curve used for radiocarbon dating If the sample is less than 500 years old: The activity of the sample will be too high to measure small changes accurately Therefore, the ratio of carbon-14 to carbon-12 will be too high to determine an accurate age If the sample is more than 60 000 years old: The activity will be too low to distinguish between changes in the sample and background radiation Therefore, the ratio of carbon-14 to carbon-12 will be too small to determine an accurate age Uranium-Lead Dating For many years, scientists could not agree on the age of the Earth Until recently, the Earth was believed to be only millions of years old Over the last century, radiometric dating methods have enabled scientists to discover the age of the Earth is many billions of years old The most critical of these methods is uranium-lead dating Uranium atoms decay whilst the number of lead atoms increases Initially, there is only uranium in the rock, but over time, the uranium decays via a decay chain which ends with lead-206, which is a stable isotope Uranium-238 has a half-life of 4.5 billion years Over time, the ratio of lead-206 atoms to uranium-238 atoms increases The ratio of uranium to lead in a sample of rock can then be used to determine its age Uranium-238 decay chain Radioisotope Power Systems The decay of an isotope may release energy as heat Radioisotopic power systems are designed to transform this heat into electrical power Such devices have been used to power space probes and satellites Typically, plutonium-238 is used as fuel, with 1 g generating a power output of about 500 mW Worked Example A space probe uses a source containing 4.0 kg of plutonium-238. Plutonium-238 is an alpha-emitter with a half-life of 87.7 years. Each alpha decay releases 5.5 MeV per emission. The space probe converts this into electrical energy with an efficiency of 32%. The space probe can continue to operate as long as the power output is maintained at 0.4 kW or above. Estimate the time, in years, the source is expected to supply power to the space probe. Answer: Step 1: List the known quantities Mass of Pu-238 = 4.0 kg = 4000 g Molar mass of Pu-238 = 238 g mol −1 Avogadro's constant, = 6.02 × 10 23 mol −1 Half-life of Pu-238 = 87.7 years Energy released per alpha decay = 5.5 MeV 1 electronvolt (eV) = 1.6 × 10 −19 J Efficiency = 32% = 0.32 Final power output, P = 0.4 kW = 400 W Step 2: Calculate the initial number of nuclei present in the source 238 g of plutonium-238 contains 6.02 × 10 23 atoms (Avogadro's number), so in 4 kg: Number of nuclei: Initial number of nuclei: nuclei Step 3: Calculate the initial activity of the source Decay constant: Activity: Combining these gives: Initial activity: Bq Step 4: Calculate the initial power output of the source Power output: Energy released per decay: Activity represents the decays per second, so: Initial power output: W The electrical power transferred to the probe is: W Step 5: Use the exponential decay equation to calculate the time of operation The power available is proportional to the activity of the isotope, so: Exponential decay of power: years Therefore, the source is expected to supply power to the space probe for 73.3 years
+Applications of Radioactivity Radioactivity has a wide variety of uses in industry, agriculture and medicine Some of the main uses are Nuclear power In medicine e.g. radiotherapy, tracers and sterilising equipment Radiocarbon dating of archaeological artefacts Uranium-lead dating of rock samples Radioisotope power systems Radiocarbon Dating The isotope carbon-14 is commonly used in radioactive dating It forms as a result of cosmic rays knocking out neutrons from nuclei, which then collide with nitrogen nuclei in the air: All living organisms absorb carbon-14, but after they die they do not absorb any more The proportion of carbon-14 is constant in living organisms as carbon is constantly being replaced during the period they are alive When they die, the activity of carbon-14 in the organic matter starts to fall , with a half-life of around 5730 years Samples of living material can be tested by comparing the current amount of carbon-14 in them and compared to the initial amount (which is based on the current ratio of carbon-14 to carbon-12), and hence they can be dated Reliability of Carbon Dating Carbon dating is a highly reliable method for estimating the ages of samples between 500 and 60 000 years old This range can be explained by looking at the decay curve of carbon-14: Carbon-14 decay curve used for radiocarbon dating If the sample is less than 500 years old: The activity of the sample will be too high to measure small changes accurately Therefore, the ratio of carbon-14 to carbon-12 will be too high to determine an accurate age If the sample is more than 60 000 years old: The activity will be too low to distinguish between changes in the sample and background radiation Therefore, the ratio of carbon-14 to carbon-12 will be too small to determine an accurate age Uranium-Lead Dating For many years, scientists could not agree on the age of the Earth Until recently, the Earth was believed to be only millions of years old Over the last century, radiometric dating methods have enabled scientists to discover the age of the Earth is many billions of years old The most critical of these methods is uranium-lead dating Uranium atoms decay whilst the number of lead atoms increases Initially, there is only uranium in the rock, but over time, the uranium decays via a decay chain which ends with lead-206, which is a stable isotope Uranium-238 has a half-life of 4.5 billion years Over time, the ratio of lead-206 atoms to uranium-238 atoms increases The ratio of uranium to lead in a sample of rock can then be used to determine its age Uranium-238 decay chain Radioisotope Power Systems The decay of an isotope may release energy as heat Radioisotopic power systems are designed to transform this heat into electrical power Such devices have been used to power space probes and satellites Typically, plutonium-238 is used as fuel, with 1 g generating a power output of about 500 mW
+Radioactivity has a wide variety of uses in industry, agriculture and medicine
+Some of the main uses are Nuclear power In medicine e.g. radiotherapy, tracers and sterilising equipment Radiocarbon dating of archaeological artefacts Uranium-lead dating of rock samples Radioisotope power systems
+Some of the main uses are
+Nuclear power
+In medicine e.g. radiotherapy, tracers and sterilising equipment
+Radiocarbon dating of archaeological artefacts
+Uranium-lead dating of rock samples
+Radioisotope power systems
+Radiocarbon Dating
+The isotope carbon-14 is commonly used in radioactive dating
+It forms as a result of cosmic rays knocking out neutrons from nuclei, which then collide with nitrogen nuclei in the air:
+All living organisms absorb carbon-14, but after they die they do not absorb any more
+The proportion of carbon-14 is constant in living organisms as carbon is constantly being replaced during the period they are alive
+When they die, the activity of carbon-14 in the organic matter starts to fall , with a half-life of around 5730 years
+Samples of living material can be tested by comparing the current amount of carbon-14 in them and compared to the initial amount (which is based on the current ratio of carbon-14 to carbon-12), and hence they can be dated
+Reliability of Carbon Dating
+Carbon dating is a highly reliable method for estimating the ages of samples between 500 and 60 000 years old
+This range can be explained by looking at the decay curve of carbon-14:
+Carbon-14 decay curve used for radiocarbon dating
+If the sample is less than 500 years old: The activity of the sample will be too high to measure small changes accurately Therefore, the ratio of carbon-14 to carbon-12 will be too high to determine an accurate age
+If the sample is less than 500 years old:
+The activity of the sample will be too high to measure small changes accurately
+Therefore, the ratio of carbon-14 to carbon-12 will be too high to determine an accurate age
+If the sample is more than 60 000 years old: The activity will be too low to distinguish between changes in the sample and background radiation Therefore, the ratio of carbon-14 to carbon-12 will be too small to determine an accurate age
+If the sample is more than 60 000 years old:
+The activity will be too low to distinguish between changes in the sample and background radiation
+Therefore, the ratio of carbon-14 to carbon-12 will be too small to determine an accurate age
+Uranium-Lead Dating
+For many years, scientists could not agree on the age of the Earth
+Until recently, the Earth was believed to be only millions of years old
+Over the last century, radiometric dating methods have enabled scientists to discover the age of the Earth is many billions of years old
+The most critical of these methods is uranium-lead dating
+Uranium atoms decay whilst the number of lead atoms increases
+Initially, there is only uranium in the rock, but over time, the uranium decays via a decay chain which ends with lead-206, which is a stable isotope
+Uranium-238 has a half-life of 4.5 billion years
+Over time, the ratio of lead-206 atoms to uranium-238 atoms increases
+The ratio of uranium to lead in a sample of rock can then be used to determine its age
+Uranium-238 decay chain
+Radioisotope Power Systems
+The decay of an isotope may release energy as heat
+Radioisotopic power systems are designed to transform this heat into electrical power
+Such devices have been used to power space probes and satellites
+Typically, plutonium-238 is used as fuel, with 1 g generating a power output of about 500 mW
+Worked Example A space probe uses a source containing 4.0 kg of plutonium-238. Plutonium-238 is an alpha-emitter with a half-life of 87.7 years. Each alpha decay releases 5.5 MeV per emission. The space probe converts this into electrical energy with an efficiency of 32%. The space probe can continue to operate as long as the power output is maintained at 0.4 kW or above. Estimate the time, in years, the source is expected to supply power to the space probe. Answer: Step 1: List the known quantities Mass of Pu-238 = 4.0 kg = 4000 g Molar mass of Pu-238 = 238 g mol −1 Avogadro's constant, = 6.02 × 10 23 mol −1 Half-life of Pu-238 = 87.7 years Energy released per alpha decay = 5.5 MeV 1 electronvolt (eV) = 1.6 × 10 −19 J Efficiency = 32% = 0.32 Final power output, P = 0.4 kW = 400 W Step 2: Calculate the initial number of nuclei present in the source 238 g of plutonium-238 contains 6.02 × 10 23 atoms (Avogadro's number), so in 4 kg: Number of nuclei: Initial number of nuclei: nuclei Step 3: Calculate the initial activity of the source Decay constant: Activity: Combining these gives: Initial activity: Bq Step 4: Calculate the initial power output of the source Power output: Energy released per decay: Activity represents the decays per second, so: Initial power output: W The electrical power transferred to the probe is: W Step 5: Use the exponential decay equation to calculate the time of operation The power available is proportional to the activity of the isotope, so: Exponential decay of power: years Therefore, the source is expected to supply power to the space probe for 73.3 years
+Worked Example
+A space probe uses a source containing 4.0 kg of plutonium-238.
+Plutonium-238 is an alpha-emitter with a half-life of 87.7 years. Each alpha decay releases 5.5 MeV per emission. The space probe converts this into electrical energy with an efficiency of 32%.
+The space probe can continue to operate as long as the power output is maintained at 0.4 kW or above.
+Estimate the time, in years, the source is expected to supply power to the space probe.
+Answer:
+Step 1: List the known quantities
+Mass of Pu-238 = 4.0 kg = 4000 g
+Molar mass of Pu-238 = 238 g mol −1
+Avogadro's constant, = 6.02 × 10 23 mol −1
+Half-life of Pu-238 = 87.7 years
+Energy released per alpha decay = 5.5 MeV
+1 electronvolt (eV) = 1.6 × 10 −19 J
+Efficiency = 32% = 0.32
+Final power output, P = 0.4 kW = 400 W
+Step 2: Calculate the initial number of nuclei present in the source
+238 g of plutonium-238 contains 6.02 × 10 23 atoms (Avogadro's number), so in 4 kg:
+Number of nuclei:
+Initial number of nuclei: nuclei
+Step 3: Calculate the initial activity of the source
+Decay constant:
+Activity:
+Combining these gives:
+Initial activity:
+Bq
+Step 4: Calculate the initial power output of the source
+Power output:
+Energy released per decay:
+Activity represents the decays per second, so:
+Initial power output:
+W
+The electrical power transferred to the probe is:
+Step 5: Use the exponential decay equation to calculate the time of operation
+The power available is proportional to the activity of the isotope, so:
+Exponential decay of power:
+years
+Therefore, the source is expected to supply power to the space probe for 73.3 years

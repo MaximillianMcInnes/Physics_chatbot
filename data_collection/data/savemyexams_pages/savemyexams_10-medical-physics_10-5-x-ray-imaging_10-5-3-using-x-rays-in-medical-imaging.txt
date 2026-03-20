@@ -1,0 +1,101 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/10-medical-physics/10-5-x-ray-imaging/10-5-3-using-x-rays-in-medical-imaging
+HEADING: Using X-rays in Medical Imaging ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Using X-rays in Medical Imaging X-ray imaging has become a highly developed technique which enables physicians to produce detailed images of bones, soft tissues and even blood vessels When treating patients, the main aims of X-ray imaging are to: Reduce the patient's exposure to radiation as much as possible Improve the contrast of the image Reducing Exposure X-rays are ionising , meaning they can cause damage to living tissue and can potentially lead to cancerous mutations Therefore, healthcare professionals must ensure patients receive the minimum radiation dosage possible The X-ray dose given to a patient depends on The exposure time The intensity of the beam X-ray equipment is designed to reduce exposure and minimise the risk to the patient by Controlling the intensity of the X-ray beam Using a beam definer Using a metal filter Using sensitive detection methods Controlling the intensity of the X-ray beam The anode p.d. controls the maximum energy of the X-ray photons from an X-ray tube The higher the anode p.d., the shorter the wavelength and hence, the higher the energy of the X-ray photons Shorter wavelengths of X-ray (high energy photons) are more penetrating, therefore, they are less likely to be absorbed by the body The cathode current controls the intensity of the X-ray beam The higher the cathode current, the more electrons that are emitted by thermionic emission If more electrons reach the anode each second, then more X-ray photons are emitted per second To minimise the exposure to the patient, the beam intensity should be reduced by lowering the cathode current This minimises the risk to the patient by reducing the number of ionising photons passing through the patient each second Beam definers A beam definer, or lead diaphragm plate, consists of two pairs of lead sheets with a narrow aperture in the centre which is placed close to the X-ray tube (where the X-rays are emitted) Lead diaphragm plates minimise the exposure to the patient by producing a focused ( collimated ) beam This is necessary because: Photons are emitted by the X-ray tube in many directions The lead plates absorb the scattered photons and the aperture allows X-rays travelling in a specific direction to pass through This minimises the risk to the patient because the narrow beam is used to investigate a specific area of the body only Therefore, the areas of the body not being scanned are not exposed to ionising photons Metal filters A metal filter is a thin sheet of metal, usually aluminium, which is placed in the path of the beam between the X-ray tube and the patient Aluminium filters minimise the exposure to the patient by reducing the intensity of low-energy X-rays This is necessary because: Many wavelengths of X-ray are emitted by the X-ray tube Longer wavelengths of X-ray (low energy photons) are less penetrating, therefore, they are more likely to be absorbed by the body As a result, an aluminium filter minimises the risk to the patient because it reduces the amount of ionising photons which the body could absorb This happens because the aluminium sheet: Absorbs a large percentage of the low-energy photons (which are not needed to produce an image) Allows the high-energy photons to pass straight through Sensitive detection methods The exposure time can be reduced by using a more sensitive X-ray detector , by Using an electronic detector instead of photographic detection Intensifying the image Contrast & Sharpness Contrast is defined as: The difference in degree of blackening between structures Contrast allows a clear difference between tissues to be seen Image contrast can be improved by: Using the correct level of X-ray hardness : hard X-rays for bones, soft X-rays for tissue Using a contrast media Sharpness is defined as: How well-defined the edges of structures are Image sharpness can be improved by: Using a narrower X-ray beam Reducing X-ray scattering by using a collimator or lead grid Smaller pixel size Contrast Enhancement A contrast medium is defined as: A substance, such as barium or iodine, which is a good absorber of X-rays. A patient is given this so a bigger contrast can be obtained on an X-ray image The use of a contrast medium is sometimes required because: Some soft tissue organs do not show up on X-rays when the organs have similar attenuation coefficients Contrast media are good absorbers of X-rays as they have a large attenuation coefficient Hence when contrast media enter an organ, the X-ray image is enhanced as the substance is opaque to X-rays Barium and iodine are used depending on the organ being imaged Iodine is used as a contrast medium in liquids i.e. to observe blood flow - this is usually injected into the patient Barium sulphate is used as a contrast medium in the digestive system - this is usually ingested by mouth and is known as a barium meal The large attenuation coefﬁcient of contrast materials is due to the large atomic number of these elements Barium has an atomic number of 56, while iodine has an atomic number of 53 Using iodine as a contrast medium Iodine makes liquids, such as blood, opaque to X-rays and improves the contrast of the X-ray image Using a barium meal as a contrast medium Barium makes intestines opaque to X-rays and improves the contrast of the X-ray image
+Using X-rays in Medical Imaging X-ray imaging has become a highly developed technique which enables physicians to produce detailed images of bones, soft tissues and even blood vessels When treating patients, the main aims of X-ray imaging are to: Reduce the patient's exposure to radiation as much as possible Improve the contrast of the image Reducing Exposure X-rays are ionising , meaning they can cause damage to living tissue and can potentially lead to cancerous mutations Therefore, healthcare professionals must ensure patients receive the minimum radiation dosage possible The X-ray dose given to a patient depends on The exposure time The intensity of the beam X-ray equipment is designed to reduce exposure and minimise the risk to the patient by Controlling the intensity of the X-ray beam Using a beam definer Using a metal filter Using sensitive detection methods Controlling the intensity of the X-ray beam The anode p.d. controls the maximum energy of the X-ray photons from an X-ray tube The higher the anode p.d., the shorter the wavelength and hence, the higher the energy of the X-ray photons Shorter wavelengths of X-ray (high energy photons) are more penetrating, therefore, they are less likely to be absorbed by the body The cathode current controls the intensity of the X-ray beam The higher the cathode current, the more electrons that are emitted by thermionic emission If more electrons reach the anode each second, then more X-ray photons are emitted per second To minimise the exposure to the patient, the beam intensity should be reduced by lowering the cathode current This minimises the risk to the patient by reducing the number of ionising photons passing through the patient each second Beam definers A beam definer, or lead diaphragm plate, consists of two pairs of lead sheets with a narrow aperture in the centre which is placed close to the X-ray tube (where the X-rays are emitted) Lead diaphragm plates minimise the exposure to the patient by producing a focused ( collimated ) beam This is necessary because: Photons are emitted by the X-ray tube in many directions The lead plates absorb the scattered photons and the aperture allows X-rays travelling in a specific direction to pass through This minimises the risk to the patient because the narrow beam is used to investigate a specific area of the body only Therefore, the areas of the body not being scanned are not exposed to ionising photons Metal filters A metal filter is a thin sheet of metal, usually aluminium, which is placed in the path of the beam between the X-ray tube and the patient Aluminium filters minimise the exposure to the patient by reducing the intensity of low-energy X-rays This is necessary because: Many wavelengths of X-ray are emitted by the X-ray tube Longer wavelengths of X-ray (low energy photons) are less penetrating, therefore, they are more likely to be absorbed by the body As a result, an aluminium filter minimises the risk to the patient because it reduces the amount of ionising photons which the body could absorb This happens because the aluminium sheet: Absorbs a large percentage of the low-energy photons (which are not needed to produce an image) Allows the high-energy photons to pass straight through Sensitive detection methods The exposure time can be reduced by using a more sensitive X-ray detector , by Using an electronic detector instead of photographic detection Intensifying the image Contrast & Sharpness Contrast is defined as: The difference in degree of blackening between structures Contrast allows a clear difference between tissues to be seen Image contrast can be improved by: Using the correct level of X-ray hardness : hard X-rays for bones, soft X-rays for tissue Using a contrast media Sharpness is defined as: How well-defined the edges of structures are Image sharpness can be improved by: Using a narrower X-ray beam Reducing X-ray scattering by using a collimator or lead grid Smaller pixel size
+X-ray imaging has become a highly developed technique which enables physicians to produce detailed images of bones, soft tissues and even blood vessels
+When treating patients, the main aims of X-ray imaging are to: Reduce the patient's exposure to radiation as much as possible Improve the contrast of the image
+When treating patients, the main aims of X-ray imaging are to:
+Reduce the patient's exposure to radiation as much as possible
+Improve the contrast of the image
+Reducing Exposure
+X-rays are ionising , meaning they can cause damage to living tissue and can potentially lead to cancerous mutations
+Therefore, healthcare professionals must ensure patients receive the minimum radiation dosage possible
+The X-ray dose given to a patient depends on The exposure time The intensity of the beam
+The X-ray dose given to a patient depends on
+The exposure time
+The intensity of the beam
+X-ray equipment is designed to reduce exposure and minimise the risk to the patient by Controlling the intensity of the X-ray beam Using a beam definer Using a metal filter Using sensitive detection methods
+X-ray equipment is designed to reduce exposure and minimise the risk to the patient by
+Controlling the intensity of the X-ray beam
+Using a beam definer
+Using a metal filter
+Using sensitive detection methods
+The anode p.d. controls the maximum energy of the X-ray photons from an X-ray tube The higher the anode p.d., the shorter the wavelength and hence, the higher the energy of the X-ray photons Shorter wavelengths of X-ray (high energy photons) are more penetrating, therefore, they are less likely to be absorbed by the body
+The anode p.d. controls the maximum energy of the X-ray photons from an X-ray tube
+The higher the anode p.d., the shorter the wavelength and hence, the higher the energy of the X-ray photons
+Shorter wavelengths of X-ray (high energy photons) are more penetrating, therefore, they are less likely to be absorbed by the body
+The cathode current controls the intensity of the X-ray beam The higher the cathode current, the more electrons that are emitted by thermionic emission If more electrons reach the anode each second, then more X-ray photons are emitted per second
+The cathode current controls the intensity of the X-ray beam
+The higher the cathode current, the more electrons that are emitted by thermionic emission
+If more electrons reach the anode each second, then more X-ray photons are emitted per second
+To minimise the exposure to the patient, the beam intensity should be reduced by lowering the cathode current
+This minimises the risk to the patient by reducing the number of ionising photons passing through the patient each second
+Beam definers
+A beam definer, or lead diaphragm plate, consists of two pairs of lead sheets with a narrow aperture in the centre which is placed close to the X-ray tube (where the X-rays are emitted)
+Lead diaphragm plates minimise the exposure to the patient by producing a focused ( collimated ) beam
+collimated
+This is necessary because: Photons are emitted by the X-ray tube in many directions The lead plates absorb the scattered photons and the aperture allows X-rays travelling in a specific direction to pass through
+This is necessary because:
+Photons are emitted by the X-ray tube in many directions
+The lead plates absorb the scattered photons and the aperture allows X-rays travelling in a specific direction to pass through
+This minimises the risk to the patient because the narrow beam is used to investigate a specific area of the body only
+Therefore, the areas of the body not being scanned are not exposed to ionising photons
+Metal filters
+A metal filter is a thin sheet of metal, usually aluminium, which is placed in the path of the beam between the X-ray tube and the patient
+Aluminium filters minimise the exposure to the patient by reducing the intensity of low-energy X-rays
+This is necessary because: Many wavelengths of X-ray are emitted by the X-ray tube Longer wavelengths of X-ray (low energy photons) are less penetrating, therefore, they are more likely to be absorbed by the body
+Many wavelengths of X-ray are emitted by the X-ray tube
+Longer wavelengths of X-ray (low energy photons) are less penetrating, therefore, they are more likely to be absorbed by the body
+As a result, an aluminium filter minimises the risk to the patient because it reduces the amount of ionising photons which the body could absorb
+This happens because the aluminium sheet: Absorbs a large percentage of the low-energy photons (which are not needed to produce an image) Allows the high-energy photons to pass straight through
+This happens because the aluminium sheet:
+Absorbs a large percentage of the low-energy photons (which are not needed to produce an image)
+Allows the high-energy photons to pass straight through
+Sensitive detection methods
+The exposure time can be reduced by using a more sensitive X-ray detector , by Using an electronic detector instead of photographic detection Intensifying the image
+The exposure time can be reduced by using a more sensitive X-ray detector , by
+Using an electronic detector instead of photographic detection
+Intensifying the image
+Contrast & Sharpness
+Contrast is defined as: The difference in degree of blackening between structures
+Contrast is defined as:
+The difference in degree of blackening between structures
+Contrast allows a clear difference between tissues to be seen
+Image contrast can be improved by: Using the correct level of X-ray hardness : hard X-rays for bones, soft X-rays for tissue Using a contrast media
+Image contrast can be improved by:
+Using the correct level of X-ray hardness : hard X-rays for bones, soft X-rays for tissue
+X-ray hardness
+Using a contrast media
+contrast media
+Sharpness is defined as: How well-defined the edges of structures are
+Sharpness is defined as:
+How well-defined the edges of structures are
+Image sharpness can be improved by: Using a narrower X-ray beam Reducing X-ray scattering by using a collimator or lead grid Smaller pixel size
+Image sharpness can be improved by:
+Using a narrower X-ray beam
+Reducing X-ray scattering by using a collimator or lead grid
+Smaller pixel size
+Contrast Enhancement A contrast medium is defined as: A substance, such as barium or iodine, which is a good absorber of X-rays. A patient is given this so a bigger contrast can be obtained on an X-ray image The use of a contrast medium is sometimes required because: Some soft tissue organs do not show up on X-rays when the organs have similar attenuation coefficients Contrast media are good absorbers of X-rays as they have a large attenuation coefficient Hence when contrast media enter an organ, the X-ray image is enhanced as the substance is opaque to X-rays Barium and iodine are used depending on the organ being imaged Iodine is used as a contrast medium in liquids i.e. to observe blood flow - this is usually injected into the patient Barium sulphate is used as a contrast medium in the digestive system - this is usually ingested by mouth and is known as a barium meal The large attenuation coefﬁcient of contrast materials is due to the large atomic number of these elements Barium has an atomic number of 56, while iodine has an atomic number of 53 Using iodine as a contrast medium Iodine makes liquids, such as blood, opaque to X-rays and improves the contrast of the X-ray image Using a barium meal as a contrast medium Barium makes intestines opaque to X-rays and improves the contrast of the X-ray image
+Contrast Enhancement
+A contrast medium is defined as: A substance, such as barium or iodine, which is a good absorber of X-rays. A patient is given this so a bigger contrast can be obtained on an X-ray image
+A contrast medium is defined as:
+A substance, such as barium or iodine, which is a good absorber of X-rays. A patient is given this so a bigger contrast can be obtained on an X-ray image
+The use of a contrast medium is sometimes required because: Some soft tissue organs do not show up on X-rays when the organs have similar attenuation coefficients Contrast media are good absorbers of X-rays as they have a large attenuation coefficient Hence when contrast media enter an organ, the X-ray image is enhanced as the substance is opaque to X-rays
+The use of a contrast medium is sometimes required because:
+Some soft tissue organs do not show up on X-rays when the organs have similar attenuation coefficients
+Contrast media are good absorbers of X-rays as they have a large attenuation coefficient
+Hence when contrast media enter an organ, the X-ray image is enhanced as the substance is opaque to X-rays
+Barium and iodine are used depending on the organ being imaged Iodine is used as a contrast medium in liquids i.e. to observe blood flow - this is usually injected into the patient Barium sulphate is used as a contrast medium in the digestive system - this is usually ingested by mouth and is known as a barium meal
+Barium and iodine are used depending on the organ being imaged
+Iodine is used as a contrast medium in liquids i.e. to observe blood flow - this is usually injected into the patient
+Barium sulphate is used as a contrast medium in the digestive system - this is usually ingested by mouth and is known as a barium meal
+The large attenuation coefﬁcient of contrast materials is due to the large atomic number of these elements Barium has an atomic number of 56, while iodine has an atomic number of 53
+The large attenuation coefﬁcient of contrast materials is due to the large atomic number of these elements
+Barium has an atomic number of 56, while iodine has an atomic number of 53
+Using iodine as a contrast medium
+Iodine makes liquids, such as blood, opaque to X-rays and improves the contrast of the X-ray image
+Using a barium meal as a contrast medium
+Barium makes intestines opaque to X-rays and improves the contrast of the X-ray image

@@ -1,0 +1,32 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-1-circular-motion/6-1-1-circular-motion
+HEADING: Circular Motion ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Circular Motion Velocity and acceleration are both vector quantities An object in uniform circular motion has a constant linear speed However, it is continuously changing direction. Since velocity is the speed in a given direction, it, therefore, has a constantly changing velocity The object therefore must be accelerating This is because acceleration is defined as the rate of change of velocity This acceleration is called the centripetal acceleration and is perpendicular to the direction of the linear speed Centripetal means it acts towards the centre of the circular path Centripetal force and acceleration are always directed towards the centre of the circle The centripetal acceleration is caused by a centripetal force of constant magnitude that also acts perpendicular to the direction of motion (towards the centre) This is a result of Newton's Second Law Therefore, the centripetal acceleration and force act in the same direction Examiner Tips and Tricks The linear speed is sometimes referred to as the ‘tangential’ speed A tangent is a straight line which touches a circle or curve at exactly one point The key feature of a tangent of a circle is that it always acts perpendicular to its radius You can find out more in the A Level Maths revision notes on Tangents
+Circular Motion Velocity and acceleration are both vector quantities An object in uniform circular motion has a constant linear speed However, it is continuously changing direction. Since velocity is the speed in a given direction, it, therefore, has a constantly changing velocity The object therefore must be accelerating This is because acceleration is defined as the rate of change of velocity This acceleration is called the centripetal acceleration and is perpendicular to the direction of the linear speed Centripetal means it acts towards the centre of the circular path Centripetal force and acceleration are always directed towards the centre of the circle The centripetal acceleration is caused by a centripetal force of constant magnitude that also acts perpendicular to the direction of motion (towards the centre) This is a result of Newton's Second Law Therefore, the centripetal acceleration and force act in the same direction
+Velocity and acceleration are both vector quantities
+Velocity
+acceleration
+vector
+An object in uniform circular motion has a constant linear speed
+uniform circular motion
+However, it is continuously changing direction. Since velocity is the speed in a given direction, it, therefore, has a constantly changing velocity The object therefore must be accelerating This is because acceleration is defined as the rate of change of velocity
+However, it is continuously changing direction. Since velocity is the speed in a given direction, it, therefore, has a constantly changing velocity
+The object therefore must be accelerating
+This is because acceleration is defined as the rate of change of velocity
+This acceleration is called the centripetal acceleration and is perpendicular to the direction of the linear speed Centripetal means it acts towards the centre of the circular path
+This acceleration is called the centripetal acceleration and is perpendicular to the direction of the linear speed
+Centripetal means it acts towards the centre of the circular path
+Centripetal force and acceleration are always directed towards the centre of the circle
+The centripetal acceleration is caused by a centripetal force of constant magnitude that also acts perpendicular to the direction of motion (towards the centre) This is a result of Newton's Second Law
+The centripetal acceleration is caused by a centripetal force of constant magnitude that also acts perpendicular to the direction of motion (towards the centre)
+This is a result of Newton's Second Law
+Newton's Second Law
+Therefore, the centripetal acceleration and force act in the same direction
+Examiner Tips and Tricks The linear speed is sometimes referred to as the ‘tangential’ speed A tangent is a straight line which touches a circle or curve at exactly one point The key feature of a tangent of a circle is that it always acts perpendicular to its radius You can find out more in the A Level Maths revision notes on Tangents
+Examiner Tips and Tricks
+The linear speed is sometimes referred to as the ‘tangential’ speed
+A tangent is a straight line which touches a circle or curve at exactly one point
+The key feature of a tangent of a circle is that it always acts perpendicular to its radius
+You can find out more in the A Level Maths revision notes on Tangents

@@ -1,0 +1,75 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-1-rotational-dynamics/11-1-4-moment-of-inertia
+HEADING: Moment of Inertia ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Moment of Inertia In linear motion, the resistance to a change of motion, i.e. linear acceleration, is known as inertia The larger the mass an object has, the greater its inertia In rotational motion, the distribution of mass around an axis must be considered, using moments of inertia This is the rotational equivalent of mass The moment of inertia of a rigid , extended body is defined as: The resistance to a change of rotational motion, depending on the distribution of mass around a chosen axis of rotation Moment of inertia is measured in kg m 2 The moment of inertia of a body corresponds to how 'easy' or 'hard' it is to rotate, and this is dependent on many factors, including The total mass ( m ) How the mass is distributed about the axis of rotation ( r ) For example, consider a springboard diver jumping off a board and doing a flip The diver tucks their legs closer to their chest, decreasing their moment of inertia During the tuck, the diver's mass is distributed over a smaller distance, making it easier for them to complete somersaults mid-air The change in the moment of inertia of a diver The distance from the axis of rotation changes as the diver curls up and straightens out again This also means that the moment of inertia of a singular object can change depending on its orientation in relation to the chosen axis of rotation For example, the moment of inertia of a thin rod is different for each of the following orientations: Rotation about its vertical axis Rotation about its centre of mass Rotation about one end Moments of inertia of a thin rod in different orientations The moment of inertia of a body can change depending on its orientation relative to the axis of rotation These are just a few of the possible orientations of the axis of rotation for a thin rod There is an infinite range of possible axes, and therefore an infinite possible set of values for the moments of inertia This also applies to nearly all rigid, extended objects that could be considered Calculating Moments of Inertia The moment of inertia of a point mass is equal to Where: = moment of inertia (kg m 2 ) m = mass of the object (kg) r = distance from its axis of rotation (m) The moment of inertia for an extended object about an axis is defined as the summation of the mass × radius 2 for all the particles that make up the body This gives the total moment of inertia of the system Worked Example Two solid spheres form a dumbbell when attached to each end of a thin rod. The dumbbell rotates with the centre of mass of each sphere at a distance of 22 cm from the axis of rotation, as shown in the diagram. The thin rod has a mass of 20 g. Each sphere has a radius of 4 cm and a mass of 750 g. Moment of inertia of a thin rod about its centre = Moment of inertia of a solid sphere = Determine (a) the overall moment of inertia of the dumbbell arrangement (b) the ratio of the moment of inertia of the thin rod to the overall moment of inertia of the dumbbell arrangement Answer: Part (a) The overall moment of inertia of the dumbbell is the sum of all the moments of inertia in the arrangement Where: Mass of a sphere, = 750 g = 0.75 kg Distance from axis to each sphere, = 22 cm = 0.22 m Mass of the rod, = 20 g = 0.02 kg Length of the rod, = 2 × (22 − 4) = 36 cm = 0.36 m Moment of inertia of the dumbbell: = 0.029 kg m 2 Part (b) The moment of inertia of the thin rod is Therefore, the ratio is This means the rod contributes about 0.7% of the overall moment of inertia of the dumbbell Examiner Tips and Tricks You will never be expected to memorise the moments of inertia of different shapes, they will always be given in an exam question where required
+Moment of Inertia In linear motion, the resistance to a change of motion, i.e. linear acceleration, is known as inertia The larger the mass an object has, the greater its inertia In rotational motion, the distribution of mass around an axis must be considered, using moments of inertia This is the rotational equivalent of mass The moment of inertia of a rigid , extended body is defined as: The resistance to a change of rotational motion, depending on the distribution of mass around a chosen axis of rotation Moment of inertia is measured in kg m 2 The moment of inertia of a body corresponds to how 'easy' or 'hard' it is to rotate, and this is dependent on many factors, including The total mass ( m ) How the mass is distributed about the axis of rotation ( r ) For example, consider a springboard diver jumping off a board and doing a flip The diver tucks their legs closer to their chest, decreasing their moment of inertia During the tuck, the diver's mass is distributed over a smaller distance, making it easier for them to complete somersaults mid-air The change in the moment of inertia of a diver The distance from the axis of rotation changes as the diver curls up and straightens out again This also means that the moment of inertia of a singular object can change depending on its orientation in relation to the chosen axis of rotation For example, the moment of inertia of a thin rod is different for each of the following orientations: Rotation about its vertical axis Rotation about its centre of mass Rotation about one end Moments of inertia of a thin rod in different orientations The moment of inertia of a body can change depending on its orientation relative to the axis of rotation These are just a few of the possible orientations of the axis of rotation for a thin rod There is an infinite range of possible axes, and therefore an infinite possible set of values for the moments of inertia This also applies to nearly all rigid, extended objects that could be considered
+In linear motion, the resistance to a change of motion, i.e. linear acceleration, is known as inertia The larger the mass an object has, the greater its inertia
+In linear motion, the resistance to a change of motion, i.e. linear acceleration, is known as inertia
+The larger the mass an object has, the greater its inertia
+In rotational motion, the distribution of mass around an axis must be considered, using moments of inertia This is the rotational equivalent of mass
+In rotational motion, the distribution of mass around an axis must be considered, using moments of inertia
+This is the rotational equivalent of mass
+The moment of inertia of a rigid , extended body is defined as:
+rigid
+extended
+The resistance to a change of rotational motion, depending on the distribution of mass around a chosen axis of rotation
+Moment of inertia is measured in kg m 2
+The moment of inertia of a body corresponds to how 'easy' or 'hard' it is to rotate, and this is dependent on many factors, including The total mass ( m ) How the mass is distributed about the axis of rotation ( r )
+The moment of inertia of a body corresponds to how 'easy' or 'hard' it is to rotate, and this is dependent on many factors, including
+The total mass ( m )
+How the mass is distributed about the axis of rotation ( r )
+For example, consider a springboard diver jumping off a board and doing a flip The diver tucks their legs closer to their chest, decreasing their moment of inertia During the tuck, the diver's mass is distributed over a smaller distance, making it easier for them to complete somersaults mid-air
+For example, consider a springboard diver jumping off a board and doing a flip
+The diver tucks their legs closer to their chest, decreasing their moment of inertia
+During the tuck, the diver's mass is distributed over a smaller distance, making it easier for them to complete somersaults mid-air
+The change in the moment of inertia of a diver
+The distance from the axis of rotation changes as the diver curls up and straightens out again
+This also means that the moment of inertia of a singular object can change depending on its orientation in relation to the chosen axis of rotation
+For example, the moment of inertia of a thin rod is different for each of the following orientations: Rotation about its vertical axis Rotation about its centre of mass Rotation about one end
+For example, the moment of inertia of a thin rod is different for each of the following orientations:
+Rotation about its vertical axis
+Rotation about its centre of mass
+Rotation about one end
+Moments of inertia of a thin rod in different orientations
+The moment of inertia of a body can change depending on its orientation relative to the axis of rotation
+These are just a few of the possible orientations of the axis of rotation for a thin rod There is an infinite range of possible axes, and therefore an infinite possible set of values for the moments of inertia This also applies to nearly all rigid, extended objects that could be considered
+These are just a few of the possible orientations of the axis of rotation for a thin rod
+There is an infinite range of possible axes, and therefore an infinite possible set of values for the moments of inertia
+This also applies to nearly all rigid, extended objects that could be considered
+Calculating Moments of Inertia The moment of inertia of a point mass is equal to Where: = moment of inertia (kg m 2 ) m = mass of the object (kg) r = distance from its axis of rotation (m) The moment of inertia for an extended object about an axis is defined as the summation of the mass × radius 2 for all the particles that make up the body This gives the total moment of inertia of the system
+Calculating Moments of Inertia
+The moment of inertia of a point mass is equal to
+Where: = moment of inertia (kg m 2 ) m = mass of the object (kg) r = distance from its axis of rotation (m)
+Where:
+= moment of inertia (kg m 2 )
+m = mass of the object (kg)
+r = distance from its axis of rotation (m)
+The moment of inertia for an extended object about an axis is defined as the summation of the mass × radius 2 for all the particles that make up the body
+This gives the total moment of inertia of the system
+Worked Example Two solid spheres form a dumbbell when attached to each end of a thin rod. The dumbbell rotates with the centre of mass of each sphere at a distance of 22 cm from the axis of rotation, as shown in the diagram. The thin rod has a mass of 20 g. Each sphere has a radius of 4 cm and a mass of 750 g. Moment of inertia of a thin rod about its centre = Moment of inertia of a solid sphere = Determine (a) the overall moment of inertia of the dumbbell arrangement (b) the ratio of the moment of inertia of the thin rod to the overall moment of inertia of the dumbbell arrangement Answer: Part (a) The overall moment of inertia of the dumbbell is the sum of all the moments of inertia in the arrangement Where: Mass of a sphere, = 750 g = 0.75 kg Distance from axis to each sphere, = 22 cm = 0.22 m Mass of the rod, = 20 g = 0.02 kg Length of the rod, = 2 × (22 − 4) = 36 cm = 0.36 m Moment of inertia of the dumbbell: = 0.029 kg m 2 Part (b) The moment of inertia of the thin rod is Therefore, the ratio is This means the rod contributes about 0.7% of the overall moment of inertia of the dumbbell
+Worked Example
+Two solid spheres form a dumbbell when attached to each end of a thin rod. The dumbbell rotates with the centre of mass of each sphere at a distance of 22 cm from the axis of rotation, as shown in the diagram.
+The thin rod has a mass of 20 g. Each sphere has a radius of 4 cm and a mass of 750 g.
+Moment of inertia of a thin rod about its centre =
+Moment of inertia of a solid sphere =
+Determine
+(a) the overall moment of inertia of the dumbbell arrangement
+(b) the ratio of the moment of inertia of the thin rod to the overall moment of inertia of the dumbbell arrangement
+Answer:
+Part (a)
+The overall moment of inertia of the dumbbell is the sum of all the moments of inertia in the arrangement
+Where: Mass of a sphere, = 750 g = 0.75 kg Distance from axis to each sphere, = 22 cm = 0.22 m Mass of the rod, = 20 g = 0.02 kg Length of the rod, = 2 × (22 − 4) = 36 cm = 0.36 m
+Mass of a sphere, = 750 g = 0.75 kg
+Distance from axis to each sphere, = 22 cm = 0.22 m
+Mass of the rod, = 20 g = 0.02 kg
+Length of the rod, = 2 × (22 − 4) = 36 cm = 0.36 m
+Moment of inertia of the dumbbell: = 0.029 kg m 2
+Part (b)
+The moment of inertia of the thin rod is
+Therefore, the ratio is
+This means the rod contributes about 0.7% of the overall moment of inertia of the dumbbell
+Examiner Tips and Tricks You will never be expected to memorise the moments of inertia of different shapes, they will always be given in an exam question where required
+Examiner Tips and Tricks
+You will never be expected to memorise the moments of inertia of different shapes, they will always be given in an exam question where required

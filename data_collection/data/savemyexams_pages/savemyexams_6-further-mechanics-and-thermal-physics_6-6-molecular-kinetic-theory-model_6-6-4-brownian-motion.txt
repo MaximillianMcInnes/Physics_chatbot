@@ -1,0 +1,29 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-6-molecular-kinetic-theory-model/6-6-4-brownian-motion
+HEADING: Brownian Motion ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Brownian Motion Brownian motion of particles is the phenomenon when: Small particles (such as pollen or smoke particles) suspended in a liquid or gas are observed to move around in a random, erratic fashion Brownian motion is the erratic motion of small particles when observed through a microscope Brownian motion: can be observed under a microscope provides evidence for the existence of atoms in a gas or liquid The particles are said to be in random motion, which means that they have: a range of speeds no preferred direction of movement The observable particles in Brownian motion are significantly bigger than the molecules that cause the motion In most cases, these were observed as smoke particles in air The air particles cause the observable motion of the smoke particles that we see This means that the air particles were small and light, and the smoke particles were large and heavy The collisions cause larger particles to change their speed and direction randomly This effect provides important evidence concerning the behaviour of molecules and atoms in a gas, especially the concept of pressure The atoms are able to affect the larger particles in this way because: they are travelling at a speed much higher than the larger particles they have a lot of momentum, which they transfer to the larger particles when they collide
+Brownian motion of particles is the phenomenon when:
+Small particles (such as pollen or smoke particles) suspended in a liquid or gas are observed to move around in a random, erratic fashion
+Brownian motion is the erratic motion of small particles when observed through a microscope
+Brownian motion: can be observed under a microscope provides evidence for the existence of atoms in a gas or liquid
+Brownian motion:
+can be observed under a microscope
+provides evidence for the existence of atoms in a gas or liquid
+The particles are said to be in random motion, which means that they have: a range of speeds no preferred direction of movement
+The particles are said to be in random motion, which means that they have:
+a range of speeds
+no preferred direction of movement
+The observable particles in Brownian motion are significantly bigger than the molecules that cause the motion In most cases, these were observed as smoke particles in air The air particles cause the observable motion of the smoke particles that we see This means that the air particles were small and light, and the smoke particles were large and heavy
+The observable particles in Brownian motion are significantly bigger than the molecules that cause the motion
+In most cases, these were observed as smoke particles in air
+The air particles cause the observable motion of the smoke particles that we see
+This means that the air particles were small and light, and the smoke particles were large and heavy
+The collisions cause larger particles to change their speed and direction randomly This effect provides important evidence concerning the behaviour of molecules and atoms in a gas, especially the concept of pressure
+The collisions cause larger particles to change their speed and direction randomly
+This effect provides important evidence concerning the behaviour of molecules and atoms in a gas, especially the concept of pressure
+The atoms are able to affect the larger particles in this way because: they are travelling at a speed much higher than the larger particles they have a lot of momentum, which they transfer to the larger particles when they collide
+The atoms are able to affect the larger particles in this way because:
+they are travelling at a speed much higher than the larger particles
+they have a lot of momentum, which they transfer to the larger particles when they collide

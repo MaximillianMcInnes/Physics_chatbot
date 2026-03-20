@@ -1,0 +1,115 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/6-further-mechanics-and-thermal-physics/6-5-ideal-gases/6-5-2-gas-laws
+HEADING: Gas Laws ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Ideal Gas Laws The ideal gas laws are the experimental relationships between pressure ( P ), volume ( V ) and temperature ( T ) of an ideal gas You need to be able to explain the following three ideal gas laws: Boyles Law Charles's Law Pressure Law The mass and the number of molecules of the gas is assumed to be constant for all of these Boyle’s Law If the temperature T of an ideal gas is constant, then Boyle’s Law is given by: This means the pressure is inversely proportional to the volume of a gas The relationship between the pressure and volume for a fixed mass of gas at constant temperature can also be written as: P 1 V 1 = P 2 V 2 Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) V 1 = initial volume (m 3 ) V 2 = final volume (m 3 ) Boyle's Law graph representing pressure inversely proportional to volume If the temperature is higher but still constant, then the graph has the same shape but is shifted further above the origin Charles's Law If the pressure P of an ideal gas is constant, then Charles’s law is given by: V ∝ T This means the volume is directly proportional to the temperature of a gas The relationship between the volume and thermodynamic temperature for a fixed mass of gas at constant pressure can also be written as: Where: V 1 = initial volume (m 3 ) V 2 = final volume (m 3 ) T 1 = initial temperature (K) T 2 = final temperature (K) Charles's Law graph representing temperature (in K) directly proportional to the volume A straight line through the origin shows direct proportionality Pressure Law If the volume V of an ideal gas is constant, the Pressure law is given by: P ∝ T This means the pressure is proportional to the temperature The relationship between the pressure and thermodynamic temperature for a fixed mass of gas at constant volume can also be written as: Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) T 1 = initial temperature (K) T 2 = final temperature (K) Pressure Law graph representing temperature (in K) directly proportional to the volume A straight line through the origin shows direct proportionality between pressure and temperature in kelvin Worked Example The pressure inside a bicycle tyre is 5.10 × 10 5 Pa when the temperature is 279 K. After the bicycle has been ridden, the temperature of the air in the tyre is 299 K. Calculate the new pressure in the tyre, assuming the volume is unchanged. Answer: Step 1: List the known quantities Initial pressure, Initial temperature, Final temperature, Step 2: Write out the relevant equation Step 3: Rearrange to make the subject Multiply both sides by Step 4: Substitute in the known values to calculate Step 5: Round to an appropriate amount of significant figures The least precise input value is 3 s.f. Therefore, the answer can only be given to this level of precision Examiner Tips and Tricks Remember when using any ideal gas law, including the ideal gas equation, the temperature T must always be in kelvin (K). For Charles' Law, for example, if the x axis is temperature in degrees Celsius, not kelvin, the straight line no longer passes through the origin. 0 K is −273 °C so the line passes through the x axis at this value: Relationships Between Pressure, Volume & Temperature An ideal gas is one that obeys the relation: pV ∝ T Where: p = pressure of the gas (Pa) V = volume of the gas (m 3 ) T = thermodynamic temperature (K) The molecules in a gas move around randomly at high speeds, colliding with surfaces and exerting pressure upon them Gas molecules move about randomly at high speeds Imagine molecules of gas free to move around in a box The temperature of a gas is related to the average speed of the molecules: The hotter the gas, the faster the molecules move Hence the molecules collide with the surface of the walls more frequently Since force is the rate of change of momentum : Each collision applies a force across the surface area of the walls The faster the molecules hit the walls, the greater the force on them Since pressure is the force per unit area Higher temperature leads to higher pressure If the volume V of the box decreases, and the temperature T stays constant : There will be a smaller surface area of the walls and hence more collisions This also creates more pressure Since this equates to a greater force per unit area, pressure in an ideal gas is therefore defined by: The frequency of collisions of the gas molecules per unit area of a container Molecular model of the three ideal gas laws Worked Example An ideal gas is in a container of volume 4.5 × 10 -3 m 3 .The gas is at a temperature of 30 °C and a pressure of 6.2 × 10 5 Pa. Calculate the pressure of the ideal gas in the same container when it is heated to 40 °C. Answer: Step 1: Ideal gas relation between pressure, volume and temperature pV ∝ T Step 2: Write the equation in full pV = kT Where k = the constant of proportionality Step 3: Rearrange for the constant of proportionality Step 4: Convert temperature T into Kelvin θ °C + 273.15 = T K 30 °C + 273.15 = 303.15 K Step 5: Substitute in known value into constant of proportionality equation Step 6: Rearrange ideal gas relation equation for pressure Step 7: Substitute in new values k = 9.203... V stays the same = 4.5 × 10 -3 m 3 T = 40 °C = 40 + 273.15 = 313.15 K Examiner Tips and Tricks Don’t round too early in your working out! In the worked example, the unrounded value of k is represented by “…” to show its full value is to be carried over to the next step of the calculation. On your calculator, this can be done by using the “ans” button instead of typing in the whole number.
+Ideal Gas Laws The ideal gas laws are the experimental relationships between pressure ( P ), volume ( V ) and temperature ( T ) of an ideal gas You need to be able to explain the following three ideal gas laws: Boyles Law Charles's Law Pressure Law The mass and the number of molecules of the gas is assumed to be constant for all of these Boyle’s Law If the temperature T of an ideal gas is constant, then Boyle’s Law is given by: This means the pressure is inversely proportional to the volume of a gas The relationship between the pressure and volume for a fixed mass of gas at constant temperature can also be written as: P 1 V 1 = P 2 V 2 Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) V 1 = initial volume (m 3 ) V 2 = final volume (m 3 ) Boyle's Law graph representing pressure inversely proportional to volume If the temperature is higher but still constant, then the graph has the same shape but is shifted further above the origin Charles's Law If the pressure P of an ideal gas is constant, then Charles’s law is given by: V ∝ T This means the volume is directly proportional to the temperature of a gas The relationship between the volume and thermodynamic temperature for a fixed mass of gas at constant pressure can also be written as: Where: V 1 = initial volume (m 3 ) V 2 = final volume (m 3 ) T 1 = initial temperature (K) T 2 = final temperature (K) Charles's Law graph representing temperature (in K) directly proportional to the volume A straight line through the origin shows direct proportionality Pressure Law If the volume V of an ideal gas is constant, the Pressure law is given by: P ∝ T This means the pressure is proportional to the temperature The relationship between the pressure and thermodynamic temperature for a fixed mass of gas at constant volume can also be written as: Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) T 1 = initial temperature (K) T 2 = final temperature (K) Pressure Law graph representing temperature (in K) directly proportional to the volume A straight line through the origin shows direct proportionality between pressure and temperature in kelvin
+Ideal Gas Laws
+The ideal gas laws are the experimental relationships between pressure ( P ), volume ( V ) and temperature ( T ) of an ideal gas
+pressure
+You need to be able to explain the following three ideal gas laws: Boyles Law Charles's Law Pressure Law
+You need to be able to explain the following three ideal gas laws:
+Boyles Law
+Charles's Law
+Pressure Law
+The mass and the number of molecules of the gas is assumed to be constant for all of these
+Boyle’s Law
+If the temperature T of an ideal gas is constant, then Boyle’s Law is given by:
+This means the pressure is inversely proportional to the volume of a gas
+The relationship between the pressure and volume for a fixed mass of gas at constant temperature can also be written as:
+P 1 V 1 = P 2 V 2
+Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) V 1 = initial volume (m 3 ) V 2 = final volume (m 3 )
+Where:
+P 1 = initial pressure (Pa)
+P 2 = final pressure (Pa)
+V 1 = initial volume (m 3 )
+V 2 = final volume (m 3 )
+Boyle's Law graph representing pressure inversely proportional to volume
+If the temperature is higher but still constant, then the graph has the same shape but is shifted further above the origin
+If the pressure P of an ideal gas is constant, then Charles’s law is given by:
+V ∝ T
+This means the volume is directly proportional to the temperature of a gas
+The relationship between the volume and thermodynamic temperature for a fixed mass of gas at constant pressure can also be written as:
+Where: V 1 = initial volume (m 3 ) V 2 = final volume (m 3 ) T 1 = initial temperature (K) T 2 = final temperature (K)
+T 1 = initial temperature (K)
+T 2 = final temperature (K)
+Charles's Law graph representing temperature (in K) directly proportional to the volume
+A straight line through the origin shows direct proportionality
+If the volume V of an ideal gas is constant, the Pressure law is given by:
+P ∝ T
+This means the pressure is proportional to the temperature
+The relationship between the pressure and thermodynamic temperature for a fixed mass of gas at constant volume can also be written as:
+Where: P 1 = initial pressure (Pa) P 2 = final pressure (Pa) T 1 = initial temperature (K) T 2 = final temperature (K)
+Pressure Law graph representing temperature (in K) directly proportional to the volume
+A straight line through the origin shows direct proportionality between pressure and temperature in kelvin
+Worked Example The pressure inside a bicycle tyre is 5.10 × 10 5 Pa when the temperature is 279 K. After the bicycle has been ridden, the temperature of the air in the tyre is 299 K. Calculate the new pressure in the tyre, assuming the volume is unchanged. Answer: Step 1: List the known quantities Initial pressure, Initial temperature, Final temperature, Step 2: Write out the relevant equation Step 3: Rearrange to make the subject Multiply both sides by Step 4: Substitute in the known values to calculate Step 5: Round to an appropriate amount of significant figures The least precise input value is 3 s.f. Therefore, the answer can only be given to this level of precision
+Worked Example
+The pressure inside a bicycle tyre is 5.10 × 10 5 Pa when the temperature is 279 K. After the bicycle has been ridden, the temperature of the air in the tyre is 299 K.
+Calculate the new pressure in the tyre, assuming the volume is unchanged.
+Answer:
+Step 1: List the known quantities
+Initial pressure,
+Initial temperature,
+Final temperature,
+Step 2: Write out the relevant equation
+Step 3: Rearrange to make the subject
+Multiply both sides by
+Step 4: Substitute in the known values to calculate
+Step 5: Round to an appropriate amount of significant figures
+The least precise input value is 3 s.f.
+Therefore, the answer can only be given to this level of precision
+Examiner Tips and Tricks Remember when using any ideal gas law, including the ideal gas equation, the temperature T must always be in kelvin (K). For Charles' Law, for example, if the x axis is temperature in degrees Celsius, not kelvin, the straight line no longer passes through the origin. 0 K is −273 °C so the line passes through the x axis at this value:
+Examiner Tips and Tricks
+Remember when using any ideal gas law, including the ideal gas equation, the temperature T must always be in kelvin (K).
+For Charles' Law, for example, if the x axis is temperature in degrees Celsius, not kelvin, the straight line no longer passes through the origin. 0 K is −273 °C so the line passes through the x axis at this value:
+Relationships Between Pressure, Volume & Temperature An ideal gas is one that obeys the relation: pV ∝ T Where: p = pressure of the gas (Pa) V = volume of the gas (m 3 ) T = thermodynamic temperature (K) The molecules in a gas move around randomly at high speeds, colliding with surfaces and exerting pressure upon them Gas molecules move about randomly at high speeds Imagine molecules of gas free to move around in a box The temperature of a gas is related to the average speed of the molecules: The hotter the gas, the faster the molecules move Hence the molecules collide with the surface of the walls more frequently Since force is the rate of change of momentum : Each collision applies a force across the surface area of the walls The faster the molecules hit the walls, the greater the force on them Since pressure is the force per unit area Higher temperature leads to higher pressure If the volume V of the box decreases, and the temperature T stays constant : There will be a smaller surface area of the walls and hence more collisions This also creates more pressure Since this equates to a greater force per unit area, pressure in an ideal gas is therefore defined by: The frequency of collisions of the gas molecules per unit area of a container Molecular model of the three ideal gas laws
+Relationships Between Pressure, Volume & Temperature
+An ideal gas is one that obeys the relation:
+pV ∝ T
+Where: p = pressure of the gas (Pa) V = volume of the gas (m 3 ) T = thermodynamic temperature (K)
+p = pressure of the gas (Pa)
+V = volume of the gas (m 3 )
+T = thermodynamic temperature (K)
+thermodynamic temperature
+The molecules in a gas move around randomly at high speeds, colliding with surfaces and exerting pressure upon them
+Gas molecules move about randomly at high speeds
+Imagine molecules of gas free to move around in a box
+The temperature of a gas is related to the average speed of the molecules: The hotter the gas, the faster the molecules move Hence the molecules collide with the surface of the walls more frequently
+The temperature of a gas is related to the average speed of the molecules:
+The hotter the gas, the faster the molecules move
+Hence the molecules collide with the surface of the walls more frequently
+Since force is the rate of change of momentum : Each collision applies a force across the surface area of the walls The faster the molecules hit the walls, the greater the force on them
+Since force is the rate of change of momentum :
+momentum
+Each collision applies a force across the surface area of the walls
+The faster the molecules hit the walls, the greater the force on them
+Since pressure is the force per unit area Higher temperature leads to higher pressure
+Since pressure is the force per unit area
+Higher temperature leads to higher pressure
+If the volume V of the box decreases, and the temperature T stays constant : There will be a smaller surface area of the walls and hence more collisions This also creates more pressure
+If the volume V of the box decreases, and the temperature T stays constant :
+There will be a smaller surface area of the walls and hence more collisions
+This also creates more pressure
+Since this equates to a greater force per unit area, pressure in an ideal gas is therefore defined by: The frequency of collisions of the gas molecules per unit area of a container
+Since this equates to a greater force per unit area, pressure in an ideal gas is therefore defined by:
+The frequency of collisions of the gas molecules per unit area of a container
+Molecular model of the three ideal gas laws
+Worked Example An ideal gas is in a container of volume 4.5 × 10 -3 m 3 .The gas is at a temperature of 30 °C and a pressure of 6.2 × 10 5 Pa. Calculate the pressure of the ideal gas in the same container when it is heated to 40 °C. Answer: Step 1: Ideal gas relation between pressure, volume and temperature pV ∝ T Step 2: Write the equation in full pV = kT Where k = the constant of proportionality Step 3: Rearrange for the constant of proportionality Step 4: Convert temperature T into Kelvin θ °C + 273.15 = T K 30 °C + 273.15 = 303.15 K Step 5: Substitute in known value into constant of proportionality equation Step 6: Rearrange ideal gas relation equation for pressure Step 7: Substitute in new values k = 9.203... V stays the same = 4.5 × 10 -3 m 3 T = 40 °C = 40 + 273.15 = 313.15 K
+An ideal gas is in a container of volume 4.5 × 10 -3 m 3 .The gas is at a temperature of 30 °C and a pressure of 6.2 × 10 5 Pa. Calculate the pressure of the ideal gas in the same container when it is heated to 40 °C.
+Step 1: Ideal gas relation between pressure, volume and temperature
+Step 2: Write the equation in full
+pV = kT
+Where k = the constant of proportionality
+Step 3: Rearrange for the constant of proportionality
+Step 4: Convert temperature T into Kelvin
+θ °C + 273.15 = T K
+30 °C + 273.15 = 303.15 K
+Step 5: Substitute in known value into constant of proportionality equation
+Step 6: Rearrange ideal gas relation equation for pressure
+Step 7: Substitute in new values
+k = 9.203...
+V stays the same = 4.5 × 10 -3 m 3
+T = 40 °C = 40 + 273.15 = 313.15 K
+Examiner Tips and Tricks Don’t round too early in your working out! In the worked example, the unrounded value of k is represented by “…” to show its full value is to be carried over to the next step of the calculation. On your calculator, this can be done by using the “ans” button instead of typing in the whole number.
+Don’t round too early in your working out! In the worked example, the unrounded value of k is represented by “…” to show its full value is to be carried over to the next step of the calculation. On your calculator, this can be done by using the “ans” button instead of typing in the whole number.

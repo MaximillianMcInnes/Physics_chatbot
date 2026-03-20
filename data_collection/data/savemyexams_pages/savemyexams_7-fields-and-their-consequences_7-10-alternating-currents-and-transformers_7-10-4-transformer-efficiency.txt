@@ -1,0 +1,55 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-10-alternating-currents-and-transformers/7-10-4-transformer-efficiency
+HEADING: Transformer Efficiency ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Transformer Efficiency In reality, transformers are not 100% energy efficient This means their power output is less than the power input For an ideal (100% efficient) transformer, there is no electrical energy and power loss: Power in = Power out I p V p = I s V s Where: I p = current in the primary coil (A) V p = voltage in the primary coil (V) I s = output current from the secondary coil (A) V s = output voltage from the secondary coil (V) This is from the power equation: P = IV The ideal transformer equation can also be written as: Where: N p = number of turns in the primary coil N s = number of turns in the secondary coil The efficiency of a transformer is the ratio of the power out to the power in: This efficiency is given as a decimal To find this as the percentage, multiply by 100 Worked Example A lamp rated at 15 V 80 W is connected to the secondary coil of a step-down transformer and is at full brightness. The primary coil is connected to a supply of 220 V. The transformer is 65% efficient. Calculate the current in the primary coil. Answer: Examiner Tips and Tricks Although the efficiency equation gives the efficiency as a decimal, exam questions often use fractions and percentages too. Make sure you're comfortable with converting between them. Eddy Currents Eddy currents are a key source of energy loss in a transformer, which makes them unlikely to be 100% efficient They arise from: A changing magnetic field (and flux) from the alternating current or voltage Which creates a changing magnetic field in the core that acts against the field that induced them An e.m.f is therefore induced A current flows, as the core is made from a conducting material The current also dissipates energy by generating heat in the wires Eddy currents are reduced by: Laminating the iron core with layers of insulation Having a core made from a high resistivity metal Eddy currents in a solid v laminated core Laminating the core consists of building it with thin layers of metal, instead of a solid metal The eddy currents are therefore reduced significantly The laminations are insulated from each other, so the current doesn't flow between them
+Transformer Efficiency In reality, transformers are not 100% energy efficient This means their power output is less than the power input For an ideal (100% efficient) transformer, there is no electrical energy and power loss: Power in = Power out I p V p = I s V s Where: I p = current in the primary coil (A) V p = voltage in the primary coil (V) I s = output current from the secondary coil (A) V s = output voltage from the secondary coil (V) This is from the power equation: P = IV The ideal transformer equation can also be written as: Where: N p = number of turns in the primary coil N s = number of turns in the secondary coil The efficiency of a transformer is the ratio of the power out to the power in: This efficiency is given as a decimal To find this as the percentage, multiply by 100
+In reality, transformers are not 100% energy efficient This means their power output is less than the power input
+In reality, transformers are not 100% energy efficient
+This means their power output is less than the power input
+For an ideal (100% efficient) transformer, there is no electrical energy and power loss:
+Power in = Power out
+I p V p = I s V s
+Where: I p = current in the primary coil (A) V p = voltage in the primary coil (V) I s = output current from the secondary coil (A) V s = output voltage from the secondary coil (V)
+Where:
+I p = current in the primary coil (A)
+V p = voltage in the primary coil (V)
+I s = output current from the secondary coil (A)
+V s = output voltage from the secondary coil (V)
+This is from the power equation:
+P = IV
+The ideal transformer equation can also be written as:
+Where: N p = number of turns in the primary coil N s = number of turns in the secondary coil
+N p = number of turns in the primary coil
+N s = number of turns in the secondary coil
+The efficiency of a transformer is the ratio of the power out to the power in:
+This efficiency is given as a decimal To find this as the percentage, multiply by 100
+This efficiency is given as a decimal
+To find this as the percentage, multiply by 100
+Worked Example A lamp rated at 15 V 80 W is connected to the secondary coil of a step-down transformer and is at full brightness. The primary coil is connected to a supply of 220 V. The transformer is 65% efficient. Calculate the current in the primary coil. Answer:
+Worked Example
+A lamp rated at 15 V 80 W is connected to the secondary coil of a step-down transformer and is at full brightness. The primary coil is connected to a supply of 220 V. The transformer is 65% efficient. Calculate the current in the primary coil.
+Answer:
+Examiner Tips and Tricks Although the efficiency equation gives the efficiency as a decimal, exam questions often use fractions and percentages too. Make sure you're comfortable with converting between them.
+Examiner Tips and Tricks
+Although the efficiency equation gives the efficiency as a decimal, exam questions often use fractions and percentages too. Make sure you're comfortable with converting between them.
+Eddy Currents Eddy currents are a key source of energy loss in a transformer, which makes them unlikely to be 100% efficient They arise from: A changing magnetic field (and flux) from the alternating current or voltage Which creates a changing magnetic field in the core that acts against the field that induced them An e.m.f is therefore induced A current flows, as the core is made from a conducting material The current also dissipates energy by generating heat in the wires Eddy currents are reduced by: Laminating the iron core with layers of insulation Having a core made from a high resistivity metal Eddy currents in a solid v laminated core Laminating the core consists of building it with thin layers of metal, instead of a solid metal The eddy currents are therefore reduced significantly The laminations are insulated from each other, so the current doesn't flow between them
+Eddy Currents
+Eddy currents are a key source of energy loss in a transformer, which makes them unlikely to be 100% efficient
+They arise from: A changing magnetic field (and flux) from the alternating current or voltage Which creates a changing magnetic field in the core that acts against the field that induced them An e.m.f is therefore induced A current flows, as the core is made from a conducting material
+They arise from:
+A changing magnetic field (and flux) from the alternating current or voltage
+Which creates a changing magnetic field in the core that acts against the field that induced them
+An e.m.f is therefore induced
+A current flows, as the core is made from a conducting material
+The current also dissipates energy by generating heat in the wires
+Eddy currents are reduced by: Laminating the iron core with layers of insulation Having a core made from a high resistivity metal
+Eddy currents are reduced by:
+Laminating the iron core with layers of insulation
+Having a core made from a high resistivity metal
+Eddy currents in a solid v laminated core
+Laminating the core consists of building it with thin layers of metal, instead of a solid metal The eddy currents are therefore reduced significantly
+Laminating the core consists of building it with thin layers of metal, instead of a solid metal
+The eddy currents are therefore reduced significantly
+The laminations are insulated from each other, so the current doesn't flow between them

@@ -1,0 +1,51 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/2-particles-and-radiation/2-4-the-photoelectric-effect/2-4-1-the-electronvolt
+HEADING: The Electronvolt ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Electronvolt The electronvolt is a unit which is commonly used to express very small energies This is because quantum energies tend to be much smaller than 1 Joule The electronvolt is derived from the definition of potential difference : Where: V = potential difference (V) E = energy (J) Q = charge (C) When an electron travels through a potential difference, energy is transferred between two points in a circuit or electric field If an electron, with a charge of 1.6 × 10 -19 C , travels through a potential difference of 1 V, the energy transferred is equal to: Therefore, an electronvolt is defined as: The energy gained by an electron travelling through a potential difference of one volt To convert between eV and J: eV → J: multiply by 1.6 × 10 -19 J → eV: divide by 1.6 × 10 -19 Relation to Kinetic Energy When a charged particle is accelerated through a potential difference, it gains kinetic energy If an electron accelerates from rest, an electronvolt is equal to the kinetic energy gained: Where: e = charge of an electron (1.60 × 10 –19 C) V = potential difference (V) m = mass of the particle (kg) v = velocity of the particle (m s –1 ) Rearranging the equation gives the speed of the electron: Worked Example (a) An electron has an energy of 2.4 eV. Give the energy of the electron in joules. (b) A photon has an energy of 4.9 × 10 −19 J. Give the energy of the photon in electronvolts. Answer: Part (a) Part (b) Worked Example Show that the photon energy of light with wavelength 700nm is about 1.8 eV. Answer: Step 1: Write the equation for photon energy Step 2: Calculate the photon energy in Joules Step 3: Convert the photon energy into electronvolts J → eV: divide by 1.60 × 10 -19 Examiner Tips and Tricks Converting between electronvolts and joules is a skill that you will use a lot in exam questions on this topic. You do not need to remember the value of 1 eV as this will be given on your datasheet, but you do need to be confident in the conversion so that it doesn't slow you down.
+The Electronvolt The electronvolt is a unit which is commonly used to express very small energies This is because quantum energies tend to be much smaller than 1 Joule The electronvolt is derived from the definition of potential difference : Where: V = potential difference (V) E = energy (J) Q = charge (C) When an electron travels through a potential difference, energy is transferred between two points in a circuit or electric field If an electron, with a charge of 1.6 × 10 -19 C , travels through a potential difference of 1 V, the energy transferred is equal to: Therefore, an electronvolt is defined as: The energy gained by an electron travelling through a potential difference of one volt To convert between eV and J: eV → J: multiply by 1.6 × 10 -19 J → eV: divide by 1.6 × 10 -19 Relation to Kinetic Energy When a charged particle is accelerated through a potential difference, it gains kinetic energy If an electron accelerates from rest, an electronvolt is equal to the kinetic energy gained: Where: e = charge of an electron (1.60 × 10 –19 C) V = potential difference (V) m = mass of the particle (kg) v = velocity of the particle (m s –1 ) Rearranging the equation gives the speed of the electron:
+The electronvolt is a unit which is commonly used to express very small energies
+This is because quantum energies tend to be much smaller than 1 Joule
+The electronvolt is derived from the definition of potential difference :
+potential difference
+Where: V = potential difference (V) E = energy (J) Q = charge (C)
+Where:
+V = potential difference (V)
+E = energy (J)
+Q = charge (C)
+When an electron travels through a potential difference, energy is transferred between two points in a circuit or electric field
+If an electron, with a charge of 1.6 × 10 -19 C , travels through a potential difference of 1 V, the energy transferred is equal to:
+Therefore, an electronvolt is defined as: The energy gained by an electron travelling through a potential difference of one volt
+Therefore, an electronvolt is defined as:
+The energy gained by an electron travelling through a potential difference of one volt
+To convert between eV and J: eV → J: multiply by 1.6 × 10 -19 J → eV: divide by 1.6 × 10 -19
+To convert between eV and J:
+eV → J: multiply by 1.6 × 10 -19
+J → eV: divide by 1.6 × 10 -19
+Relation to Kinetic Energy
+When a charged particle is accelerated through a potential difference, it gains kinetic energy
+If an electron accelerates from rest, an electronvolt is equal to the kinetic energy gained:
+Where: e = charge of an electron (1.60 × 10 –19 C) V = potential difference (V) m = mass of the particle (kg) v = velocity of the particle (m s –1 )
+e = charge of an electron (1.60 × 10 –19 C)
+m = mass of the particle (kg)
+v = velocity of the particle (m s –1 )
+Rearranging the equation gives the speed of the electron:
+Worked Example (a) An electron has an energy of 2.4 eV. Give the energy of the electron in joules. (b) A photon has an energy of 4.9 × 10 −19 J. Give the energy of the photon in electronvolts. Answer: Part (a) Part (b)
+Worked Example
+(a) An electron has an energy of 2.4 eV.
+Give the energy of the electron in joules.
+(b) A photon has an energy of 4.9 × 10 −19 J.
+Give the energy of the photon in electronvolts.
+Answer:
+Part (a)
+Part (b)
+Worked Example Show that the photon energy of light with wavelength 700nm is about 1.8 eV. Answer: Step 1: Write the equation for photon energy Step 2: Calculate the photon energy in Joules Step 3: Convert the photon energy into electronvolts J → eV: divide by 1.60 × 10 -19
+Show that the photon energy of light with wavelength 700nm is about 1.8 eV.
+Step 1: Write the equation for photon energy
+Step 2: Calculate the photon energy in Joules
+Step 3: Convert the photon energy into electronvolts
+J → eV: divide by 1.60 × 10 -19
+Examiner Tips and Tricks Converting between electronvolts and joules is a skill that you will use a lot in exam questions on this topic. You do not need to remember the value of 1 eV as this will be given on your datasheet, but you do need to be confident in the conversion so that it doesn't slow you down.
+Examiner Tips and Tricks
+Converting between electronvolts and joules is a skill that you will use a lot in exam questions on this topic. You do not need to remember the value of 1 eV as this will be given on your datasheet, but you do need to be confident in the conversion so that it doesn't slow you down.

@@ -1,0 +1,54 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/7-fields-and-their-consequences/7-9-electromagnetic-induction/7-9-1-magnetic-flux
+HEADING: Magnetic Flux ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Magnetic Flux Electromagnetic induction is the process of inducing an e.m.f in a conductor when there is relative movement between a charge and a magnetic field This can be observed using a magnet and a coil or a solenoid This happens when a conductor cuts through magnetic field lines The amount of e.m.f induced is determined by the magnetic flux The amount of magnetic flux varies as the coil rotates within the field The flux is the total magnetic field that passes through a given area It is a maximum when the magnetic field lines are perpendicular to the plane of the area It is 0 when the magnetic field lines are parallel to the plane of the area The magnetic flux is defined as: The product of the magnetic flux density and the cross-sectional area perpendicular to the direction of the magnetic flux density The magnetic flux is maximum when the magnetic field lines and the area they are travelling through are perpendicular In other words, magnetic flux is the number of magnetic field lines through a given area Magnetic flux is defined by the symbol Φ (greek letter ‘phi’) It is measured in units of Webers (Wb) Magnetic flux can be calculated using the equation: Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 ) Worked Example An aluminium window frame has a width of 40 cm and length of 73 cm shown in the diagram below. The frame is hinged along the vertical edge AC. When the window is closed, the frame is normal to the Earth's magnetic field with magnetic flux density 1.8 × 10 -5 T. a) Calculate the magnetic flux through the window when it is closed. b) Sketch the graph of the magnetic flux against angle between the field lines and the normal when the window is opened and rotated by 180° Answer: Part (a) Step 1: Write out the known quantities Cross-sectional area, A = 40 cm × 73 cm = (40 × 10 -2 ) × (73 × 10 -2 ) = 0.292 m 2 Magnetic flux density, B = 1.8 × 10 -5 T Step 2 : Write down the equation for magnetic flux Φ = BA Step 3: Substitute in values Φ = (1.8 × 10 -5 ) × 0.292 = 5.256 × 10 -6 = 5.3 × 10 -6 Wb Part (b) The magnetic flux will be at a minimum when the window is opened by 90 o and a maximum when fully closed or opened to 180 o Examiner Tips and Tricks Consider carefully the value of θ, it is the angle between the field lines and the line normal (perpendicular) to the plane of the area the field lines are passing through. If it helps, drawing the normal on the area provided will help visualise the correct angle.
+Magnetic Flux Electromagnetic induction is the process of inducing an e.m.f in a conductor when there is relative movement between a charge and a magnetic field This can be observed using a magnet and a coil or a solenoid This happens when a conductor cuts through magnetic field lines The amount of e.m.f induced is determined by the magnetic flux The amount of magnetic flux varies as the coil rotates within the field The flux is the total magnetic field that passes through a given area It is a maximum when the magnetic field lines are perpendicular to the plane of the area It is 0 when the magnetic field lines are parallel to the plane of the area The magnetic flux is defined as: The product of the magnetic flux density and the cross-sectional area perpendicular to the direction of the magnetic flux density The magnetic flux is maximum when the magnetic field lines and the area they are travelling through are perpendicular In other words, magnetic flux is the number of magnetic field lines through a given area Magnetic flux is defined by the symbol Φ (greek letter ‘phi’) It is measured in units of Webers (Wb) Magnetic flux can be calculated using the equation: Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 )
+Electromagnetic induction is the process of inducing an e.m.f in a conductor when there is relative movement between a charge and a magnetic field This can be observed using a magnet and a coil or a solenoid
+Electromagnetic induction is the process of inducing an e.m.f in a conductor when there is relative movement between a charge and a magnetic field
+e.m.f
+magnetic field
+This can be observed using a magnet and a coil or a solenoid
+This happens when a conductor cuts through magnetic field lines
+The amount of e.m.f induced is determined by the magnetic flux
+The amount of magnetic flux varies as the coil rotates within the field The flux is the total magnetic field that passes through a given area It is a maximum when the magnetic field lines are perpendicular to the plane of the area It is 0 when the magnetic field lines are parallel to the plane of the area
+The amount of magnetic flux varies as the coil rotates within the field
+The flux is the total magnetic field that passes through a given area
+It is a maximum when the magnetic field lines are perpendicular to the plane of the area
+It is 0 when the magnetic field lines are parallel to the plane of the area
+The magnetic flux is defined as:
+The product of the magnetic flux density and the cross-sectional area perpendicular to the direction of the magnetic flux density
+The magnetic flux is maximum when the magnetic field lines and the area they are travelling through are perpendicular
+In other words, magnetic flux is the number of magnetic field lines through a given area
+Magnetic flux is defined by the symbol Φ (greek letter ‘phi’) It is measured in units of Webers (Wb)
+Magnetic flux is defined by the symbol Φ (greek letter ‘phi’)
+Magnetic flux
+It is measured in units of Webers (Wb)
+Magnetic flux can be calculated using the equation:
+Where: Φ = magnetic flux (Wb) B = magnetic flux density (T) A = cross-sectional area (m 2 )
+Where:
+Φ = magnetic flux (Wb)
+B = magnetic flux density (T)
+magnetic flux density
+A = cross-sectional area (m 2 )
+Worked Example An aluminium window frame has a width of 40 cm and length of 73 cm shown in the diagram below. The frame is hinged along the vertical edge AC. When the window is closed, the frame is normal to the Earth's magnetic field with magnetic flux density 1.8 × 10 -5 T. a) Calculate the magnetic flux through the window when it is closed. b) Sketch the graph of the magnetic flux against angle between the field lines and the normal when the window is opened and rotated by 180° Answer: Part (a) Step 1: Write out the known quantities Cross-sectional area, A = 40 cm × 73 cm = (40 × 10 -2 ) × (73 × 10 -2 ) = 0.292 m 2 Magnetic flux density, B = 1.8 × 10 -5 T Step 2 : Write down the equation for magnetic flux Φ = BA Step 3: Substitute in values Φ = (1.8 × 10 -5 ) × 0.292 = 5.256 × 10 -6 = 5.3 × 10 -6 Wb Part (b) The magnetic flux will be at a minimum when the window is opened by 90 o and a maximum when fully closed or opened to 180 o
+Worked Example
+An aluminium window frame has a width of 40 cm and length of 73 cm shown in the diagram below.
+The frame is hinged along the vertical edge AC. When the window is closed, the frame is normal to the Earth's magnetic field with magnetic flux density 1.8 × 10 -5 T.
+a) Calculate the magnetic flux through the window when it is closed.
+b) Sketch the graph of the magnetic flux against angle between the field lines and the normal when the window is opened and rotated by 180°
+Answer:
+Part (a)
+Step 1: Write out the known quantities
+Cross-sectional area, A = 40 cm × 73 cm = (40 × 10 -2 ) × (73 × 10 -2 ) = 0.292 m 2
+Magnetic flux density, B = 1.8 × 10 -5 T
+Step 2 : Write down the equation for magnetic flux
+Φ = BA
+Step 3: Substitute in values
+Φ = (1.8 × 10 -5 ) × 0.292 = 5.256 × 10 -6 = 5.3 × 10 -6 Wb
+Part (b)
+The magnetic flux will be at a minimum when the window is opened by 90 o and a maximum when fully closed or opened to 180 o
+Examiner Tips and Tricks Consider carefully the value of θ, it is the angle between the field lines and the line normal (perpendicular) to the plane of the area the field lines are passing through. If it helps, drawing the normal on the area provided will help visualise the correct angle.
+Examiner Tips and Tricks
+Consider carefully the value of θ, it is the angle between the field lines and the line normal (perpendicular) to the plane of the area the field lines are passing through. If it helps, drawing the normal on the area provided will help visualise the correct angle.

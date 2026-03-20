@@ -1,0 +1,83 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/9-astrophysics/9-3-cosmology/9-3-1-the-doppler-shift-of-light
+HEADING: The Doppler Effect of Light ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+The Doppler Effect of Light The Doppler shift for a light-emitting non-relativistic ( v << c ) source can be described using the equation: Where: = change in frequency (Hz) = reference frequency (frequency of the source) (Hz) = change in wavelength (m) = reference wavelength (wavelength of the source) (m) = relative velocity of the source and observer (m s –1 ) = the speed of light (m s –1 ) The change in wavelength is equal to: Where: = observed wavelength of the source (m) The relative speed between the source and observer along the line joining them is given by: Where: = velocity of the light source (m s –1 ) = velocity of the observer (m s –1 ) The velocity of the observer (usually from Earth) can be assumed to be stationary , i.e. The relative speed then simply becomes the speed of the source: Hence, the Doppler shift equation can be written as: Redshift The fractional change in the wavelength is called the redshift and is given the symbol In terms of wavelength, redshift is given by: In terms of frequency, redshift is given by: This shows that if the source moves away from the observer then The wavelength increases The frequency decreases Note: the sign of z can cause some confusion, remember to look at the context - z is a measure of redshift so write it as positive for receding objects Doppler Shift of Light Doppler shift can be observed in the spectra of stars and galaxies If the star is approaching the Earth, blueshift is observed (negative ) The relative velocity is positive The change in wavelength is negative If the star is receding from the Earth, redshift is observed (positive ) The relative velocity is negative The change in wavelength is positive Worked Example A stationary source of light is found to have a spectral line of wavelength 438 nm. The same line from a distant star that is moving away from the Earth has a wavelength of 608 nm. Calculate the speed at which the star is travelling away from the Earth. Answer: Step 1: List the known quantities Unshifted wavelength, λ = 438 nm Shifted wavelength, λ' = 608 nm Change in wavelength, Δ λ = (608 – 438) nm = 170 nm Speed of light, c = 3.0 × 10 8 m s –1 Step 2: Write down the Doppler equation and rearrange for velocity v Step 3: Substitute values to calculate v = 1.16 × 10 8 m s –1 Worked Example The stars in a distant galaxy can be seen to orbit about a galactic centre. The galaxy can be observed 'edge-on' from the Earth. Light emitted from a star on the left-hand side of the galaxy is measured to have a wavelength of 656.44 nm. The same spectral line from a star on the right-hand side is measured to have a wavelength of 656.12 nm. The wavelength of the same spectral line measured on Earth is 656.28 nm. (a) State and explain which side of the galaxy is moving towards the Earth. (b) Calculate the rotational speed of the galaxy. Answer: Part (a) The light from the right-hand side (656.12 nm) is observed to be at a shorter wavelength than the reference line (656.28 nm) Therefore, the right-hand side shows blueshift and must, therefore, be moving towards the Earth Part (b) Step 1: List the known quantities Observed wavelength on LHS, = 656.44 nm Observed wavelength on RHS, = 656.12 nm Reference wavelength, λ = 656.28 nm Speed of light, c = 3.0 × 10 8 m s −1 Step 2: Calculate the average change in wavelength The magnitude of redshift or blueshift from each side is different, so you must calculate the average = 0.16 nm Tip: you don't need to change the wavelengths from nm to m, as the units will cancel out later Step 3: Write down the Doppler equation and rearrange for velocity v Step 4: Substitute values into the velocity equation Rotational speed: Examiner Tips and Tricks You need to recall that, in the visible light spectrum, red light has a longer wavelength and a lower frequency compared to blue light which has a shorter wavelength and a higher frequency
+The Doppler Effect of Light The Doppler shift for a light-emitting non-relativistic ( v << c ) source can be described using the equation: Where: = change in frequency (Hz) = reference frequency (frequency of the source) (Hz) = change in wavelength (m) = reference wavelength (wavelength of the source) (m) = relative velocity of the source and observer (m s –1 ) = the speed of light (m s –1 ) The change in wavelength is equal to: Where: = observed wavelength of the source (m) The relative speed between the source and observer along the line joining them is given by: Where: = velocity of the light source (m s –1 ) = velocity of the observer (m s –1 ) The velocity of the observer (usually from Earth) can be assumed to be stationary , i.e. The relative speed then simply becomes the speed of the source: Hence, the Doppler shift equation can be written as: Redshift The fractional change in the wavelength is called the redshift and is given the symbol In terms of wavelength, redshift is given by: In terms of frequency, redshift is given by: This shows that if the source moves away from the observer then The wavelength increases The frequency decreases Note: the sign of z can cause some confusion, remember to look at the context - z is a measure of redshift so write it as positive for receding objects Doppler Shift of Light Doppler shift can be observed in the spectra of stars and galaxies If the star is approaching the Earth, blueshift is observed (negative ) The relative velocity is positive The change in wavelength is negative If the star is receding from the Earth, redshift is observed (positive ) The relative velocity is negative The change in wavelength is positive
+The Doppler shift for a light-emitting non-relativistic ( v << c ) source can be described using the equation:
+Where: = change in frequency (Hz) = reference frequency (frequency of the source) (Hz) = change in wavelength (m) = reference wavelength (wavelength of the source) (m) = relative velocity of the source and observer (m s –1 ) = the speed of light (m s –1 )
+Where:
+= change in frequency (Hz)
+= reference frequency (frequency of the source) (Hz)
+= change in wavelength (m)
+= reference wavelength (wavelength of the source) (m)
+= relative velocity of the source and observer (m s –1 )
+= the speed of light (m s –1 )
+the speed of light
+The change in wavelength is equal to:
+Where: = observed wavelength of the source (m)
+= observed wavelength of the source (m)
+The relative speed between the source and observer along the line joining them is given by:
+Where: = velocity of the light source (m s –1 ) = velocity of the observer (m s –1 )
+= velocity of the light source (m s –1 )
+= velocity of the observer (m s –1 )
+The velocity of the observer (usually from Earth) can be assumed to be stationary , i.e.
+The relative speed then simply becomes the speed of the source:
+Hence, the Doppler shift equation can be written as:
+Redshift
+The fractional change in the wavelength is called the redshift and is given the symbol
+In terms of wavelength, redshift is given by:
+In terms of frequency, redshift is given by:
+This shows that if the source moves away from the observer then The wavelength increases The frequency decreases
+This shows that if the source moves away from the observer then
+The wavelength increases
+The frequency decreases
+Note: the sign of z can cause some confusion, remember to look at the context - z is a measure of redshift so write it as positive for receding objects
+Doppler Shift of Light
+Doppler shift can be observed in the spectra of stars and galaxies
+If the star is approaching the Earth, blueshift is observed (negative ) The relative velocity is positive The change in wavelength is negative
+If the star is approaching the Earth, blueshift is observed (negative )
+The relative velocity is positive
+The change in wavelength is negative
+If the star is receding from the Earth, redshift is observed (positive ) The relative velocity is negative The change in wavelength is positive
+If the star is receding from the Earth, redshift is observed (positive )
+The relative velocity is negative
+The change in wavelength is positive
+Worked Example A stationary source of light is found to have a spectral line of wavelength 438 nm. The same line from a distant star that is moving away from the Earth has a wavelength of 608 nm. Calculate the speed at which the star is travelling away from the Earth. Answer: Step 1: List the known quantities Unshifted wavelength, λ = 438 nm Shifted wavelength, λ' = 608 nm Change in wavelength, Δ λ = (608 – 438) nm = 170 nm Speed of light, c = 3.0 × 10 8 m s –1 Step 2: Write down the Doppler equation and rearrange for velocity v Step 3: Substitute values to calculate v = 1.16 × 10 8 m s –1
+Worked Example
+A stationary source of light is found to have a spectral line of wavelength 438 nm. The same line from a distant star that is moving away from the Earth has a wavelength of 608 nm.
+Calculate the speed at which the star is travelling away from the Earth.
+Answer:
+Step 1: List the known quantities
+Unshifted wavelength, λ = 438 nm
+Shifted wavelength, λ' = 608 nm
+Change in wavelength, Δ λ = (608 – 438) nm = 170 nm
+Speed of light, c = 3.0 × 10 8 m s –1
+Step 2: Write down the Doppler equation and rearrange for velocity v
+Step 3: Substitute values to calculate v
+= 1.16 × 10 8 m s –1
+Worked Example The stars in a distant galaxy can be seen to orbit about a galactic centre. The galaxy can be observed 'edge-on' from the Earth. Light emitted from a star on the left-hand side of the galaxy is measured to have a wavelength of 656.44 nm. The same spectral line from a star on the right-hand side is measured to have a wavelength of 656.12 nm. The wavelength of the same spectral line measured on Earth is 656.28 nm. (a) State and explain which side of the galaxy is moving towards the Earth. (b) Calculate the rotational speed of the galaxy. Answer: Part (a) The light from the right-hand side (656.12 nm) is observed to be at a shorter wavelength than the reference line (656.28 nm) Therefore, the right-hand side shows blueshift and must, therefore, be moving towards the Earth Part (b) Step 1: List the known quantities Observed wavelength on LHS, = 656.44 nm Observed wavelength on RHS, = 656.12 nm Reference wavelength, λ = 656.28 nm Speed of light, c = 3.0 × 10 8 m s −1 Step 2: Calculate the average change in wavelength The magnitude of redshift or blueshift from each side is different, so you must calculate the average = 0.16 nm Tip: you don't need to change the wavelengths from nm to m, as the units will cancel out later Step 3: Write down the Doppler equation and rearrange for velocity v Step 4: Substitute values into the velocity equation Rotational speed:
+The stars in a distant galaxy can be seen to orbit about a galactic centre. The galaxy can be observed 'edge-on' from the Earth.
+Light emitted from a star on the left-hand side of the galaxy is measured to have a wavelength of 656.44 nm. The same spectral line from a star on the right-hand side is measured to have a wavelength of 656.12 nm.
+The wavelength of the same spectral line measured on Earth is 656.28 nm.
+(a) State and explain which side of the galaxy is moving towards the Earth.
+(b) Calculate the rotational speed of the galaxy.
+Part (a)
+The light from the right-hand side (656.12 nm) is observed to be at a shorter wavelength than the reference line (656.28 nm)
+Therefore, the right-hand side shows blueshift and must, therefore, be moving towards the Earth
+Part (b)
+Observed wavelength on LHS, = 656.44 nm
+Observed wavelength on RHS, = 656.12 nm
+Reference wavelength, λ = 656.28 nm
+Speed of light, c = 3.0 × 10 8 m s −1
+Step 2: Calculate the average change in wavelength
+The magnitude of redshift or blueshift from each side is different, so you must calculate the average
+= 0.16 nm
+Tip: you don't need to change the wavelengths from nm to m, as the units will cancel out later
+Step 3: Write down the Doppler equation and rearrange for velocity v
+Step 4: Substitute values into the velocity equation
+Rotational speed:
+Examiner Tips and Tricks You need to recall that, in the visible light spectrum, red light has a longer wavelength and a lower frequency compared to blue light which has a shorter wavelength and a higher frequency
+Examiner Tips and Tricks
+You need to recall that, in the visible light spectrum, red light has a longer wavelength and a lower frequency compared to blue light which has a shorter wavelength and a higher frequency

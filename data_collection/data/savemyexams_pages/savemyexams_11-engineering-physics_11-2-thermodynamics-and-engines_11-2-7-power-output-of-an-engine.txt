@@ -1,0 +1,70 @@
+LINK: https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/11-engineering-physics/11-2-thermodynamics-and-engines/11-2-7-power-output-of-an-engine
+HEADING: Power Output of an Engine ( AQA A Level Physics ): Revision Note
+====================================================================================================
+
+( AQA A Level Physics ): Revision Note
+Power Output of an Engine An engine's efficiency depends on its power output This is determined by the fuel Input Power The calorific value of fuel is the amount of energy fuel stores per unit volume (or per unit mass) For liquid fuel, this is measured in J kg –1 For a gas , this is measured in J m –3 The flow rate of fuel is the volume (or mass) that flows per second For liquid fuel, this is measured in kg s –1 For a gas , this is measured in m 3 s –1 The product of these gives the input power of the engine: Indicated Power The indicated power is the power developed in the cylinder of an engine This depends on the number of cycles (strokes) per second In a four-stroke engine, 1 cycle is equal to 2 revolutions A four-stroke engine has 2 revolutions of the crankshaft in one cycle The power developed is the work done each second, which is the area of the main p - V loop of the indicator diagram Area of p–V loop for a diesel engine The indicated power is defined by the equation: Output (Brake) Power The brake power is the power output by the engine and is the same as the rotational power Friction Power Part of the indicated power must be used to overcome frictional forces within the engine Due to this, this means the brake power is lower than the indicated power It is defined as: Worked Example A four-stroke diesel engine with three cylinders is running at constant speed on a test bed. An indicator diagram for one cylinder is shown in the figure below and other test data are given below: measured output power of engine (brake power) = 75.0 kW fuel used in 150 seconds = 0.284 litre calorific value of fuel = 38.6 MJ litre –1 engine speed = 3500 rev min –1 (a) Determine the indicated power of the engine, assuming all cylinders give the same power (b) Calculate the input power of the engine. Answer Part (a) Step 1: State the indicated power equation Step 2: Calculate the number of cycles per second The engine speed is 3500 rev min –1 This is rev s –1 1 cycle = 2 revolutions Therefore, the number of cycles per second is Step 3: Calculate the area of the p-V loop It is easier to use the big squares 1 big square = volume of (0.5 × 10 –3 ) × (2.0 × 10 6 ) = 1000 m 3 Pa Splitting up the graph into squares gives squares This gives an area of The indicated power is therefore: Part (b) Step 1: State the input power equation Step 2: Calculate the fuel rate Fuel used in 150 seconds = 0.284 litres Step 3: Calculate the input power Examiner Tips and Tricks There are a lot of equations here. These are all given in your data sheet, so you must be confident in how to use them. For input power, make sure the calorific value and flow rate are in the same units . For example, if one is in terms of mass, the other must also be in terms of mass. Sometimes, the engine may not have cylinders. Not all engines will require cylinders to function, depending on their type. In this case, this part of the indicated power equation can be omitted. Make sure you use the number of cycles per second instead of the time for one cycle! Being able to find areas from graphs by counting the squares is a very important skill to have in A level physics. The mark scheme will allow a wide range of answers, so don't worry if you're approximations are slightly out, as the accepted answers will adjust for these
+Power Output of an Engine An engine's efficiency depends on its power output This is determined by the fuel Input Power The calorific value of fuel is the amount of energy fuel stores per unit volume (or per unit mass) For liquid fuel, this is measured in J kg –1 For a gas , this is measured in J m –3 The flow rate of fuel is the volume (or mass) that flows per second For liquid fuel, this is measured in kg s –1 For a gas , this is measured in m 3 s –1 The product of these gives the input power of the engine: Indicated Power The indicated power is the power developed in the cylinder of an engine This depends on the number of cycles (strokes) per second In a four-stroke engine, 1 cycle is equal to 2 revolutions A four-stroke engine has 2 revolutions of the crankshaft in one cycle The power developed is the work done each second, which is the area of the main p - V loop of the indicator diagram Area of p–V loop for a diesel engine The indicated power is defined by the equation: Output (Brake) Power The brake power is the power output by the engine and is the same as the rotational power Friction Power Part of the indicated power must be used to overcome frictional forces within the engine Due to this, this means the brake power is lower than the indicated power It is defined as:
+An engine's efficiency depends on its power output
+This is determined by the fuel
+Input Power
+The calorific value of fuel is the amount of energy fuel stores per unit volume (or per unit mass) For liquid fuel, this is measured in J kg –1 For a gas , this is measured in J m –3
+The calorific value of fuel is the amount of energy fuel stores per unit volume (or per unit mass)
+For liquid fuel, this is measured in J kg –1
+For a gas , this is measured in J m –3
+The flow rate of fuel is the volume (or mass) that flows per second For liquid fuel, this is measured in kg s –1 For a gas , this is measured in m 3 s –1
+The flow rate of fuel is the volume (or mass) that flows per second
+For liquid fuel, this is measured in kg s –1
+For a gas , this is measured in m 3 s –1
+The product of these gives the input power of the engine:
+Indicated Power
+The indicated power is the power developed in the cylinder of an engine
+This depends on the number of cycles (strokes) per second
+In a four-stroke engine, 1 cycle is equal to 2 revolutions
+A four-stroke engine has 2 revolutions of the crankshaft in one cycle
+The power developed is the work done each second, which is the area of the main p - V loop of the indicator diagram
+Area of p–V loop for a diesel engine
+The indicated power is defined by the equation:
+Output (Brake) Power
+The brake power is the power output by the engine and is the same as the rotational power
+Friction Power
+Part of the indicated power must be used to overcome frictional forces within the engine Due to this, this means the brake power is lower than the indicated power
+Part of the indicated power must be used to overcome frictional forces within the engine
+Due to this, this means the brake power is lower than the indicated power
+It is defined as:
+Worked Example A four-stroke diesel engine with three cylinders is running at constant speed on a test bed. An indicator diagram for one cylinder is shown in the figure below and other test data are given below: measured output power of engine (brake power) = 75.0 kW fuel used in 150 seconds = 0.284 litre calorific value of fuel = 38.6 MJ litre –1 engine speed = 3500 rev min –1 (a) Determine the indicated power of the engine, assuming all cylinders give the same power (b) Calculate the input power of the engine. Answer Part (a) Step 1: State the indicated power equation Step 2: Calculate the number of cycles per second The engine speed is 3500 rev min –1 This is rev s –1 1 cycle = 2 revolutions Therefore, the number of cycles per second is Step 3: Calculate the area of the p-V loop It is easier to use the big squares 1 big square = volume of (0.5 × 10 –3 ) × (2.0 × 10 6 ) = 1000 m 3 Pa Splitting up the graph into squares gives squares This gives an area of The indicated power is therefore: Part (b) Step 1: State the input power equation Step 2: Calculate the fuel rate Fuel used in 150 seconds = 0.284 litres Step 3: Calculate the input power
+Worked Example
+A four-stroke diesel engine with three cylinders is running at constant speed on a test bed. An indicator diagram for one cylinder is shown in the figure below and other test data are given below:
+measured output power of engine (brake power) = 75.0 kW
+fuel used in 150 seconds = 0.284 litre
+calorific value of fuel = 38.6 MJ litre –1
+engine speed = 3500 rev min –1
+(a) Determine the indicated power of the engine, assuming all cylinders give the same power
+(b) Calculate the input power of the engine.
+Answer
+Part (a)
+Step 1: State the indicated power equation
+Step 2: Calculate the number of cycles per second
+The engine speed is 3500 rev min –1 This is rev s –1 1 cycle = 2 revolutions Therefore, the number of cycles per second is
+The engine speed is 3500 rev min –1
+This is rev s –1
+1 cycle = 2 revolutions
+Therefore, the number of cycles per second is
+Step 3: Calculate the area of the p-V loop
+It is easier to use the big squares
+1 big square = volume of (0.5 × 10 –3 ) × (2.0 × 10 6 ) = 1000 m 3 Pa
+Splitting up the graph into squares gives
+squares
+This gives an area of
+The indicated power is therefore:
+Part (b)
+Step 1: State the input power equation
+Step 2: Calculate the fuel rate
+Fuel used in 150 seconds = 0.284 litres
+Step 3: Calculate the input power
+Examiner Tips and Tricks There are a lot of equations here. These are all given in your data sheet, so you must be confident in how to use them. For input power, make sure the calorific value and flow rate are in the same units . For example, if one is in terms of mass, the other must also be in terms of mass. Sometimes, the engine may not have cylinders. Not all engines will require cylinders to function, depending on their type. In this case, this part of the indicated power equation can be omitted. Make sure you use the number of cycles per second instead of the time for one cycle! Being able to find areas from graphs by counting the squares is a very important skill to have in A level physics. The mark scheme will allow a wide range of answers, so don't worry if you're approximations are slightly out, as the accepted answers will adjust for these
+Examiner Tips and Tricks
+There are a lot of equations here. These are all given in your data sheet, so you must be confident in how to use them.
+For input power, make sure the calorific value and flow rate are in the same units . For example, if one is in terms of mass, the other must also be in terms of mass.
+Sometimes, the engine may not have cylinders. Not all engines will require cylinders to function, depending on their type. In this case, this part of the indicated power equation can be omitted. Make sure you use the number of cycles per second instead of the time for one cycle!
+Being able to find areas from graphs by counting the squares is a very important skill to have in A level physics. The mark scheme will allow a wide range of answers, so don't worry if you're approximations are slightly out, as the accepted answers will adjust for these
