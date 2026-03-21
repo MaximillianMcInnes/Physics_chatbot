@@ -1,0 +1,14 @@
+3.4.1.2 	Moments
+Content
+Opportunities for skills
+development
+Moment of a force about a point.
+Moment defined as force × perpendicular distance from the
+point to the line of action of the force.
+Couple as a pair of equal and opposite coplanar forces.
+Moment of couple defined as force × perpendicular distance
+between the lines of action of the forces.
+Principle of moments.
+Centre of mass.
+Knowledge that the position of the centre of mass of uniform
+regular solid is at its centre.

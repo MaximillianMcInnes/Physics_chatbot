@@ -1,0 +1,13 @@
+3.12.1.4
+Principle of Millikan’s determination of the electronic charge, e (A-level only)
+Content
+Condition for holding a charged oil droplet, of charge Q, stationary between oppositely charged
+parallel plates.
+QV
+d  = mg
+Motion of a falling oil droplet with and without an electric field; terminal speed to determine the mass
+and the charge of the droplet.
+Stokes’ Law for the viscous force on an oil droplet used to calculate the droplet radius.
+F = 6𝀵𝀵rv
+Significance of Millikan’s results.
+Quantisation of electric charge.

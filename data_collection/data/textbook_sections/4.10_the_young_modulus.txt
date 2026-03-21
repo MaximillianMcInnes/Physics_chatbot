@@ -1,0 +1,200 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.10 The Young modulus | PRINTED_PAGES: 88-92]
+
+4 Mechanics and materials
+Ductile, plastic and brittle materials
+A ductile material is one such as copper, which may be drawn out into a wire without fracture. If a ductile material is stretched beyond its elastic limit it will show plastic behaviour. This means that when the load is removed some, or all, the deformation will be permanent and the material will not return to its original length before stretching.
+Materials such as glass that can be extended but do not show plastic deformation and will easily fracture are known as brittle materials.
+Stress–strain curves
+If a ductile material such as copper is stretched it will follow the curve shown by Figure 4.36(a). From O to P Hooke’s law is obeyed.
+The point E is the elastic limit — if the load is removed before E
+is reached the material will return to its original length. Between
+E and Y the material becomes plastic — not all the extension is recoverable if the load is removed. B is the breaking stress at which the material fractures.
+(a)
+(b)
+Strain
+Stress
+Breaks
+B
+B
+Strain
+Stress
+P
+S
+O
+E
+Y
+Breaks
+Figure 4.36 Ductile and brittle materials
+Figure 4.36(b) shows the stress–strain curve for a brittle material. There is no plastic deformation.
+The Young modulus determines the relation between tensile stress and tensile strain (Figure 4.37).
+F
+A
+L
+DL
+Figure 4.37 The Young modulus
+4 Mechanics and materials
+The Young modulus is the ratio of tensile stress to tensile strain:
+tensile stress (σ ) =
+force cross sectional area = F
+A
+tensile strain (ε ) =
+extension original length
+= ΔL
+L
+Young modulus = tensile stress tensile strain
+= σ
+ε  = F/A
+ΔL/L
+= FL
+AΔL
+Example
+A steel wire 10 m long and with a cross-sectional area of 0.01 cm2 is hung from a support and a load of 150 N is applied to its lower end. Calculate the new length of the wire. (Young modulus for steel = 210 GPa)
+Answer extension, ΔL =
+150 × 10
+2.1 × 1011 × 1 × 10−6 = 7.14 mm
+Therefore, the new length = 10.00714 m
+Now test yourself
+27 The rubber cord of a catapult has a cross-sectional area of 1.0 mm2 and a total unstretched length of 10.0 cm. It is stretched to 15 cm and then released to project a missile of mass 5.0 g vertically.
+Calculate:
+(a) the energy stored in the rubber
+(b) the velocity of projection
+(c) the maximum height that the missile could reach.
+Take the Young modulus for rubber to be 5.0 × 108 Pa and g = 9.8 N kg−1.
+28 It has been calculated that during running the force on the hip joint is about five times the body weight. Estimate the compression of the femur during each running stride for a sprinter of mass
+70 kg. (Assume that the femur is 0.40 m long and has a mean diameter of 2.0 cm; g = 9.8 N kg−1; Young modulus for bone = 18 × 109 Pa.)
+29 A gymnast of mass 70 kg hangs by one arm from a high bar. If the gymnast’s whole weight is assumed to be taken by the humerus bone (in the upper arm) calculate the stress in the humerus if it has a radius of 1.5 cm. (g = 9.8 N kg−1)
+Answers on p. 218
+Required practical 4
+Measurement of the Young modulus
+The Young modulus can be measured for a material in the form of a wire using the apparatus shown in Figure 4.38.
+Two identical wires are hung from a beam; one wire is used as a reference standard and has a scale is fixed to one wire and a mass hung on the end to remove kinks in it. The other wire has a small load placed on it to straighten it and a vernier scale that links with the scale on the reference wire.
+4 Mechanics and materials
+Comparison wire
+Test wire
+Tensioning load
+Vernier scale
+Variable load
+Figure 4.38 Measurement of the Young modulus
+The original length (L) of the test wire is measured and its diameter is found for various points along its length.
+Loads are then placed gently on the wire and the extension of the wire found for each one. They should not be dropped, as this would subject the wire to a sudden shock. After each reading the load should be removed to check that the wire returns to its original length, showing that its elastic limit has not been exceeded.
+A graph is plotted of stress against strain and from this the value of the Young modulus can be found (this is the gradient of the line, i.e.
+F/A divided by ΔL/L).
+Exam practice
+Take g = 9.8 N kg−1 where needed.
+1 An oarsman rows a boat across a river that is flowing from left to right at 10 m s−1. If the speed of the boat at right angles to the bank is 6 m s−1 find the final velocity of the boat as it moves across the river.
+[4]
+You should use both the scale diagram and calculation methods to find your answers.
+2 A child pulls a 120 kg sledge along a rough level road using a rope that is inclined at 35° to the horizontal. If the force in the rope is 300 N and the frictional force between the sledge and the road is
+20 N what is the acceleration of the sledge?
+[3]
+3 A stone is projected upwards at 25 m s−1 at an angle of 30° to the horizontal (air resistance should be ignored for parts (a)–(d)):
+(a) What is its vertical velocity at the top of its flight?
+[1]
+(b) What is its horizontal velocity at the top of its flight?
+[2]
+(c) What is its horizontal velocity 5 s after it is fired?
+[2]
+(d) What is the maximum height it reaches?
+[3]
+(e) Sketch the trajectory of the projectile for the following two cases:
+(i) when air resistance is ignored
+[2]
+(ii) when air resistance is taken into account
+[3]
+4 Mechanics and materials
+4 A rigid body acted on by a set of forces is in equilibrium if:
+A
+the resultant force is zero
+B the forces all act in the same direction and the resultant couple is zero
+C
+the resultant force and the resultant couple are both zero
+D the resultant couple is zero
+[1]
+5 A uniform ladder 3 m long and weighing 200 N leans against a wall so that it makes an angle of 55° with the ground. (g = 9.8 N kg−1)
+(a) What is the normal reaction between the ladder and the wall?
+[3]
+(b) What is the size and direction of the reaction at the ground?
+[3]
+(c) A painter of mass 70 kg climbs the ladder. Calculate the new values for parts (a) and
+(b) when they are 1.0 m up the ladder (measured along the ladder itself).
+[4]
+6 An engine of mass 5000 kg pulls a train of ten trucks each of mass 2000 kg along a horizontal track.
+Assume the frictional forces amount to 5000 N and that the engine exerts a force of 50 000 N on the rails. If the trucks are numbered from 1 to 10 starting with the one next to the engine, calculate:
+(a) the net total accelerating force
+[2]
+(b) the acceleration of the train
+[1]
+(c) the force of truck 6 on truck 7
+[2]
+(d) the force of truck 9 on truck 8
+[2]
+7 A heavy ball with a mass of 5 kg is thrown with a velocity of 6 m s−1 to a boy who is standing on a skateboard at rest. He catches it and as a result moves backwards at 0.5 m s−1. What is the combined mass (m) of the boy and skateboard?
+[3]
+8 Two bodies, P and Q, of equal mass move towards each other at speeds u and v respectively.
+They make an elastic collision, and during the collision P is momentarily at rest. What is the speed of Q at that moment?
+A
+v – u
+B 2(v – u)
+C
+zero
+D
+√uv
+[1]
+9 A firework rocket moves upwards and then explodes into two unequal fragments at the top of its flight path. They both move horizontally immediately after the explosion, one moves to the left at
+25 m s−1 and the other to the right at 75 m s−1.
+(a) If the mass of the fragment moving to the left is 800 g what is the mass of the other fragment? [3]
+(b) What is the kinetic energy of the fragment moving left immediately after the explosion?
+[2]
+(c) What is the kinetic energy of the other fragment immediately after the explosion?
+[2]
+(d) Why is it necessary that the two fragments initially move off in exactly opposite directions?
+[2]
+10 A car of mass m has an engine that can produce a power P. What is the minimum time in which the car can be accelerated from rest to a speed v?
+A
+mv2
+P
+B
+2P
+mv2
+C
+mv2
+2P
+D mv2
+4P
+
+[1]
+11 A load of 50 kg is lifted by a small crane that is 35% efficient. If the load rises 6 m in 3 seconds, calculate the power used by the crane.
+[2]
+12 A monofilament nylon fishing line of original length 1.5 m and diameter 0.75 mm extends by 4 cm when a certain load is applied. (Young modulus for the fishing line = 6.5 × 109 Pa)
+(a) Calculate the elastic energy stored in the line.
+[2]
+(b) The fishing line mentioned in part (a) will support a load of 100 N if it is applied steadily but will break when the same load is applied to it sharply. Why is this?
+[2]
+4 Mechanics and materials
+Summary
+You should now have an understanding of:
+● scalars and vectors — scalar quantities have only magnitude, while vector quantities have both magnitude and direction
+● moments — the turning effect of a force about a point; moment = force × perpendicular distance from the point to the line of action of the force; for a body to be in equilibrium, both the resultant force and the resultant moment must be zero
+● motion along a straight line — governed by the equations of motion for uniform acceleration
+● projectile motion — this can be considered in two parts, one horizontal (uniform motion) and one vertical (accelerated motion)
+● Newton’s laws of motion — the first law governs the motion of bodies under no resultant force; the second is concerned with their behaviour with a resultant force;
+and the third explains the action of forces on two bodies
+● momentum — mass × velocity; momentum is conserved in all collisions
+● work, power (the rate at which work is done), energy and efficiency
+● conservation of energy — energy is not created or destroyed but can be changed from one form to another
+● density — mass/volume
+● Hooke’s law — the force is directly proportional to the extension up to the elastic limit
+● the Young modulus — (F/A)/(ΔL/L); this is the modulus of elasticity that governs the linear extension of a specimen when a force is applied
+13 A steel wire of diameter d has a strain of 12.0 × 10−4 when supporting a certain load. If the wire is replaced by a second wire of the same material, but with a diameter of d/2, what will be the strain in this wire if it supports the same load?
+A
+6.0 × 10−3
+B 4.8 × 10−3
+C
+2.4 × 10−3
+D 6.0 × 10−4
+[1]
+14 The gravitational field strength at the surface of a neutron star is 1.35 × 1012 N kg−1.
+What would be the theoretical maximum height of a cylindrical granite column that could support its own weight without crushing when exposed to a field of this magnitude? (density of granite =
+2700 kg m−3; crushing strength = 3.6 × 106 Pa)
+[2]
+Answers and quick quiz 4 online

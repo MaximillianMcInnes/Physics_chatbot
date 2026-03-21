@@ -1,0 +1,18 @@
+3.5.1.5 	Potential divider
+Content
+Opportunities for skills
+development
+The potential divider used to supply constant or variable
+potential difference from a power supply.
+The use of the potentiometer as a measuring instrument is
+not required.
+Examples should include the use of variable resistors,
+thermistors, and light dependent resistors (LDR) in the
+potential divider.
+MS 3.2 / PS 4.1 / AT f
+Students can investigate the
+behaviour of a potential divider circuit.
+MS 3.2 / AT g
+Students should design and construct
+potential divider circuits to achieve
+various outcomes.

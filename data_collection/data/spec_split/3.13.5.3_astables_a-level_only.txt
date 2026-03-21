@@ -1,0 +1,7 @@
+3.13.5.3
+Astables (A-level only)
+Content
+The astable as an oscillator to provide a clock pulse.
+Clock (pulse) rate (frequency), pulse width, period, duty cycle, mark-to-space ratio.
+Variation of running frequency using an external RC network.
+Knowledge of a particular circuit or a specific device (eg 555 chip) will not be required.

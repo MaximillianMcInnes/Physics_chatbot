@@ -1,0 +1,98 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.6 Momentum | PRINTED_PAGES: 75-77]
+
+4 Mechanics and materials
+Impulse
+When a force acts on a body the velocity of the body may change. The product of the force and the time for which it acts is called the impulse.
+impulse = force × time
+(units N s)
+If application of an impulse is represented by a force–time graph, the impulse is the area beneath the line on the graph (Figures 4.25 and 4.26).
+Momentum and momentum change
+The change in the velocity of a body due to the action of an impulse depends not only on the size of the impulse but also the mass of the body. The product of the mass of the body and its velocity is called the momentum of the body.
+momentum = mass × velocity  (units kg m s−1)
+Therefore, an impulse produces a change of momentum.
+If the velocity of a body of mass m is changed from u to v by a force F
+acting for a time t:
+impulse = Ft = momentum change (∆mv) = mv − mu (units kg m s−1 or N s)
+Force may therefore be written as:
+force = rate of change of momentum F = Δmv
+Δt
+Example
+Figure 4.25 shows an impulse of 8 N being applied to a body for 20 s.
+impulse = momentum change = area under curve
+Time/s
+Force/N
+Figure 4.25 Force–time graph
+Both the impulse and the momentum change are the area under the line. Therefore:
+impulse = 8 × 20 = 160 N s
+Exam tip
+Remember that momentum, and therefore momentum change, is a vector.
+4 Mechanics and materials
+Now test yourself
+16 The graph in Figure 4.26 shows a varying force being applied to a body. If the body has a mass of
+2.5 kg, calculate the impulse and hence the change in the velocity of the body during the first 10 s of the motion shown.
+Force/N
+Time/S
+Figure 4.26 Force–time graph, with variable force
+Answer on p. 217
+Conservation of momentum
+Momentum is conserved in a collision or explosion in an isolated system where no external forces act. In other words the momentum before the collision or explosion is the same as that after it. This is true for all collisions and explosions.
+momentum before collision = momentum after collision
+In a collision the same law of conservation of momentum applies. If a mass m1 moving at a velocity u1 collides with a mass m2 moving at a velocity u2 such that after the collision m1 moves at v1 and m2 moves at v2:
+m1u1 + m2u2 = m1v1 + m2v2
+The law of conservation of momentum applies whether the collisions are elastic or not (Figure 4.27).
+u2
+v2
+m1
+m2
+After u1
+m1
+m2
+v1
+Before
+Figure 4.27 Elastic collision
+The special case of two equal masses making a completely elastic collision is shown in Figure 4.28. In this collision the velocities of A and B are swapped over.
+u v
+Before u v
+After m
+A
+m
+B
+A
+B
+m m
+Figure 4.28 Elastic collision — equal masses
+4 Mechanics and materials
+In a perfectly inelastic collision all the kinetic energy of the colliding bodies is lost — this may be converted into heat or used to deform the bodies. Imagine two balls colliding head on, sticking together and then moving off after the collision.
+u1
+v1
+m1
+m2
+v2
+m1
+m2
++
+Figure 4.29 Perfectly inelastic collision
+Explosions m u
+M
+v
+Figure 4.30 Cannon firing a shell
+Energy and momentum are also conserved in explosions, although the type of energy may be changed. For example when a cannon fires a shell the total momentum of the shell (mu) (plus that of any exhaust gases etc.)
+and the cannon (Mv) is the same after firing as it was before firing — that is, zero.
+momentum before explosion = momentum after explosion
+Therefore:
+0 = mu + Mv
+Mv = −mu
+Example
+If a mass of 3.5 kg moving left to right at 5 m s−1 collides with a mass of
+4.0 kg moving right to left at 3.0 m s−1 and they stick together, find the final velocity of the combined masses.
+Answer momentum before impact = (3.5 × 5.0) + (−4.0 × 3.0) = 5.5 N s
+But this must equal the momentum after the collision, i.e. total mass ×
+final velocity.
+Notice that one of the velocities is negative, showing that the ball was moving right to left.
+mass afterwards = 7.5 kg
+Therefore:
+velocity afterwards = 5.5
+7.5 = 0.73 m s−1
+This is positive, showing that after collision the combined two balls move from left to right.
+Exam tip
+In an explosion where two fragments are produced the heavier fragment will have the smaller velocity.

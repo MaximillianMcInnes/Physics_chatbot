@@ -1,0 +1,19 @@
+3.8.1.5 	Nuclear radius (A-level only)
+Content
+Opportunities for skills
+development
+Estimate of radius from closest approach of alpha particles
+and determination of radius from electron diffraction.
+Knowledge of typical values for nuclear radius.
+Students will need to be familiar with the Coulomb equation
+for the closest approach estimate.
+Dependence of radius on nucleon number:
+R = R0A1/3 derived from experimental data.
+Interpretation of equation as evidence for constant density
+of nuclear material.
+Calculation of nuclear density.
+Students should be familiar with the graph of intensity
+against angle for electron diffraction by a nucleus.
+MS 1.4
+Make order of magnitude calculations
+of the radius of different atomic nuclei.

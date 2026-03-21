@@ -1,0 +1,132 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.5 Classification of particles | PRINTED_PAGES: 21-22]
+
+2 Particles and radiation
+Fundamental particles
+The fundamental particles that make up our universe can be divided into three main categories:
+●	 hadrons — these particles ‘feel’ the strong nuclear interaction (force)
+●	 leptons — these particles ‘feel’ the weak nuclear interaction
+●	 exchange particles
+These three categories are further divided as follows:
+●	 Hadrons are composed of two or three quarks:
+Baryons — protons, neutrons (each composed of three quarks)
+Mesons — pions, kaons (each composed of two quarks)
+(Every particle has its own antiparticle.)
+●	Leptons — electrons, muons, neutrinos — subject to the weak interaction
+(Every particle has its own antiparticle.)
+●	 Exchange particles — the interactions between particles in the previous two groups are carried by exchange particles (photons, gluons,
+W±, Z and gravitons). For more on exchange particles, see p. 19
+Leptons and hadrons are summarised in Table 2.3.
+Table 2.3 Leptons and hadrons
+Particle
+Symbol
+Rest energy/
+MeV
+Charge/e
+Lifetime
+Leptons
+Electron e
+0.511
+−1
+>4.6 × 1026 years
+Neutrino
+νe and νμ
+Very small
+Stable
+Muon
+μ
+105.7
+−1
+2.2 × 10−6 s
+Hadrons
+Mesons
+Pion
+π+
+139.6
++1
+2.6 × 10−8 s
+πo
+135.0
+0.8 × 10−16 s
+Kaon
+K−
+−1
+1.24 × 10−8 s
+Baryons
+Proton p
+938.3
++1
+>1 × 1029 years
+Neutron
+(free)
+n
+939.6
+650 s
+Lepton number
+All leptons have a ‘property’ called a lepton number, Le (= 1) for electrons and electron-neutrinos and Lμ (= 1) for muons and muon-
+neutrinos. Their antiparticles have lepton numbers of −1 for both positrons and antineutrinos.
+Baryon number
+All baryons and antibaryons are given a baryon number. This is +1 for baryons and −1 for anti-baryons.
+Typical mistake
+Not remembering to which category a particle belongs.
+2 Particles and radiation
+To account for the strange behaviour of some hadrons a ‘new’ property of hadrons was proposed, called strangeness (S). Protons and neutrons have a strangeness of zero, while kaons have a strangeness of +1 or −1.
+Particle
+S
+Particle
+S
+Particle
+S
+n e+ and e−
+π
+p
+ν
+K+
++1
+Conservation in particle interactions
+●	 The total charge is always conserved in a particle interaction.
+●	 The total baryon number is always conserved in a particle interaction.
+●	 The total lepton number is always conserved in a particle interaction.
+●	 Strangeness is conserved in strong interactions but not in weak interactions
+Examples
+1 Show that the quantum number conservation laws for charge and lepton number are obeyed in the following reaction:
+n → p+ + e− + ν−
+e
+Answer n
+→
+p+
++
+e−
++
+ν−
+e
+Charge
++1
+−1
+Lepton number (Le)
+−1
+Strangeness (S)
+Therefore the conservations laws are followed and the interaction will take place.
+2 Show that the following reaction does not obey all the quantum number conservation laws and will therefore not happen:
+n + K+ → πo + π+
+Answer n
++
+K+
+→
+πo
++
+π+
+Charge
++1
++1
+Baryon number
+Strangeness (S)
++1
+Therefore the conservations laws are not followed and the interaction will not take place.
+Now test yourself
+6 Show that the quantum number conservation laws for charge and lepton number are obeyed in the following reaction:
+μ+ → e+ + ν−
+μ + ν−
+e
+Answer on p. 216
+Exam tip
+Remember that although mesons are hadrons they are not baryons and so their baryon number is 0.

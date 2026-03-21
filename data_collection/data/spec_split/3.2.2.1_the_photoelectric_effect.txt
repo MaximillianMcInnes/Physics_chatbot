@@ -1,0 +1,16 @@
+3.2.2.1 	The photoelectric effect
+Content
+Opportunities for skills
+development
+Threshold frequency; photon explanation of threshold
+frequency.
+Work function , stopping potential.
+Photoelectric equation: h f = + Ek (max
+Ek (max   is the maximum kinetic energy of the photoelectrons.
+The experimental determination of stopping potential is
+not required.
+PS 3.2 / MS 2.3
+Demonstration of the photoelectric
+effect using a photocell or an
+electroscope with a zinc plate
+attachment and UV lamp.

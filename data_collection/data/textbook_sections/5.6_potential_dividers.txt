@@ -1,0 +1,110 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.6 Potential dividers | PRINTED_PAGES: 105-108]
+
+5 Electricity
+Now test yourself
+150 W
+E
+100 W
+I1 = 0.1 A
+I2 = 0.04 A
+I3
+Figure 5.16
+15 Using Figure 5.16:
+(a) Find the magnitude and direction of I3.
+(b) Find the magnitude and direction of E.
+16 Using Figure 5.16:
+(a) If I1 = 0.2 A and I2 = 0.5 A, find the magnitude and direction of I3.
+(b) If I1 = 0.3 A and I2 = 0.1 A, find the magnitude and direction of I3.
+Answers on p. 218
+Basic circuit
+Two resistors connected across a cell enable the output of the cell to be divided between them. Such a circuit is called a potential divider. The basic circuit is shown in Figure 5.17. If the output is continuously variable from 0 to V the device is known as a potentiometer. The p.d. across R1
+and R2 is fixed (V). The output voltage across AB is given by:
+output voltage, V2 =
+R2
+(R1 + R2)V
+R2
+V2
+A
+B
+R1
+V
+Figure 5.17 Potential divider circuit
+Typical mistake
+Taking the ratio of the two resistors rather than the ratio of one resistor to the sum of both.
+5 Electricity
+Measuring the output voltage with a meter
+This can be done using a digital voltmeter with very high (if not virtually infinite) resistance. The output voltage measured by this meter is that across R2, in other words V2.
+Another option is to use a moving coil meter. These meters have a much lower resistance than a digital meter, usually some tens of kΩ. This means that the combined resistance of R2 and the moving coil meter in parallel with it is less than R2. The proportion of the input voltage (V)
+dropped across R2 therefore falls and so the output voltage is less than that measured with a digital meter.
+Example
+A loudspeaker is connected across the output (R2) of a potential divider. Varying R1 will change the potential across R2 and so the device acts as a volume control (Figure 5.18).
+V
+R1
+R2
+V2
+Figure 5.18 Potential divider with loudspeaker
+If V = 6 V, R1 = 200 Ω, R2 = 0.5 kΩ and the loudspeaker has a resistance of 100 Ω, calculate the p.d. across it.
+Answer
+Call the combined resistance of R2 and the loudspeaker R3:
+R3 = 500 × 100
+= 83 Ω
+(This the resistance of R2 (500 Ω) and the loudspeaker (100 Ω) in parallel.)
+Therefore, using the formula for the potential divider:
+V2 =
+R3
+(R1 + R3)
+× 6
+p.d. across the speaker, V2 = (83/283)6 = 1.8 V
+Exam tip
+The total voltage across both the resistor and the other component in the circuit must always stay the same and be equal to the supply voltage of the battery.
+5 Electricity
+Examples of the use of a potential divider
+Light-dependent resistor (LDR)
+An LDR is a component that has a resistance that changes when light falls on it. As the intensity of the light is increased, so the resistance of the LDR falls.
+If the LDR is connected as part of a potential divider, as shown in
+Figure 5.19, then as the light level is increased its resistance falls and the proportion of the input voltage dropped across it will also fall.
+R1
+V2
+V
+LDR
+Figure 5.19 Potential divider with LDR
+So in the light V2 is low and in the dark V2 is high.
+Thermistor
+If R2 is replaced by an NTC thermistor the circuit is temperature dependent. As the temperature of the thermistor rises its resistance falls and so the voltage dropped across it falls.
+R1
+V2
+V
+Thermistor
+Figure 5.20 Potential divider with a thermistor
+When the thermistor is hot V2 is low and when the thermistor is cold
+V2 is high.
+Both these examples have considered R2 being replaced by another component. If R1 is replaced then if the voltage across this component rises the output voltage across R2 will fall.
+Revision activity
+Make a mind map showing the various possible circuits using a potential divider
+(e.g resistors, thermistor and LDR). Summarise the effect on the output p.d. of changing the values of the components.
+5 Electricity
+Now test yourself
+17 Using Figure 5.17, calculate the output voltage for the following values of V, R1 and R2.
+(a) V = 12 V, R1 = 100 kΩ, R2 = 200 kΩ
+(b) V = 10 V, R1 = 25 kΩ, R2 = 20 kΩ
+(c) V = 6 V, R1 = 250 Ω, R2 = 200 Ω
+18  (a)   Resistor R1 is now replaced by a thermistor with a negative temperature coefficient — one where the resistance decreases as the temperature rises.
+If the values of the resistance of R2 and the thermistor are equal at the start, what will happen to the output potential difference (V) as the thermistor is cooled?
+(b) Resistor R2 is now replaced by a light-dependent resistor. (R1 is a fixed resistor.)
+If the values of the resistance of R1 and the LDR are equal at the start, what will happen to the output potential difference (V) as the intensity of the light falling on the LDR
+is decreased?
+Answers on p. 218
+The variable resistor as a potential divider
+Another way of varying the output potential difference is to use a variable resistor or rheostat (Figure 5.21). This is made of a length wire wrapped round a former.
+Terminal C
+Terminal A
+Terminal B
+A
+C
+B
+V
+Coil of wire
+Sliding contact
+Figure 5.21 The variable resistor
+The source potential is connected between A and B and the output (V)
+taken between B and C.

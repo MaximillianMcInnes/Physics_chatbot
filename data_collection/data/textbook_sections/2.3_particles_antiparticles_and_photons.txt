@@ -1,0 +1,104 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.3 Particles, antiparticles and photons | PRINTED_PAGES: 16-18]
+
+2 Particles and radiation
+(b)	Beta emission:
+38Sr → 90
+39Y +  0
+−1β + ν−
+e
+Note: the particle νe is an antineutrino. The existence of neutrinos and antineutrinos is necessary to satisfy nuclear conservation laws (p. 22).
+They are both neutral particles with virtually no mass.
+Knowing the true nature of alpha and beta particles, the equations can also be rewritten as:
+(a)	 Alpha emission:
+88Ra → 222
+86Rn + 4
+2He
+(b)	Beta emission:
+38Sr → 90
+39Y +  0
+−1e + νe
+(c)	 Beta-plus (positron) emission with the electron neutrino:
+15P → 30
+14Si +  0
++1e + νe
+Example
+Plutonium-239 decays to form uranium-235.
+(a) Is this by alpha or beta emission?
+(b) Write down the nuclear equation to show this decay.
+Answer
+(a) alpha emission
+(b) 239
+94Pu → 235
+92U + 4
+2He
+Now test yourself
+3 Carbon-14 decays by beta emission.
+(a) What is the resulting nuclide?
+(b) Write down the full nuclear equation for this process.
+4 Uranium-238 decays to form thorium-234.
+(a) Is this by alpha or beta decay?
+(b) Write down the full nuclear equation for this process.
+Answers on p. 216
+Antiparticles
+All particles of matter have a corresponding antiparticle. The first antiparticle to be identified was the anti-electron or positron. The mass of the positron is the same as that of an electron (0.51 MeV — p. 21).
+Protons, neutrons and neutrinos each have their antiparticle — the antiproton, the antineutron and the antineutrino. The masses of all these antiparticles are the same as those of their corresponding particles.
+There is a whole set of antiparticles that ‘mirror’ the particles that make up our universe. These antiparticles would combine to form a ‘new’ type of matter known as antimatter.
+Exam tip
+Beta emission is the result of neutron decay within the nucleus.
+Exam tip
+Particles and antiparticles have opposite charges where this is appropriate
+(proton and electron).
+2 Particles and radiation
+Example
+A proton and antiproton collide and annihilate each other.
+Calculate the energy produced in (a) MeV and (b) joules. The rest mass of a proton is 938 MeV.
+Answer energy produced = 2 × 938 MeV = 1876 MeV
+= 1876 × 1.6 × 10−13 = 3.0 × 10−10 J
+Photon model of electromagnetic radiation
+All objects at a temperature above absolute zero emit a range of wavelengths but the peak of the energy–radiation curve moves towards the short-wavelength, high-frequency, end as the temperature of the object is increased. For example, a hot piece of metal glows first red, then orange then yellow and finally white as its temperature is increased.
+More and more energy is emitted as short-wave radiation (Figure 2.5).
+The two curves represent objects at two different temperatures. The lower curve is the lower temperature.
+Wavelength
+Energy
+Figure 2.5 Energy–wavelength graph
+In 1900 the problem of the energy distribution that had been puzzling scientists for some time was solved by Max Planck. He proposed that radiation was emitted not in a continuous stream of energy but in bundles of energy that we now call photons.
+The energy of a photon is given by the formula:
+photon energy (E ) = hf where f is frequency and h is the Planck constant, with a value of
+6.63 × 10−34 J s.
+Radiation of a higher frequency, and therefore a shorter wavelength, will be composed of photons that have a greater energy.
+Typical mistake
+Assuming that if an object, such as a lump of metal, does not glow it is not hot.
+2 Particles and radiation
+Example
+We can use this idea to calculate the number of photons emitted by a
+100 W yellow light per second. (frequency of yellow light = 5 × 1014 Hz)
+Answer energy emitted by the light bulb every second = 100 J
+energy of each quantum = hf = 6.63 × 10−34 × 5 × 1014 = 3.31 × 10−19 J
+Therefore:
+number emitted per second =
+3.31 × 10−19 = 3.0 × 1020 photons per second
+The energy of each photon must be very small otherwise they would hurt when they hit you!
+Now test yourself
+5 Calculate the energies of a photon of the following wavelengths:
+(a) gamma rays wavelength 10−3 nm
+(b) X-rays wavelength 0.1 nm
+(c) violet light wavelength 420 nm
+(d) yellow light wavelength 600 nm
+(e) red light wavelength 700 nm
+(f) microwaves wavelength 2 cm
+(g) radio waves wavelength 254 m
+Answer on p. 216
+Particle annihilation
+When a positron meets an electron the two particles annihilate each other, converting their mass back into energy in the form of electromagnetic radiation (see Figure 2.6). Two gamma rays are needed to conserve momentum. The energy produced in this case is about 1.02 MeV.
+A similar event will occur between any particle and its antiparticle.
+Example
+A proton collides with an antiproton and they annihilate each other.
+Calculate the energy released in MeV. (rest mass of a proton =
+938 MeV; rest mass of an antiproton = 938 MeV)
+Answer energy released = 2 × 938 = 1876 MeV
+In high-energy collisions between protons and antiprotons, for example those in the Large Hadron Collider at CERN, the particles annihilate each other. The sum of their mass energy and kinetic energy is converted into radiation and other particles. The initial energy of the proton and antiproton can be as high as 800 GeV (800 × 103 MeV).
+Positron
+Gamma ray
+Electron
+Figure 2.6 Particle–
+antiparticle annihilation

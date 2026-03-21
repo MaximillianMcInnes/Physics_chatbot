@@ -1,0 +1,4 @@
+3.9.1.3 	Single dish radio telescopes, I-R, U-V and X-ray telescopes (A-level only)
+Content
+Similarities and differences of radio telescopes compared to optical telescopes. Discussion should
+include structure, positioning and use, together with comparisons of resolving and collecting powers.

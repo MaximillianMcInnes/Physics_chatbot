@@ -1,0 +1,18 @@
+3.7.1 	Fields (A-level only)
+Content
+Opportunities for skills
+development
+Concept of a force field as a region in which a body
+experiences a non-contact force.
+Students should recognise that a force field can be
+represented as a vector, the direction of which must be
+determined by inspection.
+Force fields arise from the interaction of mass, of static
+charge, and between moving charges.
+Similarities and differences between gravitational and
+electrostatic forces:
+Similarities: Both have inverse-square force laws that have
+many characteristics in common, eg use of field lines, use of
+potential concept, equipotential surfaces etc
+Differences: masses always attract, but charges may attract
+or repel

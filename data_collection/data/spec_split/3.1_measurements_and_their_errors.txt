@@ -1,0 +1,6 @@
+3.1 	 Measurements and their errors
+Content in this section is a continuing study for a student of physics. A working knowledge of the
+specified fundamental (base) units of measurement is vital. Likewise, practical work in the subject
+needs to be underpinned by an awareness of the nature of measurement errors and of their numerical
+treatment. The ability to carry through reasonable estimations is a skill that is required throughout the
+course and beyond.

@@ -1,0 +1,7 @@
+3.11.2.3
+The p–V diagram (A-level only)
+Content
+Representation of processes on p–V diagram.
+Estimation of work done in terms of area below the graph.
+Extension to cyclic processes: work done per cycle = area of loop
+Expressions for work done are not required except for the constant pressure case, W  =  pΔV

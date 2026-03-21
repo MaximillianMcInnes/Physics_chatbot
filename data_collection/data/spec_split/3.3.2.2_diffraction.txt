@@ -1,0 +1,14 @@
+3.3.2.2 	Diffraction
+Content
+Opportunities for skills
+development
+Appearance of the diffraction pattern from a single slit using
+monochromatic and white light.
+Qualitative treatment of the variation of the width of the
+central diffraction maximum with wavelength and slit
+width. The graph of intensity against angular separation is
+not required.
+Plane transmission diffraction grating at normal incidence.
+Derivation of dsin= n
+Use of the spectrometer will not be tested.
+Applications of diffraction gratings.

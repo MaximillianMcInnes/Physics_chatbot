@@ -1,0 +1,11 @@
+3.13.6.2
+Transmission media (A-level only)
+Content
+Transmission-path media: metal wire, optic fibre, electromagnetic (radio, microwave).
+Ground wave, refraction and reflection of sky waves, diffraction of long-wavelength radiation around
+the Earth’s surface.
+Satellite systems and typical transmission frequencies.
+Students should recognise that up-links and down-links require different frequencies so that the
+receivers are not de-sensed.
+Advantages and disadvantages of various transmission media. Students should consider data
+transmission rate, cost, and security issues.

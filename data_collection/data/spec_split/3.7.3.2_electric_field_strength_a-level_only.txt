@@ -1,0 +1,23 @@
+3.7.3.2 	Electric field strength (A-level only)
+Content
+Opportunities for skills
+development
+Representation of electric fields by electric field lines.
+Electric field strength.
+E as force per unit charge defined by E = F
+Q
+Magnitude of E in a uniform field given by E = V
+d
+Derivation from work done moving charge between plates:
+Fd =  QΔV
+Trajectory of moving charged particle entering a uniform
+electric field initially at right angles.
+Magnitude of E in a radial field given by E =
+4𝀵𝀵0
+Q
+r2
+PS 1.2, 2.2 / AT b
+Students can investigate the patterns
+of various field configurations using
+conducting paper (2D) or electrolytic
+tank (3D).

@@ -1,0 +1,4 @@
+3.10.6.3
+Gamma camera (A-level only)
+Content
+Basic structure and workings of a photomultiplier tube and gamma camera.

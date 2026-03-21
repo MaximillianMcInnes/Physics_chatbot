@@ -1,0 +1,172 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.11 Wave–particle duality | PRINTED_PAGES: 30-33]
+
+2 Particles and radiation
+When an electron falls from one level to another energy is emitted in the form of a photon of radiation. The energy of this photon, and therefore its frequency and wavelength, is determined by the difference in energy between the two levels.
+photon energy = hf
+The frequency (f) of the photon emitted is related to the difference between the two levels (E1 − E2) by the equation:
+hf = E1 − E2
+Example
+Calculate the frequency of a photon produced by an electron transition between level 4 and level 2 in the hydrogen atom. (Planck constant, h = 6.63 × 10−34 J s)
+Answer
+E1 − E2 = (5.44 – 1.36) × 10−19 J = 4.08 × 10−19 J
+f =
+E1 − E2
+h
+= 4.08 × 10−19
+6.63 × 10−34 = 6.15 × 1014 Hz
+Radiation of this frequency has a wavelength of c f = 488 nm.
+Typical mistake
+Using eV and nm when finding the frequency and wavelength.
+Now test yourself
+9 Calculate the frequency and wavelength of a photon of radiation emitted due to an electron transition in a hydrogen atom between level 2 and level 1 (use Figure 2.26).
+Answer on p. 216
+Electron diffraction
+If electrons have wave properties they should show the characteristics of waves such as interference and diffraction. The fact that electron diffraction can be observed suggests that particles do have wave properties.
+The diagrams in Figure 2.27 show the effects produced by electron diffraction through a thin graphite sheet.
+(b) High accelerating voltage
+(a) Low accelerating voltage
+(a) Low accelerating voltage
+Figure 2.27 Electron diffraction rings
+Typical mistake
+Forgetting to convert eV to joules when calculating the wavelength and/or frequency of emitted radiation in a transition.
+2 Particles and radiation
+Electron diffraction is very good evidence for the wave nature of particles.
+If the accelerating voltage is increased the energy and momentum of the electrons is increased, and the diameter of a given ring gets less, showing a smaller angle of diffraction.
+The wave theory of particles suggests that this is because the electrons’
+wavelength has also decreased. This is exactly similar to the observation that blue light with a short wavelength and high energy is diffracted through a smaller angle than low-energy red light.
+The de Broglie wavelength
+Louis de Broglie proposed that a particle of mass m travelling with a velocity v would have a wavelength λ given by the equation:
+wavelength, λ = h mv where h is the Planck constant and mv is the momentum of the particle.
+The intensity of the wave at any point represents the probability of the particle being at that point.
+An electron accelerated through a potential difference of V volts will gain electrical energy (E = eV) and hence kinetic energy ½mv2. The wavelength associated with the electron at that energy is given by:
+electron wavelength, λ = 12.27 × 10−10
+√V
+An electron of high energy has a smaller wavelength than one of low energy.
+Example 1
+Calculate the wavelength associated with an electron that has been accelerated through a potential difference of 5 kV.
+Answer wavelength = 12.27 × 10−10
+√V
+= 12.27 × 10−10
+√5000
+= 1.74 × 10−11 m = 0.017 nm
+(Compare this value with that for yellow light — about 600 nm.)
+Strangely, whether a particle behaved like a particle or a wave seemed to be influenced by the nature of the experiment used.
+Example 2
+Calculate the wavelength of an electron emitted by a nucleus at 0.9 c.
+(mass of an electron travelling at this speed = 2.4 × 9 × 10−31 kg at this speed; c = 3 × 108 ms−1)
+Answer wavelength, λ =
+6.63 × 10−34
+2.4 × 9 × 10−31 × 3 × 108 = 1.0 × 10−12 m
+Revision activity
+Make a simple mind map of electron diffraction, showing in which part of the experiment the electrons’ wave properties predominate and where their particle properties predominate.
+2 Particles and radiation
+Now test yourself
+10 Calculate the wavelength associated with a proton moving at 107 m s−1. (mass of a proton =
+1.67 × 10−27 kg; Planck constant = 6.63 × 10−34 J s)
+Answer on p. 216
+Exam practice
+Use the following values where needed:
+speed of electromagnetic radiation in free space, c = 3 × 108 m s−1
+Planck constant, h = 6.63 × 10−34 J s
+1 The following equation represents the alpha emission from a uranium nucleus:
+92U → a b Th + 4
+2 α
+(a) What are the numbers a and b?
+[2]
+(b) What do they represent?
+[2]
+2 Which of the following combinations of alpha (α) and beta (β) particles can 214
+84Po emit and become another isotope of polonium?
+A
+α and 4β
+B α and 2β
+C
+α and β
+D 2α and β
+[1]
+3 (a) What are the four properties conserved in particle interactions?
+[4]
+(b) Explain whether the following reaction obeys nuclear conservation laws.
+[2]
+p + n → p + μ+ + μ−
+4 This question is about quarks.
+(a) How many quarks make up (i) a baryon, (ii) a meson?
+[2]
+(b) Write down the quark version of the decay of a neutron by beta-minus emission.
+[2]
+5 The quark composition of an antiproton is:
+A
+uud
+B ddu
+C
+u-u-d-
+D uu-d
+[1]
+6 ‘Photon’ is the name given to:
+A
+a unit of energy
+B an electron emitted from a metal surface by incident radiation
+C
+a positively charged atomic particle
+D a quantum of electromagnetic radiation
+[1]
+7 (a) (i)  What is meant by the ‘work function’ in the photoelectric effect?
+[2]
+(ii) Which electrons are emitted in the photoelectric effect?
+[1]
+(b) Radiation of wavelength 180 nm ejects electrons from a potassium plate whose work function is
+2.0 eV.
+(i) What is the maximum energy of the emitted electrons?
+[3]
+(ii) What is the maximum wavelength that will cause electron emission?
+[2]
+8 An electron makes a transition from level 4 (energy −0.85 eV) to level 3 (energy −1.5 eV) in a hydrogen atom.
+(a) Calculate the wavelength of the radiation emitted.
+[2]
+(b) Suggest in which region of the electromagnetic spectrum this radiation lies.
+[1]
+9 The wavelength of radiation emitted when an electron in an atom makes a transition from an energy state E1 to one of energy E2 is:
+A
+hc
+E2
+− hc
+E1
+B E1
+hc − E2
+hc
+C
+hc
+E1
+− hc
+E2
+D
+hc
+E2 − E1
+
+[1]
+2 Particles and radiation
+10 In an electron beam experiment the wavelength of an electron moving at 4.7 × 106 m s−1 was found to be 0.155 nm.
+(a) What value does this give for the rest mass of the electron? (At this speed relativistic effects can be ignored.)
+[2]
+(b) The beam of electrons is now diffracted using a graphite sheet. What effect would a decrease of electron accelerating voltage have on the diameter of the diffraction rings?
+[1]
+(c) What does the size of the diffraction rings and the wavelength of the electrons show about the spacing of the atoms in the graphite sheet?
+[2]
+Answers and quick quiz 2 online
+Summary
+You should now have an understanding of:
+● structure of the atom — atoms are composed of a nucleus of neutrons and protons with a cloud of electrons orbiting it
+● stable and unstable nuclei — some nuclei are unstable and will lose energy by the emission of a particle (alpha and/or beta) or electromagnetic radiation (a gamma ray)
+● particles, antiparticles and photons — all particles have their corresponding antiparticle;
+the Planck constant (h) is used to find the energy of a quantum of radiation
+● particle interactions — there are four fundamental forces (gravity, electromagnetic, weak and strong), each carried by its own exchange particle
+● classification of particles into hadrons
+(baryons and mesons) and leptons
+● quarks and antiquarks — the fundamental
+‘building blocks’ of hadrons; there are three types of quark — up, down and strange
+● conservation laws — charge, baryon number, lepton number and strangeness are conserved in all nuclear interactions
+● the photoelectric effect — the spontaneous emission of electrons from a surface due to incident radiation if its frequency is high enough
+● collisions of electrons with atoms – ionisation occurs when an electron is removed from an atom
+● an electron volt (eV) as a small unit of energy
+● energy levels and photon emission — when an electron ‘falls’ from one energy level to another radiation is emitted; the frequency of this depends on the size of the energy transition
+● wave–particle duality — particles can behave like waves and waves can behave like particles

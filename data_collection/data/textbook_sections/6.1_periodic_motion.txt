@@ -1,0 +1,454 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 6 Further mechanics and thermal physics | SECTION: 6.1 Periodic motion | PRINTED_PAGES: 114-124]
+
+6  Further mechanics and thermal physics
+Circular motion
+Motion in a circular path
+An object moves in a circle (Figure 6.1) at constant linear speed (v) and constant angular velocity (ω). The linear velocity is constantly changing because the direction of the linear motion is changing.
+average angular velocity (ωav) = θ
+t instantaneous angular velocity (ωinst) =
+θ
+∆
+∆t
+The angular velocity (ω) is measured in radians per second.
+linear velocity (v) = angular velocity (ω) × radius of the circle (r)
+period of the motion (T)
+π
+ω
+π
+=
+=
+r v
+=
+f number of revsper second ( )
+Angular speed can be written in terms of the frequency (f) of the motion as:
+angular speed (ω ) = v r  = 2π f
+Example
+Calculate the angular velocity of an object that makes:
+(a) 25 revs per second
+(b) 33.3 revs per minute
+(Give your answers in radians per second.)
+Answer
+(a) T = 1
+f  = 4 × 10−2 s
+ω = π
+T  =
+×
+−
+6.283
+10 2  = 157 rad s−1
+(b) T = 1
+f  = 60
+33.3  = 1.80
+ω = π
+T  = 6.283
+1.80  = 3.49 rad s−1
+Now test yourself
+1 An object moves at a constant speed of 5 m s−1 in an orbit of radius 3 m.
+(a) What is the period of the motion?
+(b) How many revolutions per second does the object make?
+(c) What is its angular velocity?
+(d) What is its angular acceleration?
+Answer on p. 219
+O
+r v v
+θ
+Figure 6.1 Motion in a circular path
+Exam tip
+In circular motion the angle of rotation is usually measured in radians rather than degrees. The radian is the angle subtended at the centre of a circle by an arc equal to the radius of the circle. Therefore 360° = 2π
+radians and so 1 radian (1c)
+is 57.3°.
+6  Further mechanics and thermal physics
+Centripetal acceleration and centripetal force
+An acceleration towards the centre of the circle occurs because the direction of the linear velocity is changing and is known as the centripetal acceleration.
+centripetal acceleration (a) = v r
+= ω 2r
+Since the mass is accelerating, there must be a force acting on it. This force acts towards the centre of the circle and is known as the centripetal force. Therefore, applying Newton’s second law gives:
+centripetal force (F) = mv r
+= mω 2r
+Example
+The force of friction between a certain car and the road is 10 000 N. If the mass of the car is 1000 kg what is the maximum speed at which it can take a corner of radius 40 m?
+Answer force = 10 000 =
+mv r
+= 1000
+v
+×
+v2 = 10000
+×
+= 400
+v = 20 m s−1
+Notice that it is the mass of the car that is used in the equation and not its weight. If the speed is greater than this maximum value, the frictional force will not be able to retain the original radius.
+Now test yourself
+2	 An object moves in a circle with a constant period. Which of the following correctly describes its motion?
+l constant speed l constant velocity l acceleration with constant magnitude l constant accelerating force
+3 A stone of mass 4 kg is tied to a string and swung in a horizontal circle of radius 2 m with a speed of 4 m s−1.
+(a) What is the centripetal force on the stone?
+(b) How many revolutions does the stone make every second?
+(c) In what direction will the stone move at the moment just after the string is cut?
+(d) What will the force become if the radius of the orbit is halved, with the speed of the stone remaining constant?
+Answers on p. 219
+Motion in a vertical circle
+If a bucket of water is whirled round in a circle the bucket and water are continually accelerating towards the middle of the circle. If the circle is in a vertical plane the water does not fall out if the bucket is moving at a sufficiently high velocity, because its centripetal acceleration will be greater than g.
+6 Further mechanics and thermal physics
+Space stations and artificial gravity
+The rotation of a space station is used to create the sensation of gravity at the rim. The ‘floor’ of a room in a rotating space station would be the outer edge of the space station, and the rotation rate to give an acceleration equal to Earth’s gravity (g) will vary depending on the size of the station:
+rotation rate (ω ) = g r
+Example
+An astronaut is spun in a horizontal centrifuge with a diameter of 6 m.
+What must his velocity be so that his maximum acceleration is 8g?
+(Take g = 9.81 m s−2)
+Answer acceleration due to circular motion = 8g = 78.48 m s−2
+centripetal acceleration =
+v r
+So:
+v = ar  =
+×
+78.48
+3  = 15.3 m s−1
+Now test yourself
+4 (a) Calculate the acceleration of a satellite orbiting the Earth in a circular orbit at a distance of
+42 000 km from its centre with an orbit time of 1 day (86 400 s).
+(b) What might such a satellite be used for?
+Answer on p. 219
+Carousel fairground rides
+The angle (θ) that the wires make with the vertical and the radius of their
+‘orbit’ (r) depends on the angular velocity (ω) alone and not the mass of the chairs.
+tan θ =
+r g
+ω
+Simple harmonic motion acceleration (a) = −kx where k is a constant and x is the displacement of the body from the fixed central point (O) at any time t.
+Note that the maximum speed occurs at the centre of the oscillation while the maximum acceleration occurs at the two ‘ends’ of the oscillation (maximum displacement).
+The maximum displacement of the body on either side of its central position is called the amplitude (A). The period of the motion (T) is the time it takes for the body to make one complete oscillation.
+The frequency (f) is the number of complete oscillations per second, or 1/T.
+Exam tip
+Make sure that you use the correct SI units.
+Typical mistake
+Not remembering to use the radius instead of the diameter for circular motion calculations.
+A body is undergoing simple harmonic motion (SHM —
+Figure 6.2) if it has an acceleration that is:
+l directed towards a fixed point, and l proportional to the displacement of the body from that point.
+6  Further mechanics and thermal physics
+O
+A
+a b c
+A
+x m acceleration = –kx
+Figure 6.2 Simple harmonic motion
+Simple harmonic motion equations
+The equation for SHM is usually written as:
+acceleration (a) = −ω 2x where ω is a constant (= 2πf ), and x is the displacement of the body from the fixed point (O) at any time t. The value of ω depends on the particular system of oscillation.
+l	 acceleration (a) = −ω 2x l	 displacement from fixed point (x) = A cos ωt  x = A when t = 0
+l	 velocity and acceleration:
+v = Aω  sin ωt and a = −Aω 2 cos ωt l	 velocity (v) = ±ω A
+x
+−
+l	 period (T) = 2π
+ω
+l	 maximum speed = ωA (when x = 0)
+l	 maximum acceleration = ω 2A (when x = ±A)
+Example
+A body oscillates with simple harmonic motion with an amplitude of
+12 cm and a frequency of 20 Hz. Calculate:
+(a) the maximum acceleration of the mass
+(b) the maximum velocity of the mass
+(c) the displacement from the centre 0.02 s after leaving one end of the oscillation
+(d) the velocity 0.02 s after leaving one end of the oscillation
+Answer
+(a) x = A = 0.12 m a = −ω 2x
+ω = 2πf
+So ω = 127 rad s−1
+a = −1272 × 0.12 = −1.94 × 103 m s−2
+(b) v = rω = 0.12 × 127 = 15.2 m s−1
+(c) displacement from one end = A cos ωt = 0.12 cos(127 × 0.02) = 0.1 m
+(d) velocity = Aω  sin ωt = 0.12 × 127 × sin(127 × 0.02) = 8.63 m s−1
+Now test yourself
+5 A body oscillates with simple harmonic motion. The displacement (x) from the centre of the oscillation at a time t (measured from when the object is in the centre) is x = 0.03 sin(2πt/3). (All numerical values are in the appropriate SI units.)
+(a) What is the amplitude of the motion?
+(b) What is the period of the motion?
+(c) What is the frequency of the motion?
+(d) Calculate the displacement 0.5 s after the object passes the mid point of the oscillation
+Answer on p. 219
+Exam tip
+The value of t is measured with t = 0 being taken at one end of the oscillation
+(maximum displacement)
+and not the centre.
+6  Further mechanics and thermal physics
+Simple harmonic motion graphs
+Velocity is the gradient of the displacement–time graph. Acceleration is the gradient of the velocity–time graph (Figure 6.3).
+Acceleration and time a t a = −Aω  cos  ωt
+Note: These graphs show x = A when t = 0
+Displacement and velocity
+ω = 1
+ω > 1
+x v
++A
+−A
+Displacement and time a x = A cos ωt x t
+Velocity and time a v = −Aω sin ωt v t
+Acceleration and displacement a
++ω2A
+−ω2A
++A
+−A
+x
+Figure 6.3 Simple harmonic motion graphs
+Now test yourself
+6 At what points of the oscillation shown in Figure 6.2 is:
+(a) the displacement of the mass numerically greatest
+(b) the velocity of the mass numerically greatest
+(c) the velocity of the mass numerically least
+(d) the acceleration of the mass numerically least
+(e) the acceleration of the mass numerically greatest?
+Answer on p. 219
+Simple harmonic systems
+The helical spring
+A mass m is suspended at rest from a helical (spiral) spring (Figure 6.4)
+such that the extension produced is e. If the spring constant is k we have:
+mg = ke. Units for k = newtons per metre (N m−1).
+If the mass is then pulled down a small distance x and released, the mass will oscillate due to both the effect of the gravitational force downwards
+(mg) and the varying upward force from the spring (k(e + x)).
+The resulting acceleration of the mass (a) is −kx/m. This shows that the acceleration is directly proportional and oppositely directed to the displacement, and so the motion is simple harmonic.
+From the defining equation for simple harmonic motion (a = −ω 2x) we have ω 2 = k/m = g/e and therefore the period of the motion T for a helical spring is given by:
+period (T) = 2π
+m k  = 2π
+e g where g is the gravitational acceleration.
+e x m
+Figure 6.4 The helical spring
+6  Further mechanics and thermal physics
+Example
+A mass of 0.4 kg oscillates with simple harmonic motion with an amplitude of 5 cm and a frequency of 100 Hz. Calculate:
+(a) the period of motion of the mass
+(b) the maximum acceleration of the mass
+(c) the maximum velocity of the mass
+Answer
+(a) period of motion (T) = 1
+f  = 1
+100  = 0.01 s
+(b) a = −ω 2A
+ω = 2πf so ω = 628.3 radian s−1
+a = −628.32 × 0.05 = −1.97 × 104 m s−2
+(c) v = Aω = 0.05 × 628.3 = 31.42 m s−1
+Exam tip
+The displacement when the mass is released in the above example will be the amplitude of the resulting motion.
+Now test yourself
+7 An elastic spring extends by 1 cm when a small mass is attached at the lower end. If the weight is pulled down by 0.25 cm, calculate the period of the resulting motion. (g = 9.8 m s−2)
+8 An elastic spring has a spring constant of 2.5 N m−1. Calculate the mass supported by the spring if the resulting period of motion is 2 s.
+Answers on p. 219
+The simple pendulum
+A simple pendulum of length L with a mass m attached to the lower end is displaced through an angle θ from the vertical (Figure 6.5). The restoring force F is the component of the weight of the bob towards the equilibrium position.
+period of a simple pendulum (T) = 2π
+L
+g
+Note that the period of a simple pendulum does not depend on the mass of the bob. This formula is only accurate for small angles of swing.
+θ
+Length (L)
+Tension (T)
+Weight (mg)
+Figure 6.5 The simple pendulum
+Typical mistake
+Not remembering that for a complete oscillation the system must return to the exactly the same conditions as those at the start of the oscillation.
+Exam tip
+A simple pendulum is one with a ‘weightless’ string, so that all the mass of the pendulum is concentrated in the pendulum bob.
+6  Further mechanics and thermal physics
+Example
+What is the length of a simple pendulum that would have a period of
+2 s? (g = 9.8 m s−2)
+Answer period of a simple pendulum (T) = 2π L
+g
+So:
+L =
+gT
+π
+= 9.8 ×
+π
+= 9.8
+π
+= 1.0 m
+Exam tip
+You should quote your answer with the correct units and give some comments about the accuracy and problems in your experiment.
+Now test yourself
+9 If a pendulum clock is taken to the top of the mountain does it gain or lose? Explain your answer.
+10 Calculate the period of a simple pendulum of length 25 cm on the surface of Mars where g = 3.8 m s−2.
+Answers on p. 219
+Required practical 7
+Investigation into simple harmonic motion using a mass–spring system and a simple pendulum
+Mass–spring system
+For a range of values of masses on the spring from about 0.1 kg to 0.7 kg measure the extension of the spring (e) and the period of oscillation (T). The value for T should be found by measuring ten oscillations
+(10 T) and then the time for one worked out.
+Check that the spring will return to its original length after each load is added, by removing that load.
+For each mass calculate the value of T2. Plot a graph of e against T2 and hence determine g using the graph and the formula T 2 = π
+2e g .
+A best-fit line should always be plotted — this does not necessarily include the first or last point.
+However, in this experiment, the line must go through (0, 0) because with no load the period would be zero.
+Simple pendulum
+A simple pendulum can be used to measure the acceleration due to gravity (g). A pendulum bob is tied to the end of a thread, which is suspended from a clamp. The length of the pendulum is measured and then the bob is displaced though a small distance and the time for ten oscillations (10 T) is recorded. From this the period (T) can be calculated, and hence T 2. The period is then measured for a series of different values of L (from 0.2 m to 1.2 m) and a graph plotted of T 2 against L.
+The gradient of this graph is equal to π
+g . Therefore:
+π
+= 4
+g
+L
+T
+As with the spring, a best-fit line should always be plotted — this does not necessarily include the first or last point.
+6  Further mechanics and thermal physics
+Energy considerations in simple harmonic motion
+The kinetic energy of any body of mass m and velocity v is  ½mv2.
+So, in simple harmonic motion:
+kinetic energy (EK) = ½mω 2(A2 − x2)
+Now the maximum value of the kinetic energy will occur when x = 0, and this will be equal to the total energy of the body. Therefore:
+total energy = ½mω 2A2
+Therefore, since potential energy = total energy – kinetic energy, the potential energy at any point will be given by:
+potential energy (EP) = ½mω 2x2
+Graphs of the variation of potential energy, kinetic energy and the total energy are shown in Figure 6.6.
+Total energy
+(a) Variation of energy with distance
+(b) Variation of energy with time
+−A
+x
++A
+Kinetic energy
+Potential energy
+Energy kA2
+Time
+T
+T
+Total energy
+Potential energy
+Kinetic energy
+Figure 6.6 Energy in simple harmonic motion
+Example
+A mass of 0.3 kg is suspended on a helical spring. When displaced through a vertical distance of 8 cm and released, it oscillates with a frequency of 10 Hz. Calculate:
+(a) the period of motion of the mass
+(b) the velocity of the mass 0.5 s after release from its lowest point
+(c) the kinetic energy of the mass at this point
+Answer
+(a) Period of motion (T) = 1
+f  = 1
+= 0.1 s
+(b) ω = 2π f = 2π × 10 = 6.28 rad s−1
+velocity = Aω sin (ω t) = 0.08 × 6.28 × sin (6.28 × 0.05)
+= 0.08 × 6.28 × 0.00055 = 0.00275 m s−1
+(c) kinetic energy = −½mv2 = ½ × 0.3 × 0.002752
+= 1.13 × 10−6 J
+Typical mistake
+Not remembering to convert centimetres to metres when calculating energy in joules.
+6  Further mechanics and thermal physics
+Now test yourself
+11 A trolley of mass 1.5 kg is placed on a horizontal, frictionless surface and attached to two supports by helical springs so that it can oscillate with simple harmonic motion. If the horizontal distance between the two ends of the motion is 30 cm and the period is 1.8 s:
+(a) Calculate the maximum kinetic energy of the trolley during the motion.
+(b) State at which point in the oscillation this occurs.
+Answer on p. 219
+Forced vibrations and resonance
+Free, damped and forced oscillations
+There are three main types of simple harmonic motion: free, damped and forced oscillations.
+Free oscillations
+In free oscillations (Figure 6.7) the amplitude remains constant as time passes — there is no damping. In other words there is no loss of energy from the oscillator to the surroundings. This type of oscillation will only occur in theory, because in practice there will always be some energy transfer.
+Time
+Displacement
+Amplitude
+Figure 6.7 Free oscillations
+Damped oscillations
+Damping (Figure 6.8) means a loss of energy from the oscillator to the surroundings. This produces a decreasing amplitude and varying period due to external or internal damping forces.
+Damping can occur as:
+l	 natural damping, for example internal forces in a spring, and fluids exerting a viscous drag l	 artificial damping, for example electromagnetic damping in galvanometers and top-pan balances, the coating of panels in cars to reduce vibrations, and shock absorbers in cars
+Exam tip
+Make sure that you use the correct SI units.
+6  Further mechanics and thermal physics
+Displacement
+Time
+Damped motion
+Figure 6.8 Damped simple harmonic motion
+Forced oscillations
+These are vibrations that are driven by an external force. A simple example is a child’s swing: as you push it, the amplitude increases. A
+loudspeaker is also an example of forced oscillation; it is made to vibrate by the varying force between the field produced by the current in the speaker coil and that of a fixed magnet.
+Resonance
+Forced vibrations can also show another very important effect. With a child’s swing, you will find that if you push in time with the natural frequency of the swing then the oscillations build up rapidly. This last fact is an example of resonance.
+All systems have their own natural frequency. If you apply a driving force of the same frequency as the natural frequency and in phase with the initial oscillations, then resonance results — the amplitude of the oscillations gets larger and larger.
+No mechanical system will vibrate at only its resonant frequency —
+harmonic oscillations will also occur. The amount of damping of a system affects the shape of the resonance curve. (Figure 6.9).
+Resonant frequency (f0)
+Heavy damping —
+broad resonance peak — e.g.
+blowing across the top of a bottle
+Light damping —
+sharp resonance peak — e.g.
+tuning
+Amplitude
+Frequency of driving force (f )
+Figure 6.9 Resonance curves for different levels of damping
+Exam tip
+Heavily damped systems give broad resonance curves while lightly damped systems give sharply peaked resonance curves.
+Revision activity
+Make a mind map about the differences in resonance for a variety of oscillating systems.
+6  Further mechanics and thermal physics
+Exam practice
+1 An astronaut is travelling round the Earth in a circular orbit where the acceleration due to gravity is g′.
+His acceleration towards the Earth is:
+A
+2g′
+B  g′
+C  zero
+D  −g
+[1]
+2 A heavy mass attached to a light, inextensible string moves in a horizontal circle at a constant speed.
+Which of the following is true?
+[1]
+A
+The mass is not subject to any accelerating force.
+B The kinetic energy of the mass is constant.
+C
+If the string is cut, the mass would move outwards radially.
+D The angular momentum of the mass varies sinusoidally.
+3 A stone of mass 4 kg is tied to a string and swung in a horizontal circle of radius 2 m, with a speed of
+4 m s−1.
+(a) What is the force on the stone?
+[2]
+(b) How many revolutions does the stone make every second?
+[2]
+(c) In what direction will the stone move if the string is cut?
+[1]
+(d) What will the force become if the radius of the orbit is halved?
+[1]
+4 An astronaut is spun in a vertical centrifuge with a radius of 3 m. What must his velocity be so that his maximum acceleration is 7 g? (Take g = 9.8 m s−2)
+[3]
+5	 Show that when a ball is swung in a vertical circle on a piece of string, at a constant linear velocity, the minimum velocity of the ball such that the tension in the string is zero:
+(a) occurs at the top of the circle
+[2]
+(b) is independent of the mass of the ball
+[1]
+(c) is equal to √r g, where g is the gravitational acceleration and r is the radius of the circular orbit
+[1]
+6 Which of the following are simple harmonic motion? Explain your answers.
+(a) the vibration of a tuning fork
+[1]
+(b) an elastic super ball bouncing on the ground
+[1]
+(c) a large rectangular box, resting on the floor, that is slightly tilted and then released
+[1]
+(d) a trampolinist bouncing up and down on a trampoline
+[1]
+(e) a simple pendulum
+[1]
+(f) a mass fixed to a helical spring oscillating up and down
+[1]
+(g) a ball being swung round in a horizontal orbit on the end of a piece of string
+[1]
+7 A particle oscillates with simple harmonic motion with a period of 2 s. If its maximum velocity is
+0.4 m s−1 calculate:
+(a) its velocity when its displacement is half the amplitude
+[2]
+(b) its acceleration when its displacement is one quarter of the amplitude
+[2]
+8 If a simple pendulum with a period of 2.00 s on the surface of the Earth (g = 9.8 m s−2) were taken to the surface of the Moon where the gravitational acceleration is 1.62 m s−2, what would be the value of its period?
+A 2.00 s
+B  1.62 s
+C  4.90 s
+D  6.05 s
+[1]
+9 The period of a certain simple pendulum is 2.0 s and the mass of the pendulum bob is 50 g. The bob is pulled aside through a horizontal distance of 8 cm and then released. Find the displacement and kinetic energy of the bob 0.7 s after its release.
+[3]
+10 Discuss why the separation of ‘rumble strips’ placed across a road might be important.
+[2]
+Answers and quick quiz 6 online
+Now test yourself
+12 When pushing a swing, if the driving force has a frequency half that of the resonant frequency, will resonance result? Explain your answer.
+Answer on p. 219

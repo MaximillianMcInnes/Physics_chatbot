@@ -1,0 +1,21 @@
+3.11.2.5
+Second Law and engines (A-level only)
+Content
+Impossibility of an engine working only by the First Law.
+Second Law of Thermodynamics expressed as the need for a heat engine to operate between a
+source and a sink.
+efficiency = W
+QH =
+QH −QC
+QH
+maximum theoretical efficiency =
+TH − TC
+TH
+source at TH
+QH
+QC
+at TC
+W
+sink
+Reasons for the lower efficiencies of practical engines.
+Maximising use of W and QH for example in combined heat and power schemes.

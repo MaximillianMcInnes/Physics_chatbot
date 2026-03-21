@@ -1,0 +1,14 @@
+3.8.1.7 	Induced fission (A-level only)
+Content
+Opportunities for skills
+development
+Fission induced by thermal neutrons; possibility of a chain
+reaction; critical mass.
+The functions of the moderator, control rods, and coolant in
+a thermal nuclear reactor.
+Details of particular reactors are not required.
+Students should have studied a simple mechanical model of
+moderation by elastic collisions.
+Factors affecting the choice of materials for the moderator,
+control rods and coolant. Examples of materials used for
+these functions.

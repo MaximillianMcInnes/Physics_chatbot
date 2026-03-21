@@ -1,0 +1,169 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 9 Astrophysics | SECTION: 9.1 Telescopes | PRINTED_PAGES: 192-197]
+
+9  Astrophysics
+Astronomical refracting telescope
+The main purposes of a telescope used for astronomy are:
+l	 to gather as much light as possible — this is done by using a large aperture lens or mirror. The amount of light gathered depends on the area of the lens or mirror.
+l	 to resolve fine detail — this is also done by using a large aperture lens or mirror. The larger the aperture the finer the detail that can be seen.
+l	 to magnify the image of a distant object — this is done by using a lens or mirror with a long focal length.
+Astronomical refracting telescope in normal adjustment
+Figure 9.1 shows an astronomical refracting telescope. A simple astronomical refractor is usually adjusted so that the final image is at infinity. This is known as normal adjustment.
+Rays from top of object
+Rays from bottom of object
+Objective lens
+Initial image position
+Eye lens
+Final image at infinity fo fe
+Figure 9.1 Astronomical refracting telescope
+The magnification of a telescope in normal adjustment can be worked out from the formula:
+angular magnification =
+focal length of the objective (fo)
+focal length of the eyepiece lens (fe)
+Angular magnification
+Angular magnification is related to the increase in the angular size of an image compared with that of the object from which it was produced.
+angular magnification =
+angle subtended by image at the eye (β)
+angle subtended by the object at an unaided eye (α)
+(See Figure 9.2.)
+Exam tip
+The power of a lens is 1/f where f is the focal length in metres.
+9  Astrophysics
+α
+α
+β
+β
+β
+I
+Rays from top of object
+β
+α
+Angular magnification =
+Figure 9.2 Angular magnification of a telescope
+Example
+Calculate the magnification of a telescope with an objective of focal length 1200 mm using two different eyepieces of focal length:
+(a) 25 mm
+(b) 10 mm
+Answer
+(a) magnification = 1200
+25  = 48×
+(b)  magnification = 1200
+10  = 120×
+Warning: Never look directly at the Sun, especially when using a telescope or binoculars. Blindness is likely to result.
+Now test yourself
+1 You have a telescope with an objective lens of 150 cm focal length.
+You wish to use an eyepiece to give a magnification of 1000×. What focal length of eye lens should you use?
+2 The Moon has a diameter of about 3500 km and is about 400 000 km from the Earth. What is the angle in radians that the Moon subtends to an observer on the Earth? What is this in degrees?
+Answer on p. 222
+Reflecting telescope
+All mirrors used in astronomical telescopes are silvered on the front surface, otherwise the light would pass through the glass and result in colour distortion and multiple images. The metal used is actually aluminium, vaporised onto the surface of the glass in a vacuum. It does not reflect quite so well as silver but is better over the complete range of wavelengths of visible light.
+The curvature of the mirrors is usually accurate to within one eighth of a wavelength of green light.
+Exam tip
+The objective lens of a telescope has a long focal length while the eyepiece lens has a short focal length.
+9  Astrophysics
+Cassegrain reflector
+The Cassegrain reflecting telescope (Figure 9.3) has an eyepiece below the main mirror, which means that much heavier detection equipment can be fitted here. The primary (objective) mirror is large and concave;
+the secondary mirror is small and convex. The secondary mirror does not affect the quality of the image — the small amount of light that it interrupts is negligible compared with the total amount received by the main mirror.
+Secondary mirror
+Eye lens
+Primary mirror
+Figure 9.3 Cassegrain reflector
+Comparison between refractors and reflectors
+Disadvantages of a refracting telescope l	 The lenses are made of glass and because the light has to go through them the glass must be perfect with no internal air bubbles.
+l	 The lenses can only be supported around their edges but this is where they are thinnest and weakest.
+l	 Lenses suffer from colour distortion — this means that when white light passes through them it is split into the colours of the spectrum.
+Because violet light refracts more than red light it is brought to a focus closer to the lens than the red light, which makes the image coloured and blurred. This effect is called chromatic aberration (Figure 9.4).
+Figure 9.4 Chromatic aberration (much exaggerated)
+9  Astrophysics
+Disadvantages of a reflecting telescope l	 Rays close to the axis of the mirror are brought to a focus at one point but those far from the axis meet at a range of different points. The effective focal length varies for rays at different distances from the axis
+(Figure 9.5). This is called spherical aberration and the locus of the focal points is known as a caustic curve. This defect means that large, spherical mirrors are not good for giving a focused image over a wide field of view.
+(a)
+F
+(b)
+Caustic curve
+Figure 9.5 Spherical aberration (much exaggerated)
+Advantages of a reflecting telescope l	 The glass of the mirror does not have to be perfect throughout — only to have a perfect surface.
+l	 The mirror can be supported across the whole of its back.
+l	 It does not suffer from the colour defects of chromatic aberration.
+For these reasons all the really large telescopes in the world today are reflectors. The largest ones have mirrors up to 10 m in diameter.
+Sites for an observatory
+Land-based telescopes are best placed in observatories on the tops of mountains, for the following reasons:
+l	 They are above dust and other types of atmospheric pollution.
+l	 They are above low cloud, mist and fog.
+l	 They are far from light pollution from large centres of population.
+l	 The air is thinner and so there is less atmospheric absorption.
+l	 There are fewer convection currents in the air, so the image does not suffer so much from image shake.
+The Hubble Space Telescope is in an even better position — there is no atmospheric absorption at all in space.
+Telescopes using other wavelengths
+Single-dish radio telescopes
+Radio telescopes operate at radio wavelengths that are considerably longer than optical wavelengths. For example, interstellar hydrogen both in our galaxy and other galaxies emits at a wavelength of 21 cm and radio telescopes are designed to detect this.
+Exam tip
+Reflecting telescopes can be made larger than refractors.
+9  Astrophysics
+This longer operating wavelength has a number of implications for radio telescopes:
+l	 At 21 cm the Earth’s atmosphere absorbs a different proportion of the radiation.
+l	 Radio telescopes can be used in the daytime.
+l	 To get good resolving power a radio telescope must be very large. To achieve the same resolving power as its optical counterpart a radio telescope would have to be 50 000 times larger (see below).
+l	 The surface of a radio telescope does not need to be so ‘smooth’ as that of an optical mirror. Accuracies of ±0.005 m are quite acceptable, compared with ±0.000 000 1 m for the optical mirror surface.
+Large-diameter objectives and CCD devices
+Resolving power of telescopes
+All telescopes give images that are affected by diffraction at the objective lens or mirror. This is especially important in astronomy where the images of two stars that are apparently very close together need to be separated (Figure 9.6). The aperture of the telescope needs to be as large as possible to give as little diffraction as possible and so give the telescope a high resolving power.
+Intensity
+Source 2
+Source 1
+Figure 9.6 Resolution of two images in a telescope
+Rayleigh criterion
+This states that for two images of equal intensity to be resolved the central maximum of one diffraction pattern must fall no closer than the first minimum to the centre of the second diffraction pattern (Figure 9.6).
+For a circular aperture and a small angle, the smallest resolvable angle
+θ (in radians) using a telescope of aperture (diameter) d operating at a wavelength λ is:
+1.22
+d d
+θ
+λ
+λ
+=
+≈
+Higher resolution is therefore possible with large apertures and with short-wavelength radiation such as ultraviolet light or X-rays.
+Exam tip
+Radio telescopes have a much lower resolving power than those using visible light.
+9  Astrophysics
+Example
+The resolving power of a lens or mirror is 1.22λ/d where λ is the wavelength used and d is the aperture.
+What aperture would be needed to give a resolving power of 10−3
+radians (about 3 minutes of arc) using:
+(a) a radio telescope operating at 20 cm wavelength
+(b) an optical reflector operating at 600 nm wavelength?
+Answer
+(a) radio telescope aperture = 1.22
+0.2
+10 3
+×
+−
+= 244 m
+(b) optical telescope aperture = 1.22
+×
+×
+−
+−
+= 0.00073 m = 0.73 mm
+The largest radio telescope in the world is the Arecibo telescope in Puerto
+Rico. It is 300 m across and is built between some small hills that form a roughly parabolic valley. The valley floor is paved with almost 40 000
+aluminium panels, which act as the mirror.
+Now test yourself
+3	 (a) What is maximum resolving power of an amateur astronomer’s 15 cm reflector in the visible range
+(400–700 nm)?
+(b) Why will the actual resolving power be less when used to ‘separate’ the images of the components of a double star?
+Answer on p. 223
+The charge-coupled device (CCD)
+A charge-coupled device (CCD) as used in astronomy is a sensitive semiconductor device that replaces traditional photographic film for recording images of astronomical objects.
+The imaging area, or chip, in the CCD is composed of ‘cells’ made of thin layers of silicon. As light falls on a cell’s surface a charge is built up. The charge depends on the total energy of the light that falls on the cell during the exposure. Therefore the longer the exposure and the brighter the light the more charge is built up on the individual cell.
+The cells are scanned electronically and a digital version of the image is built up. This can be downloaded to a computer for processing by the appropriate software.
+The imaging area of a CCD camera consists of a grid of a large number of these cells or pixels. Cameras with over 100 million pixels on the chip are extensively used by astronomers to take long-exposure images. The chip is typically about 10 mm × 5 mm and so each pixel has an area of roughly
+2.5 × 10−5 mm.
+A CCD has many advantages:
+l	 The chips can be used many times.
+l	 They are becoming relatively cheap.
+l	 Unwanted exposures can be discarded.
+l	 Each image taken can be viewed more or less immediately.
+l	 CCD devices can also be made sensitive to radiation outside the visible spectrum.
+Exam tip
+Do not forget to use SI units in all calculations.

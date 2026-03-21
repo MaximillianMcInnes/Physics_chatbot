@@ -1,0 +1,9 @@
+3.10.6.1
+Imaging techniques (A-level only)
+Content
+Use of a gamma-emitting radioisotope as a tracer; technetium-99m, iodine-131 and indium-111 and
+their relevant properties.
+The properties should include the radiation emitted, the half-life, the energy of the gamma radiation,
+the ability for it to be labelled with a compound with an affinity for a particular organ.
+The Molybdenum-Technetium generator, its basic use and importance.
+PET scans.

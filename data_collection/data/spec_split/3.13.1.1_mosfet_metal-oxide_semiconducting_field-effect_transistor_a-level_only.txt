@@ -1,0 +1,8 @@
+3.13.1.1
+MOSFET (metal-oxide semiconducting field-effect transistor) (A-level only)
+Content
+Simplified structure, behaviour and characteristics.
+Drain, source and gate.
+V DS, V GS, IDSS, and V th
+Use as a switch, use as a device with a very high input resistance.
+Use in N-channel, enhancement mode only is required.

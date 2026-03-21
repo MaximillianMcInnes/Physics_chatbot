@@ -1,0 +1,15 @@
+3.3.1.1 	Progressive waves
+Content
+Opportunities for skills
+development
+Oscillation of the particles of the medium;
+amplitude, frequency, wavelength, speed, phase, phase
+difference, c = f       f = 1
+T
+Phase difference may be measured as angles (radians and
+degrees) or as fractions of a cycle.
+PS 2.3 / MS 0.1, 4.7 / AT a, b
+Laboratory experiment to determine
+the speed of sound in free air using
+direct timing or standing waves with a
+graphical analysis.

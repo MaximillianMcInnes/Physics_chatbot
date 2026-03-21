@@ -1,0 +1,13 @@
+3.7.5.3 	Magnetic flux and flux linkage (A-level only)
+Content
+Opportunities for skills
+development
+Magnetic flux defined by = BA where B is normal to A.
+Flux linkage as N where N is the number of turns cutting
+the flux.
+Flux and flux linkage passing through a rectangular coil
+rotated in a magnetic field:
+flux linkage N= BANcos
+Required practical 11: Investigate, using a search coil and
+oscilloscope, the effect on magnetic flux linkage of varying
+the angle between a search coil and magnetic field direction.

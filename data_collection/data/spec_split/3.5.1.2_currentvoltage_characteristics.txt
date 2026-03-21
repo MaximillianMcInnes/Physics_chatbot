@@ -1,0 +1,13 @@
+3.5.1.2 	Current–voltage characteristics
+Content
+Opportunities for skills
+development
+For an ohmic conductor, semiconductor diode, and
+filament lamp.
+Ohm’s law as a special case where I ∝V under constant
+physical conditions.
+Unless specifically stated in questions, ammeters and
+voltmeters should be treated as ideal (having zero and
+infinite resistance respectively).
+Questions can be set where either I or V is on the horizontal
+axis of the characteristic graph.

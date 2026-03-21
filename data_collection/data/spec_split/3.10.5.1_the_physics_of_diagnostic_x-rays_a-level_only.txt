@@ -1,0 +1,7 @@
+3.10.5.1
+The physics of diagnostic X-rays (A-level only)
+Content
+Physical principles of the production of X-rays; maximum photon energy, energy spectrum;
+continuous spectrum and characteristic spectrum.
+Rotating-anode X-ray tube; methods of controlling the beam intensity, the photon energy, the image
+sharpness and contrast, and the patient dose.

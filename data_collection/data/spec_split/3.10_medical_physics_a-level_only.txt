@@ -1,0 +1,6 @@
+3.10 	Medical physics (A-level only)
+Students with an interest in biological and medical topics are offered the opportunity to study some of
+the applications of physical principles and techniques in medicine. The physics of the eye and ear as
+sensory organs is discussed. The important and developing field of medical imaging, with both non-
+ionising and ionising radiations is considered. Further uses of ionising radiation are developed in a
+section on radiation therapy.

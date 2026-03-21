@@ -1,0 +1,16 @@
+3.13.3.1
+LC resonance filters (A-level only)
+Content
+Resonant frequency, f 0 =
+2π LC
+Only parallel resonance arrangements are required.
+Analogy between LC circuit and mass–spring system.
+Inductance as mass analogy.
+Capacitance as spring analogy.
+Derivation of the equation is not required.
+Energy (voltage) response curve.
+The response curve for current is not required.
+Q factor, Q =
+f 0
+f B
+f B is the bandwidth of the filter at the 50% energy points.

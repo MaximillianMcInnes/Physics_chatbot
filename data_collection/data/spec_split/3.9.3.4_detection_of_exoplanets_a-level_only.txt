@@ -1,0 +1,6 @@
+3.9.3.4 	Detection of exoplanets (A-level only)
+Content
+Difficulties in the direct detection of exoplanets.
+Detection techniques will be limited to variation in Doppler shift (radial velocity method) and the
+transit method.
+Typical light curve.

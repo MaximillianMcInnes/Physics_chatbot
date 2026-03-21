@@ -1,0 +1,139 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.9 Bulk properties of solids | PRINTED_PAGES: 83-87]
+
+4 Mechanics and materials
+Example 2
+A lorry of mass 2000 kg moving at 10 m s−1 on a horizontal surface is brought to rest in a distance of 12.5 m by the brakes being applied.
+(a) Calculate the average retarding force (F).
+(b) What power must the engine produce if the lorry is to travel up a hill of 1 in 10 at a constant speed of 10 m s−1 the frictional resistance being 200 N?
+Answer
+(a)  kinetic energy of lorry = ½ × 2000 × 100 = 105 J = F × 12.5
+Therefore F = 8000 N
+(b)   On the hill, height risen per second = 1 m and distance travelled along the slope = 10 m.
+potential energy gained by lorry per second (taking g = 9.8 N kg−1) =
+2000 × 9.8 × 1 = 19 600 J
+work done against friction per second = 200 × 10 = 2000 J
+total energy required per second = 21 600 W = 21.6 kW
+Exam tip
+Remember that both gravitational energy and kinetic energy are scalars.
+Now test yourself
+21 What is the maximum speed at which an earth-mover of mass 250 000 kg can descend a slope of 1 in
+10 if the brakes can dissipate energy at a maximum rate of 2000 kW? (g = 9.8 N kg−1)
+22 A lift has a mass of 400 kg. A man of mass 70 kg stands on a weighing machine fixed to the floor of the lift. Four seconds after starting from rest the lift has reached its maximum speed and has risen 5 m.
+(a) What will be the reading on the weighing machine during the period of acceleration?
+(b) How may it be decided whether the acceleration was uniform?
+(c) How much energy will be used by the lift motor in:
+(i) the fi rst four seconds
+(ii) the next four seconds?
+Answers on p. 217
+Density
+The mass of individual atoms and how closely they are packed together can be ‘felt’ on an everyday level — it is called the density of the material.
+density, ρ = mass volume = m
+V
+4 Mechanics and materials
+Example
+A statue has a volume of 5 × 10−4 m3 and a mass of 4.75 kg. It has been made of copper (density 8930 kg m−3) with a layer of silver (density
+10 500 kg m−3) on top. What are the masses of copper and silver in the statue?
+Answer mass = volume × density
+4.75 = ρCuVCu + ρAgVAg = 8930 VCu + 10 500 VAg
+But VCu + VAg = 5 × 10−4 and therefore 4.75 = 8930 VCu + 10 500(5 × 10−4 − VCu).
+Therefore:
+VCu = 0.5
+= 3.18 × 10−4 m3
+So:
+VAg = 1.82 × 10−4 m3
+mass of copper = 8930 × 3.18 × 10−4 = 2.84 kg mass of silver = 1.91 kg
+Exam tip
+Remember to use the correct SI units when calculating and expressing density.
+Now test yourself
+23 3 mg of gas are injected into the vacuum chamber of a fusion reactor. The volume of the chamber containing the gas is 3.75 m3. What is the density of the gas under these conditions?
+Answer on p. 217
+Hooke’s law and the elastic limit
+The simplest form of variation of the extension of a metal wire when a stretching force is applied to it is known as Hooke’s law. It relates the applied force (F), or load, to the increase in length, or extension (ΔL), of the object.
+Hooke’s law states that if the elastic limit is not exceeded the extension is directly proportional to the applied force — doubling the force will double the extension.
+force = constant × extension
+F = kΔL
+The constant k is known as the elastic constant for the material and is defined as F/ΔL. The units for k are N m−1.
+If a graph of force is plotted against extension a straight line will be obtained up to a certain point called the elastic limit (shown as P on the graph in Figure 4.33). Up to the elastic limit the wire behaves elastically
+— that is, it will return to its original length if the load is removed.
+Beyond the elastic limit the wire will remain permanently stretched.
+Force
+Extension
+P
+Figure 4.33 Hooke’s law
+4 Mechanics and materials
+Example
+An elastic cord has an unstretched length of 35 cm. One end is fixed to a support, and when a force of 2 N is applied to the lower end the length of the cord is 65 cm.
+Calculate the elastic constant of the cord.
+Answer elastic constant, k =
+force extension = 2
+0.3
+= 6.7 N m−1
+Now test yourself
+24 A load of 50 N is hung on a 2.50 m length of copper wire. The elastic constant for the wire is 9400 N m−1.
+Calculate the new length of the wire.
+Answer on p. 217
+Tensile stress and tensile strain
+Tensile stress
+Every elastic stress produces an elastic strain.
+Tensile stress is a measure of the cause of the deformation produced by a force:
+tensile stress, σ =
+force area normal to the force
+The units for tensile stress are N m−2 or Pa.
+Tensile strain
+Strain is a measure of the deformation produced by the stress:
+tensile strain, ε =
+extension original length
+Strain has no units as it is simply a ratio of two quantities with the same units.
+Breaking stress
+The maximum stress that a material can stand before it breaks is called the breaking stress. There are two types of breaking stress:
+l compressive breaking stress — the maximum squashing stress before fracture l tensile breaking stress — the maximum stretching stress before fracture
+4 Mechanics and materials
+Example
+The compressive breaking stress (F) of a material can be used to work out the maximum height of a rock column that is possible on the surface of the Earth (Figure 4.34).
+Granite column h
+800 m
+Figure 4.34 Maximum height of a granite column maximum pressure at the base = F = ρgh, where ρ is the density of the rock.
+For granite:
+F = 145 × 106 and ρ = 2500 kg m−3
+So:
+h = 145 × 106
+2500 × 9.81
+= 5900 m
+This is smaller than the height of many mountains but in a mountain the ‘column’ of rock would be supported from the sides by the rest of the mountain.
+Now test yourself
+25	 A lift and its passengers have a combined a weight of 20 000 N. The lift is suspended from four steel cables of equal diameter. Calculate the minimum diameter of each cable, allowing for a 50% safety margin. (breaking stress for steel = 500 MPa)
+Answer on p. 217
+Elastic strain energy
+When a person jumps up and down on a trampoline it is clear that the bed of the trampoline stores energy when it is in a state of tension. This energy is converted to kinetic and gravitational potential energy of the jumper when the tension is removed.
+4 Mechanics and materials
+Extension
+DL
+DL1
+DL2
+(a)
+(b)
+F2
+F1
+F
+Extension
+Force
+Force
+Figure 4.35 Elastic strain energy
+Consider a wire of unstretched length L and let a force F produce an extension ΔL. Assume that the elastic limit of the wire has not been exceeded and that no energy is converted to other forms such as heat
+(Figure 4.35(a)).
+The work done by a force is Fs but in this case the force varies from
+0 at the start to F at the end when the wire is stretched by an amount
+ΔL. Therefore:
+elastic energy stored in the wire = ½FΔL
+But the work done by the force F is equal to the energy gained by the wire. Therefore:
+work done on the wire during stretching = average force × extension
+= ½FΔL
+This energy is the shaded area of the graph.
+If the extension is increased from ΔL1 to ΔL2 (Figure 4.35(b)) then the extra energy stored is given by:
+additional elastic energy stored in the wire = ½F(ΔL2 − ΔL1)
+Example
+Calculate the energy stored in a stretched copper wire if its extension is increased by 1.5 mm when the force applied to it is increased by 50 N.
+Answer additional energy stored = ½F(ΔL2 − ΔL1) = ½ × 50 × 1.5 × 10−3 = 0.0375 J
+Now test yourself
+26 Calculate the increase in the elastic energy stored in the string of a cello if an increase in tension from 0 to 70 N produces an extension of 1 mm.
+Answer on p. 218

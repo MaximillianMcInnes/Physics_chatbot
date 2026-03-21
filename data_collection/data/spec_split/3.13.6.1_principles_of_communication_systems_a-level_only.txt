@@ -1,0 +1,24 @@
+3.13.6.1
+Principles of communication systems (A-level only)
+Content
+Communication systems, block diagram of 'real time' communication system.
+input
+transducer e.g.
+microphone
+modulator
+information
+input
+transmission path e.g. radio waves
+amplifier
+transmitter
+e.g. aerial
+demodulator
+output
+transducer e.g.
+loudspeaker
+information
+output
+amplifier
+receiver
+e.g. aerial
+Only the purpose of each stage is required.

@@ -1,0 +1,25 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.10 Energy levels and photon emission | PRINTED_PAGES: 29-29]
+
+2 Particles and radiation
+Atomic line spectra
+When light from an incandescent monatomic gas is viewed with a spectroscope a spectrum similar to the one shown on Figure 2.24 is seen.
+Figure 2.24 Atomic line spectrum
+The spectrum shows a series of bright lines, which is very good evidence for the structure of the atom. The simplest spectrum is that of hydrogen. When an electron drops from one level to another a quantum of radiant energy known as a photon is emitted and this gives a line in the hydrogen spectrum.
+The greater the energy transition the higher the frequency of the emitted radiation. The separation of the energy levels in the atom can be predicted from the wavelengths, and hence frequencies, of the radiation emitted (Figure 2.25).
+The spectrum of atomic hydrogen
+The energy levels in atomic hydrogen are shown in Figure 2.26.
+Energy values
+Emitted quantum
+Excited state
+Ground state
+Ionisation level
+Electron energy transition
+−1.36×10−19 J
+−5.44×10−19 J
+−21.8×10−19 J
+−2.42×10−19 J
+−8.71×10−20 J
+Figure 2.26 Energy levels in hydrogen
+Electron transition
+Energy level
+Figure 2.25 Electron transitions

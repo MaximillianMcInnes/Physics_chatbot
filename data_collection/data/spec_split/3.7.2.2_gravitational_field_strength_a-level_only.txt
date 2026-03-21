@@ -1,0 +1,10 @@
+3.7.2.2 	Gravitational field strength (A-level only)
+Content
+Opportunities for skills
+development
+Representation of a gravitational field by gravitational field
+lines.
+g as force per unit mass as defined by g = F
+m
+Magnitude of g in a radial field given by g  = GM
+r2

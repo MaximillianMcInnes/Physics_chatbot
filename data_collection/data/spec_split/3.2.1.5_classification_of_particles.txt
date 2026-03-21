@@ -1,0 +1,41 @@
+3.2.1.5 	Classification of particles
+Content
+Opportunities for skills
+development
+Hadrons are subject to the strong interaction.
+The two classes of hadrons:
+•• baryons (proton, neutron) and antibaryons
+(antiproton and antineutron)
+•• mesons (pion, kaon).
+Baryon number as a quantum number.
+Conservation of baryon number.
+The proton is the only stable baryon into which other
+baryons eventually decay.
+The pion as the exchange particle of the strong nuclear force.
+The kaon as a particle that can decay into pions.
+Leptons: electron, muon, neutrino (electron and muon types
+only) and their antiparticles.
+Lepton number as a quantum number; conservation of
+lepton number for muon leptons and for electron leptons.
+The muon as a particle that decays into an electron.
+Strange particles
+Strange particles as particles that are produced through the
+strong interaction and decay through the weak interaction
+(eg kaons).
+Strangeness (symbol s) as a quantum number to reflect the
+fact that strange particles are always created in pairs.
+Conservation of strangeness in strong interactions.
+Strangeness can change by 0, +1 or -1 in weak interactions.
+Appreciation that particle physics relies on the collaborative
+efforts of large teams of scientists and engineers to validate
+new knowledge.
+AT k
+Use of computer simulations of
+particle collisions.
+ATl
+Cosmic ray showers as a source of
+high energy particles including pions
+and kaons; observation of stray
+tracks in a cloud chamber; use of two
+Geiger counters to detect a cosmic
+ray shower.

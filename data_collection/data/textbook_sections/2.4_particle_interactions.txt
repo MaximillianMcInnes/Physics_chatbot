@@ -1,0 +1,94 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.4 Particle interactions | PRINTED_PAGES: 19-20]
+
+2 Particles and radiation
+Pair production
+The reverse of particle annihilation can occur. When a gamma ray passes close to a nucleus it can interact with that nucleus, forming a positron and an electron. This is known as pair production. Matter and antimatter have been produced from energy (the gamma ray — Figure 2.7).
+There are at present only four certainly known types of force, and these are listed below. The relative importance of each force in an interaction depends on the type of interaction being considered.
+l The gravitational force acts between all particles with mass and is responsible for holding planets in orbit around the Sun. Range:
+infinite, varying as 1/d2.
+l The electromagnetic force acts between all charged particles, and is the binding force of atoms and molecules. Range: infinite, varying as 1/d2
+l The weak force is responsible for radioactive decay and the change in quark flavour. It acts between all particles. It is seen in lepton reactions such as the reaction between a neutrino and a muon. Range: about
+10−3 fm (10−18 m).
+l The strong force holds neutrons and protons together in a nucleus.
+It only acts between hadrons since they contain quarks. Range: about
+3 fm. Repulsive up to 0.5 fm and attractive from 0.5 fm to 3 fm.
+Exchange particles
+These fundamental forces can be explained by describing them in terms of exchange particles. These are particles that are passed between the two interacting particles and so ‘carry’ the force between them. These exchange particles are shown in Table 2.2.
+Table 2.2 Exchange particles
+Force (interaction)
+Particle name
+Charge
+Electromagnetic
+Photon
+Strong
+Gluon
+Gravitational
+Graviton
+Weak
+W+
++e
+W−
+−e
+Z
+When an electron repels another electron they both emit a photon. These photons are ‘exchanged’ between the two electrons and this ‘carries’ the force to ‘push them apart’. In the weak interaction that governs β− and
+β+ decay, electron–proton collisions and electron capture, the exchange particles are the W−, the W+ and the Z respectively.
+sses and er se on
+Gamma ray
+Electron
+Positron
+Figure 2.7 Pair production
+Exam tip
+At the time of writing (2017)
+the exchange particle for gravitational force, the graviton, has not been discovered.
+Exam tip
+Remember that in the interaction both particles emit a particle or a photon, hence the name — exchange particles.
+Typical mistake
+Confusing exchange particles with ‘actual’ particles.
+2 Particles and radiation
+Particle interaction diagrams
+(Feynman diagrams)
+These were developed to provide a clear method of showing the interaction between sub-nuclear particles. They are a way of representing what is happening between the two particles during an interaction. (In the following Feynman diagrams time goes from bottom to top.)
+Each point where lines come together is called a vertex. At each vertex charge, baryon number and lepton number must be conserved. (For an explanation of these terms see p. 21.)
+Electromagnetic force interaction
+Figure 2.8 shows the interaction between two electrons. In classical physics the electrons, both with a negative charge, would repel each other. The diagram shows that this repulsion occurs because of the interchange of photons. Each electron emits a photon, which is then absorbed by the other electron. The photons in the interaction are known as virtual photons because they are emitted and absorbed in a time so short that the uncertainty principle is not violated. (To simplify the diagram only one of the virtual photons is shown.)
+Weak force interaction
+The weak force interaction in Figure 2.9 shows the emission of a β−
+in the decay of a free neutron to a proton and an antineutrino. The exchange particle in this interaction is a W−.
+The weak force interaction in Figure 2.10 shows the emission of a β+ in the decay of a proton to a neutron and an antineutrino. The exchange particle in this interaction is a W+.
+Electron capture
+Electron capture is a process in which an electron in the inner shell of an atom is absorbed by the nucleus, changing a nuclear proton to a neutron and simultaneously emitting a neutrino (Figure 2.11).
+Electron–proton collision
+Before interaction
+After interaction e–
+W–
+ν (electron)
+p n
+Figure 2.12 Electron–proton collision
+Revision activity
+Make your own Feynman diagrams for some further interactions.
+Before interaction
+After interaction e–
+e–
+Virtual photon e–
+e–
+Figure 2.8 Electron–electron interaction
+After decay
+Before decay
+W –
+e–
+νe p n
+∼
+Figure 2.9 Neutron decay
+Before interaction
+After interaction e–
+W+
+ν (electron)
+p n
+Figure 2.11 Electron capture
+After decay
+Before decay
+W+
+e+
+νe n p
+∼
+Figure 2.10 Proton decay

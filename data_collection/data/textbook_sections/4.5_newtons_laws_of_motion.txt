@@ -1,0 +1,73 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.5 Newton’s laws of motion | PRINTED_PAGES: 72-74]
+
+4 Mechanics and materials
+Terminal speed
+When any object falls through a fluid such as air it will experience a viscous drag.
+As the object falls faster and faster the drag force increases. Eventually the drag force increases to a value where it is equal to the weight of the object and the body continues to fall at a steady speed. We call this the terminal speed of the object (Figure 4.22).
+Acceleration: drag < mg
+Terminal speed: drag = mg
+Figure 4.22 Terminal speed
+At the terminal speed:
+viscous drag (air resistance) = weight of the object = mg
+Figure 4.23 shows how the velocity of an object will increase with time as it falls through a viscous fluid. The acceleration starts with a value of g but falls to zero when the terminal speed is reached.
+Terminal speed
+Velocity of falling sphere
+Time
+Figure 4.23 Terminal speed graph
+Newton’s first law of motion
+Newton’s first law of motion states that:
+A body remains at rest or in a state of uniform motion unless acted on by a resultant force.
+4 Mechanics and materials
+At rest
+Someone sitting on a stool may be at rest but they are acted on by two forces — their weight and the reaction of the stool. It is because these two forces are balanced and there is no resultant force that they stay still — i.e. at rest.
+Uniform motion
+This means no change of velocity; since velocity is a vector, this means at a steady speed in a straight line. As a skydiver falls out of a plane their speed increases — their weight is bigger than the drag — so there is a net force and Newton’s first law does not apply. However, as the drag increases the two forces on them become equal and the skydiver falls with a constant velocity — a state of uniform motion.
+Newton’s second law of motion
+You need a force to change the motion of a body. The bigger the net force the greater the acceleration. (Remember that force is a vector and the direction of the forces acting on a body need to be considered.)
+Newton’s second law of motion suggests that:
+●	acceleration is directly proportional to the accelerating force
+●	acceleration is inversely proportional to the mass of the body being accelerated force = mass × acceleration
+F = ma
+The units for force are newtons (N), those for mass are kg and those for acceleration m s−2.
+This law also gives us a good definition of the newton as a unit of force.
+One newton is the force that will give a mass of 1 kilogram an acceleration of 1 m s−2.
+Example
+A 250 kg box is pulled along a smooth road (no frictional drag) using a force of 2000 N. What is the acceleration of the block?
+Answer
+Using F = ma:
+a = F
+m = 2000
+250  = 8 m s−2
+Now test yourself
+13 At the start of a 100 m race the rear foot of a sprinter can exert a force of some 1150 N on the starting blocks and the front foot an additional 800 N. If the sprinter is a man of mass 83 kg what is his initial acceleration?
+14 If a rocket has a mass of 50 000 kg and its motors exert a thrust of 550 000 N what is the initial vertical acceleration off the rocket? (g = 9.8 m s−2)
+Answers on p. 217
+Exam tip
+Note that it is mass that is used in the equation, mass is measured in kg. Do not convert mass to a weight.
+4 Mechanics and materials
+Newton’s third law of motion
+This states that:
+If a force acts on one body, an equal and opposite force acts on another body.
+or
+Action and reaction are equal and opposite.
+This law can be checked by fixing two spring-loaded trucks together on a linear air track. When the spring is released they both move off, showing that there is a force on both, with the acceleration of each truck depending on its mass.
+The two forces mentioned in Newton’s third law are known as a
+‘Newton pair’ (Figure 4.24).
+Figure 4.24 A Newton pair
+A Newton pair of forces has the following properties:
+l The two forces act on two different bodies.
+l Both forces are always of the same type (i.e. both gravitational, both electrostatic, etc.).
+l The forces are equal in magnitude.
+l The forces act in opposite directions.
+A book on a table can be used to explain the idea of a Newton pair. In this example there are two Newton pairs:
+l Gravitational forces — the pull of the Earth on the book and the pull of the book on the Earth.
+l Contact forces — the push of the book on the table and the push of the table on the book.
+Now test yourself
+15 A car of mass 1000 kg pulls a caravan of mass 800 kg. The driving wheels of the car exert a force of
+8000 N on the road. The total resistance to motion is 3000 N.
+(a) What is the net accelerating force?
+(b) What is the acceleration?
+(c) What is the force of the car on the caravan?
+Answer on p. 217
+Exam tip
+Notice that in each case if one of the forces of the pair is removed it makes the other one vanish.

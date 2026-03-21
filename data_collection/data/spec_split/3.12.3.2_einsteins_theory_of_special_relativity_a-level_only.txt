@@ -1,0 +1,7 @@
+3.12.3.2
+Einstein’s theory of special relativity (A-level only)
+Content
+The concept of an inertial frame of reference.
+The two postulates of Einstein’s theory of special relativity:
+physical laws have the same form in all inertial frames
+the speed of light in free space is invariant.

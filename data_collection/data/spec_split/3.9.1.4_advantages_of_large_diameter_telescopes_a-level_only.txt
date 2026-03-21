@@ -1,0 +1,10 @@
+3.9.1.4 	Advantages of large diameter telescopes (A-level only)
+Content
+Minimum angular resolution of telescope.
+Rayleigh criterion, 𑩈𑩈
+D
+Collecting power is proportional to diameter 2.
+Students should be familiar with the rad as the unit of angle.
+Comparison of the eye and CCD as detectors in terms of quantum efficiency, resolution, and
+convenience of use.
+No knowledge of the structure of the CCD is required.

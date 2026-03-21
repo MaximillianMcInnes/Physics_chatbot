@@ -1,0 +1,31 @@
+3.9.2.4 	Principles of the use of stellar spectral classes (A-level only)
+Description of the main classes:
+Spectral
+class
+Intrinsic
+colour
+Temperature  /  K
+Prominent absorption lines
+O
+blue
+25 000 – 50 000
+He+, He, H
+B
+blue
+11 000 – 25 000
+He, H
+A
+blue-white
+7 500 – 11 000
+H (strongest)
+ionized metals
+F
+white
+6 000 – 7 500
+ionized metals
+G
+yellow-white
+5 000 – 6 000
+ionized & neutral metals
+K
+orange

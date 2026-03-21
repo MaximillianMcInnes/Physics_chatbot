@@ -1,0 +1,23 @@
+3.6.1.3 	Simple harmonic systems (A-level only)
+Content
+Opportunities for skills
+development
+Study of mass-spring system: T = 2
+m
+k
+Study of simple pendulum: T = 2
+l
+g
+Questions may involve other harmonic oscillators (eg liquid
+in U-tube) but full information will be provided in questions
+where necessary.
+Variation of Ek, Ep, and total energy with both displacement
+and time.
+Effects of damping on oscillations.
+MS 4.6 / AT b, c
+Students should recognise the use
+of the small-angle approximation in
+the derivation of the time period for
+examples of approximate SHM.
+Required practical 7: Investigation into simple harmonic
+motion using a mass–spring system and a simple pendulum.

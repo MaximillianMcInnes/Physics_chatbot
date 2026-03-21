@@ -1,0 +1,56 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.7 Work, energy and power | PRINTED_PAGES: 78-79]
+
+4 Mechanics and materials
+Now test yourself
+17 A child throws a 200 g snowball with a speed of 8 m s−1 so that it hits the 1.5 kg head of a snowman.
+The snowball sticks to the snowman’s head and knocks it off. What is the initial velocity of the ball and head just after collision?
+Answer on p. 217
+Work
+When a force moves an object work is done on the object and energy is converted from one form to another. The units for work are joule (J).
+work done = force × displacement
+= force × displacement in the direction of the force work done = F(s cos θ )
+s
+F
+F
+θ
+Figure 4.31 Work done by a force
+Figure 4.31 shows a truck being pulled at a constant velocity a distance s along a pair of rails by a force F. The force is applied at an angle θ to the rails. The truck has a displacement s along the rails and the truck moves a distance s cos θ in the direction of the force F.
+If there were no friction between the rails and the truck, the force needed to keep the truck moving would be zero. However if there is a force of friction F′ between the rails and the truck, once the truck is moving it will require a force F cos θ (= F′) acting left to right to keep the truck moving at a constant velocity.
+Example 1
+Calculate the minimum work done to pull a truck 8 m along a pair of rails at constant velocity if the frictional force opposing the motion is 100 N.
+Answer
+In this case the minimum work done would be when the force is parallel to the rails.
+work done = force × displacement = 100 × 8 = 800 J
+Exam tip
+Force and displacement are both vectors but work is a scalar.
+Exam tip
+In the extreme case of the force acting at right angles to the rails the truck would not move along the rails and the work done on the truck would be zero. Clearly the most effective direction in which to apply the force to the truck if we want it to move along the rails is parallel to the rails.
+4 Mechanics and materials
+Example 2
+The force is now applied at an angle of 30° to the rails. If the frictional force remains the same, calculate:
+(a) the force required to keep the truck moving at the same constant velocity along the rails
+(b) the work done in moving the truck 8 m along the rails.
+Answer
+(a)  force (F)cos θ = frictional force = 100 N
+(b)  Therefore:
+F = 100
+cos 30
+= 115.5 N
+work done = 115.5 × 8 = 923.8 J
+The work done on an object is the area under the line in a force–
+displacement graph. This applies if the force is constant (Figure 4.32(a)) or varying (Figure 4.32(b)).
+(a)
+Force
+Displacement
+Area = work done by force
+(b)
+Displacement
+Force
+Area = work done by force
+Figure 4.32 Work done and area under the force–displacement curve work done against the force of gravity = mgΔh where Δh is the change in height of the object above some original position measured upwards from that position.
+Now test yourself
+18 A man pulls a boat along a canal at a constant speed using a rope that makes an angle of 30° with the direction that the boat moves along the canal. If the force in the rope is 500 N calculate:
+(a) the component of force along the canal
+(b) the component of the force at right angles to the canal
+(c) the work done by the man to move the boat 40 m along the canal.
+Answer on p. 217

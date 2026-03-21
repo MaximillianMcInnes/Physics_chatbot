@@ -1,0 +1,7 @@
+3.9.2.5 	The Hertzsprung-Russell (HR) diagram (A-level only)
+Content
+General shape: main sequence, dwarfs and giants.
+Axis scales range from –10 to +15 (absolute magnitude) and 50 000 K to 2 500 K (temperature) or
+OBAFGKM (spectral class).
+Students should be familiar with the position of the Sun on the HR diagram.
+Stellar evolution: path of a star similar to our Sun on the HR diagram from formation to white dwarf.

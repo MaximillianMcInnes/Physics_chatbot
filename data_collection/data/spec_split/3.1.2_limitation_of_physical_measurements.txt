@@ -1,0 +1,36 @@
+3.1.2 	Limitation of physical measurements
+Content
+Opportunities for skills
+development
+Random and systematic errors.
+Precision, repeatability, reproducibility, resolution and
+accuracy.
+Uncertainty:
+Absolute, fractional and percentage uncertainties represent
+uncertainty in the final answer for a quantity.
+Combination of absolute and percentage uncertainties.
+Represent uncertainty in a data point on a graph using error
+bars.
+Determine the uncertainties in the gradient and intercept of a
+straight-line graph.
+Individual points on the graph may or may not have
+associated error bars.
+PS 2.3
+Students should be able to identify
+random and systematic errors and
+suggest ways to reduce or remove
+them.
+PS 3.3
+Students should understand the link
+between the number of significant
+figures in the value of a quantity and
+its associated uncertainty.
+MS 1.5
+Students should be able to combine
+uncertainties in cases where the
+measurements that give rise to the
+uncertainties are added, subtracted,
+multiplied, divided, or raised to
+powers. Combinations involving
+trigonometric or logarithmic functions
+will not be required.

@@ -1,0 +1,5 @@
+3.10.3.1
+Simple ECG machines and the normal ECG waveform (A-level only)
+Content
+Principles of operation for obtaining the ECG waveform; explanation of the characteristic shape of a
+normal ECG waveform.

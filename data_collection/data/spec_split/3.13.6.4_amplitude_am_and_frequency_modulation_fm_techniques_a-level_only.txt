@@ -1,0 +1,16 @@
+3.13.6.4
+Amplitude (AM) and frequency modulation (FM) techniques (A-level only)
+Content
+Principles of modulation; bandwidth.
+Carrier wave and information signal.
+Details of modulation circuits for modulating a carrier signal with the information signal will not be
+required.
+Graphical representation of both AM and FM modulated signals.
+A detailed mathematical treatment is not required.
+Students will be expected to identify the carrier frequency and the information frequency from a
+graph of the variation of signal voltage with time.
+Bandwidth requirements of simple AM and FM:
+bandwidth = 2 f M for AM
+bandwidth = 2 ∆f + f M  for FM
+Data capacity of a channel.
+Comparison of bandwidth availability for various media.

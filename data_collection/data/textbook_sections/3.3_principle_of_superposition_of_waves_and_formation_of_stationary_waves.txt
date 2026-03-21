@@ -1,0 +1,86 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.3 Principle of superposition of waves and formation of stationary waves | PRINTED_PAGES: 37-39]
+
+3 Waves
+Applications of polarisation
+The uses of polarisation include polarising glasses for viewing 3D films,
+LCD displays, photographic filters, stress analysis investigation using transparent plastic specimens and ‘Polaroid’ sunglasses, which reduce the glare from reflected sunlight. This last effect is due to the polarisation of reflected light from a surface.
+Polarisation is also important for the transmission and reception of TV
+signals. The transmitting aerial and the receiving aerial must be aligned in the same direction for optimum signal reception.
+Now test yourself
+3 (a) Draw a diagram to show the relative alignment direction for rod-type TV transmitting and receiving aerials.
+(b) What would happen to the received signal as the receiving aerial was slowly rotated about an axis parallel to the direction of propagation of the incoming signal?
+Answers on p. 216
+Principle of superposition
+Unlike particles, waves can pass through each other when then overlap.
+The principle of superposition states that when two waves meet, the resulting displacement is the vector sum of the displacements due to each pulse at that point.
+Formation of stationary waves
+A stationary wave, or standing wave, is one in which the amplitude varies from place to place along the wave. Figure 3.6 shows a stationary wave. The amplitude at point 1 is a1, that at point 2 is a2 and that at point
+3 is a3. The displacement (y) at these points varies with time.
+N
+N
+N
+x
+N
+a1
+a2
+a3
+A
+y
+A
+A
+Figure 3.6 Stationary waves
+Revision activity
+Make a table to show which types of waves are transverse and which are longitudinal.
+3 Waves
+Note that there are places where the amplitude is zero and, halfway between, places where the amplitude is a maximum; these are known as nodes (labelled N) and antinodes (labelled A) respectively.
+Any stationary wave can be formed by the addition of two travelling waves moving in opposite directions.
+A string is fixed between two points. If the centre of the string is plucked vibrations move out in opposite directions along the string. This causes a transverse wave to travel along the string. The pulses travel outwards along the string and when they reach each end of the string they are reflected.
+Pulse
+Pulse
+Figure 3.7 Pulses moving along a string
+The two travelling waves then interfere with each other to produce a standing wave in the string. In the fundamental mode of vibration there are points of no vibration, or nodes, at each end of the string and a point of maximum vibration, or antinode, at the centre.
+Notice that there is a phase change when the pulse reflects at each end of the string.
+The frequency of the standing wave on a string depends on the length of the string (L), its tension (T) and the mass per unit length of the string (μ).
+For the first harmonic the frequency is given by the formula:
+frequency, f = 1
+2L
+T
+μ
+√
+The first three harmonics for a vibrating string are shown in Figure 3.8.
+L
+λ
+L
+3λ/2
+L
+λ/2
+Figure 3.8 Nodes and antinodes on strings
+3 Waves
+Stationary waves can be formed on strings, as on a guitar or cello, and also using microwaves and sound.
+Example 1
+A stretched string is plucked at the centre and then lightly touched one quarter of the way from one end. Draw the resulting wave that is formed on the string.
+Answer
+When it is lightly touched a node will be produced at that point. The resulting waveform is shown in Figure 3.9.
+String touched here
+Displacement
+Length
+Figure 3.9 Nodes and antinodes on a lightly touched string
+Example 2
+A 70 cm long stretched string is plucked so that it vibrates in its second harmonic mode. If the tension in the string is 200 N and the mass per unit length is 1.2 g what note will be heard?
+Answer frequency, f = 1
+L
+Tμ
+√
+= (1/0.7)√(200/1.2 × 10−3) = 583 Hz
+Note the use of the formula for the second harmonic.
+Now test yourself
+4 What is the distance between adjacent nodes on a standing wave in terms of the wavelength of the standing wave?
+5 Why must there always be nodes at the end of a standing wave on a stretched string?
+6 A motorist drives along a motorway at a steady speed of 30 m s−1 between two cities listening to the car radio.
+As she travels along she notices that the radio signal varies in strength, 5 s elapsing between successive maxima. Explain this effect and calculate the wavelength of the radio signal to which she is tuned.
+Answers on p. 216
+Required practical 1
+Standing waves on a stretched string
+This can be demonstrated by fixing one end of a string to a vibration generator and passing the other end over a bench pulley with a weight fixed to the lower end. When the vibration generator is connected to a signal generator it will vibrate the string. Adjusting the tension and the length of the string and the driving frequency of the signal generator will give standing waves on the string.
+Typical mistake
+Using the mass of a stretched string in the equation and not the mass per unit length (μ).

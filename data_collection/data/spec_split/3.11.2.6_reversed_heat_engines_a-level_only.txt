@@ -1,0 +1,27 @@
+3.11.2.6
+Reversed heat engines (A-level only)
+Content
+Basic principles and uses of heat pumps and refrigerators.
+A knowledge of practical heat pumps or refrigerator cycles and devices is not required.
+hot space
+at TH
+QH
+QC
+at TC
+W
+cold space
+Coefficients of performance:
+refrigerator: COPref =
+QC
+W =
+QC
+QH −QC =
+TC
+TH −TC
+heat pump: COPhp =
+QH
+W =
+QH
+QH −QC =
+TH
+TH −TC

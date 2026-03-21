@@ -1,0 +1,23 @@
+3.10.4.1
+Ultrasound imaging (A-level only)
+Content
+Reflection and transmission characteristics of sound waves at tissue boundaries, acoustic
+impedance, Z, and attenuation.
+Advantages and disadvantages of ultrasound imaging in comparison with alternatives including
+safety issues and resolution.
+Piezoelectric devices
+Principles of generation and detection of ultrasound pulses.
+A-scans and B-scans.
+Examples of applications.
+Use of the equations Z  =   c and
+Ir
+Ii =
+Z2 − Z1
+Z2 +  Z1
+3.10.4.2
+Fibre optics and endoscopy (A-level only)
+Content
+Properties of fibre optics and applications in medical physics; including total internal reflection at the
+core–cladding interface.
+Physical principles of the optical system of a flexible endoscope; the use of coherent and non-coherent
+fibre bundles; examples of use for internal imaging and related advantages.

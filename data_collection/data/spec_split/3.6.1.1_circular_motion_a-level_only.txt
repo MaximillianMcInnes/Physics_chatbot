@@ -1,0 +1,20 @@
+3.6.1.1 	Circular motion (A-level only)
+Content
+Opportunities for skills
+development
+Motion in a circular path at constant speed implies there is
+an acceleration and requires a centripetal force.
+Magnitude of angular speed = v
+r = 2f
+Radian measure of angle.
+Direction of angular velocity will not be considered.
+Centripetal acceleration a = v2
+r = 2r
+The derivation of the centripetal acceleration formula will not
+be examined.
+Centripetal force F = mv2
+r = m2r
+MS 0.4
+Estimate the acceleration and
+centripetal force in situations that
+involve rotation.

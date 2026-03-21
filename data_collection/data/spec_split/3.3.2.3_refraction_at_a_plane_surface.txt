@@ -1,0 +1,19 @@
+3.3.2.3 	Refraction at a plane surface
+Content
+Opportunities for skills
+development
+Refractive index of a substance, n = c
+cs
+Students should recall that the refractive index of air is
+approximately 1.
+Snell’s law of refraction for a boundary   n1sin 1 = n2sin 2
+Total internal reflection sin c =
+n2
+n1
+Simple treatment of fibre optics including the function of
+the cladding.
+Optical fibres will be limited to step index only.
+Material and modal dispersion.
+Students are expected to understand the principles and
+consequences of pulse broadening and absorption.
+MS 0.6, 4.1

@@ -1,0 +1,232 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.5 Circuits | PRINTED_PAGES: 100-104]
+
+5 Electricity
+Resistors in series
+A series circuit is one where the components are connected one after the other. This means that the current passing through all the components is the same.
+In Figure 5.8 the current through both resistors is I and the potential difference across R1 is V1 and that across R2 is V2.
+The total resistance (R) of a set of resistors in series is simply found by adding the values of the resistance of each resistor together:
+R = R1 + R2 + R3 + …
+The above formula is true no matter how many resistors you add.
+Resistors in parallel
+When the resistors are connected in parallel the current splits at the junction, a current I1 passing through R1 and a current I2
+passing through R2. The potential difference across any number of resistances connected in parallel is the same for all the resistors
+(Figure 5.9).
+The formula for total resistance (R) for resistors connected in parallel is:
+R
+= 1
+R1
++ 1
+R2
++ 1
+R3
++ …
+This version of the formula is true no matter how many resistors you add. However, a simpler version can be derived for two resistors in parallel:
+R = R1R2
+R1 + R2
+Example 1
+Calculate the resistance of the following combinations:
+(a) 200 Ω and 100 Ω in series
+(b) 200 Ω and 100 Ω in parallel.
+Answer
+(a) R = R1 + R2 = 200 + 100 = 300 Ω
+(b)  1
+R = 1
+R1
++ 1
+R2
+= 1
+200 + 1
+100 = 3
+200 and so R = 67 Ω
+Exam tip
+The version in this form is only correct for two resistors.
+Typical mistake
+When calculating the final resistance for a pair of resistors in parallel, working out 1/R and then forgetting to invert it to obtain the final resistance R.
+Example 2
+You are given one 100 Ω resistor and two 50 Ω resistors. How would you connect any combination of them to give a combined resistance of:
+(a) 200 Ω
+(b) 125 Ω?
+Answer
+(a) 100 Ω in series with both the 50 Ω
+(b) the two 50 Ω in parallel and this in series with the 100 Ω
+I
+R1
+V1
+V2
+R2
+Figure 5.8 Resistors in series
+R1
+I1
+I2
+I
+V
+R2
+Figure 5.9 Resistors in parallel
+5 Electricity
+Now test yourself
+8 What is the final resistance of each of the six circuits in Figure 5.10?
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+200 W
+400 W
+400 W
+200 W
+500 W
+300 W
+150 W
+250 W
+500 W
+500 W
+500 W
+250 W
+200 W
+100 W
+400 W
+200 W
+150 W
+800 W
+400 W
+Figure 5.10
+9 Figure 5.11 shows an LDR connected in parallel with a resistor and a 6 V cell of negligible internal resistance.
+The resistance of the LDR falls as the intensity of light falling on it is increased.
+(a) Calculate the current flowing from the cell when the resistance of the LDR is 150 kΩ.
+(b) What happens to this current if the light intensity is reduced?
+(c) What is the minimum current that can be drawn from the cell?
+Answers on p. 218
+100 kW
+Figure 5.11 LDR and resistor in parallel
+Cells in series and parallel
+For cells connected in series (Figure 5.12), the total potential difference between the ends of the chain is the sum of the potential differences across each cell.
+2V
+2V
+6V
+2V
+Figure 5.12 Cells in series
+For cells connected in parallel (Figure 5.13), the total potential difference across the arrangement is the same as for one cell.
+The advantage of the parallel circuit is that although the output voltage is the same as that of a single cell the battery formed from the group of cells contains more energy and so will supply current for longer.
+2V
+2V
+2V
+2V
+Figure 5.13 Cells in parallel
+Typical mistake
+Not allowing for the change in total output voltage if one or more of the cells in a series is reversed.
+5 Electricity
+Now test yourself
+10 You are given two 6 V cells of negligible internal resistance and a
+200 Ω resistor. What current flows through the resistor when the cells are connected
+(a) to the resistor in parallel
+(b) to the resistor in series?
+Answer on p. 218
+Electrical energy
+If a charge Q moves between two points in a circuit that have a potential difference of V volts between them the energy gained (or lost) by the charge is given by the formula:
+electrical energy = charge (Q) × potential difference (V)
+Since charge (Q) = current (I) × time (t):
+electrical energy = IVt
+Large amounts of energy are used in a car starter motor to ‘turn the engine over’. Although the voltage is low (12 V) the current required may be a great as 200 A.
+Example
+Calculate the amount of energy supplied by a 6 V battery when:
+(a) a charge of 25 C passes through it
+(b) a current of 30 mA flows through it for 5 minutes
+Answer
+(a) energy = potential difference × charge = 6 × 25 = 150 J
+(b) energy = potential difference × charge
+= potential difference × current × time
+= 6 × 30 × 10−3 × 300 = 54 J
+Now test yourself
+11 Calculate how much electrical energy is supplied by a 1.5 V battery when:
+(a)
+a charge of 3000 C passes through it
+(b)
+a current of 200 μA flows from it for 2.5 hours
+12 How much energy is drawn from a 12 V car battery if it is used to supply 200 A for 1.5 s to the starter motor?
+Answers on p. 218
+Typical mistake
+Forgetting to convert to SI
+units, for example mA to A
+and minutes to seconds.
+5 Electricity
+Electrical power
+Power is the rate at which work is done or energy changed from one form to another, and so:
+electrical power = energy time  = VQ
+t  = VI
+Electrical power is measured in watts (W) where 1 W = 1 J s−1. For large power outputs we use kilowatts (1 kW = 1000 W) and megawatts
+(1 MW = 1 000 000W).
+Since V = IR, and power = VI:
+electrical power = VI = I
+2R = V
+R
+Example 1
+Calculate the current used by a 12 V immersion heater that is designed to deliver 30 000 J in 5 minutes.
+Answer energy = power × time = 30 000
+Therefore:
+30 000 = power × 300
+power = 100 W
+So:
+current = 100
+= 8.3 A
+Example 2
+(a) Calculate the resistance of a 100 W light bulb if it takes a current of 0.8 A.
+(b) Calculate the power of a 12 V immersion heater with a resistance of 10 Ω.
+Answer
+(a) power = I2R
+Therefore R = 100
+0.64
+= 156.3 Ω
+(b) power = V 2
+R  = 144
+= 14.4 W
+Now test yourself
+13 What power is supplied to the heater of an electric bar fire with a resistance of 50 Ω connected to the mains 230 V supply?
+14 What is the power loss down a copper connecting lead 75 cm long with a resistance of 0.13 Ω per metre when a current of 4.5 A flows through it?
+Answer on p. 218
+5 Electricity
+Conservation of charge and energy
+In an electrical circuit both charge and energy must be conserved. These requirements are usually expressed in Kirchhoff’s two rules:
+1	 The algebraic sum of the currents at a junction is zero. In other words there is no build up of charge at a junction (ΣI = 0).
+2	 The sum of the changes in potential round a closed circuit must be zero.
+Rule 1 is about charge conservation while rule 2 is about energy conservation (Figure 5.14).
+Rule 1 — at point B there is a junction:
+current flowing from the cell (I) = Current in R1 (I1) + current in R2 (I2)
+Rule 2 — round loop A–B–C–D–E:
+p.d. across cell = − p.d. across R1
+This represents a gain of potential in the cell but a loss in R1.
+In this equation there is a minus because we are moving ‘against’ the current in R2.
+Example
+Consider the circuit in Figure 5.15.
+400 W
+1000 W
+0.015 A
+0.002 A
+A
+E
+B
+I1
+I2
+I3
+I3
+I1
+Figure 5.15 Example problem circuit
+Applying Kirchhoff’s first rule to junction A:
+current in the 400 Ω resistor = 0.015 − 0.002 = 0.013 A
+potential difference across 400 Ω resistor = 0.013 × 400 = 5.2 V
+This is the potential difference between A and B via the 400 Ω resistor but it is also the potential difference across the right-hand branch of the circuit via the cell of emf ε (p. 109).
+The potential drop across the 1000 Ω resistor is 0.002 × 1000 = 2 V.
+Applying Kirchhoff’s second rule to the right-hand branch and considering an anticlockwise direction from the cell:
+EMF of the cell, E = (−0.002 x 1000) + 5.2 = −2 + 5.2 = 3.2 V
+The minus sign is there because the current in the 1000 Ω resistor is travelling in the opposite direction from that in which the emf of the cell is acting.
+I1
+I2
+I
+B
+R2
+R1
+C
+A
+E
+D
+Figure 5.14 Conservation of charge and energy

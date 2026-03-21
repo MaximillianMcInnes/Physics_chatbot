@@ -1,0 +1,6 @@
+3.4 	 Mechanics and materials
+Vectors and their treatment are introduced followed by development of the student’s knowledge and
+understanding of forces, energy and momentum. The section continues with a study of materials
+considered in terms of their bulk properties and tensile strength. As with earlier topics, this section and
+also the following section Electricity would provide a good starting point for students who prefer to
+begin by consolidating work.

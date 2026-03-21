@@ -1,0 +1,15 @@
+3.9.2.2 	Absolute magnitude, M (A-level only)
+Content
+Parsec and light year.
+Definition of M, relation to m: m – M = 5 log d
+3.9.2.3 	Classification by temperature, black-body radiation (A-level only)
+Content
+Stefan’s law and Wien’s displacement law.
+General shape of black-body curves, use of Wien’s displacement law to estimate black-body
+temperature of sources.
+Experimental verification is not required.
+maxT  =  constant  =  2.9  ×  10−3 m K
+Assumption that a star is a black body.
+Inverse square law, assumptions in its application.
+Use of Stefan’s law to compare the power output, temperature and size of stars
+P = AT 4

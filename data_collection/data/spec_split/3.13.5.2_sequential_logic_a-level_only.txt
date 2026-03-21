@@ -1,0 +1,12 @@
+3.13.5.2
+Sequential logic (A-level only)
+Content
+Counting circuits:
+•• Binary counter
+•• BCD counter
+•• Johnson counter.
+Inputs to the circuits, clock, reset, up/down.
+Outputs from the circuits.
+Modulo-n counter from basic counter with the logic driving a reset pin.
+The gates should be treated as building blocks. The internal structure or circuit of the gates is
+not required.

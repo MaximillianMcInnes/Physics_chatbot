@@ -1,0 +1,75 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.1 Constituents of the atom | PRINTED_PAGES: 13-14]
+
+2 Particles and radiation
+Protons, neutrons and electrons
+It was the experiments on the scattering of alpha particles by gold nuclei in the early part of the twentieth century that laid the foundation of our modern ideas of the structure of the atom.
+A simplified diagram of an atom is shown in Figure 2.1.
+Charge and mass of protons, neutrons and electrons
+Atoms have a diameter of the order of 10−8 m, and consist of two parts:
+●	 A central heavy nucleus, with diameter of the order of 10−15 m that contains:
+protons — particles with a unit positive charge of +1.6 × 10−19 C
+and a mass (mP) of 1.67 × 10−27 kg neutrons — neutral particles with a mass slightly greater than that of a proton; the neutron mass (mN) is 1.675 × 10−27 kg; mN = 1.0014 mP
+●	Electrons orbiting the nucleus. These are particles with a negative charge of −1.6 × 10−19 C, equal and opposite to that of a proton. The mass of the electron (me) is 9.11 × 10−31 kg, or about 1/1836 of that of a proton. The number of these electrons is equal to the number of protons in a non-ionised atom
+Note: all figures quoted are for the rest masses of the particles. Relativistic effects will be ignored.
+Specific charge of nuclei and of ions
+A useful quantity is the specific charge of a particle. This is defined as follows:
+specific charge of a particle = Q
+m where Q is the charge on the particle and m is its mass. The units for specific charge are coulombs per kg.
+The specific charges of a number of particles are given in Table 2.1.
+Table 2.1 Particles and their specific charges
+Particle
+Specific charge
+A proton
++1.6 × 10−19
+1.67 × 10−27 = +9.58 × 107 C kg−1
+An electron
+−1.6 × 10−19
+9.11 × 10−31 = −1.76 × 1011 C kg−1
+A nucleus of carbon-12
++(12 × 1.6 × 10−19)
+1.992 × 10−27
+= +9.64 × 108 C kg−1
+Electron
++
++
++
++ +
+Proton
+Neutron
++
+Figure 2.1 Structure of the atom
+Exam tip
+Remember to use the correct SI units.
+2 Particles and radiation
+Proton and nucleon number
+The nucleon number varies from 1 for the simplest form of hydrogen to about 250 for the heaviest elements. The proton number varies from 1 to just over 100 for the same range of particles.
+The proton number (Z) is the number of protons in a nucleus.
+The nucleon number (A) is the total number of neutrons and protons in a nucleus.
+Nuclear notation
+The correct way of writing down the structure of a nuclide, showing the proton and nucleon numbers, is shown in Figure 2.2.
+Isotopes
+Neon has 10 protons in its nucleus but may occur in a number of different forms with nucleon numbers of 20, 21 and 22, corresponding respectively to 10, 11 and 12 neutrons in the nucleus. These different forms are known as isotopes of neon.
+Isotopes are different atoms of the same chemical element, i.e. they have the same proton numbers, with different nucleon numbers.
+Figure 2.3 shows the three isotopes of hydrogen.
+e p
+Hydrogen e
+Deuterium p n e
+Tritium p n n
+Figure 2.3 Isotopes of hydrogen l The chemical properties of isotopes of the same element are identical.
+l Their nuclear properties will be different and some of their physical properties, such as boiling point, are different as well
+Example
+Mercury has seven naturally occurring isotopes with nucleon numbers of 196, 198, 199, 200, 201, 202 and 204. The proton number of mercury is 80. How many neutrons are contained in each isotope?
+Answer neutron number = nucleon number – proton number
+The neutron numbers are 116, 118, 119, 120, 121, 122 and 124.
+Exam tip
+The nucleon number was previously called the mass number, while the proton number was known as the atomic number.
+Nucleon number
+Element symbol
+Proton number
+U
+C
+Figure 2.2 Nuclide notation
+Typical mistake
+Confusing the nucleon and proton number in the nuclide notation.
+Revision activity
+Make a table showing the nuclear structure of two isotopes of four different elements.

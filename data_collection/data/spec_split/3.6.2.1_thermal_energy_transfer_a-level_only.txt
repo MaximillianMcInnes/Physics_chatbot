@@ -1,0 +1,33 @@
+3.6.2.1 	Thermal energy transfer (A-level only)
+Content
+Opportunities for skills
+development
+Internal energy is the sum of the randomly distributed kinetic
+energies and potential energies of the particles in a body.
+The internal energy of a system is increased when energy
+is transferred to it by heating or when work is done on it
+(and vice versa), eg a qualitative treatment of the first law of
+thermodynamics.
+Appreciation that during a change of state the potential
+energies of the particle ensemble are changing but not the
+kinetic energies. Calculations involving transfer of energy.
+For a change of temperature: Q = mc ∆ where c is specific
+heat capacity.
+Calculations including continuous flow.
+For a change of state Q = ml where l is the specific
+latent heat.
+MS 1.5 / PS 2.3 / AT a, b, d, f
+Investigate the factors that affect the
+change in temperature of a substance
+using an electrical method or the
+method of mixtures.
+Students should be able to identify
+random and systematic errors in the
+experiment and suggest ways to
+remove them.
+PS 1.1, 4.1 / AT k
+Investigate, with a data logger and
+temperature sensor, the change in
+temperature with time of a substance
+undergoing a phase change when
+energy is supplied at a constant rate.

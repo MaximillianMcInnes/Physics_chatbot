@@ -1,0 +1,13 @@
+3.10.1.2
+Defects of vision and their correction using lenses (A-level only)
+Content
+Properties of converging and diverging lenses; principal focus, focal length and power,
+power =   1
+f ;    1
+u + 1
+v = 1
+f ; m = v
+u
+Myopia, hypermetropia, astigmatism.
+Ray diagrams and calculations of powers (in dioptres) of correcting lenses for myopia and hypermetropia.
+The format of prescriptions for astigmatism.

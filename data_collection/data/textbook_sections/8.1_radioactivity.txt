@@ -1,0 +1,842 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 8 Nuclear physics | SECTION: 8.1 Radioactivity | PRINTED_PAGES: 172-191]
+
+8  Nuclear physics
+Rutherford scattering
+The idea of atoms as small particles was put forward by the Greeks 2000
+years ago, but the structure of the inside of the atom was not understood until the beginning of the twentieth century.
+The English scientist Thomson suggested that the atom, which is a neutral particle, was made of positive charge with ‘lumps’ of negative charge inset in it — rather like the plums in a pudding. For this reason it was known as the plum pudding theory of the atom (Figure 8.1a).
++
++
++
++
++
++
++
+++
++
++
++
+–
+–
+–
+–
+–
+–
+Neutron
+Electron
+Proton
+Negative ‘plum’
+Positive ‘pudding’
+(a)
+(b)
+Figure 8.1 Plum pudding and nuclear models
+The existence of a nucleus within an atom was shown by bombarding a thin gold foil with alpha particles in an experiment performed in 1911
+by Rutherford, Geiger and Marsden. They were studying the passage of alpha particles through thin pieces of gold foil and found that some of the alpha particles were able to pass through the film. They then noticed something that they did not expect. Some of the alpha particles were being deflected from their original path and, more surprising, one in about 8000 were actually knocked backwards (Figure 8.2).
+Rutherford knew that the alpha particles carried a positive charge so he said that the positive charge of the atom was concentrated in one place at the centre of the atom that he called the nucleus, and that the negatively charged particles, the electrons, were in orbit around the nucleus (Figure 8.1b).
+Alpha particle
+Nucleus
+Electron cloud
+Figure 8.2 Alpha particle scattering
+Exam tip
+The atom is mostly empty space.
+8  Nuclear physics
+α, β and γ radiation
+Nature of radioactive decay
+In 1896, a previously unknown type of radiation was discovered. It was realised that this radiation:
+l	 came from the nucleus of unstable atoms l	 was spontaneous — once material containing these unstable nuclei was formed, emission could take place immediately and without the input of energy l	 was random — it was impossible to predict which nucleus would emit radiation and when
+The properties of α, β and γ radiation are outlined in Table 8.1.
+Table 8.1
+Property
+Alpha (α)
+Beta (β)
+Gamma (γ)
+Range in air
+A few cm
+Many cm
+Metres
+Ionising ability
+Large
+Small
+Very small
+Stopped by
+Paper mm of aluminium cm of lead
+Charge
++2e
+−e
+Mass
+8000m m
+Deflection by a magnetic field
+A little
+A lot
+None
+Speed
+<1%c
+90%c c
+The energy of alpha particles emitted from a particular nucleus can have only one or two discrete values, dependent on the energy levels in the nucleus. The energy of emitted beta particles from a particular nucleus can have a range of values (Figure 8.3) because an antineutrino is also emitted (see page 16) and the two particles share the available energy.
+Number of alpha particles emitted
+Alpha particle energy
+Beta particle energy
+Number of beta particles emitted
+Figure 8.3 Alpha and beta radiation energy spread
+Gamma radiation is emitted if the nucleus remains in an excited state after the alpha or beta emission.
+Inverse square law for gamma radiation
+The intensity of gamma radiation decreases with distance, and in a vacuum this decrease follows the inverse square law. In other words, if the distance (d)
+from the source is doubled, the intensity falls to one quarter (½2) of the original value, to one ninth (⅓2) if the distance is trebled and so on (Figure 8.4). In a material the decrease with distance is more rapid due to the interaction of the gamma radiation with the material.
+Radioactive source d
+2d
+Figure 8.4 Decrease in the intensity of gamma radiation
+8  Nuclear physics
+This variation in intensity (I) is given by the equation:
+I = k d2
+Radiation in medicine
+Although radiation is harmful to all cells in the body, the benefits of using it for radiotherapy and nuclear diagnosis often outweigh the dangers.
+Therapy
+The purpose of radiotherapy is to destroy malignant cancer cells without unduly affecting healthy tissue. This is achieved by rotating a beam of gamma radiation to three or four different positions around the body so that the paths of the beams cross at the tumour. All cells are affected but the fast-
+dividing malignant cells are affected more by the radiation than healthy cells.
+Some tumours are treated by the implantation of a beta source within the tumour. The radiation emitted by the source is absorbed by the tumour.
+Diagnosis
+An isotope of technetium (99Tcm) is used as a source of gamma radiation for medical imaging and diagnosis. This has a short half-life (see page 178) of only 6 hours.
+The difference between activity and count rate
+The activity is the total number of emissions per second in all directions from the source. However, if you use a Geiger tube (or any other detector) to measure the number of emissions you will only record a fraction of the total emissions. This is because normal detectors do not usually surround the source and so you only detect particles (or photons)
+emitted into a small angle (Figure 8.5). This means that the observed count rate is always much less than the activity of the source.
+Decays recorded by detector
+(count rate)
+Decays in all directions
+(activity)
+Geiger tube
+Radioactive source
+Figure 8.5 Activity and count rate
+Background radiation
+A Geiger counter placed out in the lab well away from any radioactive sources will still read non-zero. It will probably record between 20 and
+Revision activity
+Write a short account of the uses of radioisotopes in medicine with more detail than described here.
+8  Nuclear physics
+30 counts per minute. This background radiation is around us all the time (Figure 8.6).
+Background radiation comes from:
+l	 deep space — cosmic rays l	 the Sun l	 radioactive rocks such as granite l	 radioactive material in our own bodies l	 radon gas from the ground l	 the nuclear industry, fallout from nuclear tests and medical uses
+Radon gas
+Radon is a naturally occurring gas that comes from the decay of uranium. Its short half-life makes it something we should be concerned about if it occurs in large quantities.
+Concentrations of radon build up in underground caves and tunnels and can then seep into houses through minute cracks in hardcore and concrete floors to become trapped. Modern, well insulated houses are at more risk than older ones because they can act like sealed boxes
+(Figure 8.7). The danger is not great but it is something that people should be aware of.
+Double glazing
+Radon trapped in the house
+Solid walls
+Radon seeping up from the ground
+Hardcore
+Concrete screed
+Figure 8.7 Radon gas in a house
+Further (non-medical) uses of radioactive isotopes
+These materials have a variety of uses, some of which are listed below:
+l	 dating geological specimens using uranium, rubidium or bismuth l	 dating archaeological specimens using carbon-14
+l	 measuring paper, foil, steel sheet or plastic thickness using beta radiation l	 sterilisation of foodstuffs l	 liquid flow measurement l	 tracing sewage or silt in the sea or rivers l	 testing for leaks in pipes l	 tracing phosphate fertilisers using phosphorus-32
+l	 smoke alarms
+Now test yourself
+1 Explain which of the following sources would be suitable for use in a home smoke detector.
+29Co gamma emitter
+241Am alpha emitter
+38Sr beta emitter
+Answers on p. 221
+95
+50% radioactive gases in the home
+14%
+gamma rays from the ground
+12%
+medical,
+X-rays etc.
+12%
+food
+0.4%
+air travel
+0.4% fallout
+0.2% occupational
+<0.1% nuclear waste
+10%
+cosmic rays
+Figure 8.6 Background radiation
+Exam tip
+The uses and hazards of radiation depend on the properties given in Table 8.1 —
+in particular, their relative ionising ability and hence range in air and penetration of materials.
+Exam tip
+The count due to background radiation must be allowed for in experimental calculations such as that on page 180.
+8  Nuclear physics
+Required practical 12
+Investigation of the inverse square law for gamma radiation
+Set up the apparatus as shown in Figure 8.8, with the end window of the Geiger tube 10 cm from the source. Record the count rate for this distance.
+Geiger tube
+Ruler
+Gamma source d
+Figure 8.8 Inverse square law investigation
+Move the Geiger away from the source and record the count rate every 2.5 cm.
+Plot a graph of the count rate (C) against the inverse of the distance of separation (1/d2).
+Safety
+A radioactivity warning notice should be displayed. Always use tongs to hold the radioactive source, and do not put your hands between the source and the Geiger counter. Follow all the normal school rules for the use and handling of radioactive material.
+Radioactive decay
+Mathematical treatment of radioactive decay
+In a sample of radioactive material the number of nuclei (ΔN) decaying in a short time Δt is proportional to:
+l	 N — the number of radioactive nuclei present at that moment l	 Δt — the time over which the measurement is made l	 the decay constant (λ) — a property of the element
+ΔN = −λNΔt
+The quantity ΔN/Δt is the rate of decay, or activity (A), of the source and is the number of disintegrations per second.
+A = N
+t
+∆
+∆ = −λN
+The minus sign is there because the number of radioactive nuclei decreases as time increases.
+The activity is measured in units called becquerels (Bq), where 1 Bq is one disintegration per second.
+The decay constant (λ) can be defined as the probability of a nucleon decaying in the next second. Its unit is s-1.
+The number of radioactive nuclei (N) and the activity (A) of the source after a time t can be found using the following equations:
+N = N0e−λt
+A = A0e−λt
+Exam tip
+Remember that decay equations can be expressed in terms of the number of radioactive nuclei or in terms of the activity of the substance.
+8  Nuclear physics where N0 is the initial number of nuclei present and A0 is the initial activity of the source at time t = 0.
+If we plot ln N against t we have a straight-line graph with gradient −λ
+and an intercept on the ln N axis of ln N0 (Figure 8.9).
+ln N0 − ln N = λt
+Activity/Bq
+Time (t)
+ln N
+ln N0
+Time (t)
+Gradient = –λ
+Figure 8.9 Radioactive decay
+Example 1
+The initial count rate of a sample of radioactive iodine-131 is 40 Bq.
+What will be the count rate after:
+(a) 24 hours
+(b) 2 weeks
+(decay constant of iodine = 1.43 × 10−6 s−1)
+Answer
+(a) A = A0e−λt = 40 × e−(1.43 ×10–6 × 24 × 60 × 60) = 35.4 Bq
+(b) A = A0e−λt = 40 × e−(1.43 ×10–6 × 24 × 60 × 60 × 14) = 7.09 Bq
+Example 2
+The count rate due to carbon-14 in a sample of wood taken from an ancient
+Egyptian tomb was found to be 6.5 Bq when it was measured in 2016. If the count rate in living wood is 10 Bq how old is the archeological sample?
+(decay constant of carbon-14 = 3.95 × 10−12 s−1)
+Answer
+6.5 = 10 × e(−3.95 × 10−12 × t)
+ln 10
+6.5
+= 3.95 × 10−12 × t
+0.43 = 3.95 × 10−12 × t
+Therefore:
+t =
+0.357
+3.95
+10 12
+×
+−
+= 1.09 × 1011 s = 3460 years
+8  Nuclear physics
+Now test yourself
+2 Calculate the activity of a sample of caesium-137 in the years:
+(a) 2020
+(b) 2035
+if the activity in 2016 was 185 kBq.
+(decay constant of caesium-137 = 7.85 × 10−10 s−1)
+3 A sample of radon gas escapes into a school laboratory. The decay constant of this alpha-emitting gas is 10 s−1. How long would you need to wait before entering the lab if the safety regulations required the activity to have fallen to 10−6 of its original value?
+Answers on p. 221
+Half-life
+As time passes the strength of a radioactive source gets weaker; its rate of decay (∆N/∆t) or activity gets smaller.
+The rate at which an unstable nucleus decays depends only on what type of nucleus it is. The decay is a random process. This means that if we take a sample of unstable nuclei (for example 226Ra) we cannot know when any individual nucleus is going to decay.
+However we can measure what we call the half-life
+(T½) for the element in the sample. This is constant
+(Figure 8.10) and defined as:
+l	 The average time taken for half the original number of nuclei in a sample of an element to decay.
+or:
+l	 The average time taken for the activity of a radioactive source to fall to one half of its original value.
+Example
+The activity of a sample of radioactive material with a half-life of
+2 minutes is 384 Bq at the start. What will be the activity after:
+(a) 2 minutes
+(c) 8 minutes
+(b) 4 minutes
+(d) 16 minutes?
+Answer
+(a) One half-life activity = 192
+(b) Two half-lives activity = 96
+(c) Four half-lives activity = 24
+(d) Eight half-lives activity = 1.5
+Typical mistake
+Not using the correct units
+(s−1) for the decay constant.
+Activity/Bq
+Time
+T½
+2T½
+3T½
+4T½
+Figure 8.10 Half-life
+Exam tip
+Remember that the activity halves every half-life and not when the time passed doubles.
+8  Nuclear physics
+Half-life and the decay constant
+Half-life is related to the decay constant by the equation:
+T½ = ln2
+λ
+l can be replaced by (ln 2)/T 1
+2 in calculations, where appropriate.
+Example 1
+A laboratory buys a sample of radioactive material that has a half-life of 150 years. If the initial activity is 200 Bq what will be the activity after 10 years?
+Answer
+A =
+−
+A e t T
+ln 2 /  =
+−
+×
+ln 2
+10/150
+e
+= 200e−0.046 = 200 × 0.96 = 191 Bq
+½
+Example 2
+The decay constant (λ) of a particular isotope (radon-220) is 1.33 × 10−2 s−1.
+How long will it take for the activity of a sample of this isotope to decay to one eighth of its original value?
+Answer half life = 0.693
+0.693
+1.33
+10 2
+λ
+=
+×
+− = 52 s number of half lives required to reduce the activity to one eighth = 3
+Therefore:
+time needed = 3 × 52 = 156 s
+A useful alternative formula for calculating final activity is:
+=
+A
+A
+n where n is the number of half-lives that have passed.
+The formula works not only for simple cases where n is a whole number
+(i.e. for one half-life, two half-lives etc.) but also when n is any number
+(i.e. 1.2 half-lives, 4.3 half-lives and so on).
+Radioactive decay, molar mass and the Avogadro constant
+The number of nuclei in a sample can be related to the mass of the source, using the molar mass and Avogadro’s number, by the formula:
+mass ( )
+molar mass ( )
+number of nuclei ( )
+Avogadroconstant (
+)
+A
+m
+M
+N
+N
+=
+×
+This formula can be used use it to find out the mass of a given source if we know its activity.
+Exam tip
+In Example 1, the time and the half-life can be kept in years because they appear in the formula as a ratio.
+8  Nuclear physics
+Example
+A school has a radium-226 source with an activity of 185 000 Bq. What is the mass of the source?
+(Avogadro constant (NA) = 6.02 × 1023 mol−1; decay constant for radium-226 = 1.35 × 10−11 s−1)
+Answer
+Using the formula:
+λ
+λ
+= −
+= −
+A
+N
+m
+M NA
+185 000 = 1.35 × 10−11 m
+226  × 6.02 × 1023
+Therefore:
+m =
+×
+×
+×
+×
+−11
+1.35
+6.02
+1023  = 5.14 × 10−6 g = 5.14 μg
+Now test yourself
+4 A scientist measured the activity due to caesium-137 contamination in a field near to the Chernobyl power station just after the accident in 1986 and found it to be 10 kBq m−2. If the half-life of caesium-137
+is 30 years, what would be the activity in:
+(a) 2016
+(b) 2026?
+5 A radioactive sample decays with a half-life of 10 hours. If the background count is 10 Bq and the original reading of the Geiger counter is 170 Bq, what is the reading after:
+(a) 20 hours
+(b) 25 hours
+(c) 30 hours?
+6 A sample of radioactive fluorine gave a measured count rate of 45 Bq when measured in a laboratory where the background count is 2 Bq. What will be the measured count rate after:
+(a) 4 hours
+(b) 12 hours
+Comment on your answer to (b). The half-life of radioactive fluorine is 1.8 hours.
+Answers on p. 222
+Nuclear instability
+Variation of N and Z for stable nuclei
+The variation in proton and neutron numbers is a very important factor in our understanding of the behaviour of nuclei. The graph in Figure 8.11
+shows the variation of neutron number with proton number for stable nuclei. For light atoms (such as helium) these two numbers are equal —
+there are as many neutrons in the nucleus as there are protons. However, for more massive elements, the neutron number is much greater than the proton number. For example, a 235
+92U nucleus contains 92 protons but
+143 neutrons.
+The position of an unstable isotope relative to the stability line determines whether the nucleus will decay by β+, β− or α emission.
+8  Nuclear physics n ® p + b– + n p ® n + b+ + n
+B
+A
+Proton number ( Z )
+Neutron number ( N )
+b–
+b+
+Figure 8.11 Graph of N against Z for stable nuclei
+Changes in N and Z caused by radioactive decay
+Radioactive decay equations
+Unstable nuclei may lose some of their excess energy by a variety of radioactive processes. Examples of α, β and γ are shown by the following equations and in Figure 8.12.
+Alpha emission:
+88Ra → 222
+86Rn + 4
+2He
+Beta emission:
+38Sr → 90
+39Y + 0
+−1e + 0
+0 ν
+Gamma emission:
+27Co → 60
+27Co + 0
+0 γ
+Gamma ray emission is evidence for excited states within the nucleus.
+Nucleon number (A)
+Proton number (Z)
+A, Z – 1
+A – 4, Z – 2
+A, Z + 1
+A, Z
+a b–
+b+
+Neutron number (N)
+Proton number (Z)
+N + 1, Z – 1
+N – 1, Z + 1
+N, Z
+b–
+b+
+a
+N – 2, Z – 2
+Figure 8.12 Alpha and beta emission grids
+Exam tip
+The nucleon number is reduced by 4 in alpha emission, the proton number increases by 1 in beta (minus) emission and both remain unchanged in gamma emission.
+8  Nuclear physics
+Electron capture
+An unstable atom may also become stable by a process called electron capture. An electron from one of the atom’s inner orbits is drawn into the nucleus, where it combines with a proton to form a neutron. One possible nuclear equation for this process is:
+6C + 0
+−1e → 11
+5B + 0
+0 ν
+Excited states within the atomic nucleus
+Energy emission in the form of gamma radiation occurs due to transitions between excited states within the nucleus. This emission is very good evidence for the existence of such states.
+Nuclear radius
+The radius of the atomic nucleus
+Fermi proposed the following equation for the radius of a nucleus (r) in terms of the nucleon number of the nucleus (A):
+r = r0A
+where the constant r0, the radius of the hydrogen nucleus, is 1 × 10−15 m = 1 fm.
+Since r3 = r0
+3A, nuclear volume is proportional to nuclear mass and so nuclear matter has a constant density.
+Revision activity
+Make a mind map to contrast and compare the nature and properties of alpha, beta and gamma radiation.
+Now test yourself
+7 In the nuclear reaction 22
+11Na + p →
+A
+ZX + n the proton number Z and the nucleon number A of the nucleus
+X are:
+Proton number Z
+Nucleon number A
+A
+B
+C
+D
+8 All the decays in the uranium decay series occur by the emission of just one particle for each change
+(sometimes a gamma ray is emitted as well). Write the name of the particle (alpha or beta) that is emitted at each stage.
+Isotope
+Half-life
+Particle emitted
+Polonium-218
+3.1 minutes
+Lead-214
+27 minutes
+Bismuth-214
+20 minutes
+Polonium-214
+1.6 × 10−4 s
+Lead-210
+19 years
+Bismuth-210
+5.0 days
+Polonium-210
+138 days
+Lead-206
+stable
+Answers on p. 222
+8  Nuclear physics
+Example
+Calculate the radii of the following nuclei:
+(a) carbon-12
+(b) gold-197
+Answer
+(a) r = 10−15 × 12  = 2.3 × 10−15 m = 2.3 fm
+(b) r = 10−15 × 197  = 5.8 × 10−15 m = 5.8 fm
+Distance of closest approach
+If an alpha particle (charge+2e) with a kinetic energy Eα is fired directly towards a nucleus of change Q it will ‘feel’ a repulsion, which increases as it gets closer — climbing the potential ‘hill’ surrounding the nucleus.
+When all the kinetic energy has been converted to electric potential energy (see p. 146) the alpha particle (charge q) has reached its distance of closest approach (dc ) and so comes to rest before moving away from the nucleus.
+Eα = 2eV =
+πε
+
+
+
+
+
+
+
+c eQ
+d
+Therefore:
+distance of closest approach (dc) =
+eQ
+E
+πε
+
+
+
+
+
+
+
+α
+Now test yourself
+9 Calculate the distance of closest approach between an alpha particle (Z = 2) of energy 4.5 MeV and a gold nucleus (Z = 79). (ε0 = 8.85 × 10−12 Fm−1 and e = 1.6 × 10−19 C)
+Answer on p. 222
+Calculation of nuclear density
+The simplest atomic nucleus is that of hydrogen (one proton) with a radius of the order of 10−15 m. The mass of a proton is about 10−27 kg and this gives a density for the nucleus of the order of 1017 kg m−3.
+Electron diffraction by a nucleus
+From the Fermi equation (r = r0A⅓) we know that the ‘diameter’ of a nucleon is about 10−15 m and so if we want to have any chance of ‘seeing’
+inside a nucleus we need to use a wavelength of this order or even smaller.
+Electrons have wave as well as particle properties, so they can be diffracted. De Broglie’s equation (wavelength (λ) = h/mv = hc/E, where h is the Planck constant and E the energy of the electrons) can be used to calculate their wavelength, which for 300 MeV electrons is 4.1 × 10−15 m.
+This is comparable to the diameter of nuclei and so electron diffraction can be used to determine the size of a nucleus (Figure 8.13). (See also
+Figure 2.27 on page 30.)
+Typical mistake
+Using MeV and not joules in nuclear physics calculations.
+8 Nuclear physics
+−θ
+Angle of diffraction
+Intensity
++θ
+Figure 8.13 Electron diffraction by a nucleus
+Example
+A 380 MeV electron is diffracted through an angle of 40° by a nucleus.
+Calculate the diameter of the nucleus (d).
+Angle of diffraction (θ) by a circular obstacle of diameter d is given by:
+sin θ = 1.22 λ /d
+Answer electron wavelength = hc
+E  =
+×
+×
+×
+×
+×
+×
+−
+6.63
+1.6
+-19  = 3.11 × 10−15 m angle of diffraction (θ) = 40°
+sin 40 = 0.643 =
+λ
+d
+1.22
+d =
+λ
+1.22
+0.643
+=
+×
+×
+1.22
+3.11
+0.643
+-15  = 5.90 × 10−15 m
+Mass and energy
+Einstein’s mass–energy equation
+Matter and energy are related by the famous equation proposed by Einstein:
+ΔE = Δmc2
+The quantity ΔE is the amount of energy produced when a mass Δm is completely converted to energy, and c is the speed of light (3 × 108 m s−1).
+Example
+Calculate the energy produced when 150 g of any matter is converted into energy.
+Answer
+By Einstein’s equation:
+ΔE = Δmc2
+ΔE = 0.15 × [3 × 108]2 = 1.35 × 1016 J
+Exam tip
+Note the use of kg and not g in the calculation.
+8  Nuclear physics
+Atomic mass unit (u)
+The masses of atoms and subatomic particles are extremely small — for example, the mass of an oxygen atom is about 3 × 10−26 kg and that of a neutron about 1.67 × 10−27 kg. It is therefore convenient to define a new unit to measure them. This is known as the atomic mass unit —
+written as u.
+One atomic mass unit is defined as one twelfth of the mass of one atom of the carbon-12 isotope.
+1 u = 1
+12 (19.92 × 10−27) kg = 1.661 × 10−27 kg
+Alternative units for energy and mass
+The MeV (see p.28) is related to the joule by:
+1 MeV = 106 eV = 1.6 × 10−13 J
+But using Einstein’s mass–energy relationship (E = mc2) we can convert the units for mass (kg) into alternative units. The units for mass are
+MeV/c2. Therefore:
+1 u = 1.66 × 10−27 kg = 931.5 MeV/c2
+The proton therefore has a rest mass of 1.007 273 u or 938 MeV/c2 and a rest energy of 938 MeV.
+Nuclear binding energy
+Imagine that you were asked to make a nucleus. You are given the protons and neutrons, asked to measure their masses, make them stick together somehow and then measure the mass of the finished nucleus.
+You would find that the mass of the completed nucleus is less than the total mass of the protons and neutrons from which it was made.
+The difference in mass between the mass of the nucleus and that of the particles of which it is composed is called the mass defect of the nucleus.
+The larger the nucleus the larger the mass defect.
+The mass defect can be expressed as an energy, and this is called the binding energy of the nucleus (Figure 8.14).
+The binding energies and mass defects for a number of nuclei are shown in Table 8.2.
+Table 8.2
+Element
+Mass defect/u
+Binding energy/MeV
+6C (carbon)
+0.099 00
+92.2
+8O (oxygen)
+0.137 08
+127.6
+20Ca (calcium)
+0.367 41
+342.2
+26Fe (iron)
+0.528 75
+491.8
+208Pb (lead)
+1.757 84
+1637.4
+235U (uranium)
+1.935 38
+1802.8
+p p n n
+Helium-4
+Figure 8.14 Nuclear binding energy
+Exam tip
+Sometimes masses are given in MeV and not MeV/c2.
+8  Nuclear physics
+Example
+Calculate the mass defect and binding energy of the helium-4 nucleus.
+Answer mass of two protons = 2 × 1.007 28 u = 2.01456 u mass of two neutrons = 2 × 1.008 67 u = 2.01734 u total mass of the particles = 4.031 9 u mass of the helium-4 nucleus = 4.001 51 u mass defect = 0.030 39 u binding energy of the helium-4 nucleus = 0.030 39 × 931.5 = 28.3 MeV
+Exam tip
+In these calculations, more significant figures than usual must be used because of the tiny changes.
+Binding energy per nucleon
+Another useful quantity is the binding energy per nucleon. It is defined as:
+binding energy per nucleon = bindingenergy nucleonnumber
+Figure 8.15 shows the binding energy per nucleon against nucleon number. Elements with a high binding energy per nucleon are very difficult to break up. Iron-56 is close to the peak of the curve and has one of the highest binding energies per nucleon of any isotope.
+Binding energy per nucleon/MeV
+Nucleon number (A)
+Energy released by fusion
+Energy released by fission
+Figure 8.15 Binding energy per nucleon
+The part of the curve to the left shows that two light elements can produce energy by fusion, while the part of the curve to the right shows that a heavy element can produce energy by fission. Notice that the diagram has been drawn with the binding energy per nucleon being shown as positive — this represents the energy needed to separate the particles.
+8  Nuclear physics
+Example
+The mass of the isotope 7
+3Li is 7.016 u. Find its binding energy.
+Answer
+Protons:
+3 × 1.007 276 = 3.021 829
+Neutrons:
+4 × 1.008 665 = 4.034 66
+Total = 7.056 489
+Nucleus = 7.016
+Mass defect = 0.040 489 u
+Binding energy = 0.040 489 × 931.5 = 37.70 MeV
+Now test yourself
+10 The isotope of iron 57
+26Fe has a mass of 56.935 u. Calculate:
+(a) the binding energy of the nucleus of 57
+26Fe
+(b) the binding energy per nucleon for 57
+26Fe
+(mass of a proton = 1.007 28 u; mass of a neutron = 1.008 67 u; 1 u = 1.661 × 10−27 kg = 931.5 MeV)
+Answer on p. 222
+Nuclear fission
+Nuclear fission is the splitting of a heavy nucleus by the bombardment of this nucleus by smaller particles — usually neutrons.
+There are many possible results of the nuclear fission of an isotope of uranium, uranium-235. One possible reaction is:
+235U + 1
+0n → 236U → 148La + 85
+35Br + 31
+0n + energy
+235.044 + 1.0087 = 236.0527 u  147.961 + 84.938 + 3.0261 = 235.9251 u
+This reaction has a mass defect of 0.1276 u.
+Energy is given out by the reaction because the mass of the products is less than the total mass of the original nucleus and the neutron.
+The mass defect represents a very small amount of energy. However, when you work out how many nuclei there are in 1 kg of uranium you can understand why nuclear fission is so important.
+Now test yourself
+11 If the mass defect in the fission of one nucleus of uranium-235 is 0.1276 u, calculate the energy in joules available by the fission of 1 kg of uranium-235. (Avogadro’s number = 6.02 × 1023 mol−1)
+Answer on p. 222
+8  Nuclear physics
+Fission and fusion processes
+Induced fission by thermal neutrons
+When a thermal neutron is fired at a uranium-235 nucleus, uranium-236
+is formed. The uranium-236 nucleus is unstable and may lose the extra energy in two ways. It can emit radiation (alpha, beta or gamma) or break apart. This ‘breaking up’ of the nucleus was the first evidence of nuclear fission (Figure 8.16).
+Uranium-235
+Uranium-236
+Neutrons
+Neutron
+Fission fragments
+Figure 8.16 Induced nuclear fission
+Thermal neutrons are ones with velocities of the order of 104 m s−1.
+These relatively low velocities allow time for the nucleus to ‘capture’ the incoming neutron, so forming the unstable nucleus.
+Chain reaction and critical mass
+Once one nucleus has undergone fission the neutrons that are released can go on to split further nuclei. If this fission can be sustained a chain reaction is produced (Figure 8.17). This reaction will proceed at high speed; the time for an emitted neutron to collide with another nucleus to produce a second fission is about 0.01 μs.
+Slow neutron
+Uranium nucleus
+Fast neutrons
+Fission fragments
+Figure 8.17 Chain reaction
+Now test yourself
+12 Calculate the energy available from the fission of 1 kg of plutonium-239 by the reaction shown below.
+Give your answer in joules.
+239Pu + 1
+0n → 134Xe + 103Zr + 31
+0n
+(Additional nuclear mass data: 239Pu = 239.060 765 u, 134Xe = 133.905 4 u, 103Zr = 102.926 6 u, n = 1.00867 u)
+Answer on p. 222
+8  Nuclear physics
+Thermal nuclear reactors
+A nuclear reactor needs a minimum amount of fuel called the critical mass (about 15 kg for pure uranium-235) to sustain a chain reaction. Anything less than this and the loss of neutrons from the surface will be too great and the chain reaction will stop.
+Important parts of a thermal nuclear reactor
+(Figure 8.18) include the following:
+l	 Fuel — in most commercial thermal nuclear reactors this is usually uranium-235 or 238, often a mixture.
+l	 Moderator — the neutrons produced in a chain reaction are moving too fast to cause further fission in 235U nuclei and they have to be slowed down.
+Moderators used are graphite or heavy water.
+l	 Control rods — these are designed to control the rate of the reaction by absorbing neutrons without undergoing nuclear fission. Lowering them into the reactor core will slow down the reaction. Rods of boron steel are used.
+l	 Coolant — a liquid or a gas used to remove the heat energy from the reactor core and keep its temperature stable. Coolants may be either carbon dioxide or water.
+l	 Steel containment vessel — a thick, steel vessel to contain the high-pressure gas coolant.
+l	 Concrete biological shield — 2–3 m thick, to protect the operators from radiation.
+Safety aspects
+There are a number of considerations and problems associated with the commercial use and decommissioning of nuclear fission reactors.
+Considerations when choosing the site include:
+l	 transport facilities l	 environmental aspects l	 local industry and commerce l	 a hard-rock site l	 local centres of population l	 availability of cooling water
+For safety, any overheating in the reactor leads to automatic shut-down.
+The control rods are held by electromagnets. If the temperature in the core rises to an unsafe level the current in these magnets is switched off and the control rods fall into the core, absorbing most of the neutrons and so shutting off the reaction.
+Disposal of nuclear waste
+In the UK, low-level waste, such as gloves, cast-off clothing and over shoes, is encased in cement and stored ‘on site’ for up to 15 years. After that it is packaged and disposed of as ‘normal’ waste.
+The intermediate-level waste with long half-lives, such as fuel containers, is packed in 500-litre steel drums. These are currently stored (about
+50 000 m3 so far).
+The most radioactive is the high-level waste, typically 1000 times more radioactive than intermediate level waste, and is mainly ‘used’
+fuel elements taken from reactors. In future, high-level waste from decommissioning will be stored in 12 m3 steel boxes, with the spaces between items packed with concrete.
+Boron control rod
+Uranium fuel rod
+Concrete
+Hot gas
+Reactor core
+Heat exchanger
+Cold gas
+Steel
+Graphite moderator
+Figure 8.18 Thermal nuclear reactor
+8  Nuclear physics
+Decommissioning a nuclear reactor
+Although nuclear power is a very good way of producing energy, there are problems when the reactor reaches the end of its useful life.
+After removal from the reactor ‘used’ fuel elements are stored under water in ‘ponds’ while they cool. Fuel is reprocessed to take out the uranium and plutonium but there is still some very toxic waste left behind, which is then encased in glass blocks. The government has decided to store this material underground for 50 years before disposal.
+Nuclear power and the greenhouse effect
+It has been calculated that if the use of nuclear power were expanded,
+CO2 emissions could be reduced by up to 30%, thus lowering global warming by 15%.
+Nuclear fusion
+If two light nuclei can be joined together we have another way of releasing energy — this is known as nuclear fusion (Figure 8.19).
++
++
+n p p n n n n p n p
+Figure 8.19 Nuclear fusion
+The most likely fusion reaction is the deuterium (D)–tritium (T) one shown below:
+1D + 3
+1T → 4
+2He + 1
+0n + energy (17.6 MeV)
+2.014 102 + 3.016 049	 4.002 604 + 1.008 665
+This gives a mass defect of 0.018 888 u and available energy of 17.6 MeV.
+This is less than for the fission of one nucleus of uranium, but since the density of deuterium is so much less than that of uranium the yield per kilogram is comparable. In 1 kg of deuterium there are approximately
+3 × 1026 atoms and so the energy released per kilogram is 8.45 × 1014 J.
+The big problem here is that both the nuclei are positive and to get them to fuse we have to somehow make them come very close together, so that the strong nuclear force becomes greater than the electrostatic repulsion.
+The way this is done is to make them collide at very high speed by raising the temperature of the gas to over 100 million °C — several times hotter than the centre of the Sun. At these temperatures the gas becomes a plasma — a sea of electrons and ions — and is a real problem to contain.
+Now test yourself
+13 Suggest why the critical ignition temperature is higher for a D−D reaction than for a D−T reaction.
+14 Calculate the energy released in the following reactions:
+(a) D + D → n + 3He
+(b) D + D → 3H + 1H
+(c) T + T → 2n + 4He
+(Additional nuclear mass data: D = 2.014 102 u; 3He = 3.016 048 u; 3H = T = 3.016 049 u; n = 1.00867 u)
+Answers on p. 222
+8  Nuclear physics
+Exam practice
+1 One conclusion from the Rutherford scattering experiment is:
+A
+Alpha particles are helium nuclei.
+B Electrons do not interact with neutrons.
+C
+The mass and positive charge in a gold atom is concentrated in a nucleus.
+D Alpha particles cannot pass through gold foil.
+[1]
+2 A Geiger counter with an end window of diameter 1.5 cm is placed 20 cm from a cobalt-60 gamma source containing 1.3 × 108 radioactive nuclei. The counter records a count rate of 200 Bq.
+(a) What is the activity of the source?
+[2]
+(b) What is the decay constant for cobalt-60 (using the data from this question)?
+Ignore background count in this question.
+[2]
+3 The decay constant (λ) can be written in terms of the half-life (T½) as:
+A
+ln 2 × T½
+B
+T½
+ln 2
+C
+ln 2
+T½
+D ln 2 − T½
+[1]
+4 A sample of wood from an archaeological site is carbon dated. The activity is found to be 600 counts per gram per hour. If the initial count rate of living wood is 950 counts per gram per hour how old is the wood sample? (Half-life of carbon-14 = 5570 years; background count has been allowed for.) 
+[3]
+5  A laboratory prepares a 2 μg sample of caesium-137, with half-life of 28 years.
+(a) What is its initial activity?
+[2]
+(b) What will its activity be after 100 years?
+[2]
+(c) What is the decay constant for caesium (in s−1)?
+[2]
+(Avogadro constant = 6.02 × 1023)
+6 A patient was given an injection containing a small amount of the isotope sodium-24, which is a beta emitter with a half-life of 15 hours. The initial activity of the sample was 60 Bq. After a period of
+8 hours the activity of a 10 ml sample of blood was found to be 0.08 Bq.
+(a) Estimate the volume of the patient’s blood from these measurements.
+[3]
+(b) What assumptions have you made in your calculation?
+[2]
+7 Show that the binding energy of 58
+28Ni is approximately 492 MeV. (mass of Ni-58 nucleus = 57.9353 u)
+[3]
+8 Using the binding energy per nucleon graph (Figure 8.15), which of the following gives the best explanation of why energy can be released in nuclear fission?
+A
+The graph slopes upwards as the nucleon number increases from 1 to 50.
+B The graph slopes downwards as the nucleon number increases from 60 to 250.
+C
+Part of the graph has a steep gradient.
+D Part of the graph has a shallow gradient.
+[1]
+9 Explain the difference between the functions of the moderator and the control rods in the operation of a nuclear fission reactor.
+[1]
+10	 (a) Suggest why the shape of the sample of nuclear fuel is important in sustaining a nuclear chain reaction.
+[2]
+(b) The carbon dioxide codant gas in a nuclear reactor circulates at a pressure of about 4 × 106 Pa.
+This requires a very strong steel containment vessel surrounding the reactor core. Why is such a high pressure needed and what are the resulting requirement for the reactor design?
+[2]
+(c) If the core temperature of a nuclear fission reactor is 300 K calculate the root mean square speed of thermal neutrons within the core. 
+[2]
+(mass of a neutron = 1.67 × 10−27 kg; Boltzmann constant = 1.38 × 10−23 J K−1)
+Answers and quick quiz 8 online
+Summary
+You should now have an understanding of:
+● Rutherford scattering — alpha particles scattered by the very small positive atomic nucleus
+● Alpha, beta and gamma radiation — their nature and properties
+● Radioactive decay — random nature, decay constant, half-life, applications of radioactive decay
+● Nuclear instability — graph of neutron number number against proton number
+● Nuclear radius — closest approach in alpha particle scattering, dependence of nuclear radius on nucleon number, nuclear density, diffraction of electrons by nuclei
+● Mass and energy — fission and fusion processes
+● Induced fission — chain reaction, critical mass, functions of parts of a nuclear reactor
+● Safety aspects and decommissioning in nuclear power production

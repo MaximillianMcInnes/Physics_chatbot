@@ -1,0 +1,27 @@
+3.3.1.3 	Principle of superposition of waves and formation of stationary waves
+Content
+Opportunities for skills
+development
+Stationary waves.
+Nodes and antinodes on strings.
+f = 1
+2l
+T
+ for first harmonic.
+The formation of stationary waves by two waves of the same
+frequency travelling in opposite directions.
+A graphical explanation of formation of stationary waves will
+be expected.
+Stationary waves formed on a string and those produced
+with microwaves and sound waves should be considered.
+Stationary waves on strings will be described in terms of
+harmonics. The terms fundamental (for first harmonic) and
+overtone will not be used.
+MS 4.7 / PS 1.2, 2.1 / AT i
+Students can investigate the factors
+that determine the frequency of
+stationary wave patterns of a
+stretched string.
+Required practical 1: Investigation into the variation of
+the frequency of stationary waves on a string with length,
+tension and mass per unit length of the string.

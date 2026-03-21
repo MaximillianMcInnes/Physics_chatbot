@@ -36,3 +36,4 @@ in this file i have just added some other sooruces such as the spec and the text
 
 scratch that we will break down the text book into spec by spec by the titles and then the spec by titles save them acordingly before creating the vector double
 
+right we have reached the point where we have all our data and ouyr chunks i think i will go on a walk and then we will set up langchain our vector db and then test before laying out the framework for deploying to a server

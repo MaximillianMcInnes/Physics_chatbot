@@ -1,0 +1,9 @@
+3.11.2.2
+Non-flow processes (A-level only)
+Content
+Isothermal, adiabatic, constant pressure and constant volume changes.
+pV  =  nRT
+adiabatic change : pV γ  =  constant
+isothermal change : pV  =  constant
+at constant pressure W  =  pΔV
+Application of first law of thermodynamics to the above processes.

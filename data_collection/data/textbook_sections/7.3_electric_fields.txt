@@ -1,0 +1,167 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 7 Fields and their consequences | SECTION: 7.3 Electric fields | PRINTED_PAGES: 144-146]
+
+7  Fields and their consequences
+Summary
+You should now have an understanding of:
+● Fields — bodies in a field experience a non-
+contact force
+● Vector representation of force fields
+● Similarities and differences between gravitational and electric fields
+● Gravity as a universal attractive force between all matter
+● Gravitational fields — Newton’s law of gravitation:
+=
+F
+GMm r
+● Gravitational field strength — g as a force per unit mass:
+=
+g
+GM
+r
+● Gravitational potential — zero at infinity
+● Work done by moving a mass in a field —
+independent of the path of the movement
+● Gravitational potential in a radial field:
+= −
+V
+GM
+r
+● Orbits of planets and satellites — geostationary and geosynchronous satellites and their orbits
+Coulomb’s law
+Coulomb’s law states that that the force between two charges placed a distance r apart in a vacuum is given by the equation:
+πε
+= 
+
+
+
+
+
+
+F
+Q Q
+r
+The constant ε0 is known as the permittivity of free space. Its value is
+8.85 × 10−12 F m−1. The numerical value of 1/(4πε0) is 8.99 × 109.
+Example
+Calculate the force between the proton and electron in an atom of hydrogen. (radius of the electron orbit = 10−10 m; charge on the electron = 1.6 × 10−19 C)
+Answer
+πε
+=
+
+
+
+
+
+
+
+
+F
+Q Q
+r
+8.99
+1.6
+1.6
+2.3
+10 N
+=
+×
+×
+×
+×
+×
+=
+×
+−
+−
+−
+−
+Electric field strength
+Electric field lines in uniform and radial electric fields
+An electric field may be represented by a diagram that shows field lines
+(Figure 7.7). These are lines that show both the direction in which a positive charge would move in the field and also the strength of the field. The closer the lines the stronger (the more intense) the electric field at that point.
+Exam tip
+For practical purposes the permittivity of air is virtually the same as that of free space (a vacuum).
+7 Fields and their consequences
++ V
++
+Equipotential
+Field line d
+Figure 7.7 Uniform and radial electric fields
+In a uniform field the electric field lines are equally spaced while in a radial field they get further apart at points further from the charge. Note that the dotted lines are lines of equal potential.
+electric field strength = F
+Q
+force (F) on a charge (Q) in an electric field of strength E = EQ
+The units for electric field strength are N C−1, or V m-1.
+In a uniform field:
+electric field strength (E) = V
+d
+In a radial field:
+electric field strength due to a charge Q (E) =
+πε (
+)
+
+
+
+
+2Q
+r
+Trajectory of a charge in an electric field
+If a moving charged particle enters a uniform electric field at right angles the trajectory followed will be parabolic (Figure 7.8).
++V
+E
++Q
++Q
+Figure 7.8 Trajectory of a charged particle in an electric field
+Just like an object moving in a gravitational field the charged particle accelerates in the direction of the field but moves at a constant speed at right angles to it.
+The electric field strength
+(E) at a point in an electric field is the force (F) on a unit positive charge placed at that point.
+Exam tip
+Unlike magnetic fields an electric field will exert a force on stationary charged particles within the field.
+7 Fields and their consequences
+Now test yourself
+6 Calculate the acceleration of an electron moving in a field of intensity 1000 V m−1 and state in which direction this acceleration takes place. (charge on the electron = 1.6 × 10−19 C;
+electron mass = 9 × 10−31 kg)
+Answer on p. 220
+Electric potential
+Note: an alternative definition is that it is the potential energy of a unit positive charge placed at that point with the zero being at infinity.
+The electric potential (V   ) at a point a distance r from a charge Q is given by the equation:
+V =
+πε
+( )
+
+
+
+
+Q
+r
+If a charge q is placed in an electric field, its electric potential energy is qV :
+Electric potential energy at a point in a radial field = qV =
+qQ
+r
+πε
+
+
+
+
+Now test yourself
+7 Calculate the electric potential at a distance of 0.5 m from a charge of 0.5 mC.
+Answer on p. 220
+The electric field strength can also be defined as the negative of the electric potential gradient:
+electric field strength (E) = −∆
+∆
+V
+r
+Hence the units V m−1.
+The change in electric potential is equal to the area between two distances on the E−r graph.
+(See Figure 7.9.)
+ΔV = EΔr
+Equipotential lines and surfaces
+A line of equipotential is a line joining points of equal potential just like a contour line on a map joining points of equal height. Since E = −ΔV/Δr, the closer the lines of equipotential are the greater the potential gradient and so the greater the field strength.
+An equipotential surface is a surface that joins points of equal potential, and therefore a surface on which the potential does not vary. This means that if you connected a wire between two points on the surface no current would flow between them.
+The electric potential at a point in an electric field is defined as the work done in bringing a unit positive charge from infinity to that point (units: volts).
+Electric field strength (E)
+Distance (r)
+Dr
+DV
+Figure 7.9 Potential, potential gradient and electric field
+Exam tip
+Electric field lines are always at right angles to lines of equal potential and to equipotential surfaces.

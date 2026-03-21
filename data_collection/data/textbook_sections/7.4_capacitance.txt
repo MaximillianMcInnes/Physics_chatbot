@@ -1,0 +1,367 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 7 Fields and their consequences | SECTION: 7.4 Capacitance | PRINTED_PAGES: 147-154]
+
+7 Fields and their consequences
+No work is done in moving an electric charge along an equipotential surface.
+Figure 7.10 shows equipotential lines for uniform and radial fields.
++V
+Potential
+E = –∆V/∆r is constant
+Distance from top plate
+0 V
+E = –∆V/∆ r varies with distance
+Distance from charge
+Potential
+Equipotential
+Electric field line
++
+Figure 7.10 Equipotential lines for uniform and radial fields
+Capacitance
+The combination of any two conductors separated by an insulator is called a capacitor. A capacitor is a device that can be made to store electric charge.
+Practical capacitors come in three basic forms:
+l as part of an integrated circuit l as two parallel plates (described more fully later)
+l as a cylinder made of a pair of rolled-up plates
+The ability to store charge is called the capacitance of the capacitor.
+capacitance (C) =
+charge (Q) on one of the conductors potential difference (V) between the two conductors
+Capacitance is measured in farads (F).
+A farad is actually a very large unit. The capacitors that you will meet will have capacitances of microfarads (μF, 10−6 F), nanofarads (nF, 10−9 F)
+or picofarads (pF, 10−12 F).
+A capacitor has a capacitance of 1 farad if the potential across it rises by
+1 volt when a charge of 1
+coulomb is stored in it.
+7  Fields and their consequences
+Example 1
+A 4700 μF capacitor is connected to a cell so that the potential difference across its terminals is 6 V. When it is fully charged:
+(a) What is the charge on the positive plate of the capacitor?
+(b) How many additional electrons are on the negative plate?
+(charge on one electron = 1.6 × 10−19 C)
+Answer
+(a) Q = CV = 4700 × 10−6 × 6 = 0.028 C
+(b)
+0.028
+1.6 × 10−19 = 1.76 × 1017
+Example 2
+What is the capacitance of a capacitor that stores 30 μC of charge when a potential difference of 6 V is applied across it?
+Answer capacitance (C) = charge (Q)
+pd (V)
+= 30 × 10−6
+= 5 × 10−6 F = 5 μF
+Revision activity
+Make a list of the uses capacitors both as individual components and as part of an integrated circuit.
+Now test yourself
+8	 (a) A capacitor of capacitance 5 μF is connected to a 6 V supply. What charge is stored in the capacitor?
+(b) A 400 pF capacitor carries a charge of 2.5 × 10−8 C. What is the potential difference across the plates of the capacitor?
+Answer on p. 220
+The parallel-plate capacitor
+In its most basic form a capacitor is simply two metal plates with a vacuum between them (Figure 7.11). Such an arrangement is called a parallel-plate capacitor. The two plates of a charged parallel capacitor each carry charges of the same size but of opposite sign.
+electric field strength between the plates (E) = Q
+ε0A
+where ε0 is the permittivity of free space (page 144).
+But if V is the potential difference between the plates:
+E = V
+d  = Q
+ε0A
+And therefore, since C = Q
+V :
+capacitance (C) of a parallel-plate capacitor = ε0A
+d
+Figure 7.11 The parallel-plate capacitor
+–V
+–Q
+d
+Area A
++Q
++V
+Exam tip
+The electric field within a parallel-plate capacitor is the same at all points between the plates.
+7  Fields and their consequences
+Now test yourself
+9 Calculate the capacitance of an air-filled, parallel-plate capacitor formed of two plates, each of area
+25 cm2 and separated by 0.2 mm εo = 8.85 × 10-12 F m-1.
+10 A school decides to make an air-filled capacitor from two metal plates separated by 0.5 mm. If the capacitance required is 100 μF what must be the area of each of the plates?
+Answers on pp. 220–1
+The action of a dielectric
+A dielectric material is one which is non-conducting. If such a material is placed in an electric field the charges within its molecules separate, although this separation does not cause conduction (Figure 7.12).
+If a dielectric material is placed between the plates of a charged capacitor, opposite charges will be induced on the two surfaces of the dielectric.
+This has the effect of reducing the potential difference across the capacitor. The capacitance of the capacitor is increased.
+Relative permittivity
+It is often useful to compare the electrostatic properties of materials by using a quantity known as the relative permittivity (εr) — also known as the dielectric constant. This is defined using the relation:
+permittivity (ε) = relative permittivity (εr) × permittivity of free space (ε0)
+The capacitance of a parallel-plate capacitor with a material of relative permittivity εr filling the space between the plates is:
+capacitance (C) = εrε0A
+d
+The relative permittivity of most gases is very nearly equal to 1.00, but for solids and liquids it varies between 80 (water) and 2 (paraffin).
+The relative permittivity (εr) can also be defined as the ratio of the capacitance when the space between the plates is a dielectric to that when there is a vacuum between the plates.
+Example 1
+Calculate the separation of the plates of an air-filled capacitor of capacitance 20 nF if the plates have an area of 45 cm2. Permittivity of free space (ε0) = 8.85 × 10−12 F m−1. (Take the relative permittivity of air to be 1.0)
+Answer capacitance (C) = ε0A
+d
+20 × 10−9 = 8.85 × 10−12 × 45 × 10−4
+d d = 2 × 10−6 m = 0.002 mm
+Exam tip
+Relative permittivity has no units — it is a pure number.
+Typical mistake
+Forgetting to use SI units for plate separation and area when calculating the capacitance of a parallel-
+plate capacitor.
+–
++
+–
++
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+–
++
+Figure 7.12 Action of a dielectric
+7  Fields and their consequences
+Example 2
+Calculate the capacitance of a parallel-plate capacitor with plates of area 50 cm2 when the space between the plates is filled by a sheet of glass 0.5 mm thick.
+Permittivity of free space (ε0) = 8.85 × 10−12 F m−1; the relative permittivity of glass = 7.0
+Answer capacitance (C) =
+ε0εrA
+d
+= 8.85 × 10−12 × 7.0 × 50 × 10−4
+5 × 10−4
+= 6.2 × 10−10 F = 0.62 nF
+Exam tip
+Remember that when substituting for the area in the parallel-plate capacitor formula it is the area of one of the plates and not the total area of both.
+Now test yourself
+11 Calculate the capacitance of a pair of parallel plates of area 25 cm2 if they are separated by a piece of Perspex 0.1 mm thick. Take the permittivity of free space to be 8.85 × 10−12 F m−1 and the relative permittivity of Perspex to be 3.5.
+Answer on p. 221
+Energy stored by a capacitor
+If a small charge ΔQ is taken from one plate to the other, the work done will be VΔQ where V is the potential difference between the plates. If the initial charge on the positive plate is 0 and the final charge is Q, then the total energy gained in completely discharging the capacitor is:
+energy stored in a capacitor = ½ Q2
+C
+= ½CV 2 = ½QV
+The energy stored as a capacitor is charged is shown in Figure 7.13.
+Area below line =
+energy stored =    QV
+V
+Q
+V
+DQ
+Figure 7.13 Energy stored in a capacitor
+Example
+What is the energy stored in the following capacitors:
+(a) a capacitor of 4700 μF charged to a potential of 240 V?
+(b) a capacitor with a charge of 20 nC charged to a potential of 10 V?
+(c) a capacitor of 20 μF with a charge of 50 μC?
+Answer
+(a) energy = ½CV2 = 0.5 × 4700 × 10−6 × 2402 = 135.4 J
+(b) energy = ½QV = 0.5 × 20 × 10−9 × 10 = 1 × 10−7 J = 0.1 μJ
+(c) energy = ½ Q2
+C  = 0.5 × (50 × 10−6)2
+20 × 10−6  = 6.25 × 10−5 J = 0.0625 mJ
+7  Fields and their consequences
+Now test yourself
+12 A capacitor with a potential difference of 100 V between its terminals stores a charge of 5 C. What is the energy stored by the capacitor?
+13 What is the energy stored in the following parallel-plate capacitor in a vacuum: area of the plates
+1 m2, separation 1 mm, potential difference 20 V? (permittivity of a vacuum = 8.85 × 10−12 F m−1)
+14 A parallel-plate capacitor is charged so that the potential difference between the plates is V. The supply is then disconnected and the plates’ separation is reduced. What happens to:
+(a) the electric field strength
+(b) the charge on the plates
+(c) the potential difference between the plates?
+Answers on p. 221
+Capacitor charge and discharge
+When a pd is applied across the capacitor the potential cannot rise to the applied value instantaneously. As the charge on the terminals builds up to its final value it tends to repel the addition of further charge.
+The rate at which a capacitor can be charged or discharged depends on:
+l	 the capacitance of the capacitor, and l	 the resistance of the circuit through which it is being charged or is discharging. The greater the resistance, the longer the time taken.
+Charging a capacitor
+In the charging circuit of Figure 7.14, as soon as the switch is closed in position 1 the battery is connected across the capacitor, current flows and the potential difference across the capacitor begins to rise. As more and more charge builds up on the capacitor plates, the current and the rate of rise of potential difference both fall. Finally, no further current will flow when the pd across the capacitor equals that of the supply voltage V0. The capacitor is then fully charged.
+For a capacitor charging:
+V = V0(1 – e−t/RC)
+Potential difference (V)
+Time (t)
+RC
++
+V0
+C
+R
+2RC
+3RC
+V0 – (V0 /e)
+V0
+Figure 7.14 Charging a capacitor
+7  Fields and their consequences
+Example
+A 200 μF capacitor is charged through a resistor of 100 kΩ using a 6 V
+DC supply. What is the potential difference across the capacitor 10 s after the commencement of the charging process?
+Answer
+V = V0(1 – e−t/RC) = 6(1 − e−10/(100 000 × 0.0002)) = 6(1 − 0.61) = 2.36 V
+Now test yourself
+15 A 1000 μF capacitor is charged through a 2 kΩ resistor using a 12 V DC supply. How long will it take for the potential difference across the capacitor to reach 9 V?
+Answer on p. 221
+Discharging a capacitor
+In the circuit of Figure 7.15, as soon as the switch is put in position 2
+a ‘large’ current starts to flow and the potential difference across the capacitor drops. As charge flows from one plate to the other through the resistor the charge is neutralised and so the current falls and the rate of decrease of potential difference also falls.
+Eventually the charge on the plates is zero and the current and potential difference are also zero — the capacitor is fully discharged. The value of the resistor does not affect the final potential difference across the capacitor.
+V = V0e−t/RC
+I = I0e−t/RC
+Q = Q0e−t/RC
+ln V = ln V0 − t/RC
++
+V0
+C
+R
+V0
+Potential difference (V)
+Time (t)
+RC
+2RC
+3RC
+V0 /e
+Figure 7.15 Discharging a capacitor l	 The area under a current−time capacitor discharge graph gives the charge held by the capacitor.
+l	 The gradient of a charge−time capacitor discharge graph gives the current flowing from the capacitor at that moment.
+l	 A graph of ln [V0/V] against t will give a linear graph with gradient 1/RC.
+Exam tip
+The value of a resistor connected in series with a capacitor will not affect the final potential difference across the capacitor — only the time taken to charge or discharge it.
+7  Fields and their consequences
+Example
+A capacitor of 1000 μF with a potential difference of 12 V across it is discharged through a 500 Ω resistor. Calculate the voltage across the capacitor after 1.5 s.
+Answer
+V = V0e−t/RC = 12e−1.5/(500 × 0.001) = 0.6 V
+The time constant
+The rate at which a capacitor charges or discharges is governed by its capacitance (C) and the resistance (R) of the circuit through which it is charged or discharged. The product RC is known as the time constant for the circuit:
+time constant for a capacitor circuit = RC
+The time constant is measured in seconds. The bigger the value of RC, the slower the rate at which the capacitor charges and discharges.
+The time for the potential difference across the capacitor to halve is
+T½ = 0.69 RC.
+The time constant can be measured by using a graph of the discharge of a capacitor (Figure 7.15). The time taken for the potential difference to halve is found from the graph and the time constant (RC) calculated from
+T½/0.69.
+Example
+The potential difference across a certain capacitor halves in 20 s
+Calculate:
+(a) the time constant of the capacitor
+(b) the capacitance of the capacitor if the discharge takes place through a 100 kΩ resistor
+Answer time constant = RC = time for p.d. to halve
+0.69
+= 20
+0.69 = 29 s capacitance (C) = time constant
+R
+=
+100 × 103 = 2.9 × 10−4 F = 290 μF
+Now test yourself
+16 A capacitor of 1000 μF with a potential difference of 12 V across it is discharged through a 1000 Ω
+resistor. Calculate the voltage across the capacitor after 0.5 s.
+17 What is the time constant for circuit where a 10 μF capacitor is charged through a 1000 kΩ  resistor?
+Answers on p. 221
+7  Fields and their consequences
+Required practical 9
+Investigation of the charge and discharge of a capacitor
+The circuit shown in Figure 7.16 is set up with the two-way switch in the central position. The switch is moved to position 1 (Figure 7.16a) so that the capacitor charges through R1. The potential difference across the capacitor is measured at time intervals using the high-resistance voltmeter (V) or a voltage sensor.
+When the voltage is constant the switch is moved to position 2 (Figure 7.16b) so that the capacitor discharges through R2. Once again the variation of potential difference with time is measured.
+A graph of pd against time or ln (pd) against time is drawn and hence the time constant can be calculated.
++
+V0
+R2
+V
+R1
+(a)
+(b)
++
+V0
+R1
+V
+Figure 7.16 Circuit diagrams for (a) charging and (b) discharging a capacitor
+Exam practice
+1 A parallel-plate capacitor has plates of area 6 × 10−2 m2 separated by 1.2 mm. The space between the plates is filled with dielectric of relative permittivity 2.78. (ε0 = 8.85 × 10−12 F m−1) The capacitance of the capacitor is:
+A
+15.7 pF
+B 2.78 nF
+C
+1.23 × 10−12 F
+D 1.23 nF
+[1]
+2 A parallel-plate air capacitor of area 25 cm2 and with plates 1 mm apart is charged to a potential of 100 V.
+(a) Calculate the energy stored in it.
+[2]
+(b) The plates of the capacitor are now moved a further 1 mm apart with the power supply connected. Calculate the energy change.
+[3]
+(c) If the power supply had been disconnected before the plates had been moved apart, what would have been the energy change in this case?
+[2]
+3 To have the same energy as a 2.0 V 40 ampere-hour accumulator, a 0.1 F capacitor must be charged to a potential of:
+A
+1200 V
+B 2400 V
+C
+3600 V
+D 6000 V
+[1]
+4 An uncharged capacitor is connected as shown in Figure 7.16a.
+(a) Describe the flow of electrons as the capacitor charges.
+[1]
+(b) Describe the flow of electric current as the capacitor charges.
+[1]
+(c) What determines the final potential difference across the capacitor?
+[1]
+(d) The resistor R1 is now replaced by one of larger resistance. What effect does this have on:
+(i) the rate of charging 
+[1]
+(ii) the final charge on the capacitor?
+[1]
+5 A capacitor is discharged through a 10 MΩ resistor and it is found that the time constant is 2000 s.
+(a) Calculate the value of the capacitor.
+[2]
+(b) Calculate the time for the potential across a 100 μF capacitor to fall to 75 per cent of its original value if it is discharged through a 10 kΩ resistor.
+[2]
+Answers and quick quiz 7 online

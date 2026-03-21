@@ -1,0 +1,11 @@
+3.7.5.1 	Magnetic flux density (A-level only)
+Content
+Opportunities for skills
+development
+Force on a current-carrying wire in a magnetic field: F = BIl
+when field is perpendicular to current.
+Fleming’s left hand rule.
+Magnetic flux density B and definition of the tesla.
+Required practical 10: Investigate how the force on a wire
+varies with flux density, current and length of wire using a
+top pan balance.

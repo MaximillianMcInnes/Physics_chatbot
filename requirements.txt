@@ -1,4 +1,10 @@
 bs4
 requests
 pathlib
-urllib
+pymupdf
+langchain>=0.3.0
+langchain-openai>=0.3.0
+langchain-chroma>=0.2.0
+chromadb>=1.0.0
+python-dotenv>=1.0.1
+tqdm>=4.66.0

@@ -1,0 +1,11 @@
+3.12.2.3
+Electromagnetic waves (A-level only)
+Content
+Nature of electromagnetic waves.
+Maxwell’s formula for the speed of electromagnetic waves in a vacuum c =
+00
+where 0 is the permeability of free space and 0 is the permittivity of free space.
+Students should appreciate that 0 relates to the electric field strength due to a charged object in free
+space and 0 relates to the magnetic flux density due to a current-carrying wire in free space.
+Hertz’s discovery of radio waves including measurements of the speed of radio waves.
+Fizeau’s determination of the speed of light and its implications.

@@ -1,0 +1,20 @@
+3.7.2.4 	Orbits of planets and satellites (A-level only)
+Content
+Opportunities for skills
+development
+Orbital period and speed related to radius of circular orbit;
+derivation of T2 ∝r3
+Energy considerations for an orbiting satellite.
+Total energy of an orbiting satellite.
+Escape velocity.
+Synchronous orbits.
+Use of satellites in low orbits and geostationary orbits, to
+include plane and radius of geostationary orbit.
+MS 0.4
+Estimate various parameters of
+planetary orbits, eg kinetic energy of a
+planet in orbit.
+MS 3.11
+Use logarithmic plots to show
+relationships between T and r for
+given data.

@@ -1,0 +1,28 @@
+3.7.4.4 	Capacitor charge and discharge (A-level only)
+Content
+Opportunities for skills
+development
+Graphical representation of charging and discharging of
+capacitors through resistors. Corresponding graphs for Q, V
+and I against time for charging and discharging.
+Interpretation of gradients and areas under graphs where
+appropriate.
+Time constant RC.
+Calculation of time constants including their determination
+from graphical data.
+Time to halve, T ½ = 0.69RC
+Quantitative treatment of capacitor discharge, Q = Q0e
+−
+t
+RC
+Use of the corresponding equations for V and I.
+Quantitative treatment of capacitor charge, Q = Q0 1 −e
+−
+t
+RC
+Required practical 9: Investigation of the charge and
+discharge of capacitors. Analysis techniques should include
+log-linear plotting leading to a determination of the time
+constant, RC
+MS 3.8, 3.10, 3.11 / PS 2.2, 2.3 / AT
+f, k

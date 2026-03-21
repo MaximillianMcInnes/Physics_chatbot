@@ -1,0 +1,9 @@
+3.13.4.1
+Inverting amplifier configuration (A-level only)
+Content
+Derivation of
+V out
+V in = −
+Rf
+Rin , calculations.
+Meaning of virtual earth, virtual-earth analysis.

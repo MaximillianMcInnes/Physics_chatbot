@@ -1,0 +1,7 @@
+3.11.2.1
+First law of thermodynamics (A-level only)
+Content
+Quantitative treatment of first law of thermodynamics, Q =   ∆U + W
+where Q is energy transferred to the system by heating, ∆U is increase in internal energy and W is
+work done by the system.
+Applications of first law of thermodynamics.

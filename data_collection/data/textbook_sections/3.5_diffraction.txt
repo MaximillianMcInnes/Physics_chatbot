@@ -1,0 +1,105 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.5 Diffraction | PRINTED_PAGES: 43-46]
+
+3 Waves
+Example
+Calculate the fringe spacing for light of wavelength 600 nm in a double-slit experiment where the double slits are separated by
+0.8 mm and the screen is placed 75 cm from them.
+Answer fringe width (w) = λD
+d
+= 600 × 10−9 × 0.75
+0.80 × 10−3
+= 5.6 × 10−4 m = 0.56 mm
+Now test yourself
+7 Light of wavelength 600 nm falls on a pair of double slits that are 0.5 mm apart. Calculate:
+(a) the fringe separation on a screen 90 cm away from the double slits
+(b) the distance and direction that the screen has to be moved to get the same fringe separation with light of wavelength 500 nm
+8 Calculate the wavelength of the light that will give an interference pattern with a fringe width of
+4.5 mm on a screen 4 m from a pair of slits with a slit separation of 0.6 mm.
+Answers on p. 216
+Required practical 2(i)
+Young’s double-slit experiment
+The interference of light can be observed using a blackened glass slide on which two fine slits have been engraved parallel to each other and less than a millimetre apart. When the slide is illuminated with monochromatic light a series of fringes will be seen on a screen placed on the other side of the slide from the source. Moving the screen away from the slits will increase the fringe width, as will the use of light of a longer wavelength.
+Basic principles
+When a wave hits an obstacle it does not simply go straight past, but bends round the obstacle. The same type of effect occurs at a hole — the waves spread out the other side of the hole. This phenomenon is known as diffraction.
+Diffraction effects (Figure 3.16):
+●	 are greater for waves of long wavelength
+●	 are greater for small holes
+3 Waves
+Wide gap – small diffraction
+Narrow gap – large diffraction
+Large wavelength – large diffraction
+Figure 3.16 Diffraction effects
+Appearance of the diffraction pattern from a single slit
+When light passes through a single slit diffraction occurs. The variation of intensity with angle of diffraction (θ) is shown in Figure 3.17.
+Intensity
+Angle of diffraction (θ)
+θ
+–θ
++
+Figure 3.17 Single-slit diffraction
+Exam tip
+Notice that the wavelength of the wave is unaffected during diffraction.
+Intensity
+Intensity
+Angle of diffraction (θ)
+θ
+–θ
+–θ
+θ
++
++
+Figure 3.18 Diffraction and wavelength
+Figure 3.18 shows the effect of a change of wavelength on the diffraction pattern.
+Blue light — short wavelength, giving a narrow diffraction pattern.
+Red light — long wavelength, giving a broad diffraction pattern.
+Exam tip
+The diagrams showing intensity distribution for the single slit are not required for your examination. They are shown here to help your understanding.
+3 Waves
+If the slit is narrowed the diffraction pattern will become broader for a given wavelength, and it will narrow if the slit is made wider.
+If white light is used, a spectrum is formed at each maximum in the diffraction pattern.
+Now test yourself
+Why is the diffraction of light much more difficult to observe than the diffraction of microwaves?
+10 Can diffraction occur with longitudinal waves as well as with transverse waves?
+Answers on p. 216
+The diffraction grating
+If a number of parallel, narrow slits are made the result is known as a diffraction grating (Figure 3.19). Those in use in schools have typically between 80 and 300 slits per mm. The distance between the centres of adjacent slits is called the grating spacing (d). If there are 100 slits per mm the width of one slit is 0.01 mm, or 10−5 m.
+The diffracted images produced by diffraction gratings are both sharper and more intense than those produced by a single slit. The intensity in any given direction is the sum of those due to each slit (Figure 3.19).
+The slits of a diffraction grating are usually called lines.
+Formula for a diffraction grating
+When a parallel beam of light falls on a diffraction grating a number of diffraction maxima are formed. These are formed at angles of θ to the normal of the grating. The formula for these maxima is:
+diffraction grating maximum, nλ = d sin θ
+where n = 0, 1, 2, 3…
+Angle of diffraction (θ)
+θ
+θ
+θ
+A
+C
+B
+d
+Figure 3.19 Diffraction grating
+3 Waves
+The number n is known as the order of the spectrum so that, for example, a first-order spectrum is formed for n = 1, and so on. If light of a single wavelength, such as that from a laser, is used, then a series of sharp maxima occur — one maximum to each order of the spectrum. A
+white light source gives a series of spectra with the light of the shortest wavelength having the smallest angle of diffraction.
+The number of orders of spectra visible with a given grating depends on the grating spacing, with more spectra being visible with coarser gratings.
+This is because the maximum angle of diffraction is 90° and therefore the maximum value for sin θ = 1.
+Example
+Calculate the wavelength of the monochromatic light where the second-order image is diffracted through an angle of 25° using a diffraction grating with 300 lines per millimetre.
+Answer grating spacing, d = 10−3
+300 m
+= 3.3 × 10−6 m wavelength, λ = d sin 25
+= 3.3 × 10−6 × 0.42
+= 6.97 × 10−7 m = 697 nm
+Now test yourself
+11 A diffraction grating has 250 lines per mm. Calculate:
+(a) the angle of diffraction for the first order image for light of wavelength 550 nm
+(b) the highest order possible with this grating at this wavelength
+(c) the number of images of the source
+12 How could you tell the difference between a CD and a DVD simply by looking at the diffraction pattern produced by a white light source? Explain your answer.
+Answers on p. 216
+Applications of diffraction gratings
+Diffraction gratings are very useful tools for the study of spectra. They are often used to determine the composition of an incandescent source and are particularly useful in the analysis of the material of stars. Diffraction gratings are cheaper and easier to use than glass prisms and the spectra produced can be made large by increasing the number of lines per metre.
+Exam tip
+The number of lines per metre on a diffraction grating is the inverse of the grating spacing.
+Typical mistake
+Forgetting that the diffraction occurs on both sides of the axis of the system.

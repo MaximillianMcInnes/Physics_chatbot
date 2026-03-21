@@ -1,0 +1,62 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.8 The photoelectric effect | PRINTED_PAGES: 25-26]
+
+2 Particles and radiation
+Photon explanation of threshold frequency
+Figure 2.18 shows a charged clean zinc plate fitted to the top of a gold leaf electroscope. The plate may be positive or negative and various forms of radiation can be shone on it.
+No effect
+Red laser light
+No effect
+Leaf falls immediately
+Ultraviolet light
+Ultraviolet light
++
++
+or
+–
+–
+High voltage
+Figure 2.18 The photoelectric effect
+If the plate is positively charged no radiation has any effect. However, if the plate is given a negative charge to start with there is a difference. Using the laser-emitting red light has no effect, but when ultraviolet light is shone on the plate the electroscope is discharged and the leaf falls immediately. No effect can be produced with radiation of longer wavelength (lower frequency and smaller energy) no matter how long the radiation is shone on the plate.
+When the ultraviolet radiation fall on the plate:
+●	 no electrons are emitted from the plate if it is positive
+●	 the number of electrons emitted per second depends on the intensity of the incident radiation
+●	 the energy of the electrons depends on the frequency of the incident radiation
+●	 there is a minimum frequency (f0) below which no electrons are emitted no matter how long radiation fell on the surface
+These results show that:
+●	 The threshold frequency is the minimum frequency (f0) that will cause electron emission from a given material. Photons with a lower frequency will never cause electron emission.
+●	 The free electrons are held in the metal in a ‘hole’ in the electric field;
+this is called a potential well. Energy has to be supplied to them to enable them to escape from the surface (Figure 2.19).
+High-energy violet quantum
+Work function
+Electron leaves the metal
+Potential well
+Figure 2.19 The potential well
+2 Particles and radiation
+If radiation with a frequency above that of the threshold frequency is shone on a metal plate electrons are emitted spontaneously. One quantum of radiation (a photon) of a high enough frequency has enough energy to
+‘kick the electron out’ in one go.
+The photoelectric effect is very good evidence for the particle nature of electromagnetic waves.
+The amount of energy needed to just release a photoelectron is known as the work function (ϕ) for the metal. This can be expressed in terms of the threshold frequency (f0).
+work function (ϕ ) = hf0
+where h is the Planck constant (6.63 × 10−34 Js)
+Example
+If the work function of silver is 7.6 × 10−19 J, calculate the threshold frequency for a clean silver surface.
+Answer threshold frequency (f0) = W
+h = 7.6 × 10−19
+6.63 × 10−34 = 1.15 × 1015 Hz
+(This is in the ultraviolet region of the spectrum.)
+Einstein’s photoelectric equation
+If a quantum of radiation with an energy (hf) greater than the work function ϕ, and therefore a frequency greater than f0, falls on a surface an electron will escape from the surface and be emitted with some residual kinetic energy (Ek).
+The energy of the incident quantum (hf) is the sum of the work function of the metal (ϕ = hf0) and the maximum kinetic energy of the electron
+(Ek) (Figure 2.20). This is expressed by Einstein’s photoelectric equation:
+hf = ϕ + Ek = hf0 + Ek
+Stopping potential
+If we put a collecting electrode in front of the emitting surface in a vacuum we can detect the photoelectrons as a small current. If the collecting electrode is made slightly negative compared with the emitting surface the electrons will find it difficult to get to it and electrons will only do that if their energy is greater than the ‘height’
+of the potential barrier.
+Electrons will be only detected if Ek > eV where V is the potential difference between the plate and the emitting surface.
+If V is increased so that no more electrons can reach the detector, this value for the potential is called the stopping potential for that surface and radiation.
+Exam tip
+Remember to use SI units for the work function in calculations.
+Photon energy (hf )
+Work function (hf0)
+Electron k.e (   mv2)
+Figure 2.20 Einstein’s photoelectric equation

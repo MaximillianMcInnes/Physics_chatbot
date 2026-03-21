@@ -1,0 +1,6 @@
+3.11.1.1
+Concept of moment of inertia (A-level only)
+Content
+I = mr2 for a point mass. I = mr2 for an extended object.
+Qualitative knowledge of the factors that affect the moment of inertia of a rotating object.
+Expressions for moment of inertia will be given where necessary.

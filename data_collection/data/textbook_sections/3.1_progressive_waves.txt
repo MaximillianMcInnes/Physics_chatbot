@@ -1,0 +1,29 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.1 Progressive waves | PRINTED_PAGES: 34-34]
+
+3 Waves
+A progressive wave motion transmits energy from the source through a material or a vacuum without transferring matter. Wave motion can occur in many forms, such as water waves, sound waves, radio waves, light waves and mechanical waves.
+Waves: basic properties
+Waves are produced by the oscillation of particles or electric and magnetic fields. They are defined by the following set of basic properties:
+●	Wavelength (λ) is the distance between any two successive corresponding points on the wave, for example between two maxima or two minima.
+●	Displacement (y) is the distance from the mean, central, undisturbed position at any point on the wave.
+●	Amplitude (a) is the maximum displacement from zero to a crest or a trough.
+●	Frequency (f) is the number of vibrations per second made by the wave. Frequency is measured in hertz (Hz). A frequency of 1 Hz is a rate of vibration of one oscillation per second. High frequencies are measured in kilohertz (kHz) (1 kHz = 1000 Hz) and megahertz (MHz)
+(1 MHz = 1 000 000 Hz).
+●	Period (T) is the time taken for one complete oscillation (T = 1/f).
+●	Phase (ε ) is a term related to the displacement at zero time (see p. 35).
+●	Path difference is the difference in distance travelled by two waves from their respective sources to a common point.
+●	Speed (c) is a measure of how quickly energy is transmitted from place to place by the wave motion.
+wave speed (c) = frequency (f) × wavelength (λ)
+Example
+If a note played on a guitar has a frequency of 440 Hz, what is its wavelength? (speed of sound in air = 330 m s−1)
+Answer wavelength = velocity frequency = 0.75 m
+Now test yourself
+1 There are two radio stations broadcasting on the FM radio band. One has a frequency of 101.7 MHz and the other a frequency of 100 MHz. (speed of radio waves = 3 × 108 m s−1)
+What is the wavelength of the radio waves from the station with the shortest wavelength?
+2 Explain why an astronaut on the surface of the Moon would be able to see a spacecraft descending towards the lunar surface but would not be able to hear the sound of the rocket engines. (Assume that they have a microphone fitted to the outside of their space helmet.)
+Answers on p. 216
+Typical mistake
+Taking a wavelength to be the distance along the wave from crest to trough and not crest to crest.
+Typical mistake
+Taking the amplitude to be the distance from a trough to a crest and not from the
+‘axis’ to a crest.

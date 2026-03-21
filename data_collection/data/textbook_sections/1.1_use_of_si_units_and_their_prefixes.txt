@@ -1,0 +1,101 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 1 Measurements and their errors | SECTION: 1.1 Use of SI units and their prefixes | PRINTED_PAGES: 7-8]
+
+1 Measurements and their errors
+Fundamental (base) units
+Mass — measured in kilograms
+The kilogram (kg) is the mass equal to that of the international prototype kilogram kept at Sevres, France.
+Length — measured in metres
+The metre (m) is the distance travelled by electromagnetic waves in free space in 1/299 792 458 s.
+Time — measured in seconds
+The second (s) is the duration of 9 192 631 770 periods of the radiation corresponding to the transition between two hyperfine levels of the ground state of caesium-137 atom.
+Further SI units
+Electric current — measured in amperes
+The ampere (A) is that constant current that, if maintained in two parallel straight conductors of infinite length and of negligible circular cross section placed 1 metre apart in a vacuum, would produce a force between them of 2 × 10−7 N.
+Temperature — measured in kelvin
+The kelvin (K) is 1/273.16 of the thermodynamic temperature of the triple point of water.
+Amount of substance — measured in moles
+The mole (mol) is the amount of substance in a system that contains as many elementary particles as there are in 0.012 kg of carbon-12.
+Exam tip
+Remember to use the appropriate SI units.
+1 Measurements and their errors
+Prefixes
+These are outlined in Table 1.1.
+Table 1.1
+Prefix
+Symbol
+Value
+Prefix
+Symbol
+Value
+Prefix
+Symbol
+Value tera
+T
+deci d
+10−1
+nano n
+10−9
+giga
+G
+centi c
+10−2
+pico p
+10−12
+mega
+M
+milli m
+10−3
+femto f
+10−15
+kilo k micro
+μ
+10−6
+Table 1.2 gives conversion rates for different units of the same quantity.
+The sign ≡ is taken to mean ‘equivalent to’.
+Table 1.2
+Unit
+Symbol
+Conversions
+Joule
+J
+1 J ≡ 6.24 × 1018 eV ≡ 2.78 × 10−7 kWh ≡ 1.11 × 10−17 kg
+Electron volt eV
+1 eV ≡ 1.6 × 10−19 J ≡ 4.45 × 10−26 kWh ≡ 1.78 × 10−36 kg
+Kilowatt hour kWh
+1 kWh ≡ 3.6 × 106 J ≡ 2.25 × 1025 eV ≡ 4.01 × 10−11 kg
+Kilogram kg
+1 kg ≡ 8.99 × 1016 J ≡ 5.6 × 1035 eV ≡ 2.5 × 1010 kWh
+Derivation of SI units
+These units are built up step by step from the base units. The example below shows the building of the derived unit for potential difference (V)
+(kg m2 s−3 A−1).
+Example
+Table 1.3
+Base unit
+Base unit
+Derived unit
+Derived unit
+Derived unit
+Metre (m)
+Second
+Velocity (m s−1)
+Ampere (A)
+Second
+Charge (C) (A s)
+Second (s)
+Velocity
+Acceleration (m s−2)
+Kilogram (kg)
+Acceleration
+Force (N) (kg m s−2)
+Metre
+Force
+Work (J) (kg m2 s−2)
+Work
+Charge
+Potential difference (V) (kg m2 s−3 A−1)
+Now test yourself
+1 What is the result of multiplying 10 MN by 25 pm? Your answer should include both the numerical answer and the correct unit.
+2 Using a table like the one above, show the building of the derived unit Pascal (Pa).
+Answers on p. 216
+Typical mistake
+Forgetting to convert, for example, mm to m or g to kg in calculations.

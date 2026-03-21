@@ -1,0 +1,22 @@
+3.6.1.2 	Simple harmonic motion (SHM) (A-level only)
+Content
+Opportunities for skills
+development
+Analysis of characteristics of simple harmonic motion (SHM).
+Condition for SHM: a ∝−x
+Defining equation: a = −𝱨2x
+x = Acos t and v = ± 
+A2 −x2
+Graphical representations linking the variations of x, v and a
+with time.
+Appreciation that the v −t graph is derived from the gradient
+of the x −t graph and that the a −t graph is derived from
+the gradient of the v −t graph.
+Maximum speed = A
+Maximum acceleration = 2A
+AT i, k
+Data loggers can be used to produce
+s −t, v −t and a −t graphs for SHM.
+MS 3.6, 3.8, 3.9, 3.12
+Sketch relationships between x, v, a
+and t  for simple harmonic oscillators.

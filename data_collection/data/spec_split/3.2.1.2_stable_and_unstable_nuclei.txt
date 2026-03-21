@@ -1,0 +1,19 @@
+3.2.1.2 	Stable and unstable nuclei
+Content
+Opportunities for skills
+development
+The strong nuclear force; its role in keeping the nucleus
+stable; short-range attraction up to approximately 3 fm,
+very-short range repulsion closer than approximately 0.5 fm.
+Unstable nuclei; alpha and beta decay.
+Equations for alpha decay, β− decay including the need for
+the neutrino.
+The existence of the neutrino was hypothesised to account
+for conservation of energy in beta decay.
+AT i
+Demonstration of the range of alpha
+particles using a cloud chamber,
+spark counter or Geiger counter.
+MS 0.2
+Use of prefixes for small and large
+distance measurements.

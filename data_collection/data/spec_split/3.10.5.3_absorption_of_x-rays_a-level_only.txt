@@ -1,0 +1,8 @@
+3.10.5.3
+Absorption of X-rays (A-level only)
+Content
+Exponential attenuation.
+Linear coefficient , mass attenuation coefficient m, half-value thickness
+I  =  I0  e−𞠠x  m = 
+
+Differential tissue absorption of X-rays excluding details of the absorption processes.

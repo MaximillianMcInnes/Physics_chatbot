@@ -1,0 +1,6 @@
+3.9.3.2 	Hubble's law (A-level only)
+Content
+Red shift v = Hd
+Simple interpretation as expansion of universe; estimation of age of universe, assuming H is constant.
+Qualitative treatment of Big Bang theory including evidence from cosmological microwave
+background radiation, and relative abundance of hydrogen and helium.

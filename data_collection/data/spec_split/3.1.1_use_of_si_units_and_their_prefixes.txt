@@ -1,0 +1,19 @@
+3.1.1 	Use of SI units and their prefixes
+Content
+Opportunities for skills
+development
+Fundamental (base) units.
+Use of mass, length, time, amount of substance,
+temperature, electric current and their associated SI units.
+SI units derived.
+Knowledge and use of the SI prefixes, values and standard
+form.
+The fundamental unit of light intensity, the candela, is
+excluded.
+Students are not expected to recall definitions of the
+fundamental quantities.
+Dimensional analysis is not required.
+Students should be able to use the prefixes:
+T, G, M, k, c, m, μ, n, p, f,
+Students should be able to convert between different units of
+the same quantity, eg J and eV, J and kW h.

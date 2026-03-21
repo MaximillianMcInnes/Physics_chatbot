@@ -1,0 +1,10 @@
+3.10.5.4
+CT scanner (A-level only)
+Content
+Basic principles of CT scanner:
+•• movement of X-ray tube
+•• narrow, monochromatic X-ray beam
+•• array of detectors
+•• computer used to process the signals and produce a visual image.
+Comparisons will be limited to advantages and disadvantages of image resolution, cost and safety
+issues. Students will not be asked about the construction or operation of the detectors.

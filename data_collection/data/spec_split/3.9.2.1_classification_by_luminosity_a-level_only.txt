@@ -1,0 +1,8 @@
+3.9.2.1 	Classification by luminosity (A-level only)
+Content
+Apparent magnitude, m.
+The Hipparcos scale.
+Dimmest visible stars have a magnitude of 6.
+Relation between brightness and apparent magnitude. Difference of 1 on magnitude scale is equal to
+an intensity ratio of 2.51.
+Brightness is a subjective scale of measurement.

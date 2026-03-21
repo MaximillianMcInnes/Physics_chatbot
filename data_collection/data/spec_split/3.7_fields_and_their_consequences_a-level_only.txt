@@ -1,0 +1,7 @@
+3.7 	 Fields and their consequences (A-level only)
+The concept of field is one of the great unifying ideas in physics. The ideas of gravitation, electrostatics
+and magnetic field theory are developed within the topic to emphasise this unification. Many ideas from
+mechanics and electricity from earlier in the course support this and are further developed. Practical
+applications considered include: planetary and satellite orbits, capacitance and capacitors, their charge
+and discharge through resistors, and electromagnetic induction. These topics have considerable impact
+on modern society.

@@ -1,0 +1,8 @@
+3.13.1.2
+Zener diode (A-level only)
+Content
+Characteristic curve showing zener breakdown voltage and typical minimum operating current.
+Anode and cathode.
+Use with a resistor as a constant voltage source.
+Use to provide a reference voltage.
+Use as a stabiliser is not required.

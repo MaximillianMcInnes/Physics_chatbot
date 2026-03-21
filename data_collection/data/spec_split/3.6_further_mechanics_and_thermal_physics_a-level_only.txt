@@ -1,0 +1,4 @@
+3.6 	 Further mechanics and thermal physics (A-level only)
+The earlier study of mechanics is further advanced through a consideration of circular motion and simple
+harmonic motion (the harmonic oscillator). A further section allows the thermal properties of materials, the
+properties and nature of ideal gases, and the molecular kinetic theory to be studied in depth.

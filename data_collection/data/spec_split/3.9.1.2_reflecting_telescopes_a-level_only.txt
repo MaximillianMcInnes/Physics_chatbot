@@ -1,0 +1,6 @@
+3.9.1.2 	Reflecting telescopes (A-level only)
+Content
+Cassegrain arrangement using a parabolic concave primary mirror and convex secondary mirror.
+Ray diagram to show path of rays through the telescope up to the eyepiece.
+Relative merits of reflectors and refractors including a qualitative treatment of spherical and
+chromatic aberration.

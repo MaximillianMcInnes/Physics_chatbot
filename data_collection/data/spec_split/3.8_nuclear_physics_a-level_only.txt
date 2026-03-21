@@ -1,0 +1,5 @@
+3.8 	 Nuclear physics (A-level only)
+This section builds on the work of Particles and radiation to link the properties of the nucleus to the
+production of nuclear power through the characteristics of the nucleus, the properties of unstable
+nuclei, and the link between energy and mass. Students should become aware of the physics that
+underpins nuclear energy production and also of the impact that it can have on society.

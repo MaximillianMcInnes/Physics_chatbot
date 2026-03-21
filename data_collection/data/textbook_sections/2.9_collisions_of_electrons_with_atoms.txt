@@ -1,0 +1,67 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.9 Collisions of electrons with atoms | PRINTED_PAGES: 27-28]
+
+2 Particles and radiation
+Example
+Calculate the maximum kinetic energy of an electron that is emitted from a magnesium surface when light of wavelength 180 nm falls on it.
+(work function for magnesium = 5.9 × 10−19 J)
+Answer frequency of incident radiation = 3 × 108
+180 × 10−9 = 1.67 × 1015
+kinetic energy = hf − hf0 = hf − ϕ
+= (6.63 × 10−34 × 1.67 × 1015) − 5.9 × 10−19 = 1.11 × 10−18 − 5.9 × 10−19 = 5.17 × 10−19 J
+Now test yourself
+7 Light with a wavelength of 150 nm is needed to cause photoelectric emission from the surface of a piece of metal. Calculate the work function for that metal.
+8 Radiation of wavelength 120 nm falls on a zinc plate. Electrons are emitted with a maximum energy of 6.6 × 10−19 J.
+Calculate:
+(a) the energy of a quantum of the incident radiation
+(b) the work function for zinc
+(c) the threshold frequency for zinc
+(speed of light, c = 3 × 108 m s−1; Planck constant, h = 6.63 × 10−34 J s)
+Answers on p. 216
+Exam tip
+Do not forget to convert nm to m when using the photoelectric equation.
+Revision activity
+Summarise the main features of photoelectric emission in a mind map or table and emphasise what it shows about the nature of radiation.
+Ionisation and excitation
+A simplified version of an energy level diagram for electrons in an atom is shown in Figure 2.21. The electrons are spread through the energy levels.
+No electron can have an energy state between the levels.
+In hydrogen there is just one orbiting electron. The electron is usually in its unexcited or ground state — level 1 (Figure 2.22(a)).
+∞
+∞
+(a)
+(b)
+Figure 2.22 Excitation
+If energy is put into the atom in the form of radiant energy or by an inelastic collision with a charged particle, an electron is raised to a higher energy level and is said to be excited and in an excited state.
+In Figure 2.22(b) the electron has been raised to level 3 and the colliding electron has lost some energy.
+Electron
+Energy level
+Figure 2.21 Electrons in an atom
+2 Particles and radiation
+If the collision with an incoming electron is sufficiently violent an electron within the atom can be given enough energy to raise it to the level marked with an infinity symbol. This level is called the ionisation level.
+If the energy input is great enough to raise it above that level the electron will escape from the atom altogether. This is called ionisation (Figure 2.23).
+The removal of one (or more) electrons will leave the atom with a net positive charge — it has become a positive ion.
+The energy required to ionise a hydrogen atom is 21.8 × 10−19 J. This assumes that the electron starts off in its ground state.
+The fluorescent lamp
+The fluorescent lamp is a sealed glass tube containing a gas such as mercury at low pressure. A filament in the tube produces electrons by thermionic emission and these move at speed through the tube due to a large electric field between the two electrodes.
+Collisions between these electrons and the mercury atoms excite atoms of the gas. Transitions within the mercury atoms give out radiation, which is mostly in the ultraviolet region of the spectrum, and finally these ultraviolet photons interact with the phosphor on the glass walls of the tube, producing visible light.
+The electron volt
+Joules are very large units when subatomic particles are considered.
+A much smaller unit known as the electron volt is used when stating their energies.
+An electron volt (eV) is the energy gained by an electron when it is accelerated through a potential difference of 1 volt.
+1 eV = 1 V × 1.6 × 10−19 C = 1.6 × 10−19 J
+Yellow light, wavelength 600 nm, has a frequency of 5 × 1014 Hz and so the energy of a photon of yellow light is:
+energy = hf = 6.63 × 10−34 × 5 × 1014 = 3.31 × 10−19 J
+which, when expressed in electron volts, is:
+3.31 × 10−19
+1.6 × 10−19  = 2.07 eV
+Larger energies can be expressed in keV (103 eV) and MeV (106 eV).
+Example
+Calculate the energy of a photon of ultraviolet light with a wavelength of 100 nm in both (a) joules and (b) electron volts. (Planck constant, h = 6.63 × 10−34 J s; speed of light, c = 3 × 108 m s−1; 1 eV = 1.6 × 10−19 J)
+Answer frequency, f = c
+λ
+= 3 × 108
+100 × 10−9 = 3 × 1015 Hz
+(a) E = hf = 6.63 × 10−34 × 3 × 1015 = 1.99 × 10−18 J
+(b) E = 1.99 × 10−18
+1.6 × 10−19  = 12.4 eV
+∞
+Figure 2.23 Ionisation

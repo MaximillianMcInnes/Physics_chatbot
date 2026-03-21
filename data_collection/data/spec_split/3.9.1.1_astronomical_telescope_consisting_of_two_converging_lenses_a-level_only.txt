@@ -1,0 +1,11 @@
+3.9.1.1 	Astronomical telescope consisting of two converging lenses (A-level only)
+Content
+Ray diagram to show the image formation in normal adjustment.
+Angular magnification in normal adjustment.
+M =
+angle subtended by image at eye
+angle subtended by object at unaided eye
+Focal lengths of the lenses.
+M =
+f o
+f e

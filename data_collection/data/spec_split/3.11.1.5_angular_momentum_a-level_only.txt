@@ -1,0 +1,7 @@
+3.11.1.5
+Angular momentum (A-level only)
+Content
+angular momentum = I
+Conservation of angular momentum.
+Angular impulse = change in angular momentum; T ∆t = ∆I where T is constant.
+Applications may include examples from sport.

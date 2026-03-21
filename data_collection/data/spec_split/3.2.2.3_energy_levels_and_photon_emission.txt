@@ -1,0 +1,11 @@
+3.2.2.3 	Energy levels and photon emission
+Content
+Opportunities for skills
+development
+Line spectra (eg of atomic hydrogen) as evidence for
+transitions between discrete energy levels in atoms.
+h f = E1 −E2
+In questions, energy levels may be quoted in J or eV.
+AT j / MS 0.1, 0.2
+Observation of line spectra using a
+diffraction grating.

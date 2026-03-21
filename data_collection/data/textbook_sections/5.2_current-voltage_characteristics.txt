@@ -1,0 +1,47 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.2 Current–voltage characteristics | PRINTED_PAGES: 95-95]
+
+5 Electricity
+Potential difference
+As a charge moves round a circuit from the positive to the negative it loses energy.
+The electric potential energy of a unit charge at a point in a circuit is called the potential at that point.
+The difference in electric potential between two points in the circuit is known as the potential difference (p.d.) between those two places.
+Potential difference between two points in a circuit is the work done
+(W) in moving unit charge (Q) (i.e. 1 coulomb) from one point to the other:
+potential difference, V = ΔW
+ΔQ
+The units for both potential and potential difference are joules per coulomb, or volts (1 volt = 1 joule per coulomb).
+Ohm’s law
+If the ratio of V to I remains constant for a series of different potential differences the material is said to obey Ohm’s law and is known as an ohmic conductor.
+This means that although we can always work out the resistance of a sample, knowing the current through it and the p.d. across it, if these quantities are altered we can only predict how it will behave under these new conditions if it obeys Ohm’s law.
+Ohm’s law states that the current in a conductor is directly proportional to the potential difference across it.
+Figure 5.2 shows the variation of current (I) with potential difference (V)
+for a material that obeys Ohm’s law — in other words, an ohmic conductor.
+It is important to realise that Ohm’s Law only holds for a metallic conductor at a constant temperature.
+Figure 5.3 shows the variation in the potential around the circuit. We can follow this by considering each section of the circuit in turn.
+l Along the connecting wire from the cell to B there is no resistance and so no loss of electrical energy or drop in potential.
+l In the resistors r and R energy is converted to heat and so the potential drops from B through to E.
+l From E to the cell there is no loss of electrical energy and so the potential at E is the same as that at the negative terminal of the cell — zero.
+Example 1
+A 6 V battery is connected to a small electromagnet and a current of
+1.5 A flows through it. What is the resistance of the electromagnet?
+Answer resistance = voltage current = 6
+1.5 = 4 Ω
+Current, I
+Potential difference, V
+Figure 5.2 Ohm’s law graph
+Potential
+V
+B
+B
+C
+V
+D
+E
+Distance round circuit
+C
+D
+R > r
+E
+R
+r
+Figure 5.3 Variation in potential round a circuit

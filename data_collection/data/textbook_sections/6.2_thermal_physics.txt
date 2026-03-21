@@ -1,0 +1,521 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 6 Further mechanics and thermal physics | SECTION: 6.2 Thermal physics | PRINTED_PAGES: 125-137]
+
+6 Further mechanics and thermal physics
+Thermal energy transfer
+Internal energy
+The internal energy of a material is composed of kinetic energy and potential energy.
+Kinetic energy — vibrational energy in a liquid and a solid;
+vibrational and translational energy in a liquid and a gas.
+Potential energy due to attraction between molecules — large in a solid, smaller in a liquid and assumed to be zero in an ideal gas except during the actual collisions between gas molecules.
+The graph in Figure 6.10 shows the force and potential energy variation between two molecules separated by a distance r. In a solid, the point M is their equilibrium position when they are separated by a distance r0.
+The first law of thermodynamics
+The internal energy of a system is increased (ΔU) when thermal energy (ΔQ) is transferred to it by heating or when work is done by it (ΔW). This statement is known as the first law of thermodynamics:
+ΔU = ΔQ − ΔW
+Note that ΔU represents both the change in the internal kinetic energy
+(an increase in molecular velocity) and the increase in the internal potential energy (due to an increase in energy overcoming intermolecular forces as a result of separation of the molecules). The potential energy increase is zero for ideal gases and negligible for most real gases, except at temperatures near liquefaction and/or at very high pressures.
+If the change occurs without a change of temperature (ΔU = 0) it is called an isothermal change, and so the first law becomes:
+ΔQ − ΔW = 0
+Heat capacity
+The units of thermal capacity are joules per kelvin (J K−1).
+Specific heat capacity specific heat capacity (c) =
+θ
+∆
+∆
+Q
+m where ΔQ is the heat energy input, m is the mass of the body and Δθ is the rise in temperature.
+The units of specific heat capacity are joules per kilogram kelvin
+(J kg−1 K−1).
+Exam tip
+There is a finite amount of energy in the universe. This energy can be transferred from one form to another;
+the total amount never changes – if we want to use energy in one form then we have to ‘pay for it’ by converting it from energy in another form.
+The thermal capacity or heat capacity of a body is the heat energy needed to raise its temperature by 1 K.
+The specific heat capacity
+(c) of a material is the heat energy needed to raise the temperature of 1 kg of the material by 1 K.
+Force
+Repulsive force
+Distance (r)
+Potential energy
+Attractive force
+O
+M
+r0
+Figure 6.10 Forces between molecules
+6  Further mechanics and thermal physics
+Continuous flow calorimeter
+Liquid flows in from a constant−head apparatus at a constant rate past a thermometer, where the temperature (θ0) is recorded. It then flows around the heater coil and out past a second thermometer where the outlet temperature (θ1) can be measured (Figure 6.11). The electrical energy applied to the heating coil is E1 and the liquid flow rate m1.
+Liquid out
+Platinum resistance thermometer
+Platinum resistance thermometer
+Liquid in
+Heater
+12 V
+V
+A
+Figure 6.11 Continuous flow calorimeter
+The experiment is repeated using a new electrical energy (E2) and flow rate m2. This is done so that the heat loss during the experiment can be eliminated if the rise in temperature is the same in each experiment.
+specific heat capacity of the liquid (c) =
+θ
+θ
+−
+−
+−
+E
+E
+m m
+(
+)(
+)
+o
+Example 1
+A block of metal of mass 0.5 kg initially at a temperature of 100°C is gently lowered into an insulated copper container of mass 0.05 kg containing 0.9 kg of water at 20°C. If the final temperature of the mixture is 25°C, calculate the specific heat capacity (c) of the metal of the block. (Assume no loss of heat and that no water is vaporised.)
+(specific heat capacities: water 4200 J kg−1 K−1; copper 385 J kg−1 K−1)
+Answer heat lost by block = 0.5 × c × (100 − 25) = 37.5c heat gained by water and container = (0.9 × 4200 × 5) + (0.05 × 385 × 5)
+= 18 996 J
+Therefore:
+37.5c = 18 996 J
+specific heat capacity (c) = 18996
+37.5
+= 506.6 J kg−1 K−1
+Example 2
+Water flows through a continuous flow calorimeter at 150 g per minute. When the heater power is adjusted to 40 W the difference between the inlet and outlet temperatures is 3 K. When the flow rate is increased to 450 g per minute the heater power has to be increased to 100 W to maintain the same temperature difference. Calculate the specific heat capacity of water.
+Answer specific heat capacity =
+(7.5
+2.5)
+−
+−
+×
+×
+−
+= 4000 J kg−1 K−1
+Typical mistake
+Forgetting to convert grams to kilograms and minutes to seconds in specific heat capacity calculations.
+6 Further mechanics and thermal physics
+Now test yourself
+13 A hot copper rivet of mass 150 g is dropped into 250 g of water initially at 16°C. If the water temperature rises to 35°C what was the initial temperature of the rivet? (specific heat capacities:
+water 4200 J kg−1 K−1; copper 385 J kg−1 K−1)
+14 How does the high value of the specific heat capacity of water help to reduce the variation in temperature of land masses adjacent to oceans?
+Answers on p. 219
+Change of state and specific latent heat
+During a change of state the potential energies of the particles involved are changing but their kinetic energy remains constant. Therefore no temperature change occurs during the change of state.
+The heat energy (ΔQ) required to change the state of a mass (m) of a material of specific latent heat L is:
+quantity of heat energy (ΔQ) = mL
+Figure 6.12a shows how the temperature of a specimen might alter with time due to a steady heat input — heat losses to the exterior have been ignored here. Figure 6.12b shows how the molecular arrangements within the material change as the heat energy is supplied.
+Temperature
+Temperature
+Boiling point
+Boiling point
+Melting point
+Solid
+Solid
+Solid/liquid mixture
+Solid/liquid mixture
+Liquid
+Liquid
+Liquid/gas mixture
+Liquid/gas mixture
+Gas
+Gas
+(a)
+Arrangement of the molecules
+Arrangement of the molecules
+Solid
+Solid
+Solid/liquid
+Solid/liquid
+Liquid
+Liquid
+Liquid/gas
+Liquid/gas
+Gas
+Gas
+(b)
+Time
+Figure 6.12 Change of state
+The specific latent heat (L)
+is the energy required to change the state of 1 kg of a substance.
+6 Further mechanics and thermal physics
+Every material has two specific latent heats: specific latent heat of fusion and specific latent heat of vaporisation.
+The specific latent heat of fusion is the heat energy needed to change
+1 kg of the material in its solid state at its melting point to 1 kg of the material in its liquid state, and that released when 1 kg of the liquid changes to 1 kg of solid.
+The specific latent heat of vaporisation of a liquid is the heat energy needed to change 1 kg of the material in its liquid state at its boiling point to 1 kg of the material in its gaseous state, and that released when 1 kg of vapour changes to 1 kg of liquid.
+Example 1
+How much heat energy is needed to heat 250 g of water at 15°C to steam at 100°C? (specific heat capacity of water, 4200 J kg−1 K−1;
+specific latent heat of vaporisation of water = 2.25 × 106 J kg−1)
+Answer heat energy input = mcΔθ + mL
+= (0.25 × 4200 × 85) + (0.25 × 2.25 × 106) = 89 250 + 562 500 = 651 750 J
+Example 2
+Calculate the amount of ice that would be melted by a 65 W heater in
+5 minutes at 0°C if all other heat energy exchanges are ignored.
+Answer specific latent heat of fusion of ice = 330 000 J kg−1
+electrical energy input = 65 × 5 × 60 = 19 500 J
+mass of ice melted = 19 500/330 000 = 0.059 kg = 59 g
+Now test yourself
+15 How long will it take for a 60 W electrical heater immersed in an ice−water mixture at 0°C to raise the temperature of the mixture to 20°C if all other heat energy exchanges are ignored? The mixture initially contains 200 g of water and 25 g of ice. (specific latent heat of fusion of ice = 330 000 J kg−1;
+specific heat capacity of water = 4200 J kg−1 K−1)
+16 Why is a scald due to steam at 100°C much more dangerous than one due to boiling water at 100°C?
+Answer on p. 220
+Ideal gases
+An ideal gas is one where the molecules are considered to be infinitely small and do not exert any force on each other. It also obeys
+Boyle’s law and has an internal energy that is dependent only on the temperature of the gas.
+The gas laws
+Boyle’s law
+The pressure of a fixed mass of gas is inversely proportional to its volume as long as its temperature remains constant:
+p1V1 = p2V2
+6  Further mechanics and thermal physics
+Pressure law
+The pressure of a fixed mass of gas is directly proportional to its absolute temperature (in kelvin) as long as its volume remains constant:
+=
+p
+T
+p
+T
+Charles’s law
+The volume of a fixed mass of gas is directly proportional to its absolute temperature (in kelvin) as long as its volume remains constant:
+=
+V
+T
+V
+T
+These gas laws are represented in Figure 6.13.
+Pressure law
+Pressure
+Temperature/°C
+Charles’s law
+Temperature/°C
+Volume
+Boyle's law
+Pressure
+Volume
+T0
+T1
+T1 > T0
+Figure 6.13 Gas law graphs
+Example 1
+A fixed mass of gas at a constant temperature and a pressure of 105 Pa is compressed from 2 litres to 500 cm3. Calculate the new pressure of the gas.
+Answer
+Using Boyle’s law, p1V1 = p2V2:
+105 × 2 × 10−3 = p2 × 500 × 10−6
+Therefore:
+p2 = 10
+-3
+-6
+×
+×
+×
+= 4 × 105 Pa
+A decrease in volume by a factor of four produces an increase in pressure by a factor of four.
+Example 2
+During a spacewalk an astronaut moves from the shadow of the spacecraft into full sun. The temperature of his oxygen tank rises from 200 K to 350 K. If the original pressure of the gas was 2 × 105 Pa, what is its new pressure?
+Answer
+Using the pressure law:
+p2 = 2
+×
+×
+= 3.5 × 105 Pa
+Typical mistake
+Using °C rather than kelvin for the temperature when performing calculations with the gas laws equations.
+Typical mistake
+Using non-SI units when performing calculations with the gas law equations.
+6  Further mechanics and thermal physics
+Example 3
+A fixed mass of gas at a constant pressure and with an initial volume of 5 litres is heated from 20°C to 80°C. Calculate the new volume of the gas.
+Answer
+Using Charles’s law,
+V
+T
+V
+T
+=
+:
+×
+=
+−
+2V
+V2 =
+×
+×
+−
+3  = 6 × 10−3 m3 = 6 litres
+Now test yourself
+17	 (a) A gas is stored in a cylinder at a pressure of 8 atmospheres (8 times the pressure of the atmosphere). If the volume of the cylinder is 3000 cm3, what is the volume of the gas that comes out of the cylinder when the pressure in the cylinder is reduced to 1 atmosphere?
+(b) The air in a closed cylinder at a pressure of 50 000 Pa and at 27°C is heated to 227°C. What is its new pressure?
+18 If 4 litres of gas initially at 20°C is heated to 100°C at a constant pressure, what will be the new volume of the gas? Give your answer in m3.
+Answers on p. 220
+The absolute zero of temperature
+The centre diagram in Figure 6.13 shows the variation of the pressure of an ideal gas with its temperature. If we draw the line back to where it cuts the temperature axis we reach a point where the pressure of the gas is zero — in other words, the molecules have stopped moving. They have no velocity and so no kinetic energy. This is the lowest temperature that it is possible to reach and is called absolute zero, defined as 0 K, or −273.15°C (Figure 6.14). In fact the third law of thermodynamics states that it is impossible to actually reach this temperature. When an object is cooled, its internal energy is reduced. As the temperature approaches absolute zero it becomes more and more difficult to lower the temperature further. We are always left with what is known as ‘zero-point energy’, and so we can define absolute zero as the temperature at which substances have a minimum internal energy.
+Pressure
+Temperature/°C
+−273.15
+Pressure
+Temperature/K
+Figure 6.14 The concept of absolute zero
+6  Further mechanics and thermal physics
+Now test yourself
+19 A sample of gas is found to have a volume of 64.0 cm3 at 0°C and 87.5 cm3 at 100°C. Using these results, calculate a value for absolute zero in °C.
+Answer on p. 219
+The equation of state for an ideal gas
+The equation of state for an ideal gas is:
+pV
+T  = constant
+For 1 mole of gas the constant is the molar gas constant, R
+(R = 8.31 J kg−1 mol−1).
+The ideal gas equation (for n moles) is:
+pV = nRT
+Now test yourself
+20 Calculate the number of moles of a gas of pressure 105 Pa, at a temperature of 27°C, and occupying a volume of 5 m3.
+Answer on p. 220
+Gas constants and their relationships
+The Avogadro constant (NA) = 6.02 × 1023 particles per mole
+The molar gas constant (R) = 8.31 J mol−1 K−1
+The Boltzmann constant (k) = 1.38 × 10−23 J K−1
+For an ideal gas of n moles and N molecules:
+N
+N
+number of molecules number of moles
+Avogadroconstant n
+A
+=
+×
+=
+k
+R
+N
+Boltzmannconstant molar gas constant
+Avogadroconstant
+A
+=
+=
+In 1 mole of hydrogen (2 g) there are 6.02 × 1023 molecules (hydrogen exists as H2).
+In 1 mole of oxygen (32 g) there are 6.02 × 1023 molecules (oxygen exists as O2).
+In 1 mole of copper (63 g) there are 6.02 × 1023 atoms.
+In 1 mole of uranium-235 (235 g) there are 6.02 × 1023 atoms.
+For example, if we have 2 kg of uranium in a fuel rod we have 2000
+= 8.51 moles, and this contains 8.51 × 6.02 × 1023 = 5.12 × 1024 atoms and so 5.12 × 1024 uranium nuclei.
+Exam tip
+Standard temperature and pressure (STP) is sometimes referred to in questions.
+Standard temperature is taken as 0°C (273.15 K) and standard pressure as
+1.01 × 105 Pa.
+6  Further mechanics and thermal physics
+Molar mass and molecular mass
+It is important to distinguish between molar and molecular masses. The molar mass (M) is the mass of one mole while the molecular mass (m)
+is the mass of one molecule. For m kg of a gas of molar mass M kg, r is a further constant that depends on the gas under consideration:
+pV = mRT
+M
+= mrT
+The Boltzmann constant pV = NkT
+where N is the number of molecules in the gas and k is the Boltzmann constant (k = 1.38 × 10−23 J K−1).
+Work considerations during gas expansion and compression
+An ideal gas at a pressure p is enclosed in a cylinder of cross-sectional area
+A. A force F is then applied to the piston, pushing the piston in a distance
+Δx and compressing the gas, decreasing its volume by a small amount, ΔV
+(Figure 6.15). This force is applied slowly and steadily so that, at all times,
+FA = pV (i.e. equilibrium).
+∆x
+∆V
+A
+p,V
+F
+Figure 6.15 Work done on a gas
+The force on the piston F = pA
+So:
+work done on the gas during compression = ΔW = pAΔx = pΔV
+work done on the gas = pΔV
+If the gas expands by an amount ΔV the work done by the gas is also pΔV.
+Example
+An ideal gas at a pressure of 2 × 105 Pa is enclosed in a cylinder with a volume of 6 litres by a frictionless piston. How much work is done by the gas if it expands slowly and steadily to 6.05 litres?
+Answer work done by the gas = pΔV = 2 × 105 × (6.05 − 6.00) × 10−3 = 10 J
+Typical mistake
+Forgetting to convert volumes in other units (such as cm3 and litres) to cubic metres.
+6 Further mechanics and thermal physics
+Now test yourself
+21 An ideal gas has a molar mass of 40 g and a density of 1.2 kg m−3 at 80°C. What is its pressure at that temperature?
+22 Calculate the number of molecules in 5 litres of air at STP (273.15 K, 1.01 × 105 Pa).
+The Boltzmann constant = 1.38 × 10−23 J K−1
+Answers on p. 220
+Required practical 8
+Investigation of Boyle’s and Charles’s laws
+(a) Boyle's law
+Air
+Oil
+Pressure gauge
+To pump
+P
+(b) Charles’s law
+Thermometer
+Syringe
+Air
+Water
+Rubber tubing
+Heat
+Figure 6.16 Boyle’s law and Charles’s law experiments
+Boyle’s law can be verified using the standard Boyle’s law apparatus shown in Figure 6.16a. Use a pump to increase the pressure of the trapped air to a maximum safe value. Place a safety screen between yourself and the apparatus. Take readings of the pressure (p) from the gauge and the volume (V) using the scale beside the tube. Slowly release the pressure in steps, recording the pressure and the volume. Allow time for any excess oil to flow down the side of the tube before taking each pair of readings. Plot graphs of p against V
+and p against 1/V.
+Charles’s law can be verified using the apparatus shown in Figure 6.16b. The syringe is placed in water in a beaker and the beaker is then slowly heated. The volume of the air in the syringe is measured at a series of temperatures from 0°C to 100°C.
+Plot graphs of V against T using the range 0°C to 100°C with a scale marked in kelvin and extrapolate back to a point where V = 0.
+Molecular kinetic theory model
+Brownian motion
+Observing a weak solution of milk, and later pollen grains in suspension, with a high-powered microscope the Scottish physicist Robert Brown saw that the particles of milk and the pollen grains showed a violent and random motion.
+6  Further mechanics and thermal physics
+A simple modern version of Brown’s experiment is the smoke cell. A small cell of air is placed under a microscope and illuminated strongly from the side. Some smoke is then blown into it. Through the microscope the particles of smoke can be seen to be in violent random motion (Figure
+6.17). This motion is due to the collisions of the (invisible) air molecules with the much larger particles of smoke. Heating the cell makes the smoke particles’ motion even more violent, due to the increased velocity of the air molecules.
+Kinetic theory model for an ideal gas
+In deriving the formula for the kinetic theory of gases, the following assumptions are made about molecules:
+l	 molecules behave as if they were hard, smooth, elastic spheres l	 molecules are in continuous random motion l	 the average kinetic energy of the molecules is proportional to the absolute temperature of the gas l	 molecules do not exert any appreciable attraction on each other l	 the volume of the molecules is infinitesimal when compared with the volume of the gas l	 the time spent in collisions is small compared with the time between collisions
+For an ideal gas at pressure p, volume V and containing N molecules of mass m:
+pV = 1
+3 Nm(crms)
+where crms is the root mean square speed of the molecules. This is the average of all the squares of the speeds of the molecules in the gas.
+Kinetic theory and the gas laws
+Boyle’s law
+For a given mass of gas at constant temperature, pV = ⅓ mN(crms)2. The total mass of gas is mN = M, and therefore:
+pV = 1
+3 M(crms)2
+which is constant, and this is Boyle’s law.
+Charles’s law
+The ideal gas equation for n moles of gas is pv = nRT and so for 1 mol of gas we have pv = RT, where R is the gas constant. But in 1 mol of gas there are NA molecules, where NA is the Avogadro constant, and therefore:
+pV = 1
+3 mNAc2 = RT
+But if the temperature of the gas is changed from T1 to T2 with a resulting change in volume from V1 to V2, the pressure being kept constant:
+pV1 = 1
+3 M(c1rms)2 and pV2 = 1
+3 M(c2rms)2
+Smoke particle
+Motion of air molecule
+Figure 6.17 Brownian motion
+6  Further mechanics and thermal physics
+Therefore:
+V1
+V2
+=  (c1rms)2
+(c2rms)2
+But kinetic energy = ½mcrms
+2 and therefore:
+V1
+V2
+=  kinetic energy1
+kinetic energy2
+One of the assumptions of kinetic theory is that the kinetic energy of the molecules is directly proportional to the absolute temperature of the gas
+(T) and therefore:
+V1
+V2
+=  (c1rms)2
+(c2rms)2 =  T1
+T2
+So the volume is directly proportional to the absolute temperature, and this is Charles’s law.
+Example
+The density of nitrogen at STP = 1.251 kg m−3. Calculate the root-mean-
+square speed (c) of nitrogen molecules.
+Answer pressure = 1.013 × 105 Pa c2 =
+p
+ρ  = 3
+1.013
+1.251
+×
+×
+= 2.432 × 105
+c = 493 m s−1
+Now test yourself
+23 Calculate the root-mean-square speeds for the following gases at a pressure of 105 Pa:
+(a) air, density 1.29 kg m−3
+(b) carbon dioxide, density 1.98 kg m−3
+(c) nitrogen, density 1.25 kg m−3
+(d) chlorine, density 3.21 kg m−3
+(e) hydrogen, density 0.09 kg m−3
+24 A sample of gas of volume 0.1 m3 and at a pressure of 2.0 × 105 Pa is enclosed in a cylinder. If the root-
+mean-square speed of the gas molecules is 5.5 × 102 m s−1 and the mass of each molecule is
+3.5 × 10−26 kg calculate the number of gas molecules in the cylinder.
+Answers on p. 220
+Kinetic energy of a molecule
+The average kinetic energy of the randomly moving molecules, each of mass m, in a gas is directly proportional to the absolute temperature of the gas (T).
+½mc2 = 3
+2 kT = 3RT
+2NA
+where k is the Boltzmann constant (= 1.38 × 10−23 J K−1).
+6  Further mechanics and thermal physics
+Example
+Calculate:
+(a) the kinetic energy of an individual gas molecule of mass
+3.5 × 10−26 kg moving at a speed of 600 m s−1
+(b) the average kinetic energy of the gas molecules in a cylinder at a temperature of 20°C
+Boltzmann constant = 1.38 × 10−23 J K−1
+Answer
+(a) ½mv2 = ½ × 3.5 × 10−26 × 6002 = 6.3 × 10−21 J
+(b)  kT =  × 1.38 × 10−23 × 293 = 6.07 × 10−21 J
+Now test yourself
+25 Calculate the average kinetic energy of a molecule in a gas at a temperature of 300 K. Ideal gas constant = 8.3 J mol−1 K−1; Avogadro number = 6.04 × 1023 mol−1.
+Answer on p. 220
+Exam practice
+1	 (a) A copper saucepan of mass 250 g is filled with 850 g of water at 18°C. A 500 W heater is then placed in the water and switched on for 5 minutes. What is the theoretical temperature of the water after this time? (Specific heat capacities: water 4200 J kg−1 K−1; copper 3570 J kg−1 K−1)
+[3]
+(b) Why will the actual rise be less than this?
+[1]
+2 In a determination of the specific heat capacity of water using a continuous flow calorimeter the following readings were taken:
+First experiment:
+l electrical power supplied to the heater = 20 W
+l 0.431 kg of water flowed through the calorimeter in 20 minutes l rise in temperature of the water = 11.5°C
+Second experiment:
+l electrical power supplied to the heater = 23.8 W
+l 0.524 kg of water flowed through the calorimeter in 20 minutes l rise in temperature of the water = 11.5°C
+Calculate the specific heat capacity of water.
+[4]
+3 A block of metal of mass m requires a heater with a power P to just keep it molten. When the heater is switched off the mass solidifies completely in a time t. If the rate of loss of heat is constant the specific latent heat of the block is:
+A
+P
+mt
+B
+t
+Pm
+C
+Pt m
+D
+Pm t
+
+[1]
+4 An insulated beaker contains 0.025 kg of ice and 0.3 kg of water at 0°C. Steam at 100°C is passed into the container until all the ice has melted. Assume that no heat is lost from the system.
+(a) How much thermal energy will the condensed steam have lost?
+[3]
+(b) How much thermal energy will the ice have absorbed?
+[1]
+(c) What will be the final mass of water in the beaker?
+[2]
+(Specific latent heat of ice = 3.4 × 105 J kg−1; specific latent heat of steam = 2.3 × 106 J kg−1; specific heat capacity of water = 4.2 × 103 J kg−1 K−1)
+5	 (a) Give a short account of Brownian motion and state what molecular information can be obtained from observation of the effect in a smoke cell.
+[2]
+(b) Calculate the root-mean-square speed of molecules of oxygen gas at a temperature of 27°C.
+(Boltzmann constant = 1.38 × 10−23 J K−1; mass of an oxygen molecule = 5.3 × 10−26 kg)
+[2]
+6  Further mechanics and thermal physics
+Summary
+You should now have an understanding of:
+● Circular motion — angular speed, centripetal force
+● Simple harmonic motion (SHM) — conditions for
+SHM, SHM equations, graphical representation
+● Simple harmonic systems — mass–spring system, simple pendulum
+● Forced vibrations and resonance — free, forced and damped oscillations and resonance
+● Thermal energy transfer — specific heat capacity, change of state, specific latent heat
+● Ideal gases — the gas laws (Boyle’s, pressure and Charles's), absolute zero, work done = pΔV
+● Avogadro, Boltzmann and molar gas constants
+● Molecular kinetic theory — relation between p, V and T in terms of the simple molecular model, kinetic theory equation and molecular kinetic energy
+Exam practice
+6 Equal masses of two gases are contained in two separate cylinders at equal pressures and temperatures. The volume of the cylinder containing gas 1, which has a molecular weight of 40 g, is
+3 litres. If the volume of the cylinder containing gas 2 is 4 litres, what is the molecular weight of gas 2?
+[3]
+7 One mole of an ideal gas at a pressure of 1 × 105 Pa and a temperature of 300 K has a volume of
+0.25 m3. At 600 K and 5 × 105 Pa the volume occupied in m3 is:
+A
+B 0.1
+C
+D 10
+[1]
+8 The pressure p of an ideal gas is given by the formula p = ρc2, where:
+A
+the appropriate unit for c2 is m2 s−1
+B
+is an approximation for 1
+π
+C
+ρ is the mass per unit volume of the gas
+D
+c2  is the average speed of the molecules
+[1]
+Answers and quick quiz 6 online

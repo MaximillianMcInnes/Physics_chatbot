@@ -1,0 +1,5 @@
+3.11.1.6
+Work and power (A-level only)
+Content
+W = T; P = T
+Awareness that frictional torque has to be taken into account in rotating machinery.

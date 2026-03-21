@@ -1,0 +1,22 @@
+3.7.2.3 	Gravitational potential (A-level only)
+Content
+Opportunities for skills
+development
+Understanding of definition of gravitational potential,
+including zero value at infinity.
+Understanding of gravitational potential difference.
+Work done in moving mass m given by ∆W = m∆V
+Equipotential surfaces.
+Idea that no work is done when moving along an
+equipotential surface.
+V in a radial field given by V = −GM
+r
+Significance of the negative sign.
+Graphical representations of variations of g and V with r.
+V related to g by: g = −∆V
+∆r
+∆V from area under graph of g against r.
+MS 3.8, 3.9
+Students use graphical
+representations to investigate
+relationships between v, r and g.

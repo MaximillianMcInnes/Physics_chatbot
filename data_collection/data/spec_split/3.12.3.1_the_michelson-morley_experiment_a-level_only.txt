@@ -1,0 +1,7 @@
+3.12.3.1
+The Michelson-Morley experiment (A-level only)
+Content
+Principle of the Michelson-Morley interferometer.
+Outline of the experiment as a means of detecting absolute motion.
+Significance of the failure to detect absolute motion.
+The invariance of the speed of light.

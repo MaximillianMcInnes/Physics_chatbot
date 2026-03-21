@@ -1,0 +1,20 @@
+3.7.3.1 	Coulomb's law (A-level only)
+Content
+Opportunities for skills
+development
+Force between point charges in a vacuum:
+F =
+4𝀵𝀵0
+Q1Q2
+r2
+Permittivity of free space, 0
+Appreciation that air can be treated as a vacuum when
+calculating force between charges.
+For a charged sphere, charge may be considered to be at
+the centre.
+Comparison of magnitude of gravitational and electrostatic
+forces between subatomic particles.
+MS 0.3, 2.3
+Students can estimate the magnitude
+of the electrostatic force between
+various charge configurations.

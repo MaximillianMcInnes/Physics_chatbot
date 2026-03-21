@@ -1,0 +1,10 @@
+3.12.2.5
+Wave–particle duality (A-level only)
+Content
+de Broglie’s hypothesis: p = h
+ ;
+=
+h
+2meV
+Low-energy electron diffraction experiments; qualitative explanation of the effect of a change of
+electron speed on the diffraction pattern.

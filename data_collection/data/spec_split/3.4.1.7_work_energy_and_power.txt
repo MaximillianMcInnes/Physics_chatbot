@@ -1,0 +1,19 @@
+3.4.1.7 	Work, energy and power
+Content
+Opportunities for skills
+development
+Energy transferred, W = Fscos 
+rate of  doing work = rate of  energy transfer,   P = ∆W
+∆t = Fv
+Quantitative questions may be set on variable forces.
+Significance of the area under a force–displacement graph.
+efficiency = useful output power
+input power
+Efficiency can be expressed as a percentage.
+MS 0.3 / PS 3.3, 4.1 / AT a, b, f.
+Investigate the efficiency of an electric
+motor being used to raise a mass
+through a measured height. Students
+should be able to identify random and
+systematic errors in the experiment
+and suggest ways to remove them.

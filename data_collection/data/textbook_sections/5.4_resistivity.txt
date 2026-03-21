@@ -1,0 +1,124 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.4 Resistivity | PRINTED_PAGES: 96-99]
+
+5 Electricity
+Example 2
+A current of 0.5 mA flows through a resistor of 100 kΩ. What is the potential difference across the resistor?
+Answer voltage = current × resistance = 0.0005 × 100 000 = 50 V
+Now test yourself
+3 Calculate the current through the following resistors:
+(a) 120 Ω connected to 200 mV
+(b) 4700 Ω connected to 12 V
+(c) 10 kΩ connected to 6 V
+(d) 2.5 MΩ connected to 25 V
+4 What is the resistance of the following?
+(a) a torch bulb that draws 0.25 A from a 12 V supply
+(b) an immersion heater that draws 10 A from a 230 V supply
+Answers on p. 218
+Common current–voltage characteristics
+A current sensor and a voltage sensor can be used to capture data to give
+V–I curves. Figure 5.4 shows some common examples.
+I
+I
+I
+I
+I
+I
+V
+V
+V
+V
+V
+V
+Metal at a constant temperature
+Carbon resistor
+Semiconductor diode
+Light bulb filament
+Gas-filled diode
+Vacuum diode
+Figure 5.4 Common I–V curves
+The graph for a metal at a constant temperature is an example of an ohmic conductor (see below).
+What is resistivity?
+There are three factors that affect the resistance of a sample of a material:
+●	 the temperature
+●	 the dimensions of the sample — the smaller the cross-sectional area and the longer the sample the larger the resistance
+●	 the material from which the sample is made
+Typical mistake
+Using the gradient of a
+V–I curve for a non-ohmic conductor to calculate resistance.
+5 Electricity
+The property of the material that affects its resistance is called the resistivity of the material (Figure 5.5), symbol ρ.
+The resistivity of a material is defined as the resistance between two opposite faces of a metre cube of the material. It is related to the resistance (R) of a specimen of length L and cross-sectional area A by the formula:
+resistivity, ρ = RA
+L
+The units for resistivity are Ω m.
+L
+Resistance, R
+RA
+L
+ρ =
+A
+Figure 5.5 Resistivity definition
+The resistivities of good conductors are very small numbers (usually between 10−8 and 10−6 Ω m), rising to around 1 Ω m for semiconductors and 1015 Ω m for ‘insulators’.
+Example 1
+Calculate the resistance of a 1.5 m long piece of wire of resistivity
+30 × 10−8 Ω m and diameter 0.5 mm.
+Answer resistance = resistivity × length area
+= 30 × 10−8 × 1.5
+1.96 × 10−7  = 2.3 Ω
+Example 2
+Some resistance wire (resistivity 40 × 10−8 Ω m) is used to make a heater. The wire on the reel has a cross-sectional area of 1.5 × 10−7 m2, and the required resistance is 5 Ω. What length of wire is needed?
+Answer length = resistance × area resistivity
+= 5 × 1.5 × 10−7
+40 × 10−8
+= 1.88 m
+Exam tip
+In resistivity calculations make sure that you use metres and not cm or mm, and radius and not diameter.
+Typical mistake
+Using Ω m−1 instead of Ω m as the unit for resistivity.
+5 Electricity
+Required practical 5
+Measurement of resistivity
+The resistivity of a wire can be measured using a low-voltage power supply, a micrometer, an ammeter and a voltmeter.
+● First measure the diameter of the wire in a number of places using the micrometer and calculate an average value.
+● Then connect the wire and meters to the power supply and apply a small voltage.
+● Take readings of the current through the wire and the potential difference across it.
+● Hence calculate the resistivity.
+It is important to avoid heating the wire by using too large a potential difference.
+An alternative method uses an ohm meter instead of the ammeter, voltmeter and power supply.
+Now test yourself
+5 Calculate the resistivity of a material if a 250 cm length of wire of that material with a diameter of 0.56 mm has a resistance of 3 Ω.
+6 Calculate the resistance between the large faces of a slab of germanium of thickness 1 mm and area 1.5 mm2. The resistivity of germanium is 0.65 Ωm.
+Answers on p. 218
+Resistance and temperature
+When a material is heated its resistivity will change and therefore so will the resistance of a specimen of that material. The nature of the change depends on the material. The change is governed by a property called the temperature coefficient of resistance (α). This is positive for metals but negative for non-metals such as semiconductors.
+Metals
+For a metal an increase in the temperature gives an increase in resistance.
+At low temperatures the thermal vibration of the lattice ions is small and electrons can move easily, but at high temperatures the motion increases, giving a much greater chance of collisions between the conduction electrons and the lattice ions, so impeding their motion.
+The variation is shown in Figure 5.6.
+Resistance
+Temperature
+Figure 5.6 Metal resistance and temperature variation
+5 Electricity
+Semiconductors
+In semiconductors an increase in temperature leads to a drop in resistance. Bound electrons gain energy and move into the conduction band, resulting in an increase in the number of free electrons.
+The temperature coefficient of resistance is therefore negative.
+Such materials are called negative temperature coefficient (NTC)
+semiconductors.
+Thermistors
+The change of resistance of a semiconductor with temperature is used in temperature sensitive resistors called thermistors. The most widely used are NTC thermistors whose resistance falls as the temperature rises. The symbol for a thermistor and a graph of the variation of its resistance with temperature are shown in Figure 5.7.
+Thermistors are used as temperature sensors in thermostats in ovens and irons, in fire alarms and on the wing of a plane to detect when the temperature falls low enough for ice to form. They are also in use in premature baby units to detect when a baby may have stopped breathing, current-limiting devices and thermometers.
+Now test yourself
+7 When is the filament in a ‘traditional’ light bulb most likely to break?
+Explain your answer.
+Answer on p. 218
+Superconductivity
+When metals cool, their resistance falls steadily as the motion of the atoms of the metal and the free electrons gets less and so the number of electron–atom collisions is reduced.
+However, it was found that as the metal is cooled further a temperature can be reached where the resistance suddenly falls to zero — when this happens the metal is said to be superconducting and the phenomenon is called superconductivity.
+The temperature at which this happens for a given metal is called the critical temperature for the metal.
+The importance of superconductivity is that if a material is superconducting it has no resistance, this means that an electric current can flow through it without energy loss in the form of resistive heating.
+Applications of superconductivity include:
+●	 high-power superconducting electromagnets for use in both the levitation of experimental trains and in nuclear accelerators
+●	 superconducting power cables for electrical energy transmission
+Resistance
+Temperature
+Figure 5.7 Resistance variation for an NTC thermistor

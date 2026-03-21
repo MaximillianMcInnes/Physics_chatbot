@@ -1,0 +1,7 @@
+3.10.6.2
+Half-life (A-level only)
+Content
+Physical, biological and effective half-lives; 1
+T E  =   1
+T B +   1
+T P ; definitions of each term.

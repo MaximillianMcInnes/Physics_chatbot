@@ -1,0 +1,19 @@
+3.8.1.2 	α, β and γ radiation (A-level only)
+Content
+Opportunities for skills
+development
+Their properties and experimental identification using simple
+absorption experiments; applications eg to relative hazards
+of exposure to humans.
+Applications also include thickness measurements of
+aluminium foil paper and steel.
+Inverse-square law for γ radiation: I = k
+x2
+Experimental verification of inverse-square law.
+Applications eg to safe handling of radioactive sources.
+Background radiation; examples of its origins and
+experimental elimination from calculations.
+Appreciation of balance between risk and benefits in the
+uses of radiation in medicine.
+Required practical 12: Investigation of the inverse-square
+law for gamma radiation.

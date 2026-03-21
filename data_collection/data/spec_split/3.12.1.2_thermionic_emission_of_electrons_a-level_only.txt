@@ -1,0 +1,6 @@
+3.12.1.2
+Thermionic emission of electrons (A-level only)
+Content
+The principle of thermionic emission.
+Work done on an electron accelerated through a pd V ;   1
+2mv2 = eV

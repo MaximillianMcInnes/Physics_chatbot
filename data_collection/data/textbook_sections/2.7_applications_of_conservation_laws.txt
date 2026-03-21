@@ -1,0 +1,53 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.7 Applications of conservation laws | PRINTED_PAGES: 24-24]
+
+2 Particles and radiation
+Mesons
+Mesons are formed from combinations of two quarks or antiquarks
+(Figure 2.15).
+Pion π+
+u d u u u
+–
+–d u u
+–
+s–
+s s
+–d
+–s d
+Kaon K+
+Kaon K−
+Kaon Ko
+Antikaon Ko
+Pion π–
+Pion πo u s u s u s d s d d u u u
+–
+d–
+–
+–
+–
+–
+–
+Figure 2.15 Quark structure of mesons
+Quark model of beta emission
+The quark nature of the proton and neutron can be used to explain beta emission:
+β+ emission: p → n + β+ + ν
+Quark version:
+β+ emission (proton decay): uud → ddu + 0 + 0
++
++
+ν
+e d d d u u u
++
+Figure 2.16 Quark model of β+ emission
+In proton decay an up quark changes into a down quark.
+β− emission: n → p + β− + ν−
+Quark version:
+β− emission (neutron decay): ddu → uud + 0 + 0
++
++
+ν∼
+e–
+u u u d d d
+Figure 2.17 Quark model of β− emission
+When a neutron decays by β− emission a down quark changes into an up quark.
+Revision activity
+Make yourself a mind map of the structure of an atom, showing quarks, protons, neutrons and electrons.

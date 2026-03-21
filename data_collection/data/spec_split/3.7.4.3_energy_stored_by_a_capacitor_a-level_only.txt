@@ -1,0 +1,10 @@
+3.7.4.3 	Energy stored by a capacitor (A-level only)
+Content
+Opportunities for skills
+development
+Interpretation of the area under a graph of charge against pd.
+E = 1
+2QV = 1
+2CV 2 = 1
+2  Q2
+C

@@ -1,0 +1,129 @@
+#### THIS IS FOR THE SPEC   
+
+import re
+import os
+import fitz  # PyMuPDF
+
+# =========================
+# CONFIG
+# =========================
+PDF_PATH = r"D:\coding_shit\Physics_chatbot\data_collection\data\spec\aqa-physics-sp.pdf"
+OUTPUT_DIR = r"D:\coding_shit\Physics_chatbot\data_collection\data\spec_split"
+
+START_PAGE = 9
+END_PAGE = 66
+
+# =========================
+# HELPERS
+# =========================
+def clean_line(line: str) -> str:
+    line = line.strip()
+
+    if not line:
+        return ""
+
+    # remove page numbers
+    if re.fullmatch(r"\d+", line):
+        return ""
+
+    low = line.lower()
+
+    # remove common footer/header junk
+    if "aqa.org.uk/7408" in low:
+        return ""
+    if "visit aqa.org.uk" in low:
+        return ""
+    if "as physics (7407) and a-level physics (7408)" in low:
+        return ""
+    if "version 1.2" in low:
+        return ""
+
+    return line
+
+
+def clean_text(text: str) -> str:
+    lines = text.splitlines()
+    cleaned = []
+
+    for line in lines:
+        c = clean_line(line)
+        if c:
+            cleaned.append(c)
+
+    text = "\n".join(cleaned)
+
+    # collapse lots of blank lines
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip()
+
+
+def safe_filename(number: str, title: str) -> str:
+    title = title.lower().strip()
+    title = title.replace("&", "and")
+    title = re.sub(r"[^\w\s\-\.]", "", title)
+    title = re.sub(r"\s+", "_", title)
+    return f"{number}_{title}.txt"
+
+
+# =========================
+# EXTRACT PAGES FROM PDF
+# =========================
+doc = fitz.open(PDF_PATH)
+
+pdf_text_parts = []
+
+for page_num in range(START_PAGE - 1, END_PAGE):  # PyMuPDF uses 0-based indexing
+    page = doc[page_num]
+    text = page.get_text("text")
+    pdf_text_parts.append(text)
+
+doc.close()
+
+raw_text = "\n".join(pdf_text_parts)
+raw_text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
+
+# =========================
+# FIND HEADINGS
+# Matches:
+# 3 Subject content
+# 3.1 Measurements and their errors
+# 3.1.1 Use of SI units and their prefixes
+# 3.2.1 etc
+# =========================
+heading_pattern = re.compile(
+    r"^(?P<number>\d+(?:\.\d+)*)\s+(?P<title>[^\n]+)$",
+    re.MULTILINE
+)
+
+matches = list(heading_pattern.finditer(raw_text))
+
+# keep only section 3 headings
+filtered = []
+for m in matches:
+    num = m.group("number")
+    if num == "3" or num.startswith("3."):
+        filtered.append(m)
+
+# =========================
+# SAVE EACH SECTION
+# =========================
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+for i, match in enumerate(filtered):
+    number = match.group("number").strip()
+    title = match.group("title").strip()
+
+    start = match.start()
+    end = filtered[i + 1].start() if i + 1 < len(filtered) else len(raw_text)
+
+    section_text = raw_text[start:end].strip()
+    section_text = clean_text(section_text)
+
+    filename = safe_filename(number, title)
+    filepath = os.path.join(OUTPUT_DIR, filename)
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(section_text)
+
+    print(f"Saved: {filepath}")

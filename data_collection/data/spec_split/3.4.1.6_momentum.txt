@@ -1,0 +1,23 @@
+3.4.1.6 	Momentum
+Content
+Opportunities for skills
+development
+momentum = mass × velocity
+Conservation of linear momentum.
+Principle applied quantitatively to problems in one
+dimension.
+Force as the rate of change of momentum, F = ∆mv
+∆t
+Impulse = change in momentum
+F∆t = ∆mv  , where F is constant.
+Significance of the area under a force–time graph.
+Quantitative questions may be set on forces that vary with
+time. Impact forces are related to contact times (eg kicking a
+football, crumple zones, packaging).
+Elastic and inelastic collisions; explosions.
+Appreciation of momentum conservation issues in the
+context of ethical transport design.
+MS 2.2, 2.3
+Students can apply conservation of
+momentum and rate of change of
+momentum to a range of examples.

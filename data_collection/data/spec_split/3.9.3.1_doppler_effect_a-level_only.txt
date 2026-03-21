@@ -1,0 +1,10 @@
+3.9.3.1 	Doppler effect (A-level only)
+Content
+∆f
+f =  v
+c  and z =
+∆
+= −v
+c for v ≪c applied to optical and radio frequencies.
+Calculations on binary stars viewed in the plane of orbit.
+Galaxies and quasars.

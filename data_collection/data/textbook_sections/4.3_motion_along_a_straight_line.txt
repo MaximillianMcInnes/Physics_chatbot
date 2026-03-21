@@ -1,0 +1,181 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.3 Motion along a straight line | PRINTED_PAGES: 62-67]
+
+4 Mechanics and materials
+Centre of gravity and centre of mass
+The weight of an object may be taken as acting at one point known as the centre of gravity. You could think of that point as the position where all the mass of the object is concentrated.
+The resultant moment about the centre of gravity of any object must be zero.
+W1
+W2
+d1
+d2
+G
+Figure 4.12 Centre of mass of an unequal dumbbell
+The dumbbell arrangement in Figure 4.12 shows this clearly (W1 = m1g;
+W2 = m2g).
+anticlockwise moment = W1 × d1; clockwise moment = W2 × d2
+If all the mass was replaced by a mass of M (= m1 + m2) at G there would be no turning effect about G and therefore the resultant moment must be zero.
+Displacement, speed, velocity and acceleration
+Speed is defined as the rate of change of distance with time, while velocity is defined as the rate of change of displacement with time.
+If an object is displaced by a small amount Δs in a small time Δt then its velocity v is given by the equation:
+velocity, v = ∆s
+∆t
+Displacement is distance measured in a particular direction and velocity is speed measured in a particular direction. The units normally used for both speed and velocity are m s−1.
+Acceleration occurs when an object changes its velocity with time. The units normally used for acceleration are m s−2:
+acceleration, a = rate of change of velocity = ∆v
+∆t
+= change in velocity time
+Exam tip
+If the gravitational field is uniform over the size of the object then the centre of mass and the centre of gravity of the object will coincide. However if this is not true then they will be in different places. Close to a black hole, where the gravitational field changes rapidly, might give you a situation like this.
+Exam tip
+Remember that distance and speed are scalars, while displacement and velocity are vectors.
+4 Mechanics and materials
+Using graphical methods to understand motion
+Displacement–time graphs
+Figure 4.13 shows examples of displacement–time graphs. Uniform velocity is shown by straight lines and acceleration is shown by a curved line. The gradient at a point on a displacement–time curve is the instantaneous velocity at that point.
+Distance
+Stationary
+Moving away quickly
+Moving away slowly
+Moving back
+Moving away and accelerating
+Time
+Figure 4.13 Displacement–time graphs
+Velocity–time graphs
+Figure 4.14 shows examples of velocity–time graphs. Uniform acceleration is shown by straight lines. Varying acceleration is shown by a curved line. The gradient at a point on a velocity–time curve is the instantaneous acceleration at that point.
+t v
+Object thrown upwards v t
+One bounce v t
+Irregular motion
+(a)
+(b)
+Constant velocity
+Rapid constant acceleration
+Steady constant acceleration
+Deceleration
+Increasing acceleration
+Velocity
+Time
+Figure 4.14 Velocity–time graphs
+Exam tip
+A displacement–time curve with a negative gradient shows an object moving in the opposite direction from one with a positive gradient.
+4 Mechanics and materials
+The area beneath a velocity–time graph is a measure of the displacement of the object (Figure 4.15).
+t v area =
+displacement
+(a)
+t v area =
+displacement
+(b)
+v t area =
+displacement
+(c)
+Figure 4.15 Area under velocity–time graphs
+Example
+Figure 4.16 shows the motion of a car.
+A
+B
+O
+C
+Time/s
+Velocity/m s−1
+Figure 4.16 Velocity–time graph example
+● O to A — the velocity increases steadily from 0 m s−1 to 20 m s−1 in
+10 seconds.
+● A to B — the velocity stays the same at 20 m s−1 for the next 30 s.
+● B to C — the velocity decreases to 0 m s−1 in 20 s.
+Using:
+distance = average velocity × time
+Distance travelled OA = 10 × 10 = 100 m
+Distance travelled AB = 20 × 30 = 600 m
+Distance travelled BC = 10 × 20 = 200 m
+Total distance travelled OC = 900 m
+This is represented by the area under the line OABC.
+Typical mistake
+Forgetting that the equation s = vt applies to uniform velocity only.
+Exam tip
+This is true whatever the shape of the velocity–time curve.
+4 Mechanics and materials
+Velocity–time graphs showing non-uniform acceleration
+Problems of non-uniform acceleration can be solved by using graphical methods. One example is the 100 m sprint shown in Figure 4.17.
+10 11 12 13 14 15 16
+Time/s
+Velocity/m s−1
+Figure 4.17 Non-uniform acceleration
+The graph in Figure 4.17 shows the motion of a schoolgirl sprinter running the 100 m. It shows that her acceleration was not uniform but varied over the first 9 s of the race, after which it was zero.
+The shaded area represents the distance she travelled in 15 s — in this case 100 m.
+Her acceleration during the early part of the race can be found from the gradient of the curve at that point. For example, 5 s after the start her acceleration (Δv/Δt) was approximately 3.8/6 = 0.63 m s−2.
+Now test yourself
+7 The graph in Figure 4.18 shows a runner during part of a race. Using the graph find:
+Time/s
+Velocity/m s−1
+Figure 4.18
+(a) the distance covered by the runner between 20 s and 60 s
+(b) the velocity of the runner at t = 15 s
+(c) the acceleration of the runner at t = 55 s.
+Answers on p. 217
+4 Mechanics and materials
+Equations for uniform acceleration
+If the acceleration of an object is uniform, the following equations apply to its motion:
+average velocity = v + u and s = u + v t acceleration, a = v – u t or v = u + at s = ut + ½at2
+v2 = u2 + 2as where u is the initial velocity, v the final velocity, a the acceleration, t the time taken and s the displacement.
+Example 1
+A dragster starts from rests and accelerates at 25 m s−2 for 4 s.
+Calculate:
+(a) the final velocity
+(b) the distance travelled.
+Answer
+(a) v = u + at = 0 + (25 × 4) = 100 m s−1
+(b) s = ½at2 = 0.5 × 25 × 16 = 200 m
+Example 2
+A ball travelling at 20 m s−1 is hit by a bat and returned along its original path but in the opposite direction at 35 m s−1. If the ball was in contact with the bat for 0.02 s calculate:
+(a) the acceleration of the ball during the hit
+(b) the distance moved by the ball during the hit.
+Answer
+(a) a = v − u t
+= 35 − (−20)
+0.02
+=   55
+0.02 = 2750 m s−2
+(b) v2 = u2 + 2as s = 352 − 202
+2 × 2750
+= 0.15 m
+Now test yourself
+8 Starting from rest a car travels for 2 minutes with a uniform acceleration of 0.3 m s−2 after which its speed is kept constant until the car is brought to rest with a uniform retardation of
+0.6 m s−2. If the total distance travelled is 4500 m how long did the journey take?
+9 An electron in a TV tube emitted from rest from a hot cathode reaches a velocity of 107 m s−1 when it passes the anode. Find the acceleration of the electron if the cathode and anode are separated by 3 cm.
+Answers on p. 217
+Exam tip
+Remember that these equations only apply to accelerated motion when the acceleration is uniform.
+4 Mechanics and materials
+Acceleration due to gravity
+The vertical acceleration in the Earth’s gravitational field is due to the gravitational attraction of the Earth, and is called the acceleration due to gravity (g) or the acceleration of free fall. The value of g close to the Earth’s surface is about 9.81 m s−2 (often simplified to 9.8 m s−2 or even 10 m s−2).
+Since this acceleration is produced by the gravitational field of the Earth it may also be called the gravitational field strength (units N kg−1).
+If an object is dropped and falls through a height h in t seconds its acceleration is:
+gravitational acceleration g = 2h t2
+If air resistance is neglected the acceleration in free fall is the same for all objects. This was suggested by Galileo Galilei in the seventeenth century.
+Example
+A stone falling from rest falls half its total path in the last second before it strikes the ground. From what height was it dropped?
+Answer
+For the complete path:
+h = ½gt2
+For the top half of its path:
+h
+= ½g(t − 1)2
+So:
+h = ½gt2 = g(t2 – 2t + 1)
+Therefore:
+t2 = 2t2 – 4t + 2
+and so:
+t2 – 4t + 2 = 0
+This can be solved to give t = 3.41 s or 0.59 s. This last one is impossible since it fell half the distance in the last second.
+Therefore:
+h = ½gt2 = ½ × 9.8 × 3.412 = 57.1 m
+Now test yourself
+10 A stone is dropped from a cliff.
+(a) How far will it have fallen in 4 s?
+(b) What will its velocity be at that point?
+(c) What is the average velocity of the stone during the 4 s? (Use g = 9.8 m s−2
+and ignore air resistance.)
+Answer on p. 217
+Exam tip
+You should always use the values of constants such as g that are given in your exam question paper.

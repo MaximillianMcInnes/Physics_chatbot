@@ -1,0 +1,48 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.1 Basics of electricity | PRINTED_PAGES: 93-94]
+
+5 Electricity
+Electric charge
+When an electric current flows, electrical energy is converted to other forms of energy such as heat, light, chemical, magnetic and so on.
+In a metal there is a large number of electrons that are not held around particular nuclei but are free to move at high speed and in a random way through the metal. These are known are free electrons and in a metal there are always large numbers of these. It is when these free electrons are all made to move in a certain direction by the application of a voltage across the metal that we have an electric current (Figure 5.1).
+Figure 5.1 Free electrons in a wire
+Electron drift
+Metal ion
++
+–
+Free electron
+Each electron has only a very small amount of electric charge (e), so a larger unit is used when measuring practical units of charge. This unit is the coulomb:
+1 coulomb = −6.25 × 1018 e
+Therefore the charge on one electron is −1.6 × 10−19 C.
+Electric current as a rate of flow of charge
+A current of 1 A flows in a wire if a charge of 1 C passes any point in the wire each second.
+The rate of flow of electric charge (ΔQ/Δt) round a circuit is the electric current in that circuit.
+Typical mistake
+Not using seconds for the time when calculating current.
+5 Electricity
+Example 1
+Calculate the current in a wire if a charge of 240 C passes a given point in 3 minutes.
+Answer current = Q
+t
+= 240
+= 1.33 A
+Example 2
+A current of 25 mA flows for 10 ms.
+(a) What charge has passed?
+(b) How many electrons have fl owed past that point in the circuit.
+Answer
+(a) charge = current × time = 0.025 × 0.010 = 0.00025 C = 2.5 × 10−4 C
+(b) number of electrons = 2.5 × 10−4
+1.6 × 10−19 = 1.56 × 1015
+Now test yourself
+1 (a) A charge of 20 C passes a point in a circuit in 4 s. What is the current in the circuit? (Give your answer in amps.)
+(b) A charge of 600 C passes a point in a circuit in 20 minutes. What is the current in the circuit? (Give your answer in milliamps.)
+2 (a) A current of 2 A flows for 10 s. What charge has passed? (Give your answer in coulombs.)
+(b) A current of 5 mA fl ows for 8 minutes. What charge has passed? (Give your answer in coulombs.)
+Answers on p. 218
+Note that we are using the conventional direction for electric current flow, i.e from positive to negative. In actual fact, of course, the electrons in a wire move from negative to positive when a current flows.
+Resistance
+As the free electrons in an electric current move through the metal they collide with each other and with the atoms of the metal. These collisions impede their movement and this property of the material is called its resistance.
+The resistance (R) of a given piece of material is connected to the current flowing through it (I) and the potential difference (V) between its ends by the equation:
+resistance = potential difference current
+R = V
+I

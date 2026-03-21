@@ -1,0 +1,27 @@
+3.8.1.3 	Radioactive decay (A-level only)
+Content
+Opportunities for skills
+development
+Random nature of radioactive decay; constant decay
+probability of a given nucleus;
+∆N
+∆t = −N
+N = N0e−t
+Use of activity, A = N
+Modelling with constant decay probability.
+Questions may be set which require students to use
+A = A0e−𘗼t
+Questions may also involve use of molar mass or the
+Avogadro constant.
+Half-life equation: T ½ = ln2
+
+Determination of half-life from graphical decay data
+including decay curves and log graphs.
+Applications eg relevance to storage of radioactive waste,
+radioactive dating etc.
+MS 1.3, 3.10, 3.11 / PS 3.1, 3.2
+Investigate the decay equation using
+a variety of approaches (including
+the use of experimental data, dice
+simulations etc) and a variety of
+analytical methods.

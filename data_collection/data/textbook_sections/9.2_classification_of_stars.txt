@@ -1,0 +1,355 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 9 Astrophysics | SECTION: 9.2 Classification of stars | PRINTED_PAGES: 198-206]
+
+9  Astrophysics
+The greater number of pixels per unit area, the greater the resolution of the CCD.
+Quantum efficiency of the eye and a CCD
+This is defined as:
+quantum efficiency =
+number of electrons detected per second number of photons incident per second
+× 100%
+A device with a high quantum efficiency will produce a large number of electrons for a given number of incident photons.
+Typical values are:
+l	 eye
+1−4
+l	 film	 4−10
+l	 CCD	70−90
+This means that a CCD hugely outperforms the eye.
+Classification by luminosity
+Apparent magnitude (m)
+The magnitude of a star is a measure of its brightness, and an approximate scale for stellar magnitudes was devised by the Greek astronomer
+Hipparchus. Comparing the brightness of two stars he decided that if one star was 2.5 times brighter than the other the difference of magnitude between them was 1. The modem figure is 2.51, such that a difference in brightness of 100 gives a difference in magnitude of 5 (2.515 = 100).
+Bright objects have a negative apparent magnitude while faint objects have a positive apparent magnitude. The magnitude scale runs from about
+−26 for the Sun to around +15 for the faintest stars visible using a large astronomical telescope.
+The dimmest stars that we can see with the unaided eye have an apparent magnitude of about +6.
+Example
+If the apparent magnitudes of two stars differ by 4 what is the difference in their brightness?
+Answer difference in brightness = 2.514 = 40
+Now test yourself
+4 Two stars differ in brightness by a factor of 1000. What is the difference in their apparent magnitudes?
+Answer on p. 223
+9 Astrophysics
+Luminosity and brightness
+Luminosity is a measure of the total energy given output by a star at all wavelengths, from gamma radiation to radio waves. This luminosity depends on:
+l the size of the star l the temperature of the star
+The brightness is how bright a star appears when seen from the Earth.
+This depends on:
+l the actual luminosity of the star l the distance of the star from the observer on the Earth
+Distance measurement and absolute magnitude
+Astronomical unit, parsec and light year
+1 astronomical unit (AU) is the mean distance of the Earth from the Sun.
+1 parsec is the distance at which an object subtends an angle of 1 arc second using the radius of the Earth’s orbit as the baseline (Figure 9.7).
+1 light year is the distance that light travels in free space in 1 year.
+1 light year (= 9.46 × 1015 m)
+1 parsec = 3.086 × 1016 m = 3.26 light years
+1 megaparsec (Mpc) = 3.26 × 106 light years = 3.086 × 1022 m
+Absolute magnitude (M)
+How bright a star looks is given by its apparent magnitude. This is different from its absolute magnitude. The apparent magnitude (m), the distance of the star in parsecs (d) and the absolute magnitude (M) are related by the equation:
+m − M = 5 log d  or M = m − 5 log d
+The absolute magnitude of a star is defined as the apparent magnitude that it would have if placed at a distance of 10 parsecs from the Earth.
+Exam tip
+The greater the luminosity of a star, the lower its magnitude value (including negative).
+M < m
+M = m
+10 parsecs
+M > m
+Figure 9.8 Apparent magnitude (m) and absolute magnitude (M)
+Table 9.1 gives some examples of the magnitudes and distances of five bright stars.
+1 second of arc
+1 parsec
+Radius of
+Earth’s orbit
+Earth
+Sun
+Figure 9.7 Definition of the parsec
+9  Astrophysics
+Table 9.1
+Star name
+Distance/pc
+Apparent magnitude
+Absolute magnitude
+Sirius
+2.7
+−1.46
+1.4
+Vega
+8.1
+0.03
+0.6
+Arcturus
+−0.04
+−0.2
+Aldebaran
+0.85
+−0.3
+Rigel*
+0.12
+−7.1
+*Rigel is a variable star and so its absolute magnitude and therefore also its apparent magnitude change slightly with time.
+Example 1
+Calculate the absolute magnitude of a star of apparent magnitude +2.5
+that is at a distance of 25 pc from the Earth.
+Answer
+M = m − 5 log d
+10  = 2.5 − 5 log 2.5 = 2.5 − 1.99 = +0.51
+Example 2
+Calculate the distance of a star with an apparent magnitude of +6.0
+and an absolute magnitude of +4.0.
+Answer
+6 − 4 = 5 log10
+d
+5  = log 10
+d  = 0.4
+d  = 2.5
+d = 25 pc
+Now test yourself
+5	 (a) A star is 20 pc from the Earth and has an apparent magnitude of −0.7. What is the absolute magnitude of the star?
+(b) A star is 5 pc from the Earth and has an absolute magnitude of +2.6. What is the apparent magnitude of the star?
+(c) A star has an apparent magnitude of −0.2 and an absolute magnitude of +2.0. What is the distance of the star from Earth in light years? (1 light year = 0.31 parsecs)
+Answer on p. 223
+Classification by temperature
+Black body radiation
+The amount of infrared radiation emitted by a body depends on three things:
+l	 the surface area of the body l	 the type of surface l	 the temperature of the body
+Exam tip
+Distances (d and D) should be in parsecs.
+9  Astrophysics
+Simple experiments show that rough, black surfaces make the best emitters and absorbers of radiation at a given temperature.
+An ideal absorber would be one that absorbed all the radiation that fell on it, and also one that emitted the maximum amount of radiation possible for that area at that temperature. Such a body is known as a black body, and the radiation emitted by it as black body radiation.
+Wien’s displacement law
+Figure 9.9 shows the variation of energy emitted with wavelength for two stars at different temperatures (assumed to behave like black bodies).
+Eλ
+Wavelength (λ)/nm
+T = 6000 K
+T = 5000 K
+Figure 9.9 Wien’s displacement law
+Some important facts can be deduced from these curves:
+l	 The area between any energy–wavelength curve and the wavelength axis is proportional to the total energy emitted by the body per unit area at that temperature.
+l	 The maxima of the curves move towards shorter wavelengths at higher temperatures.
+l	 The curves for lower temperatures lie completely inside those of higher temperature.
+λmT = constant = 2.90 × 10−3 m K
+where λm is the wavelength at which most energy is emitted, that is, at the maximum of the curve.
+Stefan’s law
+Stefan’s law relates the luminosity of a star to its surface area (A) and surface temperature (T):
+power (luminosity) = σAT4
+σ is Stefan’s constant and has a value of 5.67 × 10−8 W m−2 K−4.
+Example 1
+Calculate the luminosity of a star of radius 109 m (slightly larger than our Sun) and surface temperature 6000 K.
+Answer luminosity =  σAT4 = 5.67 × 10−8 × 4 × π × 1018 × 60004 = 9.23 × 1026 W
+9  Astrophysics
+Example 2
+Calculate the temperature of a star with a maximum energy emission at a wavelength of 400 nm.
+Answer temperature (T) = 2.90
+×
+×
+−
+−
+= 7250 K
+Now test yourself
+6 Calculate the temperature of a star that has a luminosity of 1030 W and a radius of 1011 m.
+(Stefan’s constant = 5.67 × 10−8 W m−2 K−4)
+Answer on p. 223
+Use of stellar spectral classes
+By looking at the spectrum of a star astronomers can determine:
+l	 the temperature of the star. This can be found by measuring the variation in intensity across the spectrum.  When the wavelength of the peak intensity is found the temperature can be calculated using
+Wien’s law.
+l	 the composition of the star. The chemical composition of the star can be determined by looking at the absorption lines in the spectrum.
+These indicate the presence of particular elements in the star.
+The spectra of stars are classified into a number of types, with each type of star having a letter (Table 9.2).
+Table 9.2
+Spectral class
+Intrinsic colour
+Temperature/K
+Prominent absorption lines
+O
+Blue
+25 000–50 000
+He+, He, H
+B
+Blue
+11 000–25 000
+He, H
+A
+Blue−white
+7500–11 000
+H (strongest), ionised metals
+F
+White
+6000–7500
+ionised metals
+G
+Yellow–white
+5000–6000
+ionised and neutral metals
+K
+Orange
+3500–5000
+neutral metals
+M
+Red
+< 3500
+neutral atoms, TiO
+This list ranges from very hot O-type stars to ‘cool’ M-type stars. O and
+B stars are blue–white and M stars reddish in appearance when viewed from the Earth.
+The temperature of the star can be found by measuring the Doppler broadening of the spectral lines (see page 213).
+9  Astrophysics
+The Hertzsprung–Russell (HR) diagram
+General shape of the HR diagram
+This type of diagram originally showed the variation of the absolute magnitude of a star against its spectral type.
+–5
++5
++15
++10
+Luminosity (Sun = 1)
+10−1
+10−2
+10−3
+10−4
+10−5
+40 000
+Surface temperature/K
+Main sequence stars
+25 000
+11 000
+Rigel
+Spica
+Vega
+Sirius A
+Sun
+Procyon
+White dwarfs
+Sirius B
+Red supergiants
+Betelgeuse
+Red giants
+Aldebaran
+Arcturus
+Spectral type
+Absolute magnitude
+O
+B
+A
+F
+G
+K
+M
+Figure 9.10 Hertzsprung–Russell diagram
+Hot, bright stars are towards the top-left of the diagram while cool and dim stars are towards the bottom-right. Some large stars, like the red supergiants, are quite cool, but because of their enormous size they are in the top-right of the diagram. On the other hand, white dwarfs are hot, small stars and so appear to the bottom-left.
+There is a band of stars that runs from the top-left to the bottom-right
+(shown by the dotted line in the diagram). This is called the main sequence and stars that lie in this area are called main-sequence stars.
+These are ‘normal’ stars, while those that lie to one side or other of this area are ‘unusual’ stars and include white dwarfs, red giants and supergiants. Supergiant stars can be either hot (e.g. Rigel) or cool (e.g.
+Betelgeuse). About 90% of the stars in our region of the galaxy are main-
+sequence stars (including our Sun); 10% are white dwarfs and 1% are red giants or supergiants.
+Evolution of stars of similar mass to our Sun
+(< about 3.0 M☉)
+The life cycle of a star with a mass of less than 3.0 solar masses (M☉) can be summarised as follows:
+1	 Particles begin to clump together in a low-density gas cloud.
+2	 Nuclear fusion begins and the star is ‘born’.
+3	 Fusion of light elements takes place and the star reaches a stable state in its ‘main sequence phase’.
+9  Astrophysics
+4	 Fusion of hydrogen in the core eventually ceases but continues in the outer shell. This gives an outward pressure so that the star expands to form a red giant with a high luminosity but lower surface temperature.
+5	 Eventually layers of the star are blown away as a planetary nebula, leaving a core.
+6	 The star core radiates less and shrinks to become a white dwarf and finally a cold black dwarf.
+Evolution of stars of mass many times that of our
+Sun (> about 3 M☉)
+The life cycle of a star with a mass of more than 3 M☉ can be summarised as follows:
+1	 Particles begin to clump together in a low-density gas cloud.
+2	 Nuclear fusion begins and the star is ‘born’.
+3	 Fusion of heavier elements takes place — up to iron and nickel.
+4	 As with lighter stars, the star then passes through a red giant or, in this case, a red supergiant phase.
+5	 Eventually the gravitational attraction exceeds the radiation pressure and a catastrophic collapse occurs. The outer layers collapse in seconds, reaching speeds of up to 30% of the speed of light. In this case the shock-wave moves outwards, resulting in a supernova.
+6	 A neutron star is formed, which then changes further if the mass is greater than about ten solar masses.
+7	 For a star of 10 or more solar masses, gravitational compression of the neutron star continues, eventually forming a black hole.
+The evolutions of stars is outlined in Figure 9.11.
+–5
++5
++15
++10
+Luminosity (Sun = 1)
+10−1
+10−2
+10−3
+10−4
+10−5
+40 000
+Surface temperature/K
+Main sequence stars
+25 000
+11 000
+Rigel
+Spica
+Sun
+White dwarfs
+Red supergiants
+Betelgeuse
+Red giants
+Spectral type
+Absolute magnitude
+O
+B
+A
+F
+G
+K
+M
+Figure 9.11 Evolution of stars
+9  Astrophysics
+Supernovae, neutron stars and black holes
+Supernovae
+A supernova is the explosive cataclysmic end to the life of a star. A
+supernova can produce so much energy that it can briefly outshine a galaxy with about 1010 times the luminosity of the Sun! The energy produced in a supernova explosion can be around 1046 J. This enormous release of energy may occur in only a few seconds.
+A star of mass greater than 1.4 M☉ can become a supernova, but the precise value depends on how it was formed).
+Type 1a (1.4 M☉ < m < 3 M☉)
+A type 1a supernova results from the attraction of material to a white dwarf from its companion star in a binary system, increasing both its mass and core density.
+If the mass of the white dwarf reaches more than about 1.4 M☉ with a correspondingly ‘super-high’ density the star then suffers a violent collapse, with a huge rise in temperature. The thermal energy produced causes the star to explode as a supernova; no individual body remains.
+Type 1a supernovae are used as standard candles to determine galactic distances. Since they all have approximately the same absolute magnitude, a measurement of their apparent magnitude can be used to calculate their distance.
+The light curve for a typical type 1a supernova is shown in Figure 9.12.
+Type II (8 M☉ < m < 50 M☉)
+A type II supernova may result in the latter stages of the life of a single giant star. In the type II supernova the gravitational attraction overcomes the radiation pressure as the star ‘runs out of fuel’. The outer layers of the star fall inwards, bounce off the solid core and travel outwards towards the surface. The shock wave produced moves at up to 10 000 km s−1 and
+‘blows away’ most of the outer layers of the star, giving a supernova explosion. If the final mass of the core is less than about 1.4 M☉ a neutron star is left behind. If it is greater it collapses to give a black hole.
+During the supernova phase, as a rapidly rotating high mass star collapses to form a neutron star, very high intensity gamma ray emissions occur.
+These are known as gamma ray bursts (GRBs). A GRB may last for several hours and produce as much energy in a few seconds as the Sun will emit in 10 billion years.
+Neutron stars (3 M☉ < m < 10 M☉)
+A neutron star is the final phase of a star with a mass of between 3 M☉ and
+10 M☉ (where M☉ is the mass of the Sun). The star contracts, the density increasing to the same as that of an atomic nucleus and electrons combine with protons to give matter composed only of neutrons. Neutron stars have a very high magnetic field and a surface gravity up to 1011 that of Earth.
+Black holes (m > 10 M☉)
+A black hole is an unimaginable concentration of matter formed by the gravitational collapse of a massive star, usually greater than 10 solar masses. On approaching a black hole the escape velocity increases and
+Brightness
+Time (days)
+Figure 9.12 Light curve of a type 1a supernova
+9  Astrophysics increases. Eventually a point will be reached where the escape velocity is the speed of light — this point is known as the event horizon for the black hole. The radius of the sphere of the event horizon around the black hole is known as the Schwarzschild radius (RS).
+At the Schwarzschild radius, the escape velocity (VE) is given by:
+vE = c =
+GM
+R
+S
+where c the speed of light, G the gravitational constant and M the mass of the star.
+At the event horizon, a distance of RS from the centre of the black hole, the escape velocity will be equal to the speed of light.
+Example
+Calculate the radius of the event horizon for a black hole with a mass 50 times that of our Sun. (G = 6.67 × 10−11 N m2 kg−2; mass of the
+Sun = 2 × 1030 kg; speed of light = 3 × 108 m s−1)
+Answer
+Rs = GM
+c
+6.67
+=
+×
+×
+×
+×
+×
+×
+−
+= 1.5 × 105 m = 150 km
+Black holes swallow up matter — increasing in mass themselves — and so their Schwarzschild radius increases as the event horizon expands.
+However, if antimatter falls into a black hole then the mass of the black hole decreases and eventually disappears in a burst of radiation.
+Figure 9.13 represents the gravitational fields outside a large star and a black hole. The depth of the gravitational vortex is much greater for the black hole than for a heavy star — the escape velocity at the event horizon being the speed of light.
+Large star
+Black hole
+Event horizon
+Figure 9.13 Gravitational potential curves for a large star and a black hole
+Now test yourself
+7 Calculate the mass of a black hole that has a Schwarzschild radius of 200 km.
+(G = 6.67 × 10−11 N m2 kg−2; speed of light = 3 × 108 m s−1)
+Answer on p. 223
+Revision activity
+Draw a mind map to show the stages in the formation of a black hole.

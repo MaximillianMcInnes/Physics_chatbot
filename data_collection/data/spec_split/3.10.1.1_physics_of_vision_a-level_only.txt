@@ -1,0 +1,6 @@
+3.10.1.1
+Physics of vision (A-level only)
+Content
+The eye as an optical refracting system, including ray diagrams of image formation.
+Sensitivity of the eye; spectral response as a photodetector.
+Spatial resolution of the eye; explanation in terms of the behaviour of rods and cones.

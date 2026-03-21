@@ -1,0 +1,18 @@
+3.7.3.3 	Electric potential (A-level only)
+Content
+Opportunities for skills
+development
+Understanding of definition of absolute electric potential,
+including zero value at infinity, and of electric potential
+difference.
+Work done in moving charge Q given by ∆W = Q ∆V
+Equipotential surfaces.
+No work done moving charge along an equipotential surface.
+Magnitude of V in a radial field given by V =
+4𝀵𝀵0
+Q
+r
+Graphical representations of variations of E and V with r.
+V related to E by E = ∆V
+∆r
+∆V from the area under graph of E against r.

@@ -1,0 +1,287 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 7 Fields and their consequences | SECTION: 7.2 Gravitational fields | PRINTED_PAGES: 138-143]
+
+7 Fields and their consequences
+Fields
+Force fields
+There are similarities and differences between gravitational and electric fields:
+l The field strength is dependent on both the masses or charges.
+l The field strength is proportional to the inverse square of their separation.
+l Gravitational fields are always attractive.
+l Electric fields can be attractive or repulsive.
+l Electric fields are affected by the intervening medium.
+Newton’s law of gravitation
+Gravitation is a universal attractive force that acts between any mass and any other mass in the universe. In 1666 Newton, proposed his universal law of gravitation. He considered a planet (mass m) moving in a circular orbit (radius r) at angular velocity ω round the Sun (mass M):
+force on a planet = F = mω 2r = m
+π
+(
+)
+T
+r =
+π
+2mr
+T
+Newton assumed an inverse square law of force between the bodies, that is:
+F =
+kMm r where k is a constant. Therefore: T 2
+r 3
+4Tr 2
+k
+=
+which is also constant and so T 2 α r 3, which agrees with Kepler’s third law of planetry motion.
+The gravitational force between two bodies, of mass m and M and with their centres a distance r apart, is given by Newton’s law of gravitation
+(Figure 7.1). This force is always attractive.
+m
+Distance of separation (r)
+M
+kMm r2
+Force =
+Figure 7.1 Newton’s law of gravitation gravitational force =
+GMm r where G is the universal gravitational constant and has a value of
+6.67 × 10−11 N m2 kg−2.
+The region around a mass in which an object is affected by that mass is called a gravitational field.
+The region around an electric charge in which an object is affected by that charge is called an electric field.
+7  Fields and their consequences
+Example
+Calculate the force between the following:
+(a) a mass of 100 kg and one of 200 kg placed 2.5 m apart
+(b) the Earth and the Sun
+(Mass of the Earth = 6 × 1024 kg; mass of the Sun = 2 × 1030 kg; mean distance r of the Earth from the Sun = 1.5 × 1011 m)
+Answer
+Using F = GMm/r2 and G = 6.67 × 10−11 N m2 kg−2 gives:
+(a) F = 2.13 × 10−7 N
+(b) F = 3.56 × 1022 N
+It is gravitation that holds the planets in orbit around the Sun. Although the law strictly deals only with point masses, the sizes of the planets are so small compared with their distances of separation that we can consider them to be point masses. (This also applies to the Sun itself in this context.)
+Now test yourself
+1 What is the force between two bodies of mass:
+(a) 80 kg and 60 kg placed 5 m apart
+(b) 2000 g and 800 kg placed 25 m apart
+(c) 1.5 × 1012 kg and 3 × 1027 kg placed 45 × 109 m apart?
+Answer on p. 220
+Example
+The Earth (mass m) orbits the Sun (mass M) in 365 days in an orbit of radius 1.5 × 1011 m. Calculate the mass of the Sun. (Remember that v r
+T
+2π
+=
+(page 114) and use G = 6.67 × 10−11 N m2 kg−2.)
+Answer mv r
+2  =
+π
+m r
+T
+r
+(4
+/
+)
+= GMm r2
+Therefore:
+T
+GM
+r
+π
+=
+M =
+r
+GT
+π
+= 4π2 ×
+×
+×
+×
+×
+−(1.5
+10 )
+6.67
+(86 400
+365)
+11 3
+=
+×
+×
+1.33
+6.63
+4  = 2.0 × 1030 kg
+Exam tip
+Make sure that you use the correct units for gravitation problems.
+Gravitational field strength
+The gravitational field strength (g) is the force on a unit mass at a point in the field.
+M
+m
+Sun r
+Figure 7.2 Earth in orbit round the Sun (not to scale)
+7  Fields and their consequences
+The force (F) on a body of mass m in a gravitational field of a body of mass M is F =
+GMm r
+. Force per unit mass is given by F
+m. So:
+gravitational field strength (g) = F
+m  =
+GM
+r
+The units for g are N kg−1 or, since F = ma, F
+m = a and so g can be expressed in m s−2.
+The gravitational field strength at the surface of a body of radius R is written as go. Therefore, the gravitational field strength (g) at any other point distance r from the centre is g =
+o g R
+r
+.
+Uniform and radial gravitational fields
+In a uniform gravitational field the field lines are parallel and of equal separation.
+In a radial gravitational field the field lines get further apart the further from the central mass (Figure 7.3).
+Uniform field — parallel field lines
+Radial field — converging field lines
+Figure 7.3 Uniform and radial gravitational fields
+Example
+Use the following data to calculate the gravitational field strength at the surface of the Earth. (Assume the Earth to be a uniform sphere.)
+Mass of Earth = 6.0 × 1024 kg; radius of Earth = 6.4 × 106 m; gravitational constant (G) = 6.67 × 10−11 N m2 kg−2
+Answer gravitational field strength (g) =
+GM
+R
+= 6.67
+6.0
+(6.4
+10 )
+6 2
+×
+×
+×
+×
+−
+= 9.8 N kg−1
+Gravitational potential
+Near the Earth’s surface the gravitational potential changes uniformly with distance. The gravitational potential in a radial field varies with the distance from the central mass. At a distance r from a central mass M:
+gravitational potential =  −GM
+r
+7 Fields and their consequences
+The gravitational potential energy of a mass m at a distance r from the centre of the central body is:
+gravitational potential energy = −GMm r
+Note the negative sign in both the above equations. This is because the zero of gravitational potential for a mass is taken to be at an infinite distance from that mass.
+Gravitational field strength (g) at a point in a field is the negative gravitational potential gradient at that point:
+g =  −∆
+∆
+V
+r
+Gravitational field lines and equipotentials can be represented diagrammatically (Figure 7.4).
+Close to the Earth's surface
+Equipotentials
+Far from the Earth's surface
+Figure 7.4 Gravitational field lines and equipotential surfaces
+Change in the gravitational potential energy of an object
+If an object of mass m moves from point A (a distance r1 from the centre of a radial field due to a mass M) to a point B (a distance r2 from the centre of the field), its potential energy will change. The change in the gravitational potential energy of an object (Δ Ep ) is given by:
+∆
+=
+−
+
+
+
+
+p
+E
+GMm r r
+This change is independent of the path that the mass takes between
+A and B.
+Now test yourself
+2 A satellite of mass m moves in a circular orbit of radius r about the centre of a planet of mass M, remaining at a distance h above the surface of the planet. What is the gravitational potential energy of the satellite?
+A
+−mgh
+B
+−GMm r
+C
+GMm r
+D mgh
+Answer on p. 220
+The gravitational potential
+(V) at a point in a field is defined as the work done in moving a unit mass to that point in the field.
+Exam tip
+The gravitational energy of a mass at the surface of a planet is negative.
+Exam tip
+For more on field lines and equipotentials see pages
+146-147 on electric fields.
+The same concepts apply to gravitational fields.
+Exam tip
+Gravitational field lines are always at right angles to the equipotential surfaces.
+7 Fields and their consequences
+Escape velocity
+If we consider a space probe of mass m at the surface of a planet radius R
+then its gravitational potential energy at the surface is −GMm/R.
+The energy required to escape from the field is therefore +GMm/R.
+escape velocity (ve) =
+=
+(
+)
+o
+GM
+R
+Rg
+(
+)
+The escape velocity is also important if we want to find whether a planet can retain its atmosphere. The higher-velocity molecules will escape the gravitational pull if their velocity is greater than the escape velocity of the planet.
+Now test yourself
+3 Explain why the maximum velocity with which a meteoroid could enter the Earth’s atmosphere is equal to the escape velocity of the Earth, assuming no forces act other than the gravitational attraction between the meteoroid and the Earth.
+Answer on p. 220
+Orbits of planets and satellites
+Geostationary and geosynchronous satellites
+A geosynchronous satellite has a period of exactly 1 day so that it passes over a fixed point on the Earth’s surface at the same time each day but does not remain constantly over that point.
+A special case is the geostationary satellite (Figure 7.5), which gets its name from the fact that it is launched into an equatorial orbit with a period of exactly 1 day and so when viewed from any point on the Earth’s surface it remains constantly in a fixed position. This type of satellite is used for communications.
+(a)
+Satellite (geosynchronous), orbital period 1 day
+Satellite (geosynchronous), orbital period 1 day
+Satellite (geostationary), orbital period 1 day
+(b)
+(c)
+Figure 7.5 Geosynchronous (a–c) and geostationary (c) satellite orbits
+The radius (r) of the orbit for a geostationary satellite is:
+r g R T
+=
+o
+π
+1⁄3
+The escape velocity of a planet, or any other gravitational system, is the velocity that an object would have to be given to escape from the gravitational field of that planet.
+7  Fields and their consequences where go is the surface gravity for the planet, R its radius and T the orbital period of the satellite.
+Geostationary satellites (for the Earth) have the following properties:
+l	 Their orbit lies in the same plane as the equator of the Earth.
+l	 The satellite period is one Earth day.
+l	 They have the same angular velocity as the Earth.
+l	 They move around their orbit in the same direction as the rotation of the Earth.
+l	 They remain above a fixed point on the Earth’s surface.
+l	 They have an orbit centred on the centre of the Earth.
+Now test yourself
+4	 Figure 7.6 shows four orbits that have been suggested for a communications satellite. Which orbit(s)
+is(are) both possible and correct for this use? Explain your answer.
+A
+B
+C
+D
+Figure 7.6 Possible geostationary satellite orbits
+5 What is the speed of a satellite placed in orbit around the Earth 200 km above the surface of the Earth?
+(radius of the Earth = 6.4 × 106 m, mass of the Earth = 6 × 1024 kg, G = 6.67 × 10−11 N m2 kg−2)
+Answers on p. 220
+Exam practice
+1 A planet moves in a circular orbit of radius r about the centre of a star. Its period of rotation about the star is proportional to:
+A
+r½
+B r
+C
+r−½
+D r−  
+[1]
+2 Calculate the mass of the Earth using only the following data: G = 6.67 × 10−11 N m2 kg−2, radius of the
+Moon’s orbit = 3.8 × 108 m, orbit time of the Moon about the Earth = 27.3 Earth days.
+[3]
+3 A 1600 kg satellite is launched from the surface of a planet that has a uniform density, a surface gravity of 30 N kg−1 and a radius of 2 × 107 m. It is placed into a circular orbit 1.5 × 106 m above the planet’s surface such that the satellite has a period of 5 × 103 s.
+(a) Give an estimate of the approximate increase in potential energy of the satellite.
+[2]
+(b) Explain why the actual answer will differ from this.
+[2]
+(c) Calculate the exact answer.
+[2]
+(d) Calculate the kinetic energy of the satellite in this orbit.
+[3]
+4 A satellite is launched so that is in a geostationary orbit. Calculate the height of the satellite above the equator using only the following data: value of g at the Earth’s surface = 9.81 m s−2, equatorial radius of the Earth = 6.4 × 106 m.
+[2]
+5 Triton, one of the Moon’s of Neptune, has a mass of 2.14 × 1022 kg and a diameter of 2700 km. Calculate:
+(a) the surface gravity of Triton
+[2]
+(b) the escape velocity of Triton
+[3]
+Answers and quick quiz 7 online
+Typical mistake
+Using the orbit height and not the orbit radius when making calculations concerning satellite orbits.

@@ -1,0 +1,13 @@
+3.6.1.4 	Forced vibrations and resonance (A-level only)
+Content
+Opportunities for skills
+development
+Qualitative treatment of free and forced vibrations.
+Resonance and the effects of damping on the sharpness of
+resonance.
+Examples of these effects in mechanical systems and
+situations involving stationary waves.
+AT g, i, k
+Investigation of the factors that
+determine the resonant frequency of a
+driven system.

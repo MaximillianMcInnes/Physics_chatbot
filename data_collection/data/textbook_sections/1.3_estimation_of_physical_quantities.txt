@@ -1,0 +1,75 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 1 Measurements and their errors | SECTION: 1.3 Estimation of physical quantities | PRINTED_PAGES: 11-12]
+
+1 Measurements and their errors
+Example
+In the example above:
+m1 = (43.2 − 30.8)
+0.01
+= 1240 Ω
+and m2 = (41.7 − 32.7)
+0.01
+= 900 Ω
+gradient of the best-fit line (m) = (42.4 − 31.8)
+0.01
+= 1060
+In the example the uncertainty in the gradient (resistance) is:
+(1240 − 900)
+= ± 32%
+Alternatively the value of the gradient (resistance) can be written as
+1060 ± 340 Ω.
+Typical mistake
+Joining up the points on a graph rather than drawing a best-fit line.
+Orders of magnitude
+Physicists use the phrase ‘the right order of magnitude’ to refer to a number in the right sort of range. For example, finding the time of swing of a 1-metre pendulum as 1.2 s and not 12 s, the specific heat capacity of water as 4500 J kg−1 K−1 and not 45 000 J kg−1 K−1, or working out that the refractive index of an air–glass interface is 1.4 and not 0.4.
+Estimation of approximate values of physical quantities
+It is always a good idea to be able to estimate the size of a quantity, so that when you work out a problem or finish an experiment you have a rough idea of what sort of value to expect.
+Typical mistake
+Quoting answers to more significant figures than suggested by the other data in the question or available in your measurements.
+Exam practice
+1 Using a table similar to Table 1.3 (p. 8) show that the derived unit for resistance (the ohm) can be expressed in SI base units as kg m2 A−2 s−3. [3]
+2 The derived SI unit for work is:
+A
+watt
+B joule per second
+C
+newton second
+D joule.
+[1]
+3 The resistance of a 60 cm length of wire is 0.5 Ω and its diameter
+0.3 mm. If the uncertainty in the measurement of its length is 5%, that of the diameter 2% and that of the resistance 8%, calculate the resistivity of the wire and give the percentage accuracy of your answer.
+[3]
+4 The density of a spherical ball of iron is measured by finding its mass and then measuring its diameter. The mass can be measured to ± 10 g and the diameter to ± 2 mm. If the mass of the ball is found to be 1.54 kg and the diameter 7.2 cm, which of the following is closest to the correct accuracy for its density?
+A
+± 270 kg m−3
+B ± 700 kg m−3
+C
+± 270 g m−3
+D ± 700 g m−3
+[1]
+1 Measurements and their errors
+5 Figure 1.3 shows a series of readings of applied force and length for a metal wire.
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+Length/cm
+Force/N
+Figure 1.3 Extension of a metal wire
+Use the graph to find:
+(a) the value of length when the applied force is zero
+[3]
+(b) the percentage uncertainty in the value of the length of the wire when the applied force is 30 N
+[2]
+(c) the mean value for the gradient of the line
+[2]
+(d) the uncertainty in the value that you calculated.
+[2]
+Answers and quick quiz 1 online
+Summary
+You should now have an understanding of:
+l fundamental (base) units — kilogram, metre, second l how to derive further SI units, such as potential difference, resistance, momentum and pressure l prefixes — tera, giga, mega, kilo, centi, milli, micro, nano, pico and femto l how to convert between units l random and systematic errors — random errors are due to the experimenter and systematic errors are due to the apparatus l repeatability, reproducibility, resolution and accuracy — precision is shown by a close grouping of results and accuracy by a symmetrical grouping l uncertainty in measurements — the uncertainty of a compound quantity can be found by adding the uncertainties of its parts, whether fractional or percentage l uncertainty in graphs — add error bars to points on a graph and then draw the best-fit line through the spread of points l orders of magnitude — the size of a quantity within a factor of ten l the importance of estimation — the ability to predict the approximate order of magnitude of a quantity

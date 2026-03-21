@@ -1,0 +1,18 @@
+3.7.4.2 	Parallel plate capacitor (A-level only)
+Content
+Opportunities for skills
+development
+Dielectric action in a capacitor C =
+A0r
+d
+Relative permittivity and dielectric constant.
+Students should be able to describe the action of a simple
+polar molecule that rotates in the presence of an electric field.
+PS 1.2, 2.2, 4.3 / AT f, g
+Determine the relative permittivity
+of a dielectric using a parallel-plate
+capacitor.
+Investigate the relationship
+between C and the dimensions of a
+parallel-plate capacitor eg using a
+capacitance meter.

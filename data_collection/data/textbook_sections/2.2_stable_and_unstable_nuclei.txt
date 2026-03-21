@@ -1,0 +1,33 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.2 Stable and unstable nuclei | PRINTED_PAGES: 15-15]
+
+2 Particles and radiation
+Now test yourself
+1 The proton number of uranium is 92. How many neutrons are there in the following two isotopes of uranium:
+(a) uranium-235 (nucleon number 235)
+(b) uranium-238 (nucleon number 238)
+2 What is the nucleon number of the nucleus containing 26 protons and 28 neutrons? (This is an isotope of iron.)
+Answers on p. 216
+The strong nuclear force
+There are two kinds of particle in the nucleus of an atom — protons, carrying a unit positive charge, and neutrons, which are uncharged. The electrostatic repulsion between all those positively charged protons would tend to blow it apart were it not for the existence of another attractive force between the nucleons. This is known as the strong nuclear force.
+The strong nuclear force acts between particles in the nucleus and is responsible for the stability of the nucleus.
+The strong nuclear force between two nucleons is a short-range force. It is attractive and acts up to a nucleon separation of about 3 fm (3 × 10−15 m). This
+‘holds the nucleons together’ in the nucleus. However, at very small nucleon separations of less than 0.5 fm it becomes repulsive. The repulsive nature at these very small distances keeps the nucleons at a minimum separation.
+In small nuclei the strong force from all the nucleons reaches most of the others in the nucleus but for nuclei with more protons and neutrons the balance becomes much finer. The nucleons are not held together so tightly and this can make the nucleus unstable.
+Alpha and beta emission
+Radioactive decay, the result of instability in a nucleus, is the emission of particles from the nucleus or a loss of energy from it as electromagnetic radiation.
+The two types of particle emitted are the alpha particle (two protons and two neutrons — a helium nucleus) and the beta particle (an energetic electron).
+Figure 2.4 shows the changes in nucleon and proton number due to the emission of either an alpha particle or a beta particle.
+Example emissions of an alpha and a beta particle, expressed in equation form, are given below,
+(a) Alpha emission:
+88Ra → 222
+86Rn + 4
+2α
+Exam tip
+The strong nuclear force is very short range, while the electrostatic force affects all the nuclei in the nucleus.
+Nucleon number (A)
+A, Z A, Z + 1
+A – 4, Z – 2
+Proton number (Z)
+α
+β–
+Figure 2.4 Alpha and beta emission

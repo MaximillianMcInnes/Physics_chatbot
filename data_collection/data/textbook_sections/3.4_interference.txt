@@ -1,0 +1,68 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.4 Interference | PRINTED_PAGES: 40-42]
+
+3 Waves
+Phase difference
+When two waves meet at a point the resulting disturbance depends on the amplitudes of both waves at that point. This will depend on the phase difference between them. The formation of this disturbance is due to the superposition of the two waves and is called interference.
+Coherent and incoherent sources
+Two separate light sources, such as two light bulbs, cannot be used as sources for a static interference pattern because although they may be monochromatic the light from them is emitted in a random series of pulses.
+The phase difference that exists between one pair of pulses may well be quite different from that between the next pair of pulses (Figure 3.10).
+Pulses from source A
+Pulses from source B
+Figure 3.10 Coherent and incoherent sources
+An interference pattern still occurs but it changes so rapidly that you get the impression of uniform illumination.
+Sources with synchronised phase changes between them are called coherent sources and those with random phase changes are called incoherent sources.
+If the crest of one wave meets the crest of the other the waves are said to be in phase and the resulting intensity will be large. This is known as constructive interference. If the crest of one wave meets the trough of the other (and the waves are of equal amplitude) they are said to be out of phase by π and the resulting intensity will be zero. This is known as destructive interference.
+There will be many intermediate conditions between these two extremes that will give a small variation in intensity.
+This phase difference can be produced by allowing the two sets of waves to travel different distances. This difference in distance of travel is called the path difference between the two waves.
+The diagrams in Figure 3.11 show two waves of equal amplitude with different phase and path differences between them. The first pair have a phase difference of zero and a path difference of a whole number of wavelengths, including zero. This gives constructive interference. The second pair have a phase difference of π or 180° and a path difference of an odd number of half-wavelengths, giving destructive interference.
+3 Waves
+(a) Constructive interference
+(b) Destructive interference
++    =
++    =
+Figure 3.11 Constructive and destructive interference
+To obtain a static interference pattern at a point (that is, one that is constant with time) we must have:
+●	 two sources of the same wavelength, and
+●	 two sources that have a constant phase difference between them.
+This condition is met by two speakers connected to a signal generator because the sound waves that they emit are continuous — there are no breaks in the waves.
+The laser — coherent light and safety
+The problem of coherence of a source is overcome by using a laser. This emits a continuous beam of coherent light, with no abrupt phase changes
+(Figure 3.12).
+Laser light
+Pulses from source B
+Pulses from source A
+Figure 3.12 Light waves emitted by a laser
+Care must be taken when using lasers to avoid eye damage. The major problem with a laser is the power density. Light from a 100 W light bulb diverges and so the power density at a distance of 2 m from the source is
+2 W m−2. However a laser beam diverges very little. It is about 2 mm in diameter at a distance of 2 m from a 1 mW laser and so the power density here can be as high as 1.25 × 104 Wm−2.
+Two-source interference systems
+A static interference pattern can be obtained using a single source and splitting the beam in two, as in the double-slit method. Light from a narrow single source (S) falls on two parallel slits (S1 and S2). This effectively gives two coherent sources since any phase changes in one source will also occur in the other (Figure 3.13).
+Two sources, S1 and S2, emit waves of equal wavelength and these waves meet at a point P on a screen. In Figure 3.14(a) the path difference is 0, producing constructive interference. In Figure 3.14(b) it is half a wavelength and so destructive interference results.
+The resulting interference pattern and the fringes formed are shown in
+Figure 3.15.
+3 Waves
+S1
+S2
+S
+Figure 3.13 A double-slit interference system maximum maximum maximum maximum maximum maximum maximum
+(a)
+(b)
+Figure 3.15 Interference pattern and fringes
+The fringe spacing (or fringe width) for light of wavelength λ is given by the formula:
+fringe spacing, w = λD
+s where s is the slit spacing and D is the distance of the double slits from the screen.
+(a)
+Screen
+Path difference = 0
+P
+S2
+S1
+(b)
+Path difference = λ/2
+Screen
+S1
+S2
+P
+Figure 3.14 Double-slit interference
+Revision activity
+Draw a full-size interference pattern with wavelength of
+1 cm and plot the points of constructive and destructive interference.

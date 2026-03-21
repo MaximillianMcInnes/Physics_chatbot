@@ -1,0 +1,13 @@
+3.7.5.4 	Electromagnetic induction (A-level only)
+Content
+Opportunities for skills
+development
+Simple experimental phenomena.
+Faraday’s and Lenz’s laws.
+Magnitude of induced emf = rate of change of flux linkage
+= N ∆
+∆t
+Applications such as a straight conductor moving in a
+magnetic field.
+emf induced in a coil rotating uniformly in a magnetic field:
+= BANsin t

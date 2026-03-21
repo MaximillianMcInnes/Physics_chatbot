@@ -1,0 +1,76 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.8 Conservation of energy | PRINTED_PAGES: 80-82]
+
+4 Mechanics and materials
+Power
+The rate at which work is done, or the rate at which energy is converted from one form to another is the power, and is defined as:
+power, P = work done time taken = ΔW
+Δt
+The units of power are watts (W), where 1 watt is 1 joule per second.
+Exam tip
+Power can also be expressed as:
+power = force (F) × velocity (v)
+Now test yourself
+19 A car travelling at 30 m s−1 along a level road is brought to rest in a distance of 35 m by its brakes. If the total frictional drag at 30 m s−1 is 5000 N and the force exerted by the brakes during braking is
+7000 N calculate:
+(a) the power of the car when travelling at 30 m s−1
+(b) the work done by the brakes to bring it to rest.
+Answer on p. 217
+Energy
+Efficiency
+Machines are devices for converting (transforming) one form of
+‘useful’ energy to another form of ‘useful’ energy. How effective the machine is at making this transformation is called the efficiency of the machine.
+efficiency =
+useful energy transferred in a given time energy supplied in that time
+× 100%
+A petrol engine is about 30% efficient, a diesel engine 40% efficient and our bodies are a mere 25% efficient — only one quarter of the energy produced goes to moving the muscles.
+Principle of energy conservation
+It is important to talk about the transformation or conversion of energy from one form to another and not its use. This is because although we may use up energy in one form it always reappears as another.
+The principle of conservation of energy is that energy is never created or destroyed but only transformed from one form of energy to another.
+4 Mechanics and materials
+Sources of energy
+These include:
+l fossil fuels — coal, oil, gas l wind l waves l tides l peat l hydroelectric l pumped storage
+Different forms of energy
+Energy can ‘exist’ in the following forms:
+l mechanical (kinetic, gravitational potential)
+l tensile l nuclear l heat (radiant, kinetic)
+Gravitational potential energy
+The energy associated with the position of a body of mass m in a gravitational field is the gravitational potential energy of the body compared with some reference point where h = 0 — usually the surface of the Earth.
+If the distance moved parallel to the gravitational field is Δh then the change in potential energy is:
+gravitational potential energy change = mgΔh
+Exam tip
+Remember that in gravitational potential energy changes it is the vertical height moved in the field that is important.
+Example 1
+A crane lifts a load of 300 kg through a distance of 2.5 m onto a truck.
+Calculate the gain in gravitational potential energy. (gravitational field strength = 9.8 N kg−1).
+Answer gravitational potential energy gained = mgΔh = 300 × 9.8 × 2.5 = 7350 J
+Example 2
+A mass of 25 kg is moved a distance of 35 m at an angle of 20° to a gravitational field of strength 9.8 N kg−1. Calculate the change in gravitational energy.
+Answer change in gravitational potential energy = 25 × 9.8 × 35 cos 20 = 8058 J
+l nuclear fission l nuclear fusion l solar l osmotic pressure l geothermal l biomass l magnetic l sound (kinetic)
+l electrical l chemical l mass
+4 Mechanics and materials
+Now test yourself
+20 An 85 kg athlete trains by running up a flight of 30 steps. If each step is 15 cm high and 20 cm wide calculate the change in his gravitational potential energy. (gravitational field strength = 9.8 N kg−1)
+Answer on p. 217
+Kinetic energy
+The energy possessed by a body by virtue of its motion is called the kinetic energy of the body.
+The kinetic energy of an object depends on two things:
+l the mass of the object (m)
+l its speed (v)
+The formula for kinetic energy of an object of mass m travelling at velocity v is:
+kinetic energy = ½mv2
+Kinetic energy changes
+It is important to understand the correct way to calculate changes in the kinetic energy of an object. For example, suppose we want to find the increase in the kinetic energy of an 8 kg ball when its velocity is increased from 3 m s−1 to 4 m s−1. The correct way is as follows:
+kinetic energy increase (Δke) = ½ × 8 × (42 − 32) = 4 × (16 − 9) = 4 × 7 = 28 J
+and not kinetic energy increase = ½ × 8 × (4 − 3)2 = 4 J
+Example 1
+A lorry of mass 6000 kg travels along a level road at 30 m s−1. The brakes are then applied and the lorry stops in 70 m. Calculate:
+(a) the kinetic energy of the lorry before braking
+(b) the braking force.
+Answer
+(a) kinetic energy = ½mv2 = ½ × 6000 × 302 = 2 700 000 J = 2.7 MJ
+(b) braking force = energy change braking distance = 2.7 × 106
+= 38.6 kN
+Exam tip
+Check that you understand the correct way of calculating kinetic energy changes.

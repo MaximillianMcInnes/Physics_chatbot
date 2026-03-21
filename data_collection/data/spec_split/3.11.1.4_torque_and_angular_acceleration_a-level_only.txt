@@ -1,0 +1,5 @@
+3.11.1.4
+Torque and angular acceleration (A-level only)
+Content
+T = Fr
+T = I

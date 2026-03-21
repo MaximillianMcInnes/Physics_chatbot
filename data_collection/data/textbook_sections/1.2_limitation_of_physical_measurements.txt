@@ -1,0 +1,55 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 1 Measurements and their errors | SECTION: 1.2 Limitation of physical measurements | PRINTED_PAGES: 9-10]
+
+1 Measurements and their errors
+Random and systematic errors
+Random errors
+These are errors that are due to experimenter. The size of these errors depends on how well the experimenter can use the apparatus. The better experimenter you are the smaller these errors will be. The way to reduce these errors, apart from simply being careful, is to repeat the readings and take an average.
+Systematic errors
+These are errors that are due to the apparatus. They can result from faulty apparatus, badly calibrated apparatus or a zero error. The only way to eliminate systematic errors is to re-calibrate the apparatus or change it!
+Precision and accuracy
+Figure 1.1 shows the difference between precision and accuracy.
+(a)
+(b)
+(c)
+(d)
+Figure 1.1 Precision and accuracy: (a) low precision, low accuracy;
+(b) high precision, low accuracy; (c) low precision, high accuracy;
+(d) high precision, high accuracy
+The closer the grouping the higher the precision.
+A more symmetrical grouping about the centre shows a higher degree of accuracy.
+Measurements can also be considered in terms of their repeatability
+(whether they can be repeated), their reproducibility (whether their values can be reproduced when measured many times) and their resolution (an example of resolution would be pixels per mm2 in an image).
+Uncertainty
+The uncertainty (ΔQ) in a quantity Q (Q = a + b) is:
+ΔQ = Δa + Δb where Δa and Δb are the uncertainties in the quantities a and b. The percentage uncertainty (%Q = (ΔQ/Q) × 100) is:
+%Q = %a + %b
+Revision activity
+Take one experiment that you have performed and identify the errors involved.
+Tabulate these errors as random and systematic.
+1 Measurements and their errors
+If Q = anb (where n can be any number including 1):
+ΔQ = bΔa + anΔb and
+%Q = %a + n%b
+Example
+Find the maximum possible percentage uncertainty in the measurement of the acceleration of an object that moves at 20 ± 1 m s−1
+in a circle of radius 5 ± 0.2 m. (a = v2/r)
+Answer
+%a = (2 × %v) + %r =  2 × 1
+20   +  0.2
+5   × 100 = 14%
+But:
+a = 202
+5  = 80 m s−2
+Therefore the answer for a should be quoted as:
+acceleration (a) = 80 m s−2 ± 14%
+Uncertainty in graphs
+The uncertainty in any point on a graph is shown by the error bars.
+Figure 1.2 shows a series or readings of voltage and current for a metal wire. The line of gradient m is the best-fit line to the points where the two extremes, m1 and m2 show the maximum and minimum possible gradients that still lie through the error bars of all the points. The percentage uncertainty in the gradient is given by:
+m1 − m2
+m
+=  Δm m   × 100%
+m1
+m m2
+Current, l/mA
+Voltage, V/V
+Figure 1.2 Uncertainties in graphs

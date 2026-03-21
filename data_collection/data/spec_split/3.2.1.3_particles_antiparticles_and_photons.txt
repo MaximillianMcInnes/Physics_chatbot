@@ -1,0 +1,28 @@
+3.2.1.3 	Particles, antiparticles and photons
+Content
+Opportunities for skills
+development
+For every type of particle, there is a corresponding
+antiparticle.
+Comparison of particle and antiparticle masses, charge and
+rest energy in MeV.
+Students should know that the positron, antiproton,
+antineutron and antineutrino are the antiparticles of the
+electron, proton, neutron and neutrino respectively.
+Photon model of electromagnetic radiation, the Planck
+constant.
+E = h f = hc
+
+Knowledge of annihilation and pair production and the
+energies involved.
+The use of E = mc2 is not required in calculations.
+AT i
+Detection of gamma radiation.
+MS 1.1, 2.2
+Students could determine the
+frequency and wavelength of the two
+gamma photons produced when a
+‘slow’ electron and a ‘slow’ positron
+annihilate each other.
+The PET scanner could be used as an
+application of annihilation.

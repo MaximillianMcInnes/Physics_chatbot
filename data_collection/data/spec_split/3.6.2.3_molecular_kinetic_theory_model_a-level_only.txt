@@ -1,0 +1,25 @@
+3.6.2.3 	Molecular kinetic theory model (A-level only)
+Content
+Opportunities for skills
+development
+Brownian motion as evidence for existence of atoms.
+Explanation of relationships between p, V and T in terms of
+a simple molecular model.
+Students should understand that the gas laws are empirical
+in nature whereas the kinetic theory model arises from
+theory.
+Assumptions leading to pV = 1
+3Nm crms
+2   including
+derivation of the equation and calculations.
+A simple algebraic approach involving conservation of
+momentum is required.
+Appreciation that for an ideal gas internal energy is kinetic
+energy of the atoms.
+Use of average molecular kinetic energy =
+2m crms
+2 = 3
+2kT = 3RT
+2NA
+Appreciation of how knowledge and understanding of the
+behaviour of a gas has changed over time.

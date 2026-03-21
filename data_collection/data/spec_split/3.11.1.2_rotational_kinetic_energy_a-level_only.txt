@@ -1,0 +1,9 @@
+3.11.1.2
+Rotational kinetic energy (A-level only)
+Content
+Ek = 1
+2I2
+Factors affecting the energy storage capacity of a flywheel.
+Use of flywheels in machines.
+Use of flywheels for smoothing torque and speed, and for storing energy in vehicles, and in machines
+used for production processes.

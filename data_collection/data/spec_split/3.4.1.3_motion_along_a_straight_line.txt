@@ -1,0 +1,44 @@
+3.4.1.3 	Motion along a straight line
+Content
+Opportunities for skills
+development
+Displacement, speed, velocity, acceleration.
+v = ∆s
+∆t
+a = ∆v
+∆t
+Calculations may include average and instantaneous speeds
+and velocities.
+Representation by graphical methods of uniform and non-
+uniform acceleration.
+Significance of areas of velocity–time and acceleration–time
+graphs and gradients of displacement–time and velocity–time
+graphs for uniform and non-uniform acceleration eg graphs
+for motion of bouncing ball.
+Equations for uniform acceleration:
+v = u + at
+s =
+u + v
+t
+s = ut + at2
+v2 = u2 + 2as
+Acceleration due to gravity, g.
+MS 3.6, 3.7 / PS 1.1, 3.1
+Distinguish between instantaneous
+velocity and average velocity.
+MS 3.5, 3.6
+Measurements and calculations from
+displacement–time, velocity–time and
+acceleration–time graphs.
+MS 0.5, 2.2, 2.3, 2.4
+Calculations involving motion in a
+straight line.
+Required practical 3: Determination of g by a freefall
+method.
+MS 0.3, 1.2, 3.7 / AT d
+Students should be able to identify
+random and systematic errors in the
+experiment and suggest ways to
+remove them.
+MS 3.9
+Determine g from a graph.

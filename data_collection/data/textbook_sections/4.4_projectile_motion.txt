@@ -1,0 +1,152 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.4 Projectile motion | PRINTED_PAGES: 68-71]
+
+4 Mechanics and materials
+Required practical 3
+Determination of g
+The value of the gravitational acceleration (gravitational field strength) at the Earth’s surface may be found using a freefall method.
+A ball bearing is dropped from rest and the time (t) for it fall through a known height (h) is found. The measurements are repeated both for the original height and over a series of heights from 20 cm to 2 m.
+The height fallen is measured with a ruler and the time of fall by a light gate or a mechanical gate mechanism.
+gravitational acceleration = 2h t 2
+Objects projected vertically
+If an object is projected upwards with an initial vertical velocity of u, such that its time of flight is 2t (in other words the time to return to the ground again) the time to reach the top of its trajectory is t. The velocity
+(v) at the top of the trajectory is zero.
+maximum height, h = ½gt2 = u2
+2g velocity, v = u + gt
+Example
+A ball is thrown vertically upwards with an initial velocity of 30 m s−1.
+Calculate:
+(a) the maximum height reached
+(b) the time taken for it to return to the ground.
+(g = 9.8 m s−2)
+Answer
+(a) Using v2 = u2 + 2as:
+0 = 900 − 2 × 9.8 × s
+19.6s = 900
+s = 45.9 m
+(Notice that at the maximum height the vertical velocity is zero and that the acceleration due to gravity is negative since it acts to retard the ball.)
+(b) Using v = u + at:
+30 = −30 + 9.8t t = 6.1 s
+(Remember that the ball must return to the ground with the same speed with which it left it.)
+Exam tip
+Remember that the acceleration of the projectile is 9.8 m s−2 towards the ground throughout the trajectory, even at the very top.
+4 Mechanics and materials
+Objects projected horizontally
+Figure 4.19 shows the motion of an object projected horizontally in a gravitational field.
+u u u h
+S
+vx = u vy
+Figure 4.19 Projectile: horizontal projection
+The object has:
+●	 a motion in the horizontal direction — this is uniform velocity, since no forces act in this direction
+●	 a motion in the vertical direction — this is uniformly accelerated motion due to the gravitational pull of the Earth, the vertical acceleration being the strength of the Earth’s field (g = 9.8 m s−2).
+Remember that this always acts vertically downwards.
+The horizontal distance travelled (s) = horizontal velocity x time = vxt = ut
+The vertical distance travelled (h) = uyt + ½ (gt2) = ½ (gt2) since uy = 0.
+Velocity after a time t v = (vx
+2 + vy
+2)1/2
+Direction of motion after time t tanθ = vy/vx
+Example
+A ball is thrown horizontally with an initial velocity of 6 m s−1 from an open window that is 4 m above the ground. Calculate:
+(a) the time it takes to hit the ground
+(b) the distance from the wall where it hits the ground
+(c) the velocity (magnitude and direction) 0.5 seconds after it is thrown.
+(Ignore air resistance in your calculations and take g = 9.8 m s−2.)
+Answer
+(a) Using h = ½gt2:
+4 = ½ × 9.8 × t2
+t = 0.904 s = 0.90 s
+(b) s = vt = 6 × 0.904 = 5.42 m
+(c) vertical velocity after 0.5 s = 0 + gt = 9.8 × 0.5 = 4.9 m s−1
+velocity after 0.5 s = √vx
+2 + vy
+2 = √62 + 4.92 = 7.75 m s−1
+direction of motion: tan θ = 4.92
+6  = 0.82 and so θ = 39.4°
+Exam tip
+The motion of a projectile should be thought of in two separate parts — one horizontal and the other vertical.
+4 Mechanics and materials
+Now test yourself
+11 A crate is released from an aircraft that is flying horizontally, 1500 m above the ground, at a steady speed of 200 m s−1.
+(a) What is its horizontal velocity:
+(i) 2 s after it was released?
+(ii) 5 s after it was released?
+(b) What is its vertical velocity:
+(i) 2 s after it was released?
+(ii) 5 s after it was released?
+(c) What is its velocity (magnitude and direction) 5 s after it was released?
+(d) How long will it take to reach the ground?
+(e) How far horizontally from the place where it was released will it hit the ground?
+(g = 9.8 m s−2; air resistance can be ignored)
+Answer on p. 217
+Objects projected at an angle
+Consider an object projected with velocity u at an angle A to the horizontal (Figure 4.20).
+vertical component of velocity = a sin A
+horizontal component of velocity = u cos A
+Vertical motion: h = ut sin A − ½gt2
+Horizontal motion: s = ut cos A
+The maximum range for a given velocity of projection is when sin 2A = 1, that is, when 2A = 90° or when A = 45°.
+range = u2sin 2A
+g maximum height reached, H = u2sin2 A
+2g
+Example
+A stone is projected at an angle of 60° to the horizontal with a velocity of 30 m s−1. (g = 9.8 m s−2)
+Calculate:
+(a) the highest point reached
+(b) the range
+(c) the time taken for the flight
+(d) the height of the stone at the instant that the path makes an angle of 30° with the horizontal.
+Answer
+(a) highest point = 302 sin2 60°
+2 g
+= 900 × 0.75
+19.6
+= 344 m
+(b) range = 302 sin 120°
+9.8
+= 900 × 0.866
+9.8
+= 79.6 m
+(c) time of flight = 2 × 30 sin 60°
+9.8
+= 5.3 s
+(d) At the point when the path makes an angle of 30° to the horizontal:
+tan 30° = vertical component of velocity horizontal component of velocity = vertical component
+30 cos60
+Initial velocity (u)
+Horizontal component = u cos A
+Range (R)
+Vertical compnent
+= u sin A
+A
+Figure 4.20 Object projected at an angle
+4 Mechanics and materials
+Now test yourself
+12 A projectile is fired from a siege engine at 35 m s−1 at an angle of 60° to the horizontal:
+(a) What is its vertical velocity at the top of its flight?
+(b) What is its horizontal velocity at the top of its flight?
+(c) What is its acceleration at the top of its path?
+(d) What is its vertical velocity 5 s after it is fired?
+(e) What is its overall velocity 5 s after it is fired (magnitude and direction needed here).
+Answer on p. 217
+Friction
+To move one body over another that is at rest requires a force. This is needed both to change the momentum of the first body and also to overcome the frictional force between the two surfaces. The force needed to overcome the frictional force when the bodies are at rest is called the limiting friction (often called static friction).
+The static frictional force between two surfaces depends on:
+●	 the nature of the two surfaces
+●	 the normal reaction between them
+When the object is moving the friction between the two surfaces is usually less than the static friction. This is almost independent of the relative velocities of the two surfaces.
+Lift and drag forces
+When a fluid is in motion the pressure within the fluid varies with the velocity of the fluid if the flow is streamlined.
+The pressure within a fast-moving fluid is lower than that in a similar fluid at rest or moving slowly.
+The shape of the cross-section of an aircraft wing is designed so that the velocity of the air above the wing is greater than that below it. A region of low pressure is created above the wing and so the aircraft experiences an upward force known as lift (Figure 4.21).
+Lift
+Figure 4.21 Airflow over an aircraft wing
+The vertical component (v) is given by the formula:
+v2 = 302 sin2 60° − (2 × 9.8 × h) = (900 × 0.75) − 19.6h where h is the height reached at that point. Therefore:
+tan 30° = 675 − 19.6 h
+15 × 0.58 = 675 − 19.6h
+8.66 = 675 − 19.6h
+19.6h = 666.3
+h = 34.0 m
+Typical mistake
+Forgetting that in projectile motion the acceleration is 9.81 m s−2 vertically downwards at all points on the trajectory even when it is momentarily at rest at the top of its path.

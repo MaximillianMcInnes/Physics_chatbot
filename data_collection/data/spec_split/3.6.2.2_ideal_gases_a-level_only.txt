@@ -1,0 +1,16 @@
+3.6.2.2 	Ideal gases (A-level only)
+Content
+Opportunities for skills
+development
+Gas laws as experimental relationships between p, V, T and
+the mass of the gas.
+Concept of absolute zero of temperature.
+Ideal gas equation: pV = nRT for n moles and pV = NkT
+for N molecules.
+Work done = p∆V
+Avogadro constant N A, molar gas constant R, Boltzmann
+constant k
+Molar mass and molecular mass.
+Required practical 8: Investigation of Boyle's law (constant
+temperature) and Charles’s law (constant pressure) for a gas.
+MS 3.3, 3.4, 3.14 / AT a

@@ -1,0 +1,11 @@
+3.13.5.1
+Combinational logic (A-level only)
+Content
+Use of Boolean algebra related to truth tables and logic gates.
+A−= not A
+A ∙B = A and B
+A + B = A or B
+Identification and use of AND, NAND, OR, NOR, NOT and EOR gates in combination in logic circuits.
+Construction and deduction of a logic circuit from a truth table.
+The gates should be treated as building blocks. The internal structure or circuit of the gates is
+not required.

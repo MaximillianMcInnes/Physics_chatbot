@@ -1,0 +1,5 @@
+3.13 	Electronics (A-level only)
+This option is designed for those who wish to learn more about modern electronic technologies as a
+development of their core work in electricity. A variety of discrete devices is introduced followed by
+discussions of both analogue and digital techniques ranging from the operational amplifier to digital
+signal processing. The option ends with a look at the issues surrounding data communication.

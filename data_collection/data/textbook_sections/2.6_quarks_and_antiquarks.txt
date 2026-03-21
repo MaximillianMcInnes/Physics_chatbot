@@ -1,0 +1,51 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 2 Particles and radiation | SECTION: 2.6 Quarks and antiquarks | PRINTED_PAGES: 23-23]
+
+2 Particles and radiation
+All hadrons are composed of particles called quarks. These were finally discovered in 1975 by the bombardment of protons by very high-energy electrons.
+At the present time (2017) quarks are thought to be the fundamental particles of matter. Quarks have fractional electric charge compared with the charge on the electron of −e.
+The existence of quarks was confirmed by high-energy electron scattering from the nucleons. There are actually six quarks and their antiquarks, but we will only consider three types here (together with their antiquarks):
+●	 the up quark (u)
+●	 the down quark (d)
+●	 strange quark (s)
+See Figure 2.13.
+Note: the full list of quarks is up, down, strange, charm, bottom and top.
+Properties of quarks
+Table 2.4 shows the properties of up, down and strange quarks.
+Table 2.4 Quark properties
+Quark
+Symbol
+Charge
+Baryon number
+Strangeness
+Up u
++ 2
+Down d
+−1
+Strange s
+−1
+−1
+Combinations of quarks
+Note: the colours of the quarks in the following diagrams are simply to make them distinguishable.
+Baryons
+Baryons are formed from combinations of three quarks or antiquarks
+(Figure 2.14).
+Proton
+Antiproton
+Antineutron
+Neutron d u u d d u d u–
+–
+–
+u d d u
+–
+–
+–
+Figure 2.14 Quark structure of baryons
+Exam tip
+Leptons do not contain quarks. They themselves are considered to be fundamental particles.
+Up
++ 2
+– 1
+Down
+Strange
+– 1
+Figure 2.13 Quarks

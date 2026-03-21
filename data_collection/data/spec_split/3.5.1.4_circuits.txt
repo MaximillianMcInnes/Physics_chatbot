@@ -1,0 +1,24 @@
+3.5.1.4 	Circuits
+Content
+Opportunities for skills
+development
+Resistors:
+in series,  RT = R1 + R2 + R3 + …
+in parallel, 1
+RT = 1
+R1 + 1
+R2 + 1
+R3 +  …
+Energy and power equations: E = IVt;
+P = IV = I2R = V 2
+R
+The relationships between currents, voltages and
+resistances in series and parallel circuits, including cells in
+series and identical cells in parallel.
+Conservation of charge and conservation of energy in dc
+circuits.
+MS 0.3 / PS 4.1 / AT a, b, f, g
+Students can construct circuits with
+various component configurations
+and measure currents and potential
+differences.

@@ -1,0 +1,146 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.2 Moments | PRINTED_PAGES: 57-61]
+
+4 Mechanics and materials
+Equilibrium due to two or more forces
+A body acted on by two or more forces is in equilibrium when it has no tendency to move. This means that:
+A body is in equilibrium when acted on by two or more coplanar forces if the resultant of these forces is zero and the two forces pass though one point.
+The resultant can be shown to be zero by calculating the components of each force in two perpendicular directions. Alternatively a scale diagram can be drawn. The resultant is zero when the forces form a closed triangle.
+This can mean that an object in equilibrium can be at rest or moving with a constant velocity.
+Example
+Three forces of 100 N, 150 N and 200 N act on a body, as shown in
+Figure 4.5. Show that the resultant of these three forces is zero and that therefore the body is in equilibrium.
+100 N
+100 N
+200 N
+200 N
+150 N
+150 N
+Figure 4.5 Vectors in equilibrium
+Exam tip
+For the body to be in equilibrium — no translation or rotation — the forces acting on it must pass through one point.
+Note that, in Figure 4.5, the vectors are drawn ‘nose to tail’.
+Moment of a force about a point
+If a force acts on an object, and the line of action of the force does not pass through the centre of mass of the object then the force will exert a turning effect on the object and it will rotate. The larger the force and the further the line of action from the centre of mass the greater the turning effect of the force will be.
+This turning effect is called the moment of the force.
+moment of a force about a point = magnitude of force (F) × perpendicular distance (d) from the point to the line of action of the force:
+moment = Fd
+Moments are measured in newton metres (N m).
+4 Mechanics and materials
+Example
+A light rod 80 cm long is pivoted about one end and supported by a vertical thread at the far end so that the rod makes an angle of 55°
+with the vertical. Calculate the moment of the force about the pivot if the force in the thread is 25 N.
+Answer
+See Figure 4.6.
+55º
+80 cm
+25 N
+Figure 4.6 Force causing a moment moment = force × perpendicular distance from the pivot to the line of action of the force
+= 25 × 0.80 sin 55 = 16.4 Nm
+Exam tip
+Notice:
+● the use of the perpendicular distance
+● the conversion of cm to m to give the correct units
+(N m)
+A body is in equilibrium when acted on by two or more coplanar forces if the resultant of these forces and their moments is zero.
+Now test yourself
+3 A door has a handle that is 0.8 m from the hinge. What is the moment of the following forces applied to the handle about the hinge?
+(a)  12 N at right angles to the door
+(b)  20 N at 70° to the door
+(c)  100 N at 25° to the door
+Answers on p. 217
+Typical mistake
+Forgetting that the resultant moment must be zero when stating the condition for equilibrium.
+4 Mechanics and materials
+Couples and torque
+If two equal and opposite forces, whose lines of action are not the same, act on a body, then they only produce a rotation of the body but no translation. This effect is called a couple.
+A couple is composed of two forces that:
+l are equal l are anti-parallel (parallel but in opposite directions)
+l do not pass through the same point.
+Since a torque is caused by two forces rather than one the magnitude of the turning effect of a couple is called the torque.
+The torque of a couple is the product of one of the forces and the perpendicular distance between the lines of action of the forces.
+torque = F × d
+× 2 = Fd
+Example
+Two forces, each of 30 N, act on a rod pivoted at its centre, as shown in
+Figure 4.7. The ends of the forces on the rod are 60 cm apart. Calculate the torque produced.
+F
+F
+d
+60 cm
+20º
+Figure 4.7 A torque
+Answer torque = force × perpendicular distance between the lines of action of the forces torque = 30 × 0.60 sin 20 = 6.2 N m
+Now test yourself
+4 One of the powered wheels of a car travelling at constant velocity has a torque of 140 N m applied to it by the axle that drives the car. If the wheel is 0.45 m in diameter, calculate the driving force provided by this wheel.
+Answer on p. 217
+4 Mechanics and materials
+The principle of moments and equilibrium
+When an object is balanced (in equilibrium) the sum of the clockwise moments is equal and opposite to the sum of the anticlockwise moments (Figure 4.8).
+An example of the principle of moments is shown in Figure 4.8.
+d1
+F1
+F2
+F3
+F4
+d2
+d3
+d4
+Reaction (R) at the pivot
+Figure 4.8 Principle of moments
+F1d1 + F2d2 = F3d3 + F4d4
+When an object is in equilibrium the sum of the vertical forces is zero.
+F1 + F2 + F3 + F4 − R = 0
+Example
+In Figure 4.9, let L = 100 cm, F1 = 20 N, F3 = 10 N, d1 = 10 cm, d2 = 70 cm, d3 = 45 cm
+P
+B
+A
+F1
+F2
+F3
+d3
+d1
+d2
+L
+Reaction (R) at pivot
+Figure 4.9 Example of the principle of moments
+Find the value of F2 such that the beam is in equilibrium.
+Answer
+Take moments about the pivot:
+clockwise moments = (20 × 0.1) + (F2 × 0.7) = 10 × 0.45 =
+anticlockwise moments
+2 + (F2 × 0.7) = 10 × 0.45
+F2 = 4.5 – 2
+0.7
+= 3.6 N
+Exam tip
+Notice the minus sign − R
+acts in the opposite direction from F1, F2, F3 and F4.
+Exam tip
+The moments can be taken about any point on an object.
+However, it may be more convenient to use one point than another if an unknown force passes through that point.
+4 Mechanics and materials
+But:
+F1 + F2 + F3 − R = 0
+and so:
+R = 20 + 3.6 + 10 = 33.6 N
+Now test yourself
+5 A 3 m long uniform plank of mass 6 kg is fixed to a wall by a pivot at P. It is supported by wire which makes an angle of 55° with the plank, and is fixed to it 0.6 m from the end furthest from the wall, as shown in Figure 4.10. (g = 9.8 m s−2)
+Using the principle of moments calculate the tension (T) in the wire.
+T
+55º
+P
+6 kg 3 m
+8 N
+0.6 m
+Figure 4.10 Tension in a wire
+6 A lightweight beam 5.5 m long is fixed to a pivot. A load of 600 N is hung from one end and the beam is held in equilibrium by a vertical force F, as shown in Figure 4.11.
+3.5 m
+60°
+600 N
+2 m
+F
+Figure 4.11 A lightweight beam
+(a) Using the principle of moments calculate the value of F.
+(b) How does F change if the angle of the beam is changed?
+Answers on p. 217

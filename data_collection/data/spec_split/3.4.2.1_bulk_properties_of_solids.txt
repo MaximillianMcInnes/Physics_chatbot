@@ -1,0 +1,28 @@
+3.4.2.1 	Bulk properties of solids
+Content
+Opportunities for skills
+development
+Density, = m
+V
+Hooke’s law, elastic limit,
+F = k∆L , k as stiffness and spring constant.
+Tensile strain and tensile stress.
+Elastic strain energy, breaking stress.
+energy stored = 1
+2F∆L = area under  force−extension graph
+Description of plastic behaviour, fracture and brittle
+behaviour linked to force–extension graphs.
+Quantitative and qualitative application of energy
+conservation to examples involving elastic strain energy and
+energy to deform.
+Spring energy transformed to kinetic and gravitational
+potential energy.
+Interpretation of simple stress–strain curves.
+Appreciation of energy conservation issues in the context of
+ethical transport design.
+MS 0.2, 4.3 / PS 3.3, 4.1
+Students can compare the use of
+analogue and digital meters.
+MS 0.4, 4.3 / AT e
+Estimate the volume of an object
+leading to an estimate of its density.

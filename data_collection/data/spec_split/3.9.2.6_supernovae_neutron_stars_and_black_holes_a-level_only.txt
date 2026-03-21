@@ -1,0 +1,12 @@
+3.9.2.6 	Supernovae, neutron stars and black holes (A-level only)
+Content
+Defining properties: rapid increase in absolute magnitude of supernovae; composition and density of
+neutron stars; escape velocity > c for black holes.
+Gamma ray bursts due to the collapse of supergiant stars to form neutron stars or black holes.
+Comparison of energy output with total energy output of the Sun.
+Use of type 1a supernovae as standard candles to determine distances. Controversy concerning
+accelerating Universe and dark energy.
+Students should be familiar with the light curve of typical type 1a supernovae.
+Supermassive black holes at the centre of galaxies.
+Calculation of the radius of the event horizon for a black hole, Schwarzschild radius Rs , Rs ≈  2GM
+c2

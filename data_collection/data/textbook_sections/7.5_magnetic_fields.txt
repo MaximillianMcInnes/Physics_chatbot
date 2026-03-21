@@ -1,0 +1,575 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 7 Fields and their consequences | SECTION: 7.5 Magnetic fields | PRINTED_PAGES: 155-171]
+
+7 Fields and their consequences
+Magnetic flux density
+Force on a current-carrying wire
+The force F on a wire carrying a current at right angles to a magnetic field (Figure 7.17a) is proportional to:
+l the current in the wire I
+l the length of the conductor in the field L
+l the strength of the field — this is measured by a quantity known as the magnetic flux density (B) of the field.
+(b) Wire of length L carrying current I in a field of flux density B
+L
+I
+B
+(a) View along axis of the wire
+Force
+Wire
+N
+S
+Figure 7.17 Force on a wire carrying a current in a magnetic field
+Magnetic flux can be thought of as the ‘flow of magnetic energy’. The amount of magnetic flux passing through a given area is the magnetic flux density (B) and this is measured in teslas (T).
+With B in teslas, the force is given by the equation:
+force on a wire carrying a current in magnetic field, F = BIL
+The flux density of a field of 1 tesla is the force per unit length on a wire carrying a current of one ampere at right angles to the field.
+Example
+Calculate the upward force on a power cable of length 150 m running east–west and carrying a current of 200 A at a place where the horizontal component of the Earth’s magnetic field is 10−5 T.
+Answer
+The wire will experience a force given by
+F = BIL = 10−5 × 150 × 200 = 0.30 N.
+Now test yourself
+18 A wire of length 10 cm and mass 3 g is placed at right angles to a horizontal magnetic field of strength
+1.2 T. What current must be passed though the wire keep the wire at rest? (g = 9.81 m s−2)
+Answer on p. 221
+Fleming’s left-hand rule
+Professor J. A. Fleming found a simple way of remembering the direction of the force or motion using your left hand. It involves placing the thumb, first finger and second finger of the left hand at right angles to each other
+(Figure 7.18).
+7  Fields and their consequences
+Field
+Motion
+Current
+S
+N
+First finger
+SeCond finger
+ThuMb
+Figure 7.18 Fleming’s left-hand rule
+Required practical 10
+Force on a current using a top pan balance
+The apparatus is set up as shown in Figure 7.19 and the reading on the top pan balance is adjusted to zero.
+The switch is closed and a measured current passed through the rod. The force on the rod is shown on the balance. By knowing the length of rod in the field the strength (flux density) of the field can be found.
+Magnet
+Metal rod
+Metal rod
+Magnet
++
+–
+Magnet
+Metal rod
+V
+A
+Figure 7.19 Force on a current using a top pan balance
+Moving charges in a magnetic field
+Force on a charged particle moving in a magnetic field
+If a wire carrying a current I is placed in a field of flux density B:
+I = nAvq
+The force (F ) on the wire is given by:
+F = BIL
+where n is the number of charges per metre cubed, A is the cross-
+sectional area of the specimen, v is the drift velocity of the charges of charge q.
+If a single particle moves perpendicular to the field (θ = 90° and sin θ = 1)
+the force on a charge q is (Figure 7.20):
+F = Bqv
+7 Fields and their consequences
+Magnetic field perpendicular to figure
+Magnetic field (B)
+Force = Bqv
+Positively charged particle
+Force
+Figure 7.20 Moving positive charge in a magnetic field
+Since the force on a charged particle moving in a magnetic field is always at right angles to the motion (Fleming’s left-hand rule) the path described will be a circle. Therefore the force on a charged particle moving a speed v perpendicular to a magnetic field of strength B is:
+F = Bqv = mv2
+r where r is the radius of the circular path (see centripetal force, page 115).
+Example
+A proton (mass 1.66 × 10−27 kg) with a charge-to-mass ratio (q/m) of
+9.6 × 107 C kg−1 moves in a circle in a magnetic field of flux density
+1.2 T at 4.5 × 107 m s−1.
+Calculate the radius of the circular orbit (see centripetal force, page 115).
+Answer radius of orbit = mv2
+Bqv = mv
+Bq =
+4.5 × 107
+1.2 × 9.6 × 107 = 0.39 m
+Now test yourself
+19 A bubble chamber photograph shows a particle moving in a circle of radius 4 mm. If the field in the chamber is 0.03 T and the velocity of the particle is 2.1 × 107 m s−1 what is the charge-to-mass ratio of the particle?
+Answer on p. 221
+Direction of force on particles of opposite sign
+The force on particles of opposite sign moving in a magnetic field is in opposite directions. This is clearly shown by the motion of sub-atomic particles in a cloud chamber or bubble chamber.
+The cyclotron
+The force on a charged particle is fundamental to the operation of a cyclotron. This is basically a circular, evacuated chamber cut into two D-shaped halves with a high voltage across the gap. The particles are injected at the centre and a magnetic field is applied across the whole of the apparatus perpendicular to the Ds so that the particles are deflected into a circular path (Figure 7.21).
+Exam tip
+The force on a charged particle that is at rest in a magnetic field is zero.
+Ion source
+Magnet pole
+Magnetic field
+D-shaped electrodes
+Magnet pole
+Target
+Deflecting magnet
+V
+Figure 7.21 The cyclotron
+7 Fields and their consequences
+They start at the centre and are given a ‘kick’ every time they cross the gap between the Ds, so increasing their energy.
+Now test yourself
+20 Describe and explain what happens to the radius of the orbit of a charged particle as it is accelerated in a cyclotron?
+Answer on p. 221
+Magnetic flux and flux linkage
+Magnetic flux
+Around the magnet there is a magnetic field. The magnetic flux is a measure of the magnetic field, taking into account the flux density and the extent of the field (Figure 7.22). The magnetic flux can be different at different points in the field (e.g. X and Y). Magnetic flux is given the symbol Φ and is measured in units called webers (Wb). The amount of flux passing through a unit area at right angles to the magnetic field lines is the flux density (B) at that point.
+N
+S
+C
+X
+Y
+Figure 7.22 Magnetic flux and flux linkage flux (Φ) = flux density (B) × area through which flux passes (A)
+Φ = BA
+If a coil is placed at position C (Figure 7.22) the flux through the N turns is N times that through the single loop. The quantity NΦ is called the flux linkage for the coil at that point.
+flux linkage = NΦ = NBA
+Flux linkage through a rotating coil
+The flux linkage through a coil that is rotating in a magnetic field changes as the angle of the coil with the magnetic field changes (Figure 7.23).
+If the coil makes an angle of θ with the field normal to the plane of the coil the flux linkage is:
+flux linkage = BAN cos θ
+One weber is the magnetic flux that, linking a circuit of one turn, produces in the circuit an emf of 1 V when the flux is reduced to zero in
+1 second.
+Coil of area A
+θ
+θ
+Figure 7.23 Flux through a rotating coil
+7  Fields and their consequences
+Note that the axis of the coil is a line at right angles to the face of the coil.
+Example
+A coil of 200 turns and area 24 cm2 is rotating in a magnetic field of
+0.8 T. Calculate the flux linkage through the coil when the plane of the coil is at 50° to the field.
+Answer angle of axis to the field = 90 − 50 = 40°
+flux linkage = BAN cos θ = 0.8 × 24 × 10−4 × 200 × cos 40 = 0.29 Wb
+Exam tip
+Make sure that you use SI
+units in these calculations
+Required practical 11
+Flux linkage investigation — search coil and oscilloscope
+The apparatus should be set up as shown in Figure 7.24.
+Place the search coil in the centre of the helical spring with the plane of the coil perpendicular to the axis of the spring. Switch on the low-voltage AC supply and turn off the time base of the oscilloscope.
+This will give a vertical line on the screen. Determine the value of the induced emf from the length of the oscilloscope trace. Rotate the coil so that its plane is at an angle θ to the spring's axis and record the new value of the emf. Repeat this for a series of angles between 0° and 90°.
+Low-voltage AC supply
+Metal helical spring
+Search coil on holder
+Time base set to off
+Figure 7.24 Flux density measurement — search coil and oscilloscope
+Note that complete understanding of this experiment requires a knowledge of electromagnetic induction, which is covered in the next section.
+Now test yourself
+21 A coil of 100 turns and area 50 cm2 is placed in a magnetic field of 0.5 T. Calculate the angle between the axis of the coil and the magnetic field if the flux linkage through the coil is 0.15 Wb.
+22 A single-turn square coil with sides 20 cm long is placed with its plane at right angles to a magnetic field of strength 0.05 T.
+(a) What is the flux linkage through the coil?
+(b) The coil is now rotated about an axis through its centre, in the plane of the coil and at right angles to the field until the plane of the coil is at 30° to the field. Calculate the change of flux through the coil.
+Answers on p. 221
+7  Fields and their consequences
+Electromagnetic induction
+Applications and effects of electromagnetic induction include:
+Faraday’s law
+If the magnetic flux through a conducting coil is altered then an emf will be generated in the coil (Figure 7.25). Faraday discovered that an emf could be generated by either:
+l	 moving the coil or the source of flux relative to each other or l	 changing the magnitude of the source of magnetic flux
+Note that the emf is only produced while the flux linkage is changing.
+Faraday summarised the results of his experiments as follows:
+l	 An emf is induced in a coil if the magnetic flux through the coil changes.
+l	 The magnitude of the induced emf depends on:
+the rate of change of flux (∆Φ/∆t)
+the number of turns on the coil (N)
+magnitude of induced emf ε = rate of change of flux linkage = N∆Φ
+∆t
+A
+B
+Coil
+100 µA meter
+1.5 V cell
++
+–
+N
+Iron C cores and clip
+100 µA meter
+Primary and secondary coils
+Figure 7.25 Induced emf
+The faster the flux is changed the greater is the emf produced.
+Example
+The magnetic flux through a coil of 250 turns is reduced from 2.5 Wb to
+0.5 Wb in 3 s. Calculate the emf produced between the two ends of the coil.
+Answer magnitude of the induced emf = rate of change of flux linkage = N∆Φ
+∆t
+= 250 × 2
+= 167 V
+l	 generators l	 transformers l	 electromagnetic separators l	 eddy current damping l	 induction coils l	 induction loops at approached to traffic lights
+7 Fields and their consequences
+Now test yourself
+23 It is required to produce an emf of 50 V between the two ends of a coil of 200 turns by reducing the magnetic flux through it by 2.3 Wb. Calculate the time within which this should be done.
+Answer on p. 221
+Fleming’s right-hand rule
+Fleming proposed a simple rule for giving the direction of the induced emf and current in one of Faraday’s experiments (Figure 7.26).
+Motion
+Magnetic Field
+Induced Current
+Figure 7.26 Fleming’s right-hand rule
+If the thumb and first two fingers of the right hand are held at right angles and the first finger is pointed in the direction of the magnetic field and the thumb in the direction of motion then the second finger gives the direction of the induced current.
+Lenz’s law
+Consider the energy changes that occur when a magnet is moved towards a coil. Assume that the magnet is moved towards the coil with its north pole facing towards the coil. Now by Lenz’s law this induces a current in the coil such that the end of the coil nearest the magnet is an induced north pole. This repels the magnet and work must be done on the magnet to move it in against this repulsion.
+The energy used produces the induced emf in the coil.
+Eddy currents
+These are induced currents in metal objects larger than pieces of wire.
+The emfs induced may not be very great but because the resistance of a lump of metal is low the induced currents can be large.
+Since the induced currents always act so as to oppose the motion (Lenz’s law) eddy currents can be used as a very effective electromagnetic brake.
+They also cause energy loss in transformers.
+An emf generated in a moving straight wire in a magnetic field
+A straight conductor of length L is moved through a field of flux density
+B. If the conductor moves with velocity v at right angles to the field then the flux cut per second will be BLv (since the conductor will sweep out an area vL every second). (See Figure 7.27.)
+Revision activity
+Find out about Michael
+Faraday’s discovery of electromagnetic induction.
+Lenz’s law states that the direction of the induced emf is such that it tends to oppose the change that produced it.
+7  Fields and their consequences
+But the rate of cutting flux is equal to the emf induced in the conductor.
+Therefore:
+emf generated (ε) = BLv
+(a)
+L
+v
+B
+(b)
+L
+θ
+v
+B
+Figure 7.27 Induced emf in a straight wire
+If the conductor cuts through the flux at an angle θ, where θ is the angle between the magnetic field and the direction of motion:
+emf generated (ε) = BLv sin θ
+The maximum emf is generated when the conductor moves at right angles to the field. θ = 90° and so sin θ = sin 90 = 1.
+Example
+A wire of length 65 cm is moved at a constant speed of 4.5 m s−1
+through a magnetic field of flux density 0.2 T. If the wire is moving at right angles to the field calculate the emf generated between its ends.
+Answer emf generated = BLv = 0.2 × 0.65 × 4.5 = 0.59 V
+Now test yourself
+24 It is required to produce an emf of 10 V between the two ends of a 2 m long straight wire by moving it through a magnetic field of flux density 1.5 T at an angle of 25° to the field. Calculate the velocity of the wire needed.
+Answer on p. 221
+An emf generated in a rotating coil in a magnetic field
+A coil of N turns and area A is rotated at a constant angular velocity ω in a magnetic field of flux density B, its axis being perpendicular to the field
+(Figure 7.28). When the normal to the coil is at an angle θ to the field the flux through the coil is BAN cos θ = BAN cos (ωt), since θ = ωt.
+The emf (ε) generated between the ends of the coil is:
+emf generated = BANω sin(ωt)
+maximum emf, ε 0 = BANω
+Exam tip
+The maximum value of the emf (εo) is when θ (= ωt) = 90°
+(when the plane of the coil is in the plane of the field).
+7  Fields and their consequences
+The emf is at its maximum value when the wires of the coil are cutting through the flux at right angles (Figure 7.28b). The root-mean-square value of the sinusoidal emf is:
+rms
+E
+BANω
+=
+Coil
+(a)
+B
+ω
+θ
+(b)
+maximum induced emf ε0
+B
+Figure 7.28 Induced emf in a rotating coil — varying emf
+Figure 7.29 shows the induced emf at corresponding positions of the coil during its rotation.
+Induced emf
+Time
++ε0
+−ε0
+a a a a a a a a a b b b b b b b b b
+E = E0sinωt = BANω sinωt
+Figure 7.29 Coil positions and varying sinusoidal output voltage
+Example
+A circular coil of 100 turns, each of radius 10 cm, is rotated at
+10 revs per second about an axis at right angles to a field of flux density 0.1 T. Find the position of the coil when the emf across its ends is a maximum, and calculate this emf.
+Answer
+The position of coil when the emf is maximum is when the plane of the coil is parallel to the field:
+emf = BANω = 0.1 × π × 0.12 × 100 × 20π = 19.74 V
+Exam tip
+Notice that the angular velocity used in the calculations must be in radians per second, where 1
+rev s−1 = 2π rad s−1.
+7  Fields and their consequences
+Now test yourself
+25 A circular coil of 200 turns, each of radius 8 cm, is rotated about an axis at right angles to a field of flux density 0.2 T.
+(a) Find the position of the coil when the emf across its ends is zero.
+(b) Calculate the required rate of revolution to give a maximum emf of 12 V between the ends of the coil.
+Answer on p. 221
+Alternating currents
+Direct current is an electric current that flows in one direction only —
+the electrons drifting down the wire one way. If an alternating voltage is applied they change direction, first moving one way and then the other, and an alternating current is produced (Figure 7.30).
+Figure 7.30 Alternating voltage or current — variation with time
+An alternating current or voltage is one that varies with time about zero.
+We will restrict ourselves to a sinusoidal variation only (Figure 7.31).
+Voltage
+T
+V0
+Peak value
+Peak value rms value rms value
+Time
+Figure 7.31 Sinusoidal alternating voltage
+Root-mean-square values
+The power P used in a resistor R is proportional to the square of the current:
+P = I2R
+7  Fields and their consequences
+But with alternating current the value of I, and therefore of P, changes, and so:
+mean value of P = (mean value of I 2) × R = I2R
+where:
+Irms = mean value of
+2I  = rms current
+For a sinusoidal variation of current and voltage the rms (root-mean-
+square) value of current I and voltage V are related to the peak value I0
+and v0 by the following equations.
+Root-mean-square current:
+Irms = 2
+0I  = 0.707I0
+Root-mean-square voltage:
+Vrms = 2
+V  = 0.707V0
+Example
+In the UK the rms voltage of the mains electrical supply is 230 V.
+Calculate the peak voltage.
+Answer
+Vrms = V
+0  = 0.707V0
+So the peak value (V0) is 230/0.707 or about 325 V.
+Exam tip
+Remember that the rms value is the square root of the mean-square value of the current or voltage.
+Now test yourself
+26 A sinusoidal alternating pd has a peak value of 156 V. Calculate the rms value.
+27 What is the mean value of a sinusoidal voltage?
+Answers on p. 221
+Use of an oscilloscope for measurement and display
+An oscilloscope (Figure 7.32) has the following controls:
+l	 on/off switch l	 time base — this circuit applies a saw-tooth waveform to the X plates.
+The beam is moved from the left-hand side of the screen to the right during the time that the voltage rises to a maximum, and then is returned rapidly to the left as the voltage returns to zero.
+l	 X input — voltage that controls the position of the beam in the x direction l	 Y input — voltage that controls the position of the beam in the y direction l	 Y gain — controls the sensitivity of the beam in the y direction (volts/cm)
+l	 X gain — controls the sensitivity of the beam in the x direction (volts/cm)
+l	 brightness — controls the brightness of the beam
+An oscilloscope is a most useful instrument for the measurement and display of AC waveforms (Figures 7.32 and 7.33).
+7  Fields and their consequences
+Y gain (V/cm)
+X gain (V/cm)
+Time base (ms/cm)
+Y input
+Brightness
+ON/OFF
+X input
+Earth
+Slow time base
+Fast time base
+Large Y gain
+Small Y gain
+Figure 7.32 Oscilloscope and the waveforms displayed for a given AC input
+No input
+Low-frequency
+AC input
+Large-amplitude
+AC input
+Voice or music
+Small-amplitude
+AC input
+High-frequency
+AC input
+AC input with a diode
+DC input —
+upper plate positive
+Full-wave rectified input
+DC input —
+lower plate positive
+Figure 7.33 Oscilloscope displays for different inputs
+Measuring voltage
+Because of its effectively infinite resistance, the CRO makes an excellent voltmeter. It has a relatively low sensitivity, but this can be improved by the use of an internal voltage amplifier.
+Most oscilloscopes have a previously calibrated screen giving the deflection sensitivity in volts per cm or volts per scale division. In this case a calibration by a DC source is unnecessary.
+Measuring frequency
+By using the calibrated time base, the input signal of unknown frequency can be ‘frozen’, and its frequency found directly by comparison with the scale divisions.
+Alternatively, the internal time base can be switched off and a signal of known frequency applied to the X input. If the signal of unknown frequency is applied to the Y input, loops called Lissajous figures are formed on the screen. Analysis of the peaks on the two axes enables the unknown frequency to be found.
+7  Fields and their consequences
+Now test yourself
+28 Figure 7.34 shows a sinusoidal voltage displayed on an oscilloscope screen. If the grid shows cm squares, the time base has a sensitivity of 2 ms cm−1 and the Y gain is 5 V cm−1, determine:
+(a) the frequency of the signal
+(b) the amplitude of the signal
+(c) the value of the voltage at point A
+Answer on p. 221
+X
+A
+Y
+Figure 7.34 Oscilloscope screen
+Eddy currents
+Eddy currents are induced currents in metal objects larger than pieces of wire; the emfs induced may not be very great but because the resistance of a lump of metal is low, the induced currents can be large.
+The operation of a transformer
+In its simplest form a transformer consists of two coils known as the primary and secondary, wound on a laminated iron former that links both coils
+(Figure 7.35). The former, or core as it may be called, must be laminated otherwise large eddy currents would flow in it. The laminations are usually
+E−shaped, and the primary and secondary coils are wound one on top of the other to improve magnetic linkage, as in Figure 7.35b.
+Primary coil
+Secondary coil
+Laminated core
+Coils
+Secondary voltage (Vs)
+Primary voltage
+(Vp)
+(a)
+(b)
+Figure 7.35 The transformer
+An AC voltage is applied to the primary coil and this produces a changing magnetic field within it. This changing magnetic field links the secondary coil and therefore induces an emf in it. The magnitude of this induced emf
+(Vs) is related to the emf applied to the primary coil (Vp) by the equation:
+Vs
+Vp
+= Ns
+Np where Np and Ns are the number of turns on the primary and secondary coils respectively.
+7  Fields and their consequences
+Example
+Calculate the output (secondary) voltage of a 100% efficient transformer if the primary voltage is 230 V. (number of turns on the primary = 2000; number of turns on the secondary = 150)
+Answer
+Vs
+Vp
+= Ns
+Np
+Vs =
+VpNs
+Np
+= 230 × 150
+= 16 V
+Exam tip
+Remember that transformers will only work with alternating voltages.
+Energy losses and efficiency of a transformer
+The energy lost from a transformer may be due to:
+l	 heating in the coils — this can be reduced by cooling the transformer, usually in oil l	 eddy current losses in the core — reduced by the laminated core l	 hysteresis loss — every time the direction of the magnetising field is changed some energy is lost due to heating as the magnetic domains in the core realign
+Despite these energy losses transformers are remarkably efficient (up to
+98 % efficiency is common) and in fact among the most efficient machines ever developed.
+efficiency of a transformer =
+IsVs
+IpVp
+If the transfer of energy from primary to secondary is 100 % efficient:
+IsVs = IpVp
+Therefore:
+Vp
+Vs
+=
+Np
+Ns
+Example
+Calculate the output (secondary) voltage of an 85% efficient transformer if the primary voltage is 100 V, the primary current is 2 A and the secondary current 0.9 A.
+Answer efficiency = 0.85 = 0.9 × V
+100 × 2
+V = 200 × 0.85
+0.9
+= 189 V
+Now test yourself
+29 A certain transformer has 1000 windings on the primary coil and 2000 windings on the secondary coil. Calculate the output voltage when the following voltages are applied to the primary coil:
+(a) a 12 V DC voltage
+(b) a 25 V AC voltage
+In each case assume that the transformer is 88% efficient.
+Answer on p. 221
+7 Fields and their consequences
+Transmission of electrical power
+The transformer is a vital part of the National Grid, which distributes electrical energy around the country (Figure 7.36).
+T
+T
+T
+T
+T
+T
+T
+Farm
+Village
+Town
+Light industry
+Heavy industry
+132 kV
+400 kV
+Power station
+T = transformer
+Figure 7.36 Transmission of electrical power
+Electrical energy is generated in power stations by generators at a potential of
+25 kV. It is then stepped up to 400 kV by a transformer and transmitted across the country in aluminium cables roughly 2 cm in diameter.
+High voltages are used because the power loss (I 2R) per kilometre due to heating within the transmission cable, for a given power output, will be much less at high voltage and low current than at low voltage and high current.
+Example
+The resistance of a power cable is 0.1 Ω per km. Calculate the power loss (I 2R) per km for:
+(a) a current of 1000 A
+(b) when a 100:1 step-up transformer is used to reduce the current to
+10 A
+Answer
+(a) power loss per km = 1000 × 1000 × 0.1 = 100 000 W
+(b) power loss per km = 10 × 10 × 0.1 = 10 W
+Now test yourself
+30 Compare and contrast the use of aluminium or silver for electrical transmission lines.
+Density of aluminium = 2710 kg m-3; density of silver = 10 500 kg m-3
+Resistivity of aluminium = 3.21 x 10-8 Ω m; resistivity of silver = 1.6 x 10-8 Ω m
+31 It is required to install transmission lines that give a maximum power loss per km of 8 W. If the current in the power lines is 10 A what is the resistance per km of these lines?
+Answers on p. 221
+7  Fields and their consequences
+Exam practice
+1	 (a) What is the unit for magnetic flux density?
+[1]
+(b) Define the unit that you have stated in part (a).
+[2]
+(c)	 A wire of length 0.6 m carrying a current of 2 A is placed at right angles to a magnetic field.
+If the force on the wire due to the magnetic field alone is 0.5 N calculate the strength of the magnetic field.
+[2]
+2	 (a) What is the unit for flux linkage?
+[1]
+(b) Define the unit that you have stated in part (a).
+[2]
+(c) What is the flux linkage through a coil of 50 turns and area of 25 cm2 when it is placed at right angles to a field of flux density 0.5 T?
+[2]
+3 An electron of mass 9 × 10−31 kg and charge 1.6 × 10−19 C moves in a circle of radius 10 mm in a magnetic field of flux density 6 × 10−4 T. Its speed in m s−1 is:
+A
+B 104
+C
+D 103
+[1]
+4	 (a)	 A straight wire carrying a current I in the direction XY is placed between the poles of a magnet (Figure 7.37).
+X
+Y
+N
+S
+Figure 7.37 Magnet poles and a wire
+The resultant force on the wire is:
+A
+in the direction XY
+C
+zero
+B at right angles to both XY and NS
+D in the direction NS
+[1]
+5 A Boeing 747 with a wingspan of 60 m flies due south at a constant altitude in the northern hemisphere at 260 m s−1. The vertical component of the Earth’s magnetic field in that area is 4 × 10−5 T.
+(a) Calculate the emf between the wing tips and state which wing is positive.
+[2]
+(b) The aircraft now dives at 10° to the horizontal. Calculate the change in induced emf. (horizontal component of the Earth’s magnetic field at this point = 2 × 10−5 T)
+[3]
+6 A helicopter has a rotor with four blades each 6.4 m long and hovers in an area where the vertical component of the Earth’s field is 4 × 10−5 T. If, as the rotor rotates, the tips of the rotor blades move with a speed of 200 m s−1, calculate the induced emf:
+(a) between the tip of one blade and the axle
+[2]
+(b) between the tips of two diametrically opposite blades
+[1]
+(c) between the tips of two adjacent blades
+[1]
+7 Describe and explain carefully what would happen to a transformer if the core was made of a single lump of metal with no laminations.
+[3]
+8 In Japan electricity is transmitted at an rms voltage of 100 V and at 50 Hz.
+(a) What is the frequency of the supply?
+[1]
+(b) Calculate the peak voltage.
+[2]
+(c) A transformer with a step-down ratio of 2:1 is used to reduce the voltage. If the transformer is 85% efficient calculate:
+(i) the output rms voltage
+[2]
+(ii) the output current when an rms current of 2.3 A flows in the primary coil
+[3]
+Answers and quick quiz 7 online
+7  Fields and their consequences
+Summary
+You should now have an understanding of:
+● Electric fields — Coulomb’s law and permittivity of free space
+● Electric field strength — force per unit charge and field lines
+● Electric potential — potential difference, and equipotential surfaces
+● Capacitance — definition (C = Q/V); relative permittivity
+● Parallel-plate capacitors — definition of permittivity
+● Energy stored by a capacitor — calculation and area below the charge–pd graph
+● Capacitance charge and discharge — graphical representation and calculation
+● Magnetic fields — magnetic flux density
+● Moving charges in magnetic fields — circular paths
+● Magnetic flux and flux linkage — flux through a coil in a magnetic field
+● Electromagnetic induction — Faraday’s and
+Lenz’s laws
+● Alternating currents — peak and rms values of current and voltage
+● The operation of a transformer — transformer equation, eddy currents, efficiency, transmission of electrical power

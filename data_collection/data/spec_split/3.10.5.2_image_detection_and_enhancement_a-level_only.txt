@@ -1,0 +1,8 @@
+3.10.5.2
+Image detection and enhancement (A-level only)
+Content
+Flat panel (FTP) detector including X-ray scintillator, photodiode pixels, electronic scanning.
+Advantages of FTP detector compared with photographic detection.
+Contrast enhancement; use of X-ray opaque material as illustrated by the barium meal technique.
+Photographic detection with intensifying screen and fluoroscopic image intensification; reasons for
+using these.

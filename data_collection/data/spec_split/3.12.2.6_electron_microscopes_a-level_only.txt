@@ -1,0 +1,6 @@
+3.12.2.6
+Electron microscopes (A-level only)
+Content
+Estimate of anode voltage needed to produce wavelengths of the order of the size of the atom.
+Principle of operation of the transmission electron microscope (TEM).
+Principle of operation of the scanning tunnelling microscope (STM).

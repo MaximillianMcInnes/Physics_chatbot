@@ -1,0 +1,111 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 4 Mechanics and materials | SECTION: 4.1 Scalars and vectors | PRINTED_PAGES: 54-56]
+
+4 Mechanics and materials
+The quantities measured in physics can be divided into two groups, scalars and vectors.
+Scalars are quantities that have magnitude (size) only. Examples of scalars are length, speed, mass, density, energy, power, temperature, charge and potential difference.
+Vectors are quantities that have direction as well as magnitude.
+Examples of vectors are displacement, force, torque, velocity, acceleration, momentum and electric current.
+Scalars can be added together by simple arithmetic but when two or more vectors are added together their direction must be taken into account as well.
+A vector can be represented by a line, the length of the line being the magnitude of the vector and the direction of the line the direction of the vector.
+Addition of vectors
+When two or more vectors are added the resulting sum of the vectors is called the resultant vector or simply the resultant.
+Vectors acting in the same line
+Two or more vectors acting in the same direction can be added as if they were scalars. For example the sum, or resultant, of the three forces shown in Figure 4.1(a) is 100 N acting right to the left while in Figure 4.1(b) it is
+700 N left to right.
++
++
+=
+=
+300 N
+300 N
+400 N
+400 N
+700 N
+100 N
+(a)
+(b)
+Figure 4.1 Vectors acting in the same line
+Vectors acting in different directions
+If the two vectors acting at a point are not acting along the same line the resultant can be found by either using a scale diagram or by calculation.
+The vectors are drawn nose to tail and the resultant closes the triangle.
+(Note: calculations will be limited to two vectors at right angles
+(Figure 4.2(a)).
+4 Mechanics and materials
+B = 300 N
+B = 300 N
+A = 400 N
+B = 300 N
+A = 400 N
+R = 183 N
+R = 500 N
+A = 400 N
+B = 300 N
+A = 400 N
+θ
+(a)
+(b)
+(c)
+(d)
+Figure 4.2 Vectors acting at an angle
+Examples
+Finding the resultant using a scale diagram
+Using the same magnitude for the two vectors as those already considered we draw a scale diagram in both magnitude and direction.
+The resultant, R (= 500 N in this case) is the vector that closes the triangle (Figure 4.2b)
+The direction of the resultant can be found by measuring angle θ. In this case θ = 37°.
+Finding the resultant by calculation
+The resultant of the two vectors can also be found by calculation.
+resultant, R = √4002 + 3002 = √250 000 = 500 N
+The direction of R can be found from:
+tan θ = 300
+= 0.75
+So, θ = 36.9°
+Exam tip
+Always choose a sensible scale when drawing scale diagrams of vectors.
+An example of two vectors not acting at right angles to each other is shown in Figure 4.2(c) and Figure 4.2(d).
+Now test yourself
+1 An aircraft is flying on an initial bearing of 0° at 350 m s−1 with a wind blowing west to east at 50 m s−1.
+Find the true speed of the plane and the direction in which it travels. You should use both the scale diagram and calculation methods to find your answers.
+Answer on p. 217
+Components of vectors
+The effectiveness of the vector along a specified direction is called the component of the vector along this direction. Finding the components of a vector, usually along two perpendicular directions, is called the resolution of a vector.
+The component of a vector along any direction is the magnitude of the vector multiplied by the cosine of the angle between the vector and the line.
+The horizontal component of the vector F shown in Figure 4.3 (a) is F cos A, while Figure 4.3(b) shows the components of a vector in two perpendicular directions. These are known as the rectangular components of the vector.
+Exam tip
+Notice that the original two vectors (shown blue in
+Figure 4.2) follow each other round the triangle (nose to tail) to give the resultant, the red vector (R), and that this resultant acts in the opposite direction round the triangle.
+4 Mechanics and materials
+Component in the x direction: Fx = F cos A
+Component in the y direction: Fy = F cos (90 − A) = F sin A
+Typical mistake
+Mixing up the angles when calculating components.
+Example
+A railway truck is pulled along the rails by a rope that makes an angle of 35° with the track. If the force (F) in the rope is 1500 N calculate the components of the force:
+(a) perpendicular to the rails
+(b) parallel to the rails.
+Answer
+(a)  component of F perpendicular to the rails = F sin 35 = 1500 × 0.574
+= 860 N
+(b)  component of F parallel to the rails = F cos 35 = 1500 × 0.819 = 1229 N
+Now test yourself
+2 A tug pulls an ocean liner from its moorings. The cable from the bow of the liner to a tug makes an angle of 15° with the horizontal. If the force in the cable is 2000 N what are the horizontal and vertical components of this force?
+Answer on p. 217
+The inclined plane
+The components of the forces acting on a point object (P) on an inclined plane are shown in the Figure 4.4. The actual forces are the weight of the object represented by the black vector and the reaction of the plane, shown by the blue vector. The components of the weight are shown in red.
+R = mg cos θ = mg sin A
+mg cos θ = mg sin A
+mg sin θ = mg cos A
+θ
+θ
+A
+mg
+Figure 4.4 The inclined plane
+A
+F
+F cos A
+(a)
+A
+F
+F cos A
+F sin A
+(b)
+Figure 4.3 Components of a vector

@@ -1,0 +1,10 @@
+3.12.3.3
+Time dilation (A-level only)
+Content
+Proper time and time dilation as a consequence of special relativity.
+Time dilation:
+t =
+t0
+1 −v2
+c2
+Evidence for time dilation from muon decay.

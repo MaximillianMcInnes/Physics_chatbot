@@ -1,0 +1,6 @@
+3.13.1.3
+Photodiode (A-level only)
+Content
+Characteristic curves and spectral response curves.
+Use in photo-conductive mode as a detector in optical systems.
+Use with scintillator to detect atomic particles.

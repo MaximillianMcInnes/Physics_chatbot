@@ -1,0 +1,10 @@
+3.10.2.2
+Sensitivity and frequency response (A-level only)
+Content
+Production and interpretation of equal loudness curves.
+Human perception of relative intensity levels and the need for a logarithmic scale to reflect this.
+Definition of intensity.
+Intensity level  = 10 log I
+I0 where the threshold of hearing I0 = 1.0  × 10−12 W m−2
+Measurement of sound intensity levels and the use of dB and dBA scales; relative intensity levels
+of sounds.

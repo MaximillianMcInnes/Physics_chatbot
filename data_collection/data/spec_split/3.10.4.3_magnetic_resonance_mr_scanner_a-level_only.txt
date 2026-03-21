@@ -1,0 +1,16 @@
+3.10.4.3
+Magnetic resonance (MR) scanner (A-level only)
+Content
+Basic principles of MR scanner:
+•• cross-section of patient scanned using magnetic fields
+•• protons initially aligned with spins parallel
+•• spinning hydrogen nuclei (protons) precess about the magnetic field lines of a
+superconducting magnet
+•• 'gradient' field coils used to scan cross-section
+•• short radio frequency (RF) pulses cause excitation and change of spin state in successive
+small regions
+•• protons excited during the scan emit RF signals as they de-excite
+•• RF signals detected and the resulting signals are processed by a computer to produce a
+visual image.
+Students will not be asked about the production of magnetic fields used in an MR scanner, or about
+de-excitation relaxation times.

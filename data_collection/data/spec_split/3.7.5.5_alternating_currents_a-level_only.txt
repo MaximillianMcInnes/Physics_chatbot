@@ -1,0 +1,16 @@
+3.7.5.5 	Alternating currents (A-level only)
+Content
+Opportunities for skills
+development
+Sinusoidal voltages and currents only; root mean square,
+peak and peak-to-peak values for sinusoidal waveforms only.
+Irms =
+I0
+2 ;  V rms =
+V 0
+Application to the calculation of mains electricity peak and
+peak-to-peak voltage values.
+Use of an oscilloscope as a dc and ac voltmeter, to measure
+time intervals and frequencies, and to display ac waveforms.
+No details of the structure of the instrument are required but
+familiarity with the operation of the controls is expected.

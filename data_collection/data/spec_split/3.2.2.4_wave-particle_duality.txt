@@ -1,0 +1,27 @@
+3.2.2.4 	Wave-particle duality
+Content
+Opportunities for skills
+development
+Students should know that electron diffraction suggests that
+particles possess wave properties and the photoelectric
+effect suggests that electromagnetic waves have a
+particulate nature.
+Details of particular methods of particle diffraction are not
+expected.
+de Broglie wavelength =
+h
+mv where mv is the momentum.
+Students should be able to explain how and why the amount
+of diffraction changes when the momentum of the particle is
+changed.
+Appreciation of how knowledge and understanding of the
+nature of matter changes over time.
+Appreciation that such changes need to be evaluated
+through peer review and validated by the scientific
+community.
+PS 1.2
+Demonstration using an electron
+diffraction tube.
+MS 1.1, 2.3
+Use prefixes when expressing
+wavelength values.

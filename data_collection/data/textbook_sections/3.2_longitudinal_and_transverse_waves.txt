@@ -1,0 +1,47 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.2 Longitudinal and transverse waves | PRINTED_PAGES: 35-36]
+
+3 Waves
+Phase and phase difference
+The phase of a wave is related to the displacement of a specific point (say a crest) on the wave at zero time. The phase difference between two waves is the difference between the positions of the crests on the two waves.
+When the positions of the crests and troughs of two waves coincide the waves are in phase. When the crests of one wave coincide with the troughs of the other the waves are out of phase (Figure 3.1). In this case the phase difference between the two waves is π radians, or 180°. Waves with a different phase difference would show a different shift along the time axis.
+(b) Phase difference of ε radians
+(a) Phase difference of zero
+ε
+Figure 3.1 Phase and phase difference
+Types of wave
+Wave motion occurs as one of two types: longitudinal and transverse.
+Longitudinal waves
+In a longitudinal wave (Figure 3.2) the oscillation is along the direction of propagation of the wave, for example sound waves and some mechanical waves.
+Rarefaction
+Compression
+Compression
+Wavelength
+Wavelength
+Wavelength
+Figure 3.2 Longitudinal waves
+In a longitudinal wave the particles of the material through which the wave is travelling move from side to side along the wave direction as the wave passes by. This oscillatory movement produces places of low pressure (rarefaction) and places of high pressure (compression). For this reason a longitudinal wave is sometimes called a pressure wave.
+3 Waves
+Transverse waves
+In a transverse wave (Figure 3.3) the oscillations are at right angles to the direction of propagation of the wave, for example water waves, most electromagnetic waves and some mechanical waves.
+Wavelength (λ)
+Wavelength (λ)
+Wavelength (λ)
+Amplitude (a)
+Amplitude (a)
+Figure 3.3 Transverse waves
+Polarisation
+A wave in which the plane of vibration is constantly changing is called an unpolarised wave. When the vibrations of a transverse wave are in one plane only then the wave is said to be polarised (Figure 3.4).
+Unpolarised radiation
+Polarised radiation
+Direction of vibration
+Figure 3.4 Polarisation
+It is important to realise that transverse waves can be polarised while longitudinal waves cannot. Therefore if a set of waves can be polarised it is very good evidence that these waves are transverse. In Figure 3.5 it is clear that oscillations along the line of propagation will be unaffected by the polariser.
+Unpolarised wave
+Polarised wave
+Polariser
+Figure 3.5 Action of a polariser
+All electromagnetic waves travel at the same speed in a vacuum.
+Typical mistake
+Not being clear about the difference between transverse and longitudinal waves, and which waves belong to which type.
+Exam tip
+Our eyes cannot distinguish between polarised and unpolarised light.

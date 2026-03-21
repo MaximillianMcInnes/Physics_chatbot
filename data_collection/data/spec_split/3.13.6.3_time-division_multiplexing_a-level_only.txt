@@ -1,0 +1,4 @@
+3.13.6.3
+Time-division multiplexing (A-level only)
+Content
+Basic principles of time-division multiplexing.

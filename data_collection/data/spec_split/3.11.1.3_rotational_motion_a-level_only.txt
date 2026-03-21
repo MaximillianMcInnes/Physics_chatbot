@@ -1,0 +1,16 @@
+3.11.1.3
+Rotational motion (A-level only)
+Content
+Angular displacement, angular speed, angular velocity, angular acceleration, = ∆
+∆t  , = ∆𕓼
+∆t
+Representation by graphical methods of uniform and non-uniform angular acceleration.
+Equations for uniform angular acceleration;
+2  =  1   +  t,     =
+1 +  2
+t
+= 1t + t2
+2 , 2
+2 = 1
+2 + 2𝀵𝀵
+Students should be aware of the analogy between rotational and translational dynamics.

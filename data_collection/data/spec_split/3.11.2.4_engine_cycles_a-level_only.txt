@@ -1,0 +1,22 @@
+3.11.2.4
+Engine cycles (A-level only)
+Content
+Understanding of a four-stroke petrol engine cycle and a diesel engine cycle, and of the
+corresponding indicator diagrams.
+Comparison with the theoretical diagrams for these cycles; use of indicator diagrams for predicting
+and measuring power and efficiency
+input power = calorific value × fuel flow rate
+Indicated power as area of  p−V loop × no. of  cycles per second × no. of  cylinders
+Output or brake power, P = T
+friction power =  indicated power –  brake power
+Engine efficiency; overall, thermal and mechanical efficiencies.
+Overall efficiency = brake power
+input power
+Thermal efficiency =  indicated power
+input power
+Mechanical efficiency =
+brake power
+indicated power
+A knowledge of engine constructional details is not required.
+Questions may be set on other cycles, but they will be interpretative and all essential information will
+be given.

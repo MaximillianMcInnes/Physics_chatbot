@@ -1,0 +1,403 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 9 Astrophysics | SECTION: 9.3 Cosmology | PRINTED_PAGES: 207-215]
+
+9  Astrophysics
+Doppler effect
+The Doppler effect (Figure 9.14) is the apparent change of frequency and wavelength when a source of waves and an observer move relative to each other. The Doppler shifts in frequency (Δf ) and wavelength (Δλ) are given by the following equations:
+doppler shift =
+λ
+λ
+∆
+= v c doppler shift = ∆
+=
+f f v c where v is the speed of the source and c is the speed of the waves.
+In astrophysics astronomers define the quantity v/c as the red shift (Figure 9.15) and give it the symbol z.
+The velocity of the star along a line of sight joining the star to the Earth can be determined by comparing the spectral lines due to a certain element with the spectral lines of the same element produced in the laboratory. The shift of the lines can be measured. Knowing the shift of the lines the velocity of the star can be found using the equations for the Doppler effect.
+In astrophysics the Doppler effect can also be used to find:
+l	 the speed of one component of a double star system around the other l	 the recession or approach speed of a galaxy or a quasar l	 the temperature of the star by the broadening of the absorption lines in the spectrum
+Line spectrum of an element
+Absorption lines
+Red shift
+Red shift
+Red shift
+Red shift
+Corona Borealis
+Velocity 21 400 km s−1
+Bootes
+Velocity 39 000 km s−1
+Hydra
+Velocity 61 000 km s−1
+Figure 9.15 Galactic red shift
+λ
+∆λ
+Figure 9.14 Doppler effect
+9 Astrophysics
+Observations of the spectra of galaxies show that the light coming from many of these is shifted significantly towards the red, which shows that they are moving away from us at high speeds — many tens of thousands of kilometres per second. If the Doppler shift of lines within their spectra can be measured, their speed of recession can be calculated.
+For very high speeds the simple formula cannot be used and the effects of special relativity have to be allowed for.
+Example 1
+A galaxy is moving away from the Earth at 26 000 km s−1. Calculate the wavelength and frequency change of a 650 nm line in its spectrum.
+Take c = 3 × 108 m s−1.
+Answer wavelength change (Δλ) =
+v c
+26 000
+λ
+=
+×
+×
+×
+= 56.3 nm frequency change (Δf) = fv c
+4.6
+26 000
+=
+×
+×
+×
+×
+= 0.4 × 1014 Hz
+Example 2
+A galaxy is moving relative to the Earth and a 600 nm line in its spectrum is found to be Doppler shifted by 30 nm towards the red.
+(a) Is the galaxy receding or approaching?
+(b) Calculate its speed relative to the Earth.
+Answer
+(a) Receding from the Earth, as shown by the shift towards the longer wavelength — red.
+(b) speed of recession = c
+λ
+λ
+∆
+=
+×
+×
+×
+×
+−
+−
+= 1.5 × 107 m s−1
+The Doppler effect can also be used to measure the speed of one component of a binary star system about another, as shown in Figure 9.16.
+blue
+B1
+B2
+A1
+A2
+red
+Spectral line of B displaced to blue
+(component B
+approaching us)
+to Earth spectrum
+Spectral line of A
+displaced to red
+(component A
+receding from us)
+to Earth spectrum
+Spectral lines of A and
+B not displaced to red
+(components A and B
+neither approaching nor receding from us)
+Spectral line of A displaced to blue
+(component A
+approaching us)
+Spectral line of B displaced to red
+(component B
+receding from us)
+blue red
+B3
+A3
+to Earth spectrum blue red
+(a)
+(b)
+(c)
+Figure 9.16 A binary star system — eclipsing variable
+Exam tip
+Notice that the wavelength and frequency shifts depend on the original wavelength or frequency — red light is shifted more than blue for a given velocity — and that these changes apply whether the source or observer, or both, are moving.
+9  Astrophysics
+Now test yourself
+8 IC3258 is a galaxy in the Virgo cluster that is moving towards the Earth at 500 km s−1. A line in its spectrum is measured to have a wavelength of 600 nm.
+(a) Has this line been red shifted or blue shifted?
+(b) What wavelength would be measured if the galaxy was at rest relative to the Earth?
+(c) What is the Doppler shift of this line?
+Answer on p. 223
+Hubble’s law
+The Hubble formula provides a very powerful way of determining not only distances of remote galaxies but also the age of the universe itself.
+=
+H
+v d v = H0d where H0 is the Hubble constant, v is the recession speed of the galaxy in km s-1 and d is the distance of the galaxy from Earth in Mpc. The value of the Hubble constant will vary with time and measurement technique but at present:
+H0 ≈ 71.5 km s−1 Mpc−1
+This means that the velocity of recession of a galaxy increases by 71.5 km s−1
+for every 1 Mpc increase in its distance.
+Using Hubble’s law the red shift (z) can be written as:
+=
+=
+z v c
+H d c
+Conversion of Hubble constant to SI units
+Take the Hubble constant H0 to be 71.5 km s−1 Mpc−1 and 1 light year to be 9.46 × 1015 m:
+1 parsec = 3.26 light years = 3.086 × 1016 m
+Therefore: 1 Mpc = 3.086 × 1022 m
+So:
+71.5 km s−1 Mpc−1 =
+71.5
+3.086
+×
+×
+×
+= 2.32 × 10−18 s−1
+Example
+Find the distance r of the galaxy with a recession velocity of 1200 km s−1
+if the Hubble constant is 71.5 km s−1 Mpc−1.
+Answer
+Using v = H0r:
+r = v
+H
+71.5
+=
+= 16.78 Mpc = 16.78 × 3.086 × 1022 = 5.19 × 1023 m
+= 5.5 × 107 light years
+The galaxy is therefore 55 million light years away.
+Exam tip
+It is important to realise that the number quoted above as the value of H0 is the value at the present time. The value of H0 will have varied over the lifetime of the universe and will continue to do so in the future.
+9  Astrophysics
+Now test yourself
+9 The maximum speed of a galaxy relative to the Earth is the speed of light (3 × 108 m s−1). Use Hubble’s law to calculate the maximum radius of the observable universe. Give your answer in both metres and light years.
+Answer on p. 223
+The expansion and age of the universe
+If we assume that:
+l	 the radius of the universe (R) = velocity of recession of the most distant galaxies (v) × the age of the universe (t0)
+l	 v = H0R
+l	 the galaxies have been moving apart with constant velocity since the beginning of time the age of the universe (t0) can be found from the equation:
+age of the universe (t0) =
+=
+R
+v
+H
+t0 =
+71.5
+(
+)
+×
+× 3.086 × 1022 = 4.32 × 1017 s = 1.37 × 1010 years
+= 13.7 thousand million years
+Since t0 = 1/H0, a large value of H0 implies a young universe.
+The Big Bang
+It is now generally accepted by most astronomers that the universe as we know it began with an unimaginably huge expansion from an unimaginably small, unimaginably hot and dense point, between
+13.7 billion (1.37 × 1010) and 13.8 billion years ago. We call this the
+Big Bang.
+Time and space both originated at the same time, with the Big Bang.
+Before that there was no space and no time — the Big Bang ‘created’
+space and time. We cannot ask what happened before the Big Bang because before that moment nothing existed — no space and no time!
+What happened afterwards is outlined in Table 9.3.
+Table 9.3
+Time after the Big Bang
+Nature of the universe
+Temperature
+10−43 s
+10−34–1010 s
+10−10 s
+Particle soup dominates
+1015 K
+1 s
+Neutrons and protons formed
+1010 K
+3 minutes
+Helium nuclei formed
+109 K
+300 000 years
+Microwave background fills the universe
+6000 K
+500 000 years
+Temperature falls further; infrared
+750 K
+1 million years
+Atoms form; stars and galaxies exist;
+universe becomes transparent
+1 billion (109) years
+The first stars; heavy elements form
+18 K (−255°C)
+14 billion years
+The present day
+2.7 K (−270.3°C)
+9  Astrophysics
+Cosmic microwave background radiation
+In 1965 two American astronomers, Arno Penzias and Robert Wilson, were using the antenna at the Bell Laboratories in New Jersey for scanning the sky when they found that there was a background ‘noise’
+(like static in a radio). This uniform signal was in the microwave range, with a peak at a wavelength of about 2 mm.
+By pointing the ‘telescope’ in a variety of directions they concluded that the interference was not radiation from our galaxy or from extra-
+terrestrial radio sources, and because it remained constant throughout the year it could not have come from the solar system. It seemed to come from all parts of the sky.
+Finally they realised that it was not random noise causing the signal but something that pervaded the whole universe. This was cosmic microwave background (CMB) radiation with a ‘temperature’ of around 2.7 K, and was given an evocative name — the ‘echo of the Big
+Bang’. It is the residual radiation predicted by Gamov and others, and is the result of the universe cooling from an unimaginably hot state over the intervening 13 billion years. The detection of CMB radiation supports the Big Bang idea of the universe, because the cooling of the universe after the Big Bang would suggest an expansion over many millions of years.
+Critical density of the universe
+The Hubble constant (H0) is also important in predicting the ultimate fate of our universe, which relates to the concept of its critical density. The velocity of recession of a galaxy can be considered as its escape velocity from the rest of the universe:
+velocity of recession (v) = H0R
+where R is the distance of the galaxy.
+However:
+escape velocity (v) =
+2GM
+R
+Therefore:
+H
+G
+ρ
+π
+=
+where ρ is the critical density of the universe and G is the gravitational constant.
+(This simplified calculation assumes both constant v and a constant value of the Hubble constant (H0).)
+If the density of the universe is greater than this the universe will contract; if it is less, it will expand for ever.
+Exam tip
+The discovery of small discontinuities in the CMB is very good evidence for the birth of galaxies.
+9  Astrophysics
+Example
+Calculate the critical density of the universe. (H0 = 71.5 km s−1 Mpc−1;
+G = 6.67 × 10−11 N m2 kg−2)
+Answer critical density (ρ) =
+H
+G
+(2.32
+)
+3.14
+6.67
+18 2
+π
+=
+×
+×
+×
+×
+×
+−
+−
+= 9.63 × 10−27 kg m−3
+The mass of a proton is 1.66 × 10−27 kg, so this density is equivalent to almost six (5.8) protons in every cubic metre of space.
+Now test yourself
+10 If the value of the Hubble constant were 70 km s−1 Mpc−1 (a little lower than the currently accepted value) calculate the critical density of the universe.
+Answer on p. 223
+The fate of the Universe
+At the time of writing (2017) the future state of the universe is uncertain. It is thought that the universe is expanding and that this expansion is accelerating (shown by the blue line in Figure
+9.17). This expansion appears to be affected by a form of energy known as dark energy. We are not sure what this is, how long it has been active or whether the effects of it are constant or changing as time passes.
+We define a quantity Ω where:
+Ω = actual average density of matter in theuniverse critical density of theuniverse
+The critical density will decide whether the universe is:
+l	 open — a runaway expansion (Ω < 1)
+l	 flat — an expansion but slowing (Ω = 1)
+l	 closed — a final contraction known as the Big Crunch (Ω > 1)
+Quasars
+Quasars (Figure 9.18) are exceptionally luminous star-like sources of radiation, with very high red shifts.
+They have intensities between 1012 and 1015 times that of the Sun, which means that a single quasar may emit about 1000 times as much energy as our whole galaxy. The quasar 3C 273 has an absolute magnitude of −27.
+It is because of this enormous rate of emission of energy that the lifetimes of quasars are relatively short.
+The radiation from quasars is thought to originate from a vast disc of gas known as an accretion disc, which has been attracted towards the event horizon of a supermassive black hole at the centre of a galaxy. The enormous gravitational pull of the black hole causes the gas in the disc to rotate at high speed, finally spiralling into the black hole.
+The enormous speeds of molecules within this gas cloud generate a fantastically high temperature, which results in the emission of light of unimaginable intensity.
+Billions of years
+Relative size of the universe
+Open
+(low density)
+Accelerating
+(open)
+Flat
+−10
+Now
+Closed (high density)
+Figure 9.17 The fate of the universe
+Exam tip z = v/c cannot be used for quasars because the very high value of v means relativistic effects.
+Exam tip
+Quasars emit all wavelengths of the electromagnetic spectrum strongly, from gamma rays to radio waves but especially in the radio frequency range.
+9 Astrophysics
+Black hole
+Accretion disc
+Jet
+Jet cc
+A
+ret c tioion dis disc
+Je
+Je
+Jet et et et e o ho k h k ck
+Bla
+B
+ole
+Jet
+Jet
+Figure 9.18 A quasar
+Detection of exoplanets
+An exoplanet (Figure 9.19) is a planet orbiting a star other than our Sun.
+At the time of writing (2016) exoplanets have only been detected within our own galaxy.
+Methods of detection include:
+l Variation in the Doppler shift of the star as the exoplanet and star orbit a common centre of gravity. Only observable for very large planets.
+l Transit of the planet across the face of the star, causing a slight dip in the intensity of the light from the star received by the observer.
+l Changes in the observed spectrum of the star due to absorption of the starlight by the atmosphere of the exoplanet during transit.
+l Direct observation by telescopic imaging.
+There are difficulties in detecting exoplanets:
+l It involves observation of relatively small objects at a great distance
+(at least 10 light years).
+l The brightness of the star about which the planet is orbiting.
+On 23 July 2015 the discovery of an exoplanet in orbit round a star in the constellation Cygnus was announced. Named Kepler 452B, it was detected because the light from its parent star shows a slight dip when the planet passes in front of it. Kepler 452B seems to be very similar to our Earth; the surface temperature suggests that water could exist there as a liquid, and the length of the planet’s year is 385 Earth days. This planet is a billion years older than the Earth, which may mean that life could already have developed on it, and is around 1400 light years (430 pc) away from us.
+Oscillation of star
+Exoplanet
+(a)
+Doppler shift
+Spectrum of the star
+Oscillation of spectral lines
+(b)
+Observed light curve due to exoplanet motion
+(c)
+Figure 9.19 Detection of an exoplanet
+9  Astrophysics
+Now test yourself
+11 Estimate the change in intensity of light received from a star–exoplanet system when the planet passes in front of the star if the radius of the planet is 10% of the radius of the star.
+Answer on p. 223
+Exam practice
+1 A simple astronomical refracting telescope has two lenses, an objective lens and an eyepiece lens.
+Which statement best describes these two lenses?
+A
+The objective lens has a smaller focal length and smaller power than the eyepiece lens.
+B The objective lens has a larger focal length and larger power than the eyepiece lens.
+C
+The objective lens has a larger focal length and smaller power than the eyepiece lens.
+D The objective lens has a smaller focal length and smaller power than the eyepiece lens.
+[1]
+2	 Under certain conditions the human eye has an aperture with a diameter of 0.4 cm. Calculate the resolving power of the eye for a wavelength of 600 nm in this state.
+[2]
+3 The event horizon of a black hole is:
+A
+the radius of the black hole
+B the radial distance from the centre of a black hole to where the escape velocity is equal to that of light
+C
+the radial distance from the centre of a black hole to where the escape velocity is zero
+D the initial radius of the supermassive star that collapsed to form the black hole
+[1]
+4 Which of the following statements is correct?
+A
+The absolute magnitude of a star is defined as the apparent magnitude that it would have if placed at a distance of 10 light years from the Earth.
+B The apparent magnitude of a star is defined as the absolute magnitude that it would have if placed at a distance of 10 pc from the Earth.
+C
+A star at a distance of 15 pc from the Earth and an apparent magnitude of +5 will have an absolute magnitude that is more positive.
+D The absolute magnitude of a star is defined as the apparent magnitude that it would have if placed at a distance of 10 pc from the Earth.
+[1]
+5	 (a) Calculate the luminosity of a star of radius 1010 m and surface temperature 5000 K.
+[3]
+(b) Calculate the temperature of a star with  maximum energy at a wavelength of 550 nm in its energy distribution.
+[2]
+6 A certain spectroscopic binary has a massive central star with a smaller one moving round it in a circular orbit. The orbit period of the smaller star is 2.86 days and when it is moving in the line of sight as seen from the Earth it has a velocity towards the Earth of 50 km s−1.
+(a) What will be the maximum Doppler shift of a line of wavelength 650 nm in the spectrum of the smaller star?
+[2]
+(b) Sketch the way in which this shift will vary over the time of one complete orbit.
+[2]
+7 The Hα spectral line, wavelength 656 nm, observed in the spectrum of the galaxy 3C 273 is Doppler shifted towards the red by 0.1 μm. Calculate:
+(a) the speed of recession of 3C 273
+[2]
+(b) the distance of 3C 273 when the Doppler shift was measured
+[2]
+Hubble constant = 2.31 × 10−18 s−1
+8 How would a higher value of the Hubble constant affect the predicted amount of dark energy in the universe? Explain your answer.
+[3]
+Answers and quick quiz 9 online
+9  Astrophysics
+Summary
+You should now have an understanding of:
+● Telescopes — magnification and focal lengths of objective and eyepiece
+● Reflecting telescopes — Cassegrain reflector, comparison between refractors and reflectors
+● Advantages of large-diameter telescopes —
+greater resolution and light-gathering power
+● Classification of stars by luminosity — Wien’s and Stefan’s laws
+● Absolute and apparent magnitude — equation relating these quantities
+● Classification by temperature — black body radiation; Wien’s and Stefan’s laws
+● Stellar spectral classes — colour, temperature and absorption lines
+● Hertzsprung–Russell (HR) diagram — main sequence, dwarfs and giants, stellar evolution
+● Supernovae, neutron stars and black holes
+● Doppler effect — optical and radio frequencies, double stars, galaxies and quasars
+● Hubble’s law — red shift, big bang theory, age and size of the universe
+● Quasars — bright radio sources, large red shifts, formation from active black holes
+● Detection of exoplanets — methods and difficulties of detection

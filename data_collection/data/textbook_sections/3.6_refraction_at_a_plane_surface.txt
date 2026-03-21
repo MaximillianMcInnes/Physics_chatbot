@@ -1,0 +1,210 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 3 Waves | SECTION: 3.6 Refraction at a plane surface | PRINTED_PAGES: 47-53]
+
+3 Waves
+Required practical 2(ii)
+Using a diffraction grating to observe a spectrum
+The grating is illuminated with light from a discharge lamp incident at right angles. Light is diffracted from all the slits and the resulting waves interfere with each other to give maxima and minima. The angle of diffraction for each maximum and minimum depends on the wavelength of the light.
+When light passes from one medium to another of different refractive index its speed changes (Figure 3.20). This change of speed depends on the refractive index of the two materials. It moves more slowly in a material of higher refractive index than it does in a material of low refractive index. This means that it will refract at a boundary between two media of different refractive index.
+Material 1
+Speed c1
+Speed c2
+Material 2
+Air (n = 1)
+Glass (n = n)
+Figure 3.20 Refraction and change of speed refractive index, n of material 2 = c1
+c2
+Example
+A beam of light passes from air (refractive index 1.00) into diamond
+(refractive index 2.42), the speed of light in air being 3.0 × 108 ms−1.
+Calculate the speed of light in diamond.
+Answer speed of light in diamond = 3 × 108
+2.42  = 1.24 × 108 ms−1
+3 Waves
+Refraction at a boundary between two different substances
+The change of speed of a beam of light passing from material 1 to material 2 causes the light to refract. The amount of refraction obeys
+Snell’s law of refraction (Figure 3.21).
+Material 1
+Speed c1
+Speed c2
+Material 2
+n2
+n1
+θ1
+θ2
+Figure 3.21 Refraction at a boundary
+If the absolute refractive indices of the materials are n1 and n2 respectively, according to Snell’s law:
+n1 sin θ1 = n2 sin θ2
+Example
+A beam of light passes from water (refractive index 1.33 (n1)) into diamond (refractive index 2.42 (n2)). If the angle of incidence (θ1) in water at the water–diamond boundary is 35°, calculate the angle of refraction (θ2) in the diamond.
+Answer
+Using:
+n1sin θ1 = n2sin θ2
+sin θ2 = sin θ1
+n1
+n2
+= sin 35 1.33
+2.42
+= 0.574 × 0.55 = 0.32
+Therefore:
+angle of refraction (θ2) = 18.4o
+Exam tip
+The absolute refractive index of a material is its refractive index compared with a vacuum and is the value usually quoted simply as the refractive index.
+3 Waves
+Now test yourself
+13 A beam of light travelling in glycerol passes into a diamond (refractive index 2.42). Calculate the refractive index of glycerol. The angle of incidence in glycerol is 35° and the angle of refraction in diamond is 20.4°.
+Answer on p. 216
+Total internal reflection
+When light passes from a material such as water into one of lower refractive index such as air there is a maximum angle of incidence in the water that will give a refracted beam in the air, that is, the angle of refraction is 90°. The angle of incidence in the material of higher refractive index corresponding to an angle of refraction of 90° in the material of lower refractive index is known as the critical angle, c (Figure 3.22(a)).
+If this angle of incidence is exceeded, all the light is reflected back into the material of higher refractive index. This is called total internal reflection (Figure 3.22(b)) and the normal laws of reflection are obeyed.
+sin θC = n2
+n1
+Material 1
+Total internal reflection
+Material 2
+(a)
+(b)
+(c)
+< c
+> c c
+Figure 3.22 The critical angle and total internal reflection
+Example
+The refractive indices from air to glass and from air to water are 1.50
+and 1.33 respectively. Calculate the critical angle for a water–glass surface.
+Answer
+The refractive index for light passing from water to glass [wng] is given by:
+wng =
+ng nw
+= 1.5
+1.33 = 1.13
+Therefore the critical angle (c) can be found from:
+wng = 1
+sin c
+And so:
+sin c = 1
+1.13 = 0.89
+Therefore, c = 62.9°
+Exam tip
+Total internal reflection only occurs when the light travelling in one material meets a boundary with a material that has a lower refractive index.
+3 Waves
+Now test yourself
+14 Calculate the critical angle for a water–diamond interface if the refractive indices are 1.33 and 2.42
+respectively.
+15 Show that it is impossible for a beam of light to enter one face of a cubical glass block and leave by the adjacent face. (refractive index of the glass = 1.5)
+Answers on p. 216
+Fibre optics
+An important application of total internal reflection is in fibre optics.
+Light is shone along a thin glass fibre and if it hits the glass–air boundary at more than the critical angle it reflects along inside the fibre. These fibres are normally around 125 μm (0.125 mm) in diameter
+(similar to that of a human hair). The core diameter (see later) is around 50 μm.
+The transmission of light down a glass fibre is of enormous importance in communications. Glass fibres are cheap, light in weight compared with copper wire and light can be modulated to carry an enormous amount of information. Figure 3.23 shows the situation for a single glass fibre in air.
+Figure 3.23 Single glass fibre
+Figure 3.24 shows the situation for a single glass fibre with a layer of glass cladding surrounding it. The cladding has a refractive index (n1)
+significantly greater than air but slightly less than the refractive index of the core of the fibre (n2).
+Core (n2 = 1.55)
+Cladding (n1 = 1.45)
+Figure 3.24 Single glass fibre with cladding
+3 Waves
+Example
+The refractive indices from air to the glass of the core and from air to the glass of the cladding are 1.55 and 1.45 respectively. Calculate the critical angle for a water–glass surface.
+Answer
+The refractive index for light passing from the core to the cladding is:
+nCORE
+nCLADDING
+= 1.55
+1.45 = 1.069
+Therefore, the critical angle, c, can be found from:
+COREnCLADDING = 1
+sin c
+So:
+sin c =
+1.069
+= 0.935
+Therefore, c = 69.3°
+Material dispersion
+If a pulse of white light is sent down a fibre with a single layer of cladding material dispersion occurs, with different wavelengths taking different times to travel down the fibre. This is because of the different refractive indices of the core for different wavelengths of light. As a result, the pulse spreads and the effect is known as pulse broadening.
+Modal dispersion
+Another problem is the different time of transmission between rays that make different angles with the axis of the fibre. This is known as modal dispersion (Figure 3.25) and can be reduced by cladding the fibre. The greater critical angle when cladding is used means that only rays of light that have a large angle of incidence with the ‘walls’ of the fibre, and so make a small angle with the axis of the fibre, will be transmitted along it.
+Other light will refract out of the fibre. This reduces the difference in time of transmission and so the spread of information with time is also reduced.
+Longer path
+Shorter path
+Figure 3.25 The effect of modal dispersion
+The distance that information can be sent down the fibre will be limited both by absorption in the glass of the fibre and by the effects of dispersion if light that is not truly monochromatic is used.
+Now test yourself
+16 Explain briefly why the use of non-monochromatic light is a problem for the transmission of data along an optical fibre.
+Answer on p. 216
+3 Waves
+Exam practice
+Take the velocity of light in free space to be 3 × 108 m s−1 where needed.
+1 A cello D string has a length of 70 cm and a first harmonic of frequency 73.3 Hz.
+(a) What is the frequency of the second harmonic?
+[3]
+(b) Where would the cellist have to touch the string to produce this harmonic?
+[1]
+(c) Calculate the tension in the cello string.
+[3]
+(mass per unit length = 1.5 × 10−3 kg m−1)
+2 A stretched wire with its ends firmly clamped has a first harmonic of frequency 1000 Hz. What will be the frequency of the first harmonic if the tension of the wire is increased by 2%?
+A
+980 Hz
+B 1040 Hz
+C
+1020 Hz
+D 1000 Hz
+[1]
+3	 (a) Why can’t you get a static interference pattern with two light bulbs, while it is possible with two loudspeakers?
+[2]
+(b) A Young’s double-slit experiment is carried out using green light. Describe and explain what will happen to the interference fringes produced if:
+(i)  red light is used instead
+[1]
+(ii)  blue light is used instead
+[1]
+(iii)  the two slits are moved closer together
+[1]
+(iv)  the two slits are moved further apart
+[1]
+(v)  white light is used
+[1]
+(vi)  one of the slits is covered up
+[2]
+(vii) the slits are made narrower.
+[1]
+4 Light from a fluorescent lamp is found to consist of only two wavelengths, 450 nm and light of a longer wavelength. When the light is passed through a given diffraction grating it is found that the third order for the shorter wavelength has the same diffracted angle as the second order for the longer wavelength. Calculate:
+(a) the wavelength of the light with the longer wavelength
+[3]
+(b) the grating spacing if the angle of diffraction in this case is 20°.
+[2]
+5 Water waves of wavelength 4 m meet a narrow entrance to a harbour. If the entrance is 10 m wide calculate the separation between the central maximum and the first minimum on the beach if the distance from the harbour mouth to the beach is 250 m.
+[2]
+6 A beam of light of wavelength 600 nm hits a glass–air interface at an angle of 40°. If the velocity of light in glass is 2 × 108 m s−1 find:
+(a) the angle of refraction
+[2]
+(b) the wavelength of the light in the glass.
+[2]
+(c) A thin layer of glass of refractive index 1.45 is now added to the original glass surface. Calculate the critical angle for the interface between the two pieces of glass.
+[3]
+7 When visible light passes from air into glass the radiation experiences a change in:
+A
+frequency but not in speed and not in wavelength
+B frequency and speed but not in wavelength
+C
+wavelength and frequency but not in speed
+D wavelength and speed but not in frequency.
+[1]
+8 Explain carefully the effect on the spectrum observed by a plane transmission diffraction grating if the ruled face is presented to the incident light rather than the un-ruled face.
+[2]
+Answers and quick quiz 3 online
+3 Waves
+Summary
+You should now have an understanding of:
+● progressive waves and stationary waves —
+waves are formed by oscillations of particles or fields
+● how longitudinal waves show oscillations along the direction of wave propagation while transverse waves show oscillations at right angles to the direction of wave propagation
+● the principle of wave superposition — the formation of points of no vibration (nodes) and points of maximum vibration (antinodes) on a stretched string
+● formation of stationary waves by two travelling waves moving ‘through’ each other in opposite directions and combining
+● interference — the overlapping a two systems of waves giving a pattern showing maxima and minima
+● double-slit interference — this gives fringes of one colour using monochromatic light and a series of spectra using white light
+● diffraction — this is the spreading of waves through a hole or round an obstacle; it is greater for small obstacles and holes and for long-wavelength waves.
+● the use of diffraction grating to give finer and brighter spectra
+● refraction of light at a plane surface, producing a change in direction of the refracted light; the speed in a material of high refractive index is less than that in a material of low refractive index
+● total internal reflection — this only occurs when light moving in one medium meets a boundary with one with a lower refractive index
+● fibre optics — the transmission of light and/
+or microwaves along a glass fibre; cladding is used to reduce both material and modal dispersion

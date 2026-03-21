@@ -1,0 +1,20 @@
+3.7.5.6 	The operation of a transformer (A-level only)
+Content
+Opportunities for skills
+development
+The transformer equation:
+Ns
+Np =
+V s
+V p
+Transformer efficiency =
+ISV S
+IPV P
+Production of eddy currents.
+Causes of inefficiencies in a transformer.
+Transmission of electrical power at high voltage including
+calculations of power loss in transmission lines.
+MS 0.3 / AT b, h
+Investigate relationships between
+currents, voltages and numbers of
+coils in transformers.

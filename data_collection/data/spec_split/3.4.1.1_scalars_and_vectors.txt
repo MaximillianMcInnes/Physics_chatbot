@@ -1,0 +1,26 @@
+3.4.1.1 	Scalars and vectors
+Content
+Opportunities for skills
+development
+Nature of scalars and vectors.
+Examples should include:
+velocity/speed, mass, force/weight, acceleration,
+displacement/distance.
+Addition of vectors by calculation or scale drawing.
+Calculations will be limited to two vectors at right angles.
+Scale drawings may involve vectors at angles other than 90
+°.
+Resolution of vectors into two components at right angles to
+each other.
+Examples should include components of forces along and
+perpendicular to an inclined plane.
+Problems may be solved either by the use of resolved forces
+or the use of a closed triangle.
+Conditions for equilibrium for two or three coplanar
+forces acting at a point. Appreciation of the meaning of
+equilibrium in the context of an object at rest or moving
+with constant velocity.
+MS 0.6, 4.2, 4.4, 4.5 / PS 1.1
+Investigation of the conditions for
+equilibrium for three coplanar forces
+acting at a point using a force board.

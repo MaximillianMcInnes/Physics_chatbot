@@ -1,0 +1,6 @@
+3.13.1.4
+Hall effect sensor (A-level only)
+Content
+Use as magnetic field sensor to monitor attitude.
+Use in tachometer.
+Principles of operation are not required.

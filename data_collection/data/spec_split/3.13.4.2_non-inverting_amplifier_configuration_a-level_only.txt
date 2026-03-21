@@ -1,0 +1,8 @@
+3.13.4.2
+Non-inverting amplifier configuration (A-level only)
+Content
+V out
+V in = 1 +
+Rf
+Rl
+Derivation is not required.

@@ -1,0 +1,12 @@
+3.7.5.2 	Moving charges in a magnetic field (A-level only)
+Content
+Opportunities for skills
+development
+Force on charged particles moving in a magnetic field,
+F = BQv when the field is perpendicular to velocity.
+Direction of force on positive and negative charged particles.
+Circular path of particles; application in devices such as the
+cyclotron.
+MS 4.3
+Convert between 2D representations
+and 3D situations.

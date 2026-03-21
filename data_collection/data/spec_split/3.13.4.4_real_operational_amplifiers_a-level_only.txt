@@ -1,0 +1,6 @@
+3.13.4.4
+Real operational amplifiers (A-level only)
+Content
+Limitations of real operational amplifiers.
+Frequency response curve.
+gain  × bandwidth = constant for a given device.

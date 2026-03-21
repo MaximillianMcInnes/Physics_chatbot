@@ -1,0 +1,6 @@
+3.12.3.4
+Length contraction (A-level only)
+Content
+Length of an object having a speed v
+l = l0 1 −v2
+c2

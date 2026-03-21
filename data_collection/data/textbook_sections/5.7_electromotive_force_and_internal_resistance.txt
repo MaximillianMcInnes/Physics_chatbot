@@ -1,0 +1,191 @@
+[TEXTBOOK: AQA A Level Physics (Year 1 and Year 2) Boost eBook Author(s): Nick England, Carol Davenport, Jeremy Pollard, Nicky Thomas | CHAPTER: 5 Electricity | SECTION: 5.7 Electromotive force and internal resistance | PRINTED_PAGES: 109-113]
+
+5 Electricity
+Electromotive force
+When a charge passes through a cell it gains energy. The energy gained per coulomb in the cell is called the electromotive force (emf) (ε). It is the energy delivered per coulomb by the cell and so:
+electromotive force (ε ) = E
+Q
+When a current flows from the cell energy may be converted to other forms within the cell and the potential difference (V) between the terminals of the cell will then be less than the emf of the cell.
+Note that emf is not a force. It is energy per unit charge, in other words a voltage.
+The emf (ε) of the cell is the maximum potential difference that the cell can produce across its terminals, or the open circuit potential difference.
+Internal resistance
+All cells have a resistance of their own and we call this the internal resistance (r) of the cell. The loss of electrical energy within the cell and the resulting reduction in the output potential difference is due to this internal resistance.
+The internal resistance is related to the emf by the following equation:
+ε = E
+Q = V + Ir = I(R + r)
+where I is the current flowing through the cell.
+Figure 5.22 explains the ideas of emf and internal resistance.
+The shaded area represents the internal part of the cell.
+The quantity of useful electrical energy available outside the cell is IR and Ir is the energy transformed to other forms within the cell itself.
+We usually require the internal resistance of a cell to be small to reduce the electrical energy transformed within the cell.
+The low internal resistance of a car battery allows it to deliver large currents without a large amount of electrical energy being converted to other forms within the battery itself. However it is sometimes helpful to have a rather larger internal resistance to prevent large currents from flowing if the cell terminals are shorted.
+r r
+R
+R
+E
+E
+IR
+Ir
+Figure 5.22 Emf and internal resistance
+5 Electricity
+Example
+A cell of emf 12 V and internal resistance 0.2 Ω is used in two circuits.
+Calculate the potential difference between its terminals when it is connected to:
+(a) 15 Ω
+(b) 0.1 Ω.
+Answer
+(a) total resistance = 15 + 0.2 = 15.2 Ω
+Therefore:
+current = 12
+15.2
+= 0.789 A
+‘loss’ of energy per coulomb in the cell = 0.789 × 0.2 = 0.158 V
+potential difference between terminals = 12 − 0.158 = 11.84 V
+(b) total resistance = 0.2 + 0.1 = 0.3 Ω
+Therefore:
+current = 12
+0.3
+= 40 A
+‘loss’ of energy per coulomb in the cell = 40 × 0.1 = 4 V
+potential difference between terminals = 12 − 4 = 8 V
+Exam tip
+The word ‘loss’ is used here, although it should really be replaced with ‘electrical energy converted to other forms’.
+Now test yourself
+19 Explain what happens to the output potential across the terminals of a cell with some internal resistance as the current from it is increased.
+20 A digital voltmeter with resistance of 10 MΩ reads 1.30 V when connected across the terminals of a cell. When the same meter is connected across a resistor of 20 Ω that has been connected in series with the cell the voltmeter reads 1.25 V.
+Explain the difference between these two readings and calculate:
+(a) the current in the external resistor
+(b) the internal resistance of the cell.
+21 A cell of emf 2.5 V with an internal resistance of 0.15 Ω is connected in turn to external resistors of
+(a) 20 Ω and then (b) 1 Ω.
+For each value of the external resistor calculate:
+(i) the current in the circuit
+(ii) the potential difference across the terminals of the cell
+(iii) the power loss inside the cell.
+Answers on pp. 218–9
+Required practical 6
+Investigation of the emf and internal resistance of electric cells
+The emf (ε) of a cell can be measured using a high-resistance voltmeter connected between its terminals. The high resistance means that there is effectively zero current being drawn from the cell.
+The internal resistance can be found by connecting a variable resistor between the terminals of the cell and measuring the p.d. across it for a range of resistances (R). The intercept of the line on the I axis of a graph of I against R will give the internal resistance of the cell (r = ε
+I
+).
+5 Electricity
+Exam practice
+1	 (a) Figure 5.23 shows the variation of current with voltage for a metal wire at two different temperatures.
+Current/mA
+Voltage/V
+10 15 20 25 30 35 40
+Current/mA
+Voltage/V
+10 15 20 25 30 35 40
+(b)
+(a)
+Figure 5.23 Voltage–current variation at different temperatures
+(i) Calculate the resistance of the wire at each temperature.
+[2]
+(ii) Which graph shows the higher temperature?
+[1]
+(b)	 (i) What is the resistance of the component at the point marked A on the graph in Figure 5.24? [2]
+Current/A
+Voltage/V
+0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0
+A
+Figure 5.24 Voltage–current variation for a component
+(ii) Does the material disobey Ohm’s law? Explain your answer.
+[2]
+2	 (a) What is the resistance between the points A and B of the combination of resistors shown in
+Figure 5.25? 
+[2]
+(b) Explain how you arrived at the answer.
+[4]
+B
+200 W
+400 W
+A
+150 W
+800 W
+400 W
+Figure 5.25 Resistance network
+3 You are given four resistors, 20 kΩ, 10 kΩ, 5 kΩ and 1 kΩ. How would you connect two or more of them to make the following total resistances?
+(a) 15 kΩ
+[1]
+(b) 14 kΩ
+[2]
+(c) 6.67 kΩ
+[2]
+(d) 4.33 kΩ
+[2]
+5 Electricity
+4 A current I flows though a wire of length L and radius of cross-section r, which is made of material of resistivity ρ.
+The rate of heat generation in the wire is:
+A
+ILρ
+r
+B I2Lρ
+πr2
+C
+Lρ
+πr2
+D πr2
+Iρ L
+[1]
+5 A potential divider is set up as shown in Figure 5.26.
+R2
+V0
+A
+B
+R1
+V
+Figure 5.26 Potential divider circuit
+The emf of the cell is 6 V and the values of R1 and R2 are 200 Ω and 400 Ω respectively. A digital voltmeter of very high resistance (>10 MΩ) connected between A and B is used to measure the output voltage (Vo).
+(a) Calculate the output voltage.
+[2]
+(b) If the digital voltmeter is replaced with an analogue meter of resistance 1000 Ω calculate the new output voltage. Explain your answer.
+[3]
+(c) The digital voltmeter is replaced and R1 is replaced by an NTC thermistor of initial resistance
+200 Ω. Explain what happens to the output voltage when the thermistor is heated gently.
+[2]
+6	 (a) What is the definition of a volt?
+[1]
+(b) What is the definition of electromotive force (emf)?
+[1]
+(c) What is meant by internal resistance?
+[1]
+(d) Why is internal resistance of a source a useful safety factor?
+[2]
+7 A low-voltage school power supply has an emf of 12 V and internal resistance of 3 Ω. Calculate the currents drawn from the power supply and the values of the output voltage when the power supply is connected to:
+(a) a resistor of 25 Ω
+[2]
+(b) a resistor of 2.5 Ω.
+[1]
+(c) Explain your answers.
+[2]
+8 Three identical cells, each with an emf of 1.5 V and an internal resistance of 2.0 Ω, are connected in series to a 4.0 Ω resistor, as shown in Figure 5.27 (a).
+R
+(a)
+(b)
+R
+Figure 5.27
+5 Electricity
+Summary
+You should now have an understanding of:
+● the basics of electricity — this to include charge and current as a flow of charge, resistance and Ohm’s law and the variation of current with voltage for a number of circuits
+● current–voltage characteristics — various versions of these curves can be found in
+Figure 5.4 (p. 96)
+● resistivity (ρ) — this is a property of the material and not a particular specimen;
+resisitivity = resistance × area/length
+(units Ω m)
+● resistance and temperature — how the resistance of resistors and thermistors changes with temperature
+● circuits — combinations of resistors in series and parallel, and their associated formulae
+● potential divider circuits — the use of two or more resistors to give a fractional output of the applied p.d.
+● electromotive force and internal resistance —
+the emf (ε) of the cell is the maximum potential difference that the cell can produce across its terminals; the output potential difference is less due to the internal resistance of the cell
+If one of the cells is reversed (Figure 5.27(b)) what is the ratio of the power output in R in circuit (a) to the power output in R in circuit (b)?
+A
+3.0
+B 5.4
+C
+7.2
+D 9.0
+[1]
+Answers and quick quiz 5 online

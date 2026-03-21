@@ -1,0 +1,10 @@
+3.13.3.2
+The ideal operational amplifier (A-level only)
+Content
+Operation and characteristics of an ideal operational amplifier:
+•• power supply and signal connections
+•• infinite open-loop gain
+•• infinite input resistance.
+Open-loop transfer function for a real operational amplifier, V out = AOL V + −V −
+Use as a comparator.
+The operational amplifier should be treated as an important system building block.

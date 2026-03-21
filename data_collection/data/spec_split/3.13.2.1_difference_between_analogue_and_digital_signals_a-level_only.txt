@@ -1,0 +1,17 @@
+3.13.2.1
+Difference between analogue and digital signals (A-level only)
+Content
+Bits, bytes.
+Analogue-to-digital conversion:
+•• sampling audio signals for transmission in digital form
+•• conversion of analogue signals into digital data using two voltage levels
+•• quantisation
+•• sampling rate
+•• effect of sampling rate and number of bits per sample on quality of conversion
+•• advantages and disadvantages of digital sampling
+•• process of recovery of original data from noisy signal
+•• effect of noise in communication systems.
+Pulse code modulation.
+Students should appreciate the use of a variety of sensors to collect analogue data.
+The ability to carry out binary arithmetic is not required. Knowledge of binary numbers 1 to 10
+is adequate.
